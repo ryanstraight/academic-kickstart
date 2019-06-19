@@ -145,7 +145,7 @@ plot(comm, peers,                         # plot the variables
   abline(lm(comm ~ peers))                # draw the trend line
 ```
 
-<img src="/academic-kickstart/courses/302/313-activityB_files/figure-html/scatterplot-1.png" width="672" />
+<img src="/courses/302/313-activityB_files/figure-html/scatterplot-1.png" width="672" />
 
 Using the more enjoyable **ggplot2** command that provides a nicer looking scatterplot *and* confidence intervals around the trend line:
 
@@ -157,7 +157,7 @@ ggplot(dfb, aes(x=comm, y=peers)) +
   geom_smooth(method=lm)
 ```
 
-<img src="/academic-kickstart/courses/302/313-activityB_files/figure-html/ggplot2-1.png" width="672" />
+<img src="/courses/302/313-activityB_files/figure-html/ggplot2-1.png" width="672" />
 
 ## Correlations
 
