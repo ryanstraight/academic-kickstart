@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INFV 401: Introduction to Human-Computer Interaction on ryan straight</title>
-    <link>/courses/401/</link>
+    <link>https://ryanstraight.github.io/academic-kickstart/courses/401/</link>
     <description>Recent content in INFV 401: Introduction to Human-Computer Interaction on ryan straight</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Wed, 12 Jun 2019 00:00:00 -0700</lastBuildDate>
     
-	    <atom:link href="/courses/401/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ryanstraight.github.io/academic-kickstart/courses/401/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Syllabus</title>
-      <link>/courses/401/syllabus/</link>
+      <link>https://ryanstraight.github.io/academic-kickstart/courses/401/syllabus/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>/courses/401/syllabus/</guid>
+      <guid>https://ryanstraight.github.io/academic-kickstart/courses/401/syllabus/</guid>
       <description>
 
 &lt;h2 id=&#34;course-info&#34;&gt;Course Info&lt;/h2&gt;
@@ -881,10 +881,10 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
     
     <item>
       <title>Syllabus</title>
-      <link>/courses/401/info/</link>
+      <link>https://ryanstraight.github.io/academic-kickstart/courses/401/info/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0100</pubDate>
       
-      <guid>/courses/401/info/</guid>
+      <guid>https://ryanstraight.github.io/academic-kickstart/courses/401/info/</guid>
       <description></description>
     </item>
     

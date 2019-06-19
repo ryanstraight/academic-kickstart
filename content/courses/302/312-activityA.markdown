@@ -274,7 +274,7 @@ min < med < max:
 2.3 < 20.7 < 69.5
 IQR (CV) : 19.3 (0.6)</td>
       <td align="left" style="vertical-align:middle">50 distinct values</td>
-      <td align="left" style="vertical-align:middle;padding:0;background-color:transparent"><img style="border:none;background-color:transparent;padding:0" src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAJgAAABuBAMAAAApJ8cWAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAD1BMVEX////9/v2mpqby8vL///8shn5hAAAAAnRSTlMAAHaTzTgAAAABYktHRACIBR1IAAAAB3RJTUUH4wYTBxgLgW6ZCQAAAHhJREFUaN7t1rENwCAMAEGvQDaIswHZf7dU2EWsSLFcIPivXMBVIBChTM1S62x/e2HXPQIDAwMDAwMDAwMDAwMDA5sD06A0FkwdDAwMDGw9zJ+MAuyTAJsaO/wkFGC2rINFWPBTy2O+EQxsb8wvVgEWTXthWpJQpgfkmjDkkWFVKAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOS0wNi0xOVQxNDoyNDoxMS0wNzowMD5xkVQAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTktMDYtMTlUMTQ6MjQ6MTEtMDc6MDBPLCnoAAAAAElFTkSuQmCC"></td>
+      <td align="left" style="vertical-align:middle;padding:0;background-color:transparent"><img style="border:none;background-color:transparent;padding:0" src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAJgAAABuBAMAAAApJ8cWAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAD1BMVEX////9/v2mpqby8vL///8shn5hAAAAAnRSTlMAAHaTzTgAAAABYktHRACIBR1IAAAAB3RJTUUH4wYTBx80eEki8wAAAHhJREFUaN7t1rENwCAMAEGvQDaIswHZf7dU2EWsSLFcIPivXMBVIBChTM1S62x/e2HXPQIDAwMDAwMDAwMDAwMDA5sD06A0FkwdDAwMDGw9zJ+MAuyTAJsaO/wkFGC2rINFWPBTy2O+EQxsb8wvVgEWTXthWpJQpgfkmjDkkWFVKAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOS0wNi0xOVQxNDozMTo1Mi0wNzowMKx0kbcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTktMDYtMTlUMTQ6MzE6NTItMDc6MDDdKSkLAAAAAElFTkSuQmCC"></td>
       <td align="center">50
 (100%)</td>
       <td align="center">0
@@ -294,7 +294,7 @@ Though there is a small histogram displayed with the `dfSummary` output, we can 
 hist(dfa$spending)
 ```
 
-<img src="/courses/302/312-activityA_files/figure-html/histogram-1.png" width="672" />
+<img src="/academic-kickstart/courses/302/312-activityA_files/figure-html/histogram-1.png" width="672" />
 
 If we like, we can use the `ggplot2` plugin to create a more informative and visually pleasing one with labels, a different fill color, and a mean line:
 
@@ -308,4 +308,4 @@ ggplot(dfa, aes(x=dfa$spending)) +
   theme_classic()
 ```
 
-<img src="/courses/302/312-activityA_files/figure-html/ggplot2-1.png" width="672" />
+<img src="/academic-kickstart/courses/302/312-activityA_files/figure-html/ggplot2-1.png" width="672" />
