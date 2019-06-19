@@ -3,11 +3,11 @@
 
 ---
 
-# Results
+## Results
 
 Your RStudio results should look like the following. I've displayed the R code chunks before the results.
 
-## Descriptives
+### Descriptives
 
 First, let's get some descriptives of the data. Remember that `ID` is simply a case identifier and isn't important for this.
 
@@ -17,7 +17,7 @@ descr(dfb, style = "rmarkdown")
 ```
 
 
-## Scatterplot
+### Scatterplot
 
 Using the simple RStudio **plot** command:
 
@@ -37,7 +37,7 @@ ggplot(dfb, aes(x=comm, y=peers)) +
   geom_smooth(method=lm)
 ```
 
-## Correlations
+### Correlations
 
 Pearson's correlation coefficient: `r cor(comm, peers)`
 
@@ -45,7 +45,7 @@ Pearson's correlation coefficient: `r cor(comm, peers)`
 cor(comm, peers)
 ```
 
-## $ r^{2} $
+### $ r^{2} $
 
 To determine the $ r^{2} $ we'll need to examine the coefficients a bit more closely. It's easier if we create an object in RStudio to do just that:
 

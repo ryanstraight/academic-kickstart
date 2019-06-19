@@ -77,5 +77,5 @@ For this activity, create and submit a document with the following (doing the co
     1. Remember: the point of using this file system is *reproducability*. If I can't see the content you won't get credit for it. That sounds obvious, right? This is why a PDF is important: if you just knit your `Rmd` file to `html`, you may be referencing local files in that page. Files that I don't have in the same location as you, possibly. So: `Rmd` AND `PDF` submissions, please!
 
 
-```{r results, eval=TRUE, child="_312-activityA-results.Rmd"}
+```{r results, eval=FALSE, child="_312-activityA-results.Rmd"}
 ```

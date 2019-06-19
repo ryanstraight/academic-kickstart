@@ -33,7 +33,7 @@ This activity explores **correlation** *and* to learn how to create a scatterplo
 
 ---
 
-# The Data
+## The Data
 
 Using content from [this website](http://highered.mheducation.com/sites/dl/free/0078110394/586020/correlation.html) (note that we're using RStudio, not Excel), here is the context for this activity:
 
@@ -99,5 +99,5 @@ This activity goes well beyond simply displaying frequencies and descriptives fo
     1. How does $ r^{2} $ compare to what you saw in the scatterplot and the Pearson correlation coefficient?
     1. Do you think this is a more valuable statistic? Why?
 
-```{r results, eval=TRUE, child="_313-activityB-results.Rmd"}
+```{r results, eval=FALSE, child="_313-activityB-results.Rmd"}
 ```
