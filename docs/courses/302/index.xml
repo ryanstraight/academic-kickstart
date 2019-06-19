@@ -1146,7 +1146,7 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
 
 &lt;hr /&gt;
 
-&lt;h1 id=&#34;activity-b-description&#34;&gt;Activity B Description&lt;/h1&gt;
+&lt;h2 id=&#34;activity-b-description&#34;&gt;Activity B Description&lt;/h2&gt;
 
 &lt;p&gt;This activity explores &lt;strong&gt;correlation&lt;/strong&gt; &lt;em&gt;and&lt;/em&gt; to learn how to create a scatterplot using R.&lt;/p&gt;
 

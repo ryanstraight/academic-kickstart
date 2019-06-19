@@ -27,7 +27,7 @@ dfb <- read.csv(url("https://302.ryanstraight.com/correlation.csv"), header = TR
 
 ---
 
-# Activity B Description
+## Activity B Description
 
 This activity explores **correlation** *and* to learn how to create a scatterplot using R. 
 

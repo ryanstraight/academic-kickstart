@@ -21,7 +21,7 @@ weight: 313
 
 ---
 
-# Activity B Description
+## Activity B Description
 
 This activity explores **correlation** *and* to learn how to create a scatterplot using R. 
 
