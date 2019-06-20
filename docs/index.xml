@@ -1352,7 +1352,9 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
 
 &lt;h2 id=&#34;learning-objectives-for-introduction-to-inferential-and-descriptive-statistics&#34;&gt;Learning Objectives for &lt;em&gt;Introduction to Inferential and Descriptive Statistics&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;These are the learning objectives for this portion of the class:&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Show learning objectives&lt;/summary&gt;
+&lt;p&gt;
+These are the learning objectives for this portion of the class:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Give examples of how statistics can lend credibility to an argument&lt;/li&gt;
@@ -1376,13 +1378,16 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
 &lt;li&gt;Determine whether a transformation is linear&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;consumables&#34;&gt;Consumables&lt;/h2&gt;
 
 &lt;p&gt;Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof. This week, we will begin at the beginning:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://onlinestatbook.com/2/introduction/introduction.html&#34; target=&#34;_blank&#34;&gt;Chapter 1 of the Online Statistics Textbook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Manga Guide to Statistics&lt;/em&gt; sections of interest&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Note-that-the-Ma&#34;&gt;&lt;a href=&#34;#fn:Note-that-the-Ma&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://arizona-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UA_ALMA51538828670003843&amp;amp;context=L&amp;amp;vid=01UA&amp;amp;search_scope=Everything&amp;amp;tab=default_tab&amp;amp;lang=en_US&#34; target=&#34;_blank&#34;&gt;Manga Guide to Statistics&lt;/a&gt;&lt;/em&gt; sections of interest&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:Note-that-the-Ma&#34;&gt;&lt;a href=&#34;#fn:Note-that-the-Ma&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:
 
 &lt;ul&gt;
 &lt;li&gt;Chapters 1 and 2&lt;/li&gt;
@@ -1488,9 +1493,11 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
       <guid>https://ryanstraight.com/courses/302/213-ch6/</guid>
       <description>
 
-&lt;h1 id=&#34;learning-objectives-for-research-design&#34;&gt;Learning Objectives for &lt;em&gt;Research Design&lt;/em&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;learning-objectives-for-research-design&#34;&gt;Learning Objectives for &lt;em&gt;Research Design&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;These are the learning objectives for this portion of the class:&lt;/p&gt;
+&lt;p&gt;&lt;details&gt;&lt;summary&gt;Show learning objectives&lt;/summary&gt;
+&lt;p&gt;
+These are the learning objectives for this portion of the class:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Describe reliability in terms of true scores and error&lt;/li&gt;
@@ -1509,7 +1516,10 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
 &lt;li&gt;Explain how causation can be inferred in non-experimental designs&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h1 id=&#34;consumables&#34;&gt;Consumables&lt;/h1&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;consumables&#34;&gt;Consumables&lt;/h2&gt;
 
 &lt;p&gt;Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof.&lt;/p&gt;
 
@@ -1521,15 +1531,15 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;assignments&#34;&gt;Assignments&lt;/h1&gt;
+&lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 
 &lt;p&gt;Your assignments for this week are as follows:&lt;/p&gt;
 
-&lt;h2 id=&#34;quiz&#34;&gt;Quiz&lt;/h2&gt;
+&lt;h3 id=&#34;quiz&#34;&gt;Quiz&lt;/h3&gt;
 
 &lt;p&gt;Don&amp;rsquo;t forget about your chapter quiz! Find it in the Quizzes menu in D2L.&lt;/p&gt;
 
-&lt;h2 id=&#34;chapter-questions&#34;&gt;Chapter Questions&lt;/h2&gt;
+&lt;h3 id=&#34;chapter-questions&#34;&gt;Chapter Questions&lt;/h3&gt;
 
 &lt;p&gt;Pick &lt;a href=&#34;http://onlinestatbook.com/2/research_design/exercises.html&#34; target=&#34;_blank&#34;&gt;a question from OST Chapter 6&amp;rsquo;s Exercises section&lt;/a&gt; that one one else has selected yet and post how you solved it.&lt;/p&gt;
 
@@ -1550,169 +1560,9 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
 &lt;li&gt;Next, respond to another students&amp;rsquo; answers by asking a question for clarification, providing a personal experience, posting a thought-provoking question, taking a controversial, but professional stand, adding something new to the conversation, quoting another student&amp;rsquo;s comment and add an additional idea based on this comment, etc.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Your responses should be respectful and offered in a professional manner. You may wish to review the &lt;a href=&#34;https://ryanstraight.com/courses/302/101-syllabus/&#34; target=&#34;_blank&#34;&gt;behavior Course Policies&lt;/a&gt; to help frame your response. Remember, you will be responding about the specific idea, issue, or question.&lt;/p&gt;
+&lt;p&gt;Your responses should be respectful and offered in a professional manner. You may wish to review the &lt;a href=&#34;https://ryanstraight.com/courses/302/101-syllabus/#threatening-behavior&#34; target=&#34;_blank&#34;&gt;behavior Course Policies&lt;/a&gt; to help frame your response. Remember, you will be responding about the specific idea, issue, or question.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;You may not answer a question that has been previously addressed.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Module B</title>
-      <link>https://ryanstraight.com/courses/302/221-moduleb/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/221-moduleb/</guid>
-      <description>&lt;p&gt;Module B&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>https://ryanstraight.com/courses/302/222-ch2/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/222-ch2/</guid>
-      <description>&lt;p&gt;Chapter 2 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 3</title>
-      <link>https://ryanstraight.com/courses/302/223-ch3/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/223-ch3/</guid>
-      <description>&lt;p&gt;Chapter 3 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Module C</title>
-      <link>https://ryanstraight.com/courses/302/231-modulec/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/231-modulec/</guid>
-      <description>&lt;p&gt;Module C&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 4</title>
-      <link>https://ryanstraight.com/courses/302/232-ch4/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/232-ch4/</guid>
-      <description>&lt;p&gt;Chapter 4 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 14</title>
-      <link>https://ryanstraight.com/courses/302/233-ch14/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/233-ch14/</guid>
-      <description>&lt;p&gt;Chapter 14 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Module D</title>
-      <link>https://ryanstraight.com/courses/302/241-moduled/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/241-moduled/</guid>
-      <description>&lt;p&gt;Module D&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 5</title>
-      <link>https://ryanstraight.com/courses/302/242-ch5/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/242-ch5/</guid>
-      <description>&lt;p&gt;Chapter 5 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 7</title>
-      <link>https://ryanstraight.com/courses/302/243-ch7/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/243-ch7/</guid>
-      <description>&lt;p&gt;Chapter 7 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Module E</title>
-      <link>https://ryanstraight.com/courses/302/251-modulee/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/251-modulee/</guid>
-      <description>&lt;p&gt;Module E&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 9</title>
-      <link>https://ryanstraight.com/courses/302/252-ch9/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/252-ch9/</guid>
-      <description>&lt;p&gt;Chapter 9 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 11</title>
-      <link>https://ryanstraight.com/courses/302/253-ch11/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/253-ch11/</guid>
-      <description>&lt;p&gt;Chapter 11 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Module F</title>
-      <link>https://ryanstraight.com/courses/302/261-modulef/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/261-modulef/</guid>
-      <description>&lt;p&gt;Module F&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 12</title>
-      <link>https://ryanstraight.com/courses/302/262-ch12/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/262-ch12/</guid>
-      <description>&lt;p&gt;Chapter 12 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Chapter 15</title>
-      <link>https://ryanstraight.com/courses/302/263-ch15/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/263-ch15/</guid>
-      <description>&lt;p&gt;Chapter 15 content&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Module G</title>
-      <link>https://ryanstraight.com/courses/302/271-moduleg/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/271-moduleg/</guid>
-      <description>&lt;p&gt;Module G&lt;/p&gt;
 </description>
     </item>
     
@@ -2007,128 +1857,6 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
 &lt;ol&gt;
 &lt;li&gt;Submit &lt;em&gt;both&lt;/em&gt; your &lt;code&gt;Rmd&lt;/code&gt; and your &lt;code&gt;PDF&lt;/code&gt; to the &lt;em&gt;Activity A&lt;/em&gt; dropbox in the LMS by the stated due date and time.&lt;/li&gt;
 &lt;li&gt;Remember: the point of using this file system is &lt;em&gt;reproducability&lt;/em&gt;. If I can&amp;rsquo;t see the content you won&amp;rsquo;t get credit for it. That sounds obvious, right? This is why a PDF is important: if you just knit your &lt;code&gt;Rmd&lt;/code&gt; file to &lt;code&gt;html&lt;/code&gt;, you may be referencing local files in that page. Files that I don&amp;rsquo;t have in the same location as you, possibly. So: &lt;code&gt;Rmd&lt;/code&gt; AND &lt;code&gt;PDF&lt;/code&gt; submissions, please!&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Activity B</title>
-      <link>https://ryanstraight.com/courses/302/313-activityb/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
-      <guid>https://ryanstraight.com/courses/302/313-activityb/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;activity-b-description&#34;&gt;Activity B Description&lt;/h2&gt;
-
-&lt;p&gt;This activity explores &lt;strong&gt;correlation&lt;/strong&gt; &lt;em&gt;and&lt;/em&gt; to learn how to create a scatterplot using R.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;the-data&#34;&gt;The Data&lt;/h2&gt;
-
-&lt;p&gt;Using content from &lt;a href=&#34;http://highered.mheducation.com/sites/dl/free/0078110394/586020/correlation.html&#34; target=&#34;_blank&#34;&gt;this website&lt;/a&gt; (note that we&amp;rsquo;re using RStudio, not Excel), here is the context for this activity:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A researcher was interested in whether there was an association between communication skills and quality of peer relationships in third grade classrooms. Teachers in each class completed a communicative skills checklist and a rating scale of peer relations for each child. The items for each scale were averaged to provide an overall score for each child.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You&amp;rsquo;ll need to use this &lt;strong&gt;&lt;a href=&#34;correlation.csv&#34; target=&#34;_blank&#34;&gt;correlation.csv&lt;/a&gt;&lt;/strong&gt; data for your assignment.&lt;/p&gt;
-
-&lt;p&gt;Variable names:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;ID&lt;/code&gt; = case identification number&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;comm&lt;/code&gt; = communication skills&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;peers&lt;/code&gt; = quality of peer relations&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;steps-to-completion&#34;&gt;Steps to completion&lt;/h2&gt;
-
-&lt;p&gt;Import the data using whatever method you prefer, either the code below or the &lt;strong&gt;Import Dataset&lt;/strong&gt; option in the &lt;strong&gt;Environment&lt;/strong&gt; tab. It&amp;rsquo;s easiest to simply use the code below as it will point to the file on the server, taking its location out of the equation for your own code.&lt;/p&gt;
-
-&lt;p&gt;Protip: load this data frame as &lt;strong&gt;dfb&lt;/strong&gt; (it&amp;rsquo;s the data for Activity B, so&amp;hellip; &lt;strong&gt;dfb&lt;/strong&gt; but, really, you can call it whatever you like) and create values for the variables using the following commands:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;dfb &amp;lt;- read.csv(url(&amp;quot;https://302.ryanstraight.com/correlation.csv&amp;quot;), header = TRUE)
-comm &amp;lt;- dfb$comm
-peers &amp;lt;- dfb$peers
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Install the &lt;strong&gt;&lt;a href=&#34;https://github.com/dcomtois/summarytools&#34; target=&#34;_blank&#34;&gt;summarytools&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;ggplot2&lt;/a&gt;&lt;/strong&gt; plugins in RStudio. This is the one we looked at while reviewing Activity A&amp;rsquo;s solutions.&lt;/p&gt;
-
-&lt;h3 id=&#34;watch&#34;&gt;Watch&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=A9hAp9AGc0s&#34; target=&#34;_blank&#34;&gt;Scatterplot in RStudio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/A9hAp9AGc0s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cGb5iqhf0NU&#34; target=&#34;_blank&#34;&gt;How to make a scatterplot in R (with regression line)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/cGb5iqhf0NU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HeqHMM4ziXA&#34; target=&#34;_blank&#34;&gt;Plotting with ggplot2&lt;/a&gt; to get the basics on how to produce the plots you need below.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/HeqHMM4ziXA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;assignment&#34;&gt;Assignment&lt;/h2&gt;
-
-&lt;p&gt;This activity goes well beyond simply displaying frequencies and descriptives for common concepts like means and medians. You will need to dig around the R documentation for the commands to best answer the questions below. For this activity, create and submit a document that includes &lt;em&gt;and answers&lt;/em&gt; the following:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;A &lt;strong&gt;scatterplot&lt;/strong&gt; that displays the relationship between the &lt;strong&gt;peers&lt;/strong&gt; and &lt;strong&gt;comm&lt;/strong&gt; variables. Answer the following:
-
-&lt;ol&gt;
-&lt;li&gt;What does this chart tell you about the relationship between the two variables?&lt;/li&gt;
-&lt;li&gt;What direction is this association?&lt;/li&gt;
-&lt;li&gt;How did you determine this?&lt;/li&gt;
-&lt;li&gt;If you had to identify the association, would you label is &lt;em&gt;small&lt;/em&gt;, &lt;em&gt;moderate&lt;/em&gt;, or &lt;em&gt;strong&lt;/em&gt;? Why?&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Determine the &lt;em&gt;Pearson correlation&lt;/em&gt; for the &lt;strong&gt;peers&lt;/strong&gt; and &lt;strong&gt;comm&lt;/strong&gt; variables.
-
-&lt;ol&gt;
-&lt;li&gt;Interpret this number.&lt;/li&gt;
-&lt;li&gt;What is the strength of the association?&lt;/li&gt;
-&lt;li&gt;What is the direction?&lt;/li&gt;
-&lt;li&gt;Like the scatterplot above, do you think it is small, moderate, or strong?&lt;/li&gt;
-&lt;li&gt;How does your interpretation of the Pearson correlation coefficient compare to that of the scatterplot?&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Determine $ r^{2} $
-
-&lt;ol&gt;
-&lt;li&gt;Compute the square of the correlation coefficient you previously calculated.&lt;/li&gt;
-&lt;li&gt;Interpret this value. What does it indicate about the association?&lt;/li&gt;
-&lt;li&gt;Write a statement about the meaning of the R-squared ($ r^{2} $) value in terms of the variables.&lt;/li&gt;
-&lt;li&gt;How does $ r^{2} $ compare to what you saw in the scatterplot and the Pearson correlation coefficient?&lt;/li&gt;
-&lt;li&gt;Do you think this is a more valuable statistic? Why?&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -2443,9 +2171,9 @@ peers &amp;lt;- dfb$peers
 &lt;p&gt;I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.&lt;/p&gt;
 &lt;p&gt;Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.&lt;/p&gt;
 &lt;p&gt;While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”&lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;mjs-3804e530ac268254e67008e1e2c61a&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;mjs-3804e530ac268254e67008e1e2c61a-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-3804e530ac268254e67008e1e2c61a&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-3804e530ac268254e67008e1e2c61a&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;mjs-9d81e6596ae0b3db60a79653aa8dd0&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;mjs-9d81e6596ae0b3db60a79653aa8dd0-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-9d81e6596ae0b3db60a79653aa8dd0&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-9d81e6596ae0b3db60a79653aa8dd0&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p&gt;Below each picture and accompanying temperature is a description of a relative internal cooking temperature&lt;a href=&#34;#fn4&#34; class=&#34;footnote-ref&#34; id=&#34;fnref4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; for comparison.&lt;/p&gt;
 &lt;div id=&#34;am&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;11am&lt;/h2&gt;

@@ -1,6 +1,7 @@
 ---
 title: 'Research Design' 
 linktitle: 'Chapter 6: Research Design'
+description: 'Research Design readings and assignments for Module A.'
 toc: true
 type: docs
 date: "2019-06-05T00:00:00-07:00"
@@ -22,8 +23,9 @@ weight: 60
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Learning Objectives for *Research Design*
-
+## Learning Objectives for *Research Design*
+<details><summary>Show learning objectives</summary>
+<p>
 These are the learning objectives for this portion of the class:
 
 1. Describe reliability in terms of true scores and error
@@ -41,22 +43,25 @@ These are the learning objectives for this portion of the class:
 1. Explain the role of unmeasured variables
 1. Explain how causation can be inferred in non-experimental designs
 
-# Consumables
+</p>
+</details>
+
+## Consumables
 
 Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof.
 
 - [Online Statistics Textbook, Chapter 6](http://onlinestatbook.com/2/research_design/contents.html)
     - [PDF of the chapter](http://onlinestatbook.com/2/research_design/research_design.pdf)
 
-# Assignments
+## Assignments
 
 Your assignments for this week are as follows:
 
-## Quiz
+### Quiz
 
 Don't forget about your chapter quiz! Find it in the Quizzes menu in D2L.
 
-## Chapter Questions
+### Chapter Questions
 
 Pick [a question from OST Chapter 6's Exercises section](http://onlinestatbook.com/2/research_design/exercises.html) that one one else has selected yet and post how you solved it.
 
@@ -71,7 +76,7 @@ Pick [a question from OST Chapter 6's Exercises section](http://onlinestatbook.c
 
 1. Next, respond to another students' answers by asking a question for clarification, providing a personal experience, posting a thought-provoking question, taking a controversial, but professional stand, adding something new to the conversation, quoting another student's comment and add an additional idea based on this comment, etc.
 
- Your responses should be respectful and offered in a professional manner. You may wish to review the [behavior Course Policies]({{< relref "101-syllabus.markdown" >}}) to help frame your response. Remember, you will be responding about the specific idea, issue, or question.
+ Your responses should be respectful and offered in a professional manner. You may wish to review the [behavior Course Policies]({{< relref "101-syllabus.markdown#threatening-behavior" >}}) to help frame your response. Remember, you will be responding about the specific idea, issue, or question.
 
 
 *You may not answer a question that has been previously addressed.*
