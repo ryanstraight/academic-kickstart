@@ -41,7 +41,7 @@ If you want to reference the content in the `spending` column you'll need to ref
 
 
 ```r
-# Create the dataframe called dfa
+# Create the dataframe called dfa. 
 dfa <- read.csv(url("https://302.ryanstraight.com/spending.csv"), header = TRUE) # This loads the data from the remote .csv file and saves it in our environment.
 
 # Display our newly found data.

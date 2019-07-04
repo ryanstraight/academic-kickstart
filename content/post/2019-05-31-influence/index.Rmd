@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Influence
+title: Influence and the Public Scholar
 subtitle: "It's a tough job but somebody's gotta do it."
 author: ryan
 date: '2019-05-31'
@@ -13,9 +13,9 @@ tags:
   - performance
   - influencer
   - edtech
-summary: 'I was included in a list of ''influencers.'' Neat!'
+summary: "Let's talk about influencers and public scholarship."
 authors: []
-lastmod: '2019-05-31T16:49:27-07:00'
+lastmod: '2019-07-03T16:49:27-07:00'
 featured: no
 image:
   caption: 'Via [Diggity Marketing on Unsplash](https://unsplash.com/photos/QFZ_72_NxIQ)'
@@ -29,4 +29,11 @@ header:
 
 It's been a long time since I was on the _Dean's List_ but it happened again last month (just not the way you probably think).
 
-Turns out I was included in a list of "Influencers." 
+Turns out I was included in a list of "Influencers." Pretty good company, too, if you take a look at the list. What's interesting about this is not so much that I'm an "influencer," (although, pretty cool, I know), it's the cascading coverage that's stemmed from it. For example, a number of UA-published pieces and no shortage of tweets. But this got me to thinking about more than just publicity; it got me thinking about **public**ity. 
+
+Now, given the title of this post, I want to make it clear that I'm not suggesting being added to a list of "Influencers" makes me a scholar. That comes from years of work. And here's my point about the **public**ity: I really like the notion of *public scholars*, mostly because so much of what we as academics do is never seen by the world. Heck, a good chunk of it doesn't even come out on our annual reviews. Think about all those times you've spent 3 hours researching so you could write one sentence. That sunken time, that invisible cost, is valuable.
+
+This is most often now, I think, exemplified by the *science communicator*. While it makes sense to have an intermediary when highly technical but publicly-valauble knowledge needs dessiminating, it's not just the hard sciences that should benefit from this sort of translation to the easily digestable. Why not *education communicators*? Or *history communicators*? Or ***math** communicators*? 
+
+Of course, we do have people like this but there still seems to be a particular and peculiar divide between *science communicators* and others in various fields simply *writing popular (insert topic here)*.
+
