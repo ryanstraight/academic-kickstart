@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ryanstraight.com
+Token: 3e66fa2b31dcebc16b4c6ba0d581600b7533b6262086a0a9fbc41399ffd14400

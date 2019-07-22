@@ -43,7 +43,7 @@ removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issu
 paginate = 7  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "CNAME", ".nojekyll"]
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "CNAME", ".nojekyll", "brave-rewards-verification.txt"]
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
