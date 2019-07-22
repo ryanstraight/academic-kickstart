@@ -1,5 +1,10 @@
 # Notes to self:
 
+To make a noise when the site build is completed:
+
+beepr::beep_on_error(blogdown::build_site()), sound = 5)
+beepr::beep(sound = 1)
+
 In-line Latex: $ r^{2} $
 
 Built using version 4.4 in 2019 June
