@@ -1,0 +1,50 @@
+---
+draft: true
+title: "#WeAreOLC"
+author: ryan
+date: '2019-07-24'
+slug: weareolc
+categories:
+  - Teaching
+tags:
+  - teaching
+  - online
+  - olc
+subtitle: ''
+summary: "OLC has been around for 25 years. Here's what I was doing back then."
+authors: []
+lastmod: '2019-07-25T08:50:47-07:00'
+featured: no
+image:
+  caption: 'Via [Federica Galli on Unsplash](https://unsplash.com/photos/aiqKc07b5PA)'
+  focal_point: 'bottom'
+  preview_only: no
+projects: []
+---
+
+OLC has been around for 25 years. Here's what I was doing back then.
+<!--more-->
+
+I was invited to include something in the [#WeAreOLC](https://onlinelearningconsortium.org/weareolc-the-power-of-storytelling-at-accelerates-25th-anniversary/) collection of narratives. 
+
+How did you first get involved with the OLC?
+25 years (then and now): What kinds of technology were you using 25 years ago and what technology do you engage with now?
+What is one of your favorite OLC experiences?
+Who composes your OLC community (i.e. the people you have met along the way and always enjoy seeing)? Tell a story that shares about your relationship.
+
+## Me and OLC
+
+
+
+## 1994
+
+<img style="float: right;" src="cello.jpg" alt="me playing cello circa 1994" />So what was I doing 25 years ago in 1994? Well, I was in 7th grade. That's actully pretty hard to believe. 
+
+
+
+
+And yeah, me too, kid.
+
+![tech+kid](https://media.giphy.com/media/awxqzKhiUV4ly/giphy.gif)
+
+<div style='font-size:50%'>(Available at [https://gph.is/1vNpLWW](https://gph.is/1vNpLWW), Jun 24, 2019)</div>  
