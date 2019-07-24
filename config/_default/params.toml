@@ -35,10 +35,18 @@ highlight_style = "atom-one-light"  # For supported styles, see https://cdnjs.co
 #   If false, you can enable it locally on a per page basis.
 math = true
 
+# Enable diagram rendering? true/false
+#   If false, you can enable diagrams on a per page basis as needed.
+diagram = true
+
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
+
+# Enable visitors to edit pages?
+# `repo` defines the repository URL. `editable` defines which page types can be edited.
+edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch = "master", editable = {docs = false, page = false, post = false}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -114,7 +122,7 @@ menu_align_right = true
 reading_time = true
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
-comment_count = true
+comment_count = false
 
 # Display next/previous section pager? (true/false)
 section_pager = false
@@ -142,6 +150,22 @@ sharing = true
   post_view = 3
   publication_view = 3
   talk_view = 3
+
+  # Comments.
+[comments]
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
+
+  # Which page types are commentable?
+  commentable = {page = false, post = false, docs = false}
+
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = false  # Show comment count in page header? (true/false)
 
 # Search.
 [search]

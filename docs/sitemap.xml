@@ -246,12 +246,6 @@
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/tags/professional/</loc>
-    <lastmod>2019-06-13T16:27:51-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ryanstraight.com/project/squad-goals-network-project/</loc>
     <lastmod>2018-08-05T09:47:44-07:00</lastmod>
   </url>
@@ -270,6 +264,12 @@
   <url>
     <loc>https://ryanstraight.com/tags/podcast/</loc>
     <lastmod>2019-06-13T16:30:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/professional/</loc>
+    <lastmod>2019-06-13T16:27:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -391,6 +391,17 @@
   <url>
     <loc>https://ryanstraight.com/tags/twitter/</loc>
     <lastmod>2018-01-04T09:02:06-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/authors/ryan/</loc>
+    <lastmod>2017-07-26T08:57:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/authors/</loc>
+    <lastmod>2017-07-26T08:57:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -628,11 +639,6 @@
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/authors/ryan/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ryanstraight.com/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -640,12 +646,6 @@
   
   <url>
     <loc>https://ryanstraight.com/tags/aace/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/authors/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

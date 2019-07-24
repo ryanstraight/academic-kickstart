@@ -1,8 +1,8 @@
 ---
 title: 'Electronic Academic Workflow: Paperless Researching'
-author: ryan
+authors:
+  - ryan
 date: '2013-12-01'
-#slug: electronic-academic-workflow-paperless-researching
 categories:
   - Professional
 tags:
@@ -19,7 +19,6 @@ tags:
   - workflow
 subtitle: ''
 summary: 'As a graduate student who works full-time I am constantly struggling with a way to efficiently and clearly keep track of the unending stream of journal articles, books, conference presentations, and periodicals being thrown my way. Finding useful sources for writing is easy. Keeping track of them, not so much.'
-authors: []
 lastmod: '2017-06-13T09:35:11-07:00'
 featured: no
 image:

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on ryan straight</title>
+    <title>Writing on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/categories/writing/</link>
-    <description>Recent content in Writing on ryan straight</description>
+    <description>Recent content in Writing on ryan straight, ph.d</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
     <lastBuildDate>Wed, 26 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ryanstraight.com/categories/writing/index.xml" rel="self" type="application/rss+xml" />

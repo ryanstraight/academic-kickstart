@@ -1,8 +1,8 @@
 ---
 title: OLC Innovate 2017
-author: ryan
+authors:
+  - ryan
 date: '2017-07-26'
-#slug: olc-innovate-2017
 categories:
   - Conferences
 tags:
@@ -11,9 +11,8 @@ tags:
   - olc innovate
   - higher education
   - educational technology
-subtitle: ''
+subtitle: 'Innovation in the Big Easy'
 summary: 'OLC Innovate! First time. ~~Probably~~ (2018 update: **definitely**) not last. I had a great time that was compounded by being able to bring Adri long with me (not to the conference itself but she hadd never been to New Orleans before and, boy, did she enjoy it).'
-authors: []
 lastmod: '2017-07-26T08:57:23-07:00'
 featured: no
 image:
@@ -25,11 +24,11 @@ projects: []
 
 OLC Innovate! First time. ~~Probably~~ (2018 update: **definitely**) not last. I had a great time that was compounded by being able to bring Adri long with me (not to the conference itself but she'd never been to New Orleans before and, boy, did she enjoy it).
 
-The trip started out kinda strange, though...
+The trip started out kinda strange, though... the plane's lights were entirely *blue*. Not just blue-ish but **blue**. Felt like a scene from *In the Mouth of Madness*.
 
-![I think the person that designed the lighting in this model must've been a fan of In the Mouth of Madness.](olc-innovate-2017/2017-07-26-08-07-29-IMG_20170404_202153.jpg)
+<!-- ![I think the person that designed the lighting in this model must've been a fan of In the Mouth of Madness.](olc-innovate-2017/2017-07-26-08-07-29-IMG_20170404_202153.jpg) -->
 
-{{< youtube upNphtZCvjs >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/upNphtZCvjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -39,14 +38,24 @@ I spent my time in the [Innovation Lab](https://onlinelearningconsortium.org/inn
 
 Anyway, here are some pictures from the conference.
 
-{{< gallery album="gallery" >}}
+```{r echo=FALSE}
+blogdown::shortcode("gallery", "album='gallery'")
+```
+
+
 
 ---
 
 I won a social media award, too!
 
-{{< tweet 853315746457419777 >}}
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '853315746457419777')
+```
 
-{{< tweet 850381119975563264 >}}
+
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '850381119975563264')
+```
+
 
 Of course, there's more to New Orleans than just being a great conference town. If you want to see a *lot* of photos, they're over here...

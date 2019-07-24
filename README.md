@@ -7,7 +7,7 @@ beepr::beep(sound = 1)
 
 In-line Latex: $ r^{2} $
 
-Built using version 4.4 in 2019 June
+Updated using version 4.4 in 2019 July
 
 Change TOC footer in `layouts / partials / docs_toc_foot.html`
 

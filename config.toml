@@ -16,7 +16,7 @@ publishDir = "docs"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2019"
+copyright = "&copy; Ryan Straight, {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-123447651-1"
