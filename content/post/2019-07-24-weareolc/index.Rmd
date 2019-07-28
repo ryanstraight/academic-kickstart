@@ -11,6 +11,7 @@ image:
   caption: 'Via [Federica Galli on Unsplash](https://unsplash.com/photos/aiqKc07b5PA)'
   focal_point: bottom
   preview_only: no
+  placement: 2
 lastmod: '2019-07-24T08:50:47-07:00'
 projects: []
 slug: weareolc

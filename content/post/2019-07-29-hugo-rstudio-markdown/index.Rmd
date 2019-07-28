@@ -1,0 +1,129 @@
+---
+title: 'How to Create Websites using Hugo, RStudio, and GitHub'
+draft: true
+categories:
+  - Meta
+authors:
+  - ryan
+date: '2019-07-29'
+featured: no
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+image:
+  caption: 'Via [Clément H on Unsplash](https://unsplash.com/photos/95YRwf6CNw8)'
+  focal_point: bottom
+  preview_only: no
+  placement: 2
+lastmod: '2019-07-29T08:00:00-07:00'
+projects: []
+slug: hugo-rstudio-markdown
+subtitle: "It's a lot easier than it seems, I promise."
+summary: "I often get asked how to create websites like this with ease and on the cheap. This is a guide on how to accomplish exactly that."
+tags:
+  - meta
+  - webdev
+  - rstudio
+  - hugo
+  - github
+---
+
+I'm in a number of groups and on a variety of forums, as one might expect. Recently someone was asking about how others take care of the different websites they maintain. (This person has a side gig as a web developer, more or less.) For the handful of sites she runs and maintains for her clients (who do the actual content creation) was in the hundreds of dollars per year. I mentioned that all I spend is the cost of a domain, $12/year for a .com on Google Domains.
+
+She, and a number of other people, were curious, of course. So, here's a step-by-step on how to get my kind of setup (this site, for example) going for the non-technical. I say "non-technical" but there *is* some command line work in this setup. That said, the whole thing is done with plain text (markdown, RMarkdown, some HTML), so if you're not up for that, you're probably not interested in an ecosystem like this, anyway.
+
+I'll try my best not to let it get scary. Just go step-by-step and you'll be just fine.
+
+(Note that this guide assumes you want to use GitHub Pages for your site instead of Netlify. I encourage this because, while it's more manual and takes a bit more work, you end up learning *a lot* along the way that can come in useful for other projects.)
+
+# The Software
+
+You'll need a number of programs in order to make this happen. For the most part, with the exception of RStudio and GitHub, these are install-and-forget programs that just live in the background.
+
+## Hugo
+
+Install [Hugo](https://gohugo.io). For some of the [Hugo themes](https://themes.gohugo.io) you'll need the *Extended* version, so just go ahead and install that regardless.
+
+Some folks run into issues with where it should be located folder-wise, especially on Windows. For Windows, go with the default `C:\Hugo\bin` directory and use [these instructions](https://gohugo.io/getting-started/installing/#for-windows-10-users) to add that path to your paths (so when you type `hugo` in your command prompt you can do it from anywhere).
+
+This is one of the most technical steps but once it's done you're good to go. Everything else can be done in RStudio.
+
+If you're having trouble with Hugo, [Alison Hill has some good troubleshooting ideas](https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/) over on her site.
+
+## Install R
+
+The `R` software is how RStudio does its thing. (RStudio is basically just a graphical interface, an IDE, for the R language. Like Hugo, you just need to do this once and you're good -- until you need to update it, of course.)
+
+Download and install [R](https://www.r-project.org/). The mirror you pick isn't all that important, so go with whatever you like. The first one is usually fine.
+
+Follow the [installation steps](https://cran.r-project.org/doc/manuals/r-release/R-admin.html) for your operating system. 
+
+A quick note on R libraries: each version of R will use a unique folder, so when you update from one version to another, you'll need to reinstall all the packages you've installed in the previous version. It's a minor hassle but there's good reason for it. Don't worry about it right now.
+
+## Install RStudio
+
+Download and install the version of [RStudio appropriate for your operating system](https://www.rstudio.com/products/rstudio/download/#download). (Shocking, right?)
+
+This is where we'll be doing virtually all our work. It can take some getting used to but... that's the whole point of this, right? 
+
+[William Doane put together a nice post](https://www.r-bloggers.com/my-rstudio-configuration/) showing his RStudio settings that you can go ahead and just copy in your program. Skip the `Git/SVN` section for now. We'll come back to that.
+
+## Pandoc (bonus)
+
+Install [Pandoc](https://pandoc.org/installing.html) so you can make the most of your RStudio program later on, like producing reports and saving automatically in Word, PDF, et cetera. 
+
+## GitHub
+
+Now you'll want to head over to GitHub and create an account. GitHub is a bit like RStudio in that it's a way to use the *Git* protocol in an easier, more human-focused way. 
+
+Create an account and install GitHub for (Your operating system). If you don't want to purchase a custom domain name you can host your site directly on GitHub Pages using their URL, so pick an appropriate username. Once you've got GitHub installed on your computer, we're ready to create our first site!
+
+
+# Creating your site
+
+## A new RStudio project using *blogdown*
+
+These websites are highly dependent on a very particular structure. When in doubt, reference the *exampleSite* in your chosen theme's folders and just copy/paste/edit.
+
+Here's what I do (there are probably better ways but this is what I do and it works for me):
+
+1. Create [a new RStudio *blogdown* project](https://bookdown.org/yihui/blogdown/a-quick-example.html). Choose a *New Directory*.
+1. Create a folder in my `C:\Hugo\sites\` folder for the project. Say, `C:\Hugo\sites\example\`.
+1. This, among other things, creates a `.Rproj` file in there. That's your RStudio project file.
+1. You'll want to edit or create an `.Rprofile` file and add the following to it, replacing *AUTHOR* with your name. You can do this in RStudio or even Notepad (do it in RStudio!). The filename should be `.Rprofile`, not `Rprofile.txt` or anything.
+
+```r
+# in .Rprofile of the website project
+if (file.exists("~/.Rprofile")) {
+  base::sys.source("~/.Rprofile", envir = environment())
+}
+
+options(
+  blogdown.author = "AUTHOR",
+  blogdown.ext = ".Rmd",
+  blogdown.subdir = "post",
+  blogdown.yaml.empty = TRUE,
+  blogdown.new_bundle = TRUE,
+  blogdown.title_case = TRUE
+)
+```
+
+These are [*global options* that impact your entire site](https://bookdown.org/yihui/blogdown/global-options.html). They're very handy and you can do a lot with the Rprofile file.
+
+## Picking a theme
+
+The new site you've just created includes the default Lithium theme. You probably don't want that. You can include other themes at the site-creation point using [the instructions in the blogdown manual](https://bookdown.org/yihui/blogdown/other-themes.html), though I like to do it afterwards as I tend to change my mind a few times while building.
+
+There is a [large collection of themes](https://themes.gohugo.io) to use with your blogdown site. You can manually put the downloaded theme into the `/themes` folder in your site or, if you want to use a theme that's a bit more involved (like the one I'm using), there may be more in-depth and convenient methods. For example, [the *Academic* theme has an option referred to as *Academic Kickstart*](https://sourcethemes.com/academic/docs/install/#install-with-git) that's easy but requires some Git use.
+
+I do encourage you to use Git to install a theme. Each theme has slightly different instructions, so follow them when you've chosen your theme. 
+
+## Creating your first post
+
+Remember when I said things are very specific in terms of structure and format? Now's when that really starts becoming apparent.
+
+The easy way to do this is to use the *New Post* option under the RStudio *Addins* menu. Let's say you want to create a post called *Welcome*. Doing it this way will create a folder in your `\content\post` folder with the `YYYY-MM-DD-title` format and an `index.Rmd` file inside that folder. That's your new blog post!
+
+Exactly what kind of settings and options you can choose in this post are up to your theme, so, like I said, copy the content from the one of the theme's exampleSite posts and replace it with your own.
+
