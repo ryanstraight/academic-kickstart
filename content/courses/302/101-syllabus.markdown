@@ -66,7 +66,7 @@ Through the achievement of these course objectives, the following Educational Te
 
 Lane, D. (2016).  *Online Statistics Education: A Multimedia Course of Study*. 2nd ed.  Houston: Rice University. [http://onlinestatbook.com/2/](http://onlinestatbook.com/2/). 
 
-Takahashi, S., & Trend-pro Co Content Provider. (2008). *The Manga Guide to Statistics*. San Francisco: No Starch Press. [Available for free through the UA library website.](https://arizona-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UA_ALMA51538828670003843&context=L&vid=01UA&search_scope=Everything&tab=default_tab&lang=en_US)
+Takahashi, S., & Trend-pro Co Content Provider. (2008). *The Manga Guide to Statistics*. San Francisco: No Starch Press. [Available for free through the UA library website.](https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51608685880003843)
 
 Additional readings are also required and can be found in the LMS.
 

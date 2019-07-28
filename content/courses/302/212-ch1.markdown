@@ -52,7 +52,7 @@ These are the learning objectives for this portion of the class:
 Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof. This week, we will begin at the beginning:
 
 - [Chapter 1 of the Online Statistics Textbook](http://onlinestatbook.com/2/introduction/introduction.html)
-- *[Manga Guide to Statistics](https://arizona-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01UA_ALMA51538828670003843&context=L&vid=01UA&search_scope=Everything&tab=default_tab&lang=en_US)* sections of interest^[Note that the Manga Guide does not follow our progression step-for-step but is intended as an approachable supplement.]:
+- *[Manga Guide to Statistics]https://arizona-primo.hosted.exlibrisgroup.com/permalink/f/6ljalh/01UA_ALMA51608685880003843)* sections of interest^[Note that the Manga Guide does not follow our progression step-for-step but is intended as an approachable supplement.]:
     - Chapters 1 and 2
 - [Introductory Statistics](https://www.youtube.com/watch?v=YHXadaW_lso)
 
