@@ -32,17 +32,17 @@
   url = "/courses/401"
   weight = 30
 
-[[main]]
-  parent = "courses"
-  name = "405 - Intro to Game Design"
-  url = "/courses/405"
-  weight = 40
+#[[main]]
+#  parent = "courses"
+#  name = "405 - Intro to Game Design"
+#  url = "/courses/405"
+#  weight = 40
 
-[[main]]
-  parent = "courses"
-  name = "406 - Intro to Game Development"
-  url = "/courses/406"
-  weight = 50
+#[[main]]
+#  parent = "courses"
+#  name = "406 - Intro to Game Development"
+#  url = "/courses/406"
+#  weight = 50
 
 [[main]]
   name = "Posts"
@@ -76,8 +76,8 @@
 # https://raw.githubusercontent.com/sourcethemes/academic-www/master/content/docs/customization.md
 # 302 class
 
-[[302]]
-  pre = "<i class=\"fas fa-home\"></i>"
-  name = "Home"
-  weight = 10
-  url = "/courses/302/"
+#[[302]]
+#  pre = "<i class=\"fas fa-home\"></i>"
+#  name = "Home"
+#  weight = 10
+#  url = "/courses/302/"
