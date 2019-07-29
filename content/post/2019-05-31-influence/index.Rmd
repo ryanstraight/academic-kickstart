@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Influence and the Public Scholar
+title: "Influence and the Public Scholar"
 subtitle: "It's a tough job but somebody's gotta do it."
 author: ryan
 date: '2019-05-31'
@@ -22,9 +22,6 @@ image:
   focal_point: 'center'
   preview_only: true
 projects: []
-header:
-  image: "headers/influencer.jpg"
-  caption: "Via [Diggity Marketing on Unsplash](https://unsplash.com/photos/QFZ_72_NxIQ)"
 ---
 
 It's been a long time since I was on the _Dean's List_ but it happened again last month (just not the way you probably think).
