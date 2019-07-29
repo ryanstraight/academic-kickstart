@@ -1,3 +1,8 @@
+# Update log
+
+Updated using version 4.4 in 2019 July
+Updated to 4.5 on 2019 July 29
+
 # Notes to self:
 
 To make a noise when the site build is completed:
@@ -7,7 +12,6 @@ beepr::beep(sound = 1)
 
 In-line Latex: $ r^{2} $
 
-Updated using version 4.4 in 2019 July
 
 Change TOC footer in `layouts / partials / docs_toc_foot.html`
 

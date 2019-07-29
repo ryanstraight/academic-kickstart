@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>professional on ryan straight, ph.d</title>
+    <title>professional | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/professional/</link>
-    <description>Recent content in professional on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Sun, 05 Aug 2018 09:47:44 -0700</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/tags/professional/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/tags/professional/index.xml" rel="self" type="application/rss+xml" />
+    <description>professional</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Sun, 05 Aug 2018 09:47:44 -0700</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>professional</title>
+      <link>https://ryanstraight.com/tags/professional/</link>
+    </image>
     
     <item>
       <title>Squad Goals network</title>
       <link>https://ryanstraight.com/project/squad-goals-network-project/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/project/squad-goals-network-project/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Squad Goals Network&lt;/strong&gt; is a collection of like-minded teachers, designers, and researchers that get together to gab, think of innovative ways to bring technology and collaboration into higher education and K-12, and just generally have a good time. We try to uphold and demonstrate our principles through support and collaborative work.&lt;/p&gt;
 
@@ -28,7 +27,6 @@
       <title>Hi, EdSurge!</title>
       <link>https://ryanstraight.com/2018/07/05/hi-edsurge/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/07/05/hi-edsurge/</guid>
       <description>
 
