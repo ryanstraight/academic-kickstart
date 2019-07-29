@@ -15,7 +15,13 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-
+menu:
+  302:
+    name: "Home"
+    identifier: "302-home"
+    weight: -110
+    pre: "<i class='fa fa-home'></i>"
+    url: "/courses/302/"
 ---
 
 ![](featured.jpg)

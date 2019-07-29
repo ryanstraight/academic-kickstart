@@ -3,7 +3,7 @@ title: 'Syllabus'
 linktitle: 'INFV 401'
 toc: true
 type: docs
-date: "2019-05-05T00:00:00-07:00"
+date: "2019-07-29T00:00:00-07:00"
 draft: false
 weight: 30
 menu:

@@ -1,3 +1,9 @@
+# To Do:
+
+Flesh out 302 and 401, copying from old site.
+Make list of major differences between two 401s.
+Create 401 slideshows for class. Update 302's.
+
 # Update log
 
 Updated using version 4.4 in 2019 July
@@ -35,8 +41,12 @@ To show what a whole R code chunk looks like, use this syntax:
 code here
 ```
 ````
+```
 
 
+
+---
+Original readme:
 
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 

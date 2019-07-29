@@ -3,7 +3,7 @@ title: 'Syllabus'
 linktitle: 'Syllabus'
 toc: true
 type: docs
-date: "2019-05-05T00:00:00-07:00"
+date: "2019-07-29T00:00:00-07:00"
 draft: false
 weight: 30
 menu:
@@ -16,11 +16,11 @@ menu:
 
 # INFV 302 - Statistics in the Information Age
 
-## Spring 2018-19, 2nd 7.5 weeks
+## Fall 2019-20, 1st 7.5 weeks
 
 |              	|   	|                                                                                                        	|
 |--------------	|---	|-------------------------------------------------------------------------------------------------------	|
-| Meeting&nbsp;time 	|   	| Fully online, synchronous meetings: **Mondays, 6-8pm Arizona time in course Zoom room**         |
+| Meeting&nbsp;time 	|   	| Fully online, synchronous meetings: **Wednesdays, 6-8pm Arizona time in course Zoom room via D2L**         |
 | People       	|   	| Instructor: Dr. Ryan Straight                                                                      	|
 | Email        	|   	| ryanstraight@email.arizona.edu                                                                  	|
 | Slack        	|   	| [ryanstraight](https://uasouth.slack.com/messages/ryanstraight/)                                                                                   	|
@@ -114,7 +114,7 @@ Most points in this class come from quizzes and participation/discussion. Howeve
 
 Please note: While the final project uses a rubrics, other assignments may receive points simply by completing them. If an assignment fits this description and does not have a rubric, I will note that in the assessment section.
 
-Also be aware that there are gateway requirements prior to reaching the assessment rubric. For example, if a project requires you to submit an 8-10 page paper, if your submission is only 6 pages I will simply not grade it. These gateway requirements are made clear in each assignment document. 
+Also be aware that there are **gateway requirements** prior to reaching the assessment rubric. For example, if a project requires you to submit an 8-10 page paper, if your submission is only 6 pages I will simply not grade it. These gateway requirements are made clear in each assignment document. 
 
 See the **Assignments** sections for details.
 
@@ -304,4 +304,4 @@ We live in a digital age. We communicate through digital means. While I fully ex
 
 *The contents of this syllabus are subject to on-going change over the course of the semester as needed to accommodate students’ progress. Always **link** to this document instead of downloading a local copy.*
 
-_Syllabus dated *March 1, 2019*_.
+_Syllabus dated *July 29, 2019*_.
