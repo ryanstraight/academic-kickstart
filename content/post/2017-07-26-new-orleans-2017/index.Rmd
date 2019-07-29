@@ -18,8 +18,8 @@ image:
   caption: 'The mascot at my favorite New Orleans watering hole: [Le Bon Temps Roule](https://lbtrnola.com/).'
   focal_point: ''
   preview_only: no
+  position: 2
 projects: []
-view: 2
 ---
 New Orleans is one of my favorite cities to visit. The food, the sights, the art. Here are a bunch of photos we took!
 
@@ -28,6 +28,7 @@ New Orleans is one of my favorite cities to visit. The food, the sights, the art
 We took a trip to Lafeyette Cemetery! Well, one of them. And the Voodoo Museum. Enjoy! (Click on a photo to lightbox.)
 
 ```{r cemetery, echo=FALSE}
+library(blogdown)
 blogdown::shortcode("gallery", "album='gallery'")
 ```
 

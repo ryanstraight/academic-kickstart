@@ -1,0 +1,126 @@
+---
+title: 'How to Create Websites using Hugo, RStudio, and GitHub'
+draft: true
+categories:
+  - Meta
+authors:
+  - ryan
+date: '2019-07-29'
+featured: no
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+image:
+  caption: 'Via [Clément H on Unsplash](https://unsplash.com/photos/95YRwf6CNw8)'
+  focal_point: bottom
+  preview_only: no
+  placement: 2
+lastmod: '2019-07-29T08:00:00-07:00'
+projects: []
+slug: hugo-rstudio-markdown
+subtitle: "It's a lot easier than it seems, I promise."
+summary: "I often get asked how to create websites like this with ease and on the cheap. This is a guide on how to accomplish exactly that."
+tags:
+  - meta
+  - webdev
+  - rstudio
+  - hugo
+  - github
+---
+
+
+<div id="TOC">
+<ul>
+<li><a href="#the-software">The Software</a><ul>
+<li><a href="#hugo">Hugo</a></li>
+<li><a href="#install-r">Install R</a></li>
+<li><a href="#install-rstudio">Install RStudio</a></li>
+<li><a href="#pandoc-bonus">Pandoc (bonus)</a></li>
+<li><a href="#github">GitHub</a></li>
+</ul></li>
+<li><a href="#creating-your-site">Creating your site</a><ul>
+<li><a href="#a-new-rstudio-project-using-blogdown">A new RStudio project using <em>blogdown</em></a></li>
+<li><a href="#picking-a-theme">Picking a theme</a></li>
+<li><a href="#creating-your-first-post">Creating your first post</a></li>
+</ul></li>
+</ul>
+</div>
+
+<p>I’m in a number of groups and on a variety of forums, as one might expect. Recently someone was asking about how others take care of the different websites they maintain. (This person has a side gig as a web developer, more or less.) For the handful of sites she runs and maintains for her clients (who do the actual content creation) was in the hundreds of dollars per year. I mentioned that all I spend is the cost of a domain, $12/year for a .com on Google Domains.</p>
+<p>She, and a number of other people, were curious, of course. So, here’s a step-by-step on how to get my kind of setup (this site, for example) going for the non-technical. I say “non-technical” but there <em>is</em> some command line work in this setup. That said, the whole thing is done with plain text (markdown, RMarkdown, some HTML), so if you’re not up for that, you’re probably not interested in an ecosystem like this, anyway.</p>
+<p>I’ll try my best not to let it get scary. Just go step-by-step and you’ll be just fine.</p>
+<p>(Note that this guide assumes you want to use GitHub Pages for your site instead of Netlify. I encourage this because, while it’s more manual and takes a bit more work, you end up learning <em>a lot</em> along the way that can come in useful for other projects.)</p>
+<div id="the-software" class="section level1">
+<h1>The Software</h1>
+<p>You’ll need a number of programs in order to make this happen. For the most part, with the exception of RStudio and GitHub, these are install-and-forget programs that just live in the background.</p>
+<div id="hugo" class="section level2">
+<h2>Hugo</h2>
+<p>Install <a href="https://gohugo.io">Hugo</a>. For some of the <a href="https://themes.gohugo.io">Hugo themes</a> you’ll need the <em>Extended</em> version, so just go ahead and install that regardless.</p>
+<p>Some folks run into issues with where it should be located folder-wise, especially on Windows. For Windows, go with the default <code>C:\Hugo\bin</code> directory and use <a href="https://gohugo.io/getting-started/installing/#for-windows-10-users">these instructions</a> to add that path to your paths (so when you type <code>hugo</code> in your command prompt you can do it from anywhere).</p>
+<p>This is one of the most technical steps but once it’s done you’re good to go. Everything else can be done in RStudio.</p>
+<p>If you’re having trouble with Hugo, <a href="https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/">Alison Hill has some good troubleshooting ideas</a> over on her site.</p>
+</div>
+<div id="install-r" class="section level2">
+<h2>Install R</h2>
+<p>The <code>R</code> software is how RStudio does its thing. (RStudio is basically just a graphical interface, an IDE, for the R language. Like Hugo, you just need to do this once and you’re good – until you need to update it, of course.)</p>
+<p>Download and install <a href="https://www.r-project.org/">R</a>. The mirror you pick isn’t all that important, so go with whatever you like. The first one is usually fine.</p>
+<p>Follow the <a href="https://cran.r-project.org/doc/manuals/r-release/R-admin.html">installation steps</a> for your operating system.</p>
+<p>A quick note on R libraries: each version of R will use a unique folder, so when you update from one version to another, you’ll need to reinstall all the packages you’ve installed in the previous version. It’s a minor hassle but there’s good reason for it. Don’t worry about it right now.</p>
+</div>
+<div id="install-rstudio" class="section level2">
+<h2>Install RStudio</h2>
+<p>Download and install the version of <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio appropriate for your operating system</a>. (Shocking, right?)</p>
+<p>This is where we’ll be doing virtually all our work. It can take some getting used to but… that’s the whole point of this, right?</p>
+<p><a href="https://www.r-bloggers.com/my-rstudio-configuration/">William Doane put together a nice post</a> showing his RStudio settings that you can go ahead and just copy in your program. Skip the <code>Git/SVN</code> section for now. We’ll come back to that.</p>
+</div>
+<div id="pandoc-bonus" class="section level2">
+<h2>Pandoc (bonus)</h2>
+<p>Install <a href="https://pandoc.org/installing.html">Pandoc</a> so you can make the most of your RStudio program later on, like producing reports and saving automatically in Word, PDF, et cetera.</p>
+</div>
+<div id="github" class="section level2">
+<h2>GitHub</h2>
+<p>Now you’ll want to head over to GitHub and create an account. GitHub is a bit like RStudio in that it’s a way to use the <em>Git</em> protocol in an easier, more human-focused way.</p>
+<p>Create an account and install GitHub for (Your operating system). If you don’t want to purchase a custom domain name you can host your site directly on GitHub Pages using their URL, so pick an appropriate username. Once you’ve got GitHub installed on your computer, we’re ready to create our first site!</p>
+</div>
+</div>
+<div id="creating-your-site" class="section level1">
+<h1>Creating your site</h1>
+<div id="a-new-rstudio-project-using-blogdown" class="section level2">
+<h2>A new RStudio project using <em>blogdown</em></h2>
+<p>These websites are highly dependent on a very particular structure. When in doubt, reference the <em>exampleSite</em> in your chosen theme’s folders and just copy/paste/edit.</p>
+<p>Here’s what I do (there are probably better ways but this is what I do and it works for me):</p>
+<ol style="list-style-type: decimal">
+<li>Create <a href="https://bookdown.org/yihui/blogdown/a-quick-example.html">a new RStudio <em>blogdown</em> project</a>. Choose a <em>New Directory</em>.</li>
+<li>Create a folder in my <code>C:\Hugo\sites\</code> folder for the project. Say, <code>C:\Hugo\sites\example\</code>.</li>
+<li>This, among other things, creates a <code>.Rproj</code> file in there. That’s your RStudio project file.</li>
+<li>You’ll want to edit or create an <code>.Rprofile</code> file and add the following to it, replacing <em>AUTHOR</em> with your name. You can do this in RStudio or even Notepad (do it in RStudio!). The filename should be <code>.Rprofile</code>, not <code>Rprofile.txt</code> or anything.</li>
+</ol>
+<pre class="r"><code># in .Rprofile of the website project
+if (file.exists(&quot;~/.Rprofile&quot;)) {
+  base::sys.source(&quot;~/.Rprofile&quot;, envir = environment())
+}
+
+options(
+  blogdown.author = &quot;AUTHOR&quot;,
+  blogdown.ext = &quot;.Rmd&quot;,
+  blogdown.subdir = &quot;post&quot;,
+  blogdown.yaml.empty = TRUE,
+  blogdown.new_bundle = TRUE,
+  blogdown.title_case = TRUE
+)</code></pre>
+<p>These are <a href="https://bookdown.org/yihui/blogdown/global-options.html"><em>global options</em> that impact your entire site</a>. They’re very handy and you can do a lot with the Rprofile file.</p>
+</div>
+<div id="picking-a-theme" class="section level2">
+<h2>Picking a theme</h2>
+<p>The new site you’ve just created includes the default Lithium theme. You probably don’t want that. You can include other themes at the site-creation point using <a href="https://bookdown.org/yihui/blogdown/other-themes.html">the instructions in the blogdown manual</a>, though I like to do it afterwards as I tend to change my mind a few times while building.</p>
+<p>There is a <a href="https://themes.gohugo.io">large collection of themes</a> to use with your blogdown site. You can manually put the downloaded theme into the <code>/themes</code> folder in your site or, if you want to use a theme that’s a bit more involved (like the one I’m using), there may be more in-depth and convenient methods. For example, <a href="https://sourcethemes.com/academic/docs/install/#install-with-git">the <em>Academic</em> theme has an option referred to as <em>Academic Kickstart</em></a> that’s easy but requires some Git use.</p>
+<p>I do encourage you to use Git to install a theme. Each theme has slightly different instructions, so follow them when you’ve chosen your theme.</p>
+</div>
+<div id="creating-your-first-post" class="section level2">
+<h2>Creating your first post</h2>
+<p>Remember when I said things are very specific in terms of structure and format? Now’s when that really starts becoming apparent.</p>
+<p>The easy way to do this is to use the <em>New Post</em> option under the RStudio <em>Addins</em> menu. Let’s say you want to create a post called <em>Welcome</em>. Doing it this way will create a folder in your <code>\content\post</code> folder with the <code>YYYY-MM-DD-title</code> format and an <code>index.Rmd</code> file inside that folder. That’s your new blog post!</p>
+<p>Exactly what kind of settings and options you can choose in this post are up to your theme, so, like I said, copy the content from the one of the theme’s exampleSite posts and replace it with your own.</p>
+</div>
+</div>
