@@ -48,6 +48,8 @@ library(knitr)
 knitr::include_graphics("apoc.png")
 ```
 
+The technology I engage with now is... well, just browse this site. It's everywhere. My field is **human-computer interaction**, after all!
+
 ## What is one of your favorite OLC experiences?
 
 I don't think I can peg just one down, and that's because of the next prompt: my favorite OLC experience has been the building of that community. Making the friends I've made. Sharing the times I've shared. Seeing everyone involved being better for it.
