@@ -68,14 +68,65 @@
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/</loc>
-    <lastmod>2019-06-13T16:30:26-07:00</lastmod>
+    <loc>https://ryanstraight.com/authors/ryan/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/2019/07/24/weareolc/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/authors/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ryanstraight.com/categories/</loc>
-    <lastmod>2019-06-13T16:30:26-07:00</lastmod>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/post/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/categories/teaching/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/olc/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/online/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/teaching/</loc>
+    <lastmod>2019-07-24T08:50:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,19 +136,8 @@
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/post/</loc>
-    <lastmod>2019-06-13T16:30:26-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ryanstraight.com/categories/professional/</loc>
     <lastmod>2019-06-13T11:51:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/tags/</loc>
-    <lastmod>2019-06-13T16:30:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,12 +168,6 @@
   <url>
     <loc>https://ryanstraight.com/tags/semantic-annotation/</loc>
     <lastmod>2018-11-02T16:44:29-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/tags/teaching/</loc>
-    <lastmod>2019-06-13T11:51:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,12 +280,6 @@
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/tags/professional/</loc>
-    <lastmod>2019-06-13T16:27:51-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ryanstraight.com/project/squad-goals-network-project/</loc>
     <lastmod>2018-08-05T09:47:44-07:00</lastmod>
   </url>
@@ -270,6 +298,12 @@
   <url>
     <loc>https://ryanstraight.com/tags/podcast/</loc>
     <lastmod>2019-06-13T16:30:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/professional/</loc>
+    <lastmod>2019-06-13T16:27:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -391,17 +425,6 @@
   <url>
     <loc>https://ryanstraight.com/tags/twitter/</loc>
     <lastmod>2018-01-04T09:02:06-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/authors/ryan/</loc>
-    <lastmod>2017-07-26T08:57:23-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/authors/</loc>
-    <lastmod>2017-07-26T08:57:23-07:00</lastmod>
     <priority>0</priority>
   </url>
   

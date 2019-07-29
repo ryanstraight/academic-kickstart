@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ryanstraight.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>olc</title>
+      <link>https://ryanstraight.com/tags/olc/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanstraight.com/tags/olc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>online</title>
+      <link>https://ryanstraight.com/tags/online/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanstraight.com/tags/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://ryanstraight.com/tags/teaching/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanstraight.com/tags/teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chaos</title>
@@ -54,15 +81,6 @@
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ryanstraight.com/tags/semantic-annotation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://ryanstraight.com/tags/teaching/</link>
-      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ryanstraight.com/tags/teaching/</guid>
       <description></description>
     </item>
     

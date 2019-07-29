@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: '#WeAreOLC'
 categories:
   - Teaching
@@ -27,7 +27,7 @@ tags:
 - olc
 ---
 
-I was invited to include something in the [#WeAreOLC](https://onlinelearningconsortium.org/weareolc-the-power-of-storytelling-at-accelerates-25th-anniversary/) collection of narratives. Each of the posts in the series uses the same sort of framework: a few topics to get you started. So, here they are:
+I was invited to include something in the [#WeAreOLC](https://onlinelearningconsortium.org/weareolc-the-power-of-storytelling-at-accelerates-25th-anniversary/) collection of narratives. Each of the posts in the series uses the same sort of framework: a few topics to get you started. So, without getting *too* wordy, here they are:
 
 ## How did you first get involved with the OLC??
 
@@ -43,6 +43,11 @@ Anyway, back then I had a Packard Bell computer. It had a 4x CD-rom drive and, i
 
 I played Doom and Descent and Hexen and Heretic and a MUD called "Apocalypse" (which, holy crap, [is totally still around](http://thewoodedglen.com/attn-apoc-mudders/)) and all was right with the world.
 
+```{r echo=FALSE}
+library(knitr)
+knitr::include_graphics("apoc.png")
+```
+
 ## What is one of your favorite OLC experiences?
 
 I don't think I can peg just one down, and that's because of the next prompt: my favorite OLC experience has been the building of that community. Making the friends I've made. Sharing the times I've shared. Seeing everyone involved being better for it.
@@ -53,6 +58,6 @@ I've met people through OLC that I most likely never would have met otherwise an
 
 I get to work with OLC a lot and it's really opened me up to a huge collection of wonderful people and great opportunities. I look forward to continuing to do so in the future.
 
-![](https://media.giphy.com/media/awxqzKhiUV4ly/giphy.gif)<br /><div style='font-size:50%'>(Available at [https://gph.is/1vNpLWW](https://gph.is/1vNpLWW), Jun 24, 2019)</div>  
+<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/awxqzKhiUV4ly" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p style='font-size:50%'><a href="https://giphy.com/gifs/funny-lol-game-boy-awxqzKhiUV4ly">via GIPHY</a></p>
 
 And yeah, me too, kid.
