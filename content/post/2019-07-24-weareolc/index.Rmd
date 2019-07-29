@@ -19,7 +19,7 @@ output:
     toc_depth: 2
 projects: []
 slug: weareolc
-subtitle: "Spoiler: the tech I was using had very littled to do with learning."
+subtitle: "Spoiler: the tech I was using had very little to do with formal learning."
 summary: "OLC has been around for 25 years. Here's what I was doing back then."
 tags:
 - teaching
