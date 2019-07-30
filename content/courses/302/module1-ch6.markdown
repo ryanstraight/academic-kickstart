@@ -21,7 +21,8 @@ weight: 60
 
 
 
-## Learning Objectives for *Research Design*
+# Learning Objectives for *Research Design*
+
 <details><summary>Show learning objectives</summary>
 <p>
 These are the learning objectives for this portion of the class:
@@ -44,22 +45,22 @@ These are the learning objectives for this portion of the class:
 </p>
 </details>
 
-## Consumables
+# Consumables
 
 Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof.
 
 - [Online Statistics Textbook, Chapter 6](http://onlinestatbook.com/2/research_design/contents.html)
     - [PDF of the chapter](http://onlinestatbook.com/2/research_design/research_design.pdf)
 
-## Assignments
+# Assignments
 
 Your assignments for this week are as follows:
 
-### Quiz
+## Quiz
 
 Don't forget about your chapter quiz! Find it in the Quizzes menu in D2L.
 
-### Chapter Questions
+## Chapter Questions
 
 Pick [a question from OST Chapter 6's Exercises section](http://onlinestatbook.com/2/research_design/exercises.html) that one one else has selected yet and post how you solved it.
 

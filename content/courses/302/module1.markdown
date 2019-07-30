@@ -16,7 +16,7 @@ menu:
 weight: 40
 ---
 
-Module A consists of readings from chapters 1 and 6 of the text.
+Module 1 consists of readings from chapters 1 and 6 of the text.
 
 ## Chapter 1
 
