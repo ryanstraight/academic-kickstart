@@ -14,9 +14,9 @@
     
     <item>
       <title>Syllabus</title>
-      <link>https://ryanstraight.com/courses/302/101-syllabus/</link>
+      <link>https://ryanstraight.com/courses/302/syllabus/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/101-syllabus/</guid>
+      <guid>https://ryanstraight.com/courses/302/syllabus/</guid>
       <description>
 
 &lt;h1 id=&#34;infv-302-statistics-in-the-information-age&#34;&gt;INFV 302 - Statistics in the Information Age&lt;/h1&gt;
@@ -446,29 +446,35 @@
     </item>
     
     <item>
-      <title>Module A</title>
-      <link>https://ryanstraight.com/courses/302/211-modulea/</link>
+      <title>Module 1</title>
+      <link>https://ryanstraight.com/courses/302/module1/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/211-modulea/</guid>
+      <guid>https://ryanstraight.com/courses/302/module1/</guid>
       <description>
 
 &lt;p&gt;Module A consists of readings from chapters 1 and 6 of the text.&lt;/p&gt;
 
 &lt;h2 id=&#34;chapter-1&#34;&gt;Chapter 1&lt;/h2&gt;
 
-&lt;p&gt;Chapter 1 is all about the &lt;a href=&#34;https://ryanstraight.com/courses/302/212-ch1/&#34; target=&#34;_blank&#34;&gt;introduction to &lt;em&gt;inferential and descriptive statistics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chapter 1 is all about the &lt;a href=&#34;https://ryanstraight.com/courses/302/module1-ch1/&#34; target=&#34;_blank&#34;&gt;introduction to &lt;em&gt;inferential and descriptive statistics&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;chapter-6&#34;&gt;Chapter 6&lt;/h2&gt;
 
-&lt;p&gt;Chapter 6 is all about an &lt;a href=&#34;https://ryanstraight.com/courses/302/213-ch6/&#34; target=&#34;_blank&#34;&gt;introduction to &lt;em&gt;designing research&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chapter 6 is all about an &lt;a href=&#34;https://ryanstraight.com/courses/302/module1-ch6/&#34; target=&#34;_blank&#34;&gt;introduction to &lt;em&gt;designing research&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Note that the rest of the modules are contained on single pages.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Introduction to Statistics</title>
-      <link>https://ryanstraight.com/courses/302/212-ch1/</link>
+      <link>https://ryanstraight.com/courses/302/module1-ch1/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/212-ch1/</guid>
+      <guid>https://ryanstraight.com/courses/302/module1-ch1/</guid>
       <description>
 
 &lt;h2 id=&#34;learning-objectives-for-introduction-to-inferential-and-descriptive-statistics&#34;&gt;Learning Objectives for &lt;em&gt;Introduction to Inferential and Descriptive Statistics&lt;/em&gt;&lt;/h2&gt;
@@ -525,7 +531,7 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/#download&#34; target=&#34;_blank&#34;&gt;Download RStudio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;You&amp;rsquo;ll find more resources, guides, and tutorials for using R and RStudio on the &lt;a href=&#34;https://ryanstraight.com/courses/302/421-rguides/&#34; target=&#34;_blank&#34;&gt;guides&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;ll find more resources, guides, and tutorials for using R and RStudio on the &lt;a href=&#34;https://ryanstraight.com/courses/302/resources-rguides/&#34; target=&#34;_blank&#34;&gt;guides&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;h2 id=&#34;assignments&#34;&gt;Assignments&lt;/h2&gt;
 
@@ -537,7 +543,7 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
 
 &lt;h4 id=&#34;steps-to-completion&#34;&gt;Steps to Completion&lt;/h4&gt;
 
-&lt;p&gt;Using the questions below (some, hopefully all!) you will &lt;a href=&#34;https://spark.adobe.com&#34; target=&#34;_blank&#34;&gt;create an Adobe Spark &lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt; (not a Page or Post!) introduction of yourself and share the link in the &lt;a href=&#34;https://uasouth.slack.com/messages/etcv302/whats_new/&#34; target=&#34;_blank&#34;&gt;#etcv302 channel&lt;/a&gt; of our Slack team. You should be using this assignment as a means of becoming familiar with how to use Slack and its various features.&lt;/p&gt;
+&lt;p&gt;Using the questions below (some, hopefully all!) you will &lt;a href=&#34;https://spark.adobe.com&#34; target=&#34;_blank&#34;&gt;create an Adobe Spark &lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt; (not a Page or Post!) introduction of yourself and share the link in the &lt;a href=&#34;https://uasouth.slack.com/messages/infv302/whats_new/&#34; target=&#34;_blank&#34;&gt;#infv302 channel&lt;/a&gt; of our Slack team. You should be using this assignment as a means of becoming familiar with how to use Slack and its various features.&lt;/p&gt;
 
 &lt;p&gt;First, &lt;a href=&#34;https://www.youtube.com/watch?v=-nKTi5ydKbw&#34; target=&#34;_blank&#34;&gt;watch this tutorial&lt;/a&gt; and/or &lt;a href=&#34;https://youtu.be/-iZyMWBU708?t=36s&#34; target=&#34;_blank&#34;&gt;this tutorial&lt;/a&gt; on creating a Spark video. Keep in mind that the different options you’re given when making a video (Promote an Idea, A Hero’s Journey, etc.) simply give you prompts for scenes and have no real impact on what you can do.&lt;/p&gt;
 
@@ -590,7 +596,7 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
 &lt;li&gt;Next, respond to another students&amp;rsquo; answers by asking a question for clarification, providing a personal experience, posting a thought-provoking question, taking a controversial, but professional stand, adding something new to the conversation, quoting another student&amp;rsquo;s comment and add an additional idea based on this comment, etc.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Your responses should be respectful and offered in a professional manner. You may wish to review the &lt;a href=&#34;https://ryanstraight.com/courses/302/101-syllabus/&#34; target=&#34;_blank&#34;&gt;behavior Course Policies&lt;/a&gt; to help frame your response. Remember, you will be responding about the specific idea, issue, or question.&lt;/p&gt;
+&lt;p&gt;Your responses should be respectful and offered in a professional manner. You may wish to review the &lt;a href=&#34;https://ryanstraight.com/courses/302/syllabus/&#34; target=&#34;_blank&#34;&gt;behavior Course Policies&lt;/a&gt; to help frame your response. Remember, you will be responding about the specific idea, issue, or question.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Do not consider question #9. For question #10, show detailed calculations.&lt;/strong&gt;&lt;/p&gt;
 
@@ -608,9 +614,9 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
     
     <item>
       <title>Research Design</title>
-      <link>https://ryanstraight.com/courses/302/213-ch6/</link>
+      <link>https://ryanstraight.com/courses/302/module1-ch6/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/213-ch6/</guid>
+      <guid>https://ryanstraight.com/courses/302/module1-ch6/</guid>
       <description>
 
 &lt;h2 id=&#34;learning-objectives-for-research-design&#34;&gt;Learning Objectives for &lt;em&gt;Research Design&lt;/em&gt;&lt;/h2&gt;
@@ -680,7 +686,7 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
 &lt;li&gt;Next, respond to another students&amp;rsquo; answers by asking a question for clarification, providing a personal experience, posting a thought-provoking question, taking a controversial, but professional stand, adding something new to the conversation, quoting another student&amp;rsquo;s comment and add an additional idea based on this comment, etc.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Your responses should be respectful and offered in a professional manner. You may wish to review the &lt;a href=&#34;https://ryanstraight.com/courses/302/101-syllabus/#threatening-behavior&#34; target=&#34;_blank&#34;&gt;behavior Course Policies&lt;/a&gt; to help frame your response. Remember, you will be responding about the specific idea, issue, or question.&lt;/p&gt;
+&lt;p&gt;Your responses should be respectful and offered in a professional manner. You may wish to review the &lt;a href=&#34;https://ryanstraight.com/courses/302/syllabus/#threatening-behavior&#34; target=&#34;_blank&#34;&gt;behavior Course Policies&lt;/a&gt; to help frame your response. Remember, you will be responding about the specific idea, issue, or question.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;You may not answer a question that has been previously addressed.&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -688,18 +694,26 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
     
     <item>
       <title>Assignments</title>
-      <link>https://ryanstraight.com/courses/302/311-assignments/</link>
+      <link>https://ryanstraight.com/courses/302/assignments/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/311-assignments/</guid>
+      <guid>https://ryanstraight.com/courses/302/assignments/</guid>
       <description>&lt;p&gt;Assignments for this class are basically broken into five types:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Quizes&lt;/li&gt;
+&lt;li&gt;Weekly chapter questions&lt;/li&gt;
+&lt;li&gt;Activities&lt;/li&gt;
+&lt;li&gt;Class participation&lt;/li&gt;
+&lt;li&gt;Discussion responses&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Activity A</title>
-      <link>https://ryanstraight.com/courses/302/312-activitya/</link>
+      <link>https://ryanstraight.com/courses/302/activitya/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/312-activitya/</guid>
+      <guid>https://ryanstraight.com/courses/302/activitya/</guid>
       <description>
 
 &lt;h2 id=&#34;week-2-activity-a-description&#34;&gt;Week 2 (Activity A) Description&lt;/h2&gt;
@@ -982,9 +996,9 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
     
     <item>
       <title>Resources</title>
-      <link>https://ryanstraight.com/courses/302/411-resources/</link>
+      <link>https://ryanstraight.com/courses/302/resources/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/411-resources/</guid>
+      <guid>https://ryanstraight.com/courses/302/resources/</guid>
       <description>
 
 &lt;p&gt;This is a pretty resource-heavy class. Here&amp;rsquo;s a (not so) small collection of them.&lt;/p&gt;
@@ -1021,9 +1035,9 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
     
     <item>
       <title>R and RStudio</title>
-      <link>https://ryanstraight.com/courses/302/421-rguides/</link>
+      <link>https://ryanstraight.com/courses/302/resources-rguides/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/421-rguides/</guid>
+      <guid>https://ryanstraight.com/courses/302/resources-rguides/</guid>
       <description>
 
 &lt;p&gt;We&amp;rsquo;re using an &lt;em&gt;incredibly&lt;/em&gt; powerful statistical software package in this class (in fact, this entire course site is built using it). Unfortunately, it does come with a &lt;em&gt;bit&lt;/em&gt; of a learning curve. You won&amp;rsquo;t be required to learn the nitty-gritty ins and outs of the R scripting language but you &lt;em&gt;will&lt;/em&gt; need to know the basics of what R can do. Luckily, we have &lt;strong&gt;RStudio&lt;/strong&gt; to really help out with that. Below are some introductory articles and videos.&lt;/p&gt;
@@ -1082,9 +1096,9 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
     
     <item>
       <title>Big Data</title>
-      <link>https://ryanstraight.com/courses/302/422-bigdata/</link>
+      <link>https://ryanstraight.com/courses/302/resources-bigdata/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      <guid>https://ryanstraight.com/courses/302/422-bigdata/</guid>
+      <guid>https://ryanstraight.com/courses/302/resources-bigdata/</guid>
       <description>
 
 &lt;h2 id=&#34;what-is-big-data-a-super-simple-explanation-for-everyone-https-www-bernardmarr-com-default-asp-contentid-766&#34;&gt;&lt;a href=&#34;https://www.bernardmarr.com/default.asp?contentID=766&#34; target=&#34;_blank&#34;&gt;What Is Big Data? A Super Simple Explanation For Everyone&lt;/a&gt;&lt;/h2&gt;

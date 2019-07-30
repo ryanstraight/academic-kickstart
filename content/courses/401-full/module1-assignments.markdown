@@ -23,6 +23,8 @@ Rather than having you write out your introductions we use Adobe Spark to create
 
 View the [assignment document here](https://docs.google.com/document/d/1EiZT1rFaObY7GhOQRvYlYlvKKSCYwvWD0pn-bsgEc2A/edit?usp=sharing).
 
+---
+
 # Chapter questions
 
 Each link below will create a *copy* of the question document. Simply answer the questions in full, change the attribution at the top, and save as a PDF. Submit this to the LMS in the appropriate folder.
@@ -31,6 +33,8 @@ Each link below will create a *copy* of the question document. Simply answer the
 + [Chapter 2](https://docs.google.com/document/d/1DobYGU4O_IigvOxzh9XgnIFZd-O54297vQeqRKMAwIM/copy)
 + [Chapter 3](https://docs.google.com/document/d/14D7J21soQrUzLypUa90MfkHDvI27cQpXbq_trk8Cdgg/copy)
 + [Chapter 4](https://docs.google.com/document/d/1jdSKc0-m2nTeLbjOO-pWtf7I2cAyE9RXWpMAQxOyWBc/copy)
+
+---
 
 # Project 1
 
@@ -50,11 +54,15 @@ Through the application of reading materials and completion of this project in l
 
 You can find the rest of the assignment [here](https://docs.google.com/document/d/1gIIycDFQHY8NP_TYO-H0b7waKEmXgaIEbk_1BH3vcaI/edit?usp=sharing).
 
+---
+
 # UXA 1
 
 The User Experience Analysis (UXA) is designed to be an optional, freeform way for you to express how you are taking the concepts learned in the class and applying them to a real-world situation. The idea is to explore how HCI is just as much an art as it is a science.
 
 You can find the rest of the assignment [here](https://docs.google.com/document/d/1WPa6qOf2tzREZKMXx9F_kovLF-lFBUCHPytKmP7HRwA/edit?usp=sharing).
+
+---
 
 # Annotated Bibliography
 

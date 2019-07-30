@@ -3,6 +3,7 @@
 Flesh out 302 and 401, copying from old site.
 Make list of major differences between two 401s.
 Create 401 slideshows for class. Update 302's.
+Double check the Manga Guide readings and supplemental videos are chapter appropriate
 
 # Update log
 
