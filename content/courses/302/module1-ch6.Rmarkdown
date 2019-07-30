@@ -23,7 +23,7 @@ weight: 60
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Learning Objectives for *Research Design*
+## Learning Objectives for *Research Design*
 
 <details><summary>Show learning objectives</summary>
 <p>
@@ -47,29 +47,29 @@ These are the learning objectives for this portion of the class:
 </p>
 </details>
 
-# Consumables
+## Consumables
 
 Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof.
 
 - [Online Statistics Textbook, Chapter 6](http://onlinestatbook.com/2/research_design/contents.html)
     - [PDF of the chapter](http://onlinestatbook.com/2/research_design/research_design.pdf)
 
-# Assignments
+## Assignments
 
 Your assignments for this week are as follows:
 
-## Quiz
+### Quiz
 
 Don't forget about your chapter quiz! Find it in the Quizzes menu in D2L.
 
-## Chapter Questions
+### Chapter Questions
 
 Pick [a question from OST Chapter 6's Exercises section](http://onlinestatbook.com/2/research_design/exercises.html) that one one else has selected yet and post how you solved it.
 
 - 2 pts per each chapter’s Slack channel (initial post AND response)
 - no partial credit for initial post only or response only
 
-### Steps to completion
+#### Steps to completion
 
 1. Choose [a question from the end of the chapter in the section called "Exercises" to answer](http://onlinestatbook.com/2/graphing_distributions/ch2_exercises.html).  Post the question and your answer, and make sure to justify your response.
 

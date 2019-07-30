@@ -19,7 +19,7 @@ weight: 50
 
 
 
-# Learning Objectives for *Introduction to Inferential and Descriptive Statistics*
+## Learning Objectives for *Introduction to Inferential and Descriptive Statistics*
 <details><summary>Show learning objectives</summary>
 <p>
 These are the learning objectives for this portion of the class:
@@ -47,7 +47,7 @@ These are the learning objectives for this portion of the class:
 </p>
 </details>
 
-# Consumables
+## Consumables
 
 Each week there will be a number of items for you to consume, be it reading, watching, listening, or a combination thereof. This week, we will begin at the beginning:
 
@@ -69,11 +69,11 @@ You'll find more resources, guides, and tutorials for using R and RStudio on the
 
 Your assignments for this portion of week 1 are as follows:
 
-## Introductions
+### Introductions
 
 We are more than just a collection of random people studying the same material; we are, in fact, a community! [Research has shown](http://wenger-trayner.com/resources/what-is-a-community-of-practice/) we’re all better off in this way so let’s get to know one another! So let’s jump in straight away with something really creative that will (hopefully!) set the tone for the rest of the class.
 
-### Steps to Completion
+#### Steps to Completion
 
 Using the questions below (some, hopefully all!) you will [create an Adobe Spark **Video**](https://spark.adobe.com) (not a Page or Post!) introduction of yourself and share the link in the [#infv302 channel](https://uasouth.slack.com/messages/infv302/whats_new/) of our Slack team. You should be using this assignment as a means of becoming familiar with how to use Slack and its various features.
 
@@ -95,15 +95,15 @@ Once this is done, watch your classmates' introductions and reply to all of them
 1. Briefly explain your experience with online or hybrid classes.
 1. Give your peers a bit of friendly advice you've gathered on how to complete classes successfully (generally, specifically with your instructor, or both).
 
-## Get With Your Group
+### Get With Your Group
 
 You'll want to contact your group members *as soon as possible* to start your collaborative work. Creating [a private group in Slack](https://get.slack.help/hc/en-us/articles/212281468-Send-direct-messages#send-a-new-dm) is probably the best way to do this. How you organize is up to you. Your randomized groups are available in D2L in the navbar.
 
-## Quiz
+### Quiz
 
 Don't forget about your chapter quiz! Find it in the Quizzes menu in D2L.
 
-## Chapter Questions
+### Chapter Questions
 
 Pick a question from OST Chapter 1's Exercises section that one one else has selected yet, and post how you solved it. Respond to one of your classmate's answers by the due date.
 
@@ -112,7 +112,7 @@ Pick a question from OST Chapter 1's Exercises section that one one else has sel
 
 You might be asking yourself: **How do I know no one else has chosen that question?** You should choose your question *early* and post it in the Slack channel, claiming your spot! When you go to choose your question make sure you're looking in the chapter channel to verify you're the first.
 
-### Steps to completion
+#### Steps to completion
 
 1. Choose [a question from the end of the chapter in the section called "Exercises" to answer](http://onlinestatbook.com/2/introduction/ch1_exercises.html).  Post the question and your answer, and make sure to justify your response.
 
