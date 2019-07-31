@@ -65,7 +65,7 @@ The software we will be using to perform our statistical analyses and plotting/g
 
 You'll find more resources, guides, and tutorials for using R and RStudio on the [guides]({{< relref "resources-rguides.markdown" >}}) page. 
 
-# Assignments
+## Assignments
 
 Your assignments for this portion of week 1 are as follows:
 
