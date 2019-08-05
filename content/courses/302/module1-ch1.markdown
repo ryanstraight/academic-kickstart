@@ -65,7 +65,7 @@ The software we will be using to perform our statistical analyses and plotting/g
 
 You'll find more resources, guides, and tutorials for using R and RStudio on the [guides]({{< relref "resources-rguides.markdown" >}}) page. 
 
-# Assignments
+## Assignments
 
 Your assignments for this portion of week 1 are as follows:
 
@@ -75,7 +75,7 @@ We are more than just a collection of random people studying the same material; 
 
 #### Steps to Completion
 
-Using the questions below (some, hopefully all!) you will [create an Adobe Spark **Video**](https://spark.adobe.com) (not a Page or Post!) introduction of yourself and share the link in the [#infv302 channel](https://uasouth.slack.com/messages/infv302/whats_new/) of our Slack team. You should be using this assignment as a means of becoming familiar with how to use Slack and its various features.
+Using the questions below (some, hopefully all!) you will [create an Adobe Spark **Video**](https://spark.adobe.com) (not a Page or Post!) introduction of yourself and share the link in the [#infv302-social channel](https://uasouth.slack.com/messages/infv302-social/whats_new/) of our Slack team. You should be using this assignment as a means of becoming familiar with how to use Slack and its various features.
 
 First, [watch this tutorial](https://www.youtube.com/watch?v=-nKTi5ydKbw) and/or [this tutorial](https://youtu.be/-iZyMWBU708?t=36s) on creating a Spark video. Keep in mind that the different options you’re given when making a video (Promote an Idea, A Hero’s Journey, etc.) simply give you prompts for scenes and have no real impact on what you can do.
 
