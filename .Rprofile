@@ -20,3 +20,8 @@ options(prompt = "rs.com> ")
 if(interactive())
   try(fortunes::fortune(), silent = TRUE)
 
+# Speed up preview
+options(
+  blogdown.generator.server = TRUE,
+  blogdown.hugo.server = c('-D', '-F', '--navigateToChanged')
+)
