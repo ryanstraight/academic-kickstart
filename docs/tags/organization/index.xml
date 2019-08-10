@@ -1,21 +1,242 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>organization | ryan straight, ph.d</title>
+    <title>organization on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/organization/</link>
-      <atom:link href="https://ryanstraight.com/tags/organization/index.xml" rel="self" type="application/rss+xml" />
-    <description>organization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>organization</title>
-      <link>https://ryanstraight.com/tags/organization/</link>
-    </image>
+    <description>Recent content in organization on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building a MediaWiki Personal Knowledge Base, 2019 Style</title>
+      <link>https://ryanstraight.com/2019/08/08/pkb/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanstraight.com/2019/08/08/pkb/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-platform&#34;&gt;The Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#appearance&#34;&gt;Appearance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#extensions&#34;&gt;Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#what-else&#34;&gt;What else?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;My personal knowledge base (PKB) is turning 10 years old this December. Back in graduate school, I wanted a way to keep track of not just resources and references and miscellany, but also a way to kind of keep my life organized. It’s actually something I talked about &lt;a href=&#34;https://thenewprofessor/019/&#34;&gt;back in an episode of my podcast, The New Professor&lt;/a&gt;. You can have a listen here:&lt;/p&gt;
+&lt;audio src=&#34;https://s3-us-west-1.amazonaws.com/thenewprofessor.com/mp3s/TNP_Ep019.mp3&#34; controls=&#34;controls&#34;&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;p&gt;Some folks have expressed an interest in seeing how I go about setting up and actually using my PBK. So, I figured, let’s write it up!&lt;/p&gt;
+&lt;div id=&#34;the-platform&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Platform&lt;/h2&gt;
+&lt;p&gt;I’ve always liked wikis. The interconnectedness of knowledge (can you tell I’m a Connectivism fan?) is easy to follow and fairly well mimics the way our brains work in that we can bounce between related topics quickly. For that reason (and to force myself to learn how to work with PHP and SQL), I decided to start my own MediaWiki.&lt;/p&gt;
+&lt;p&gt;Back then, in 2009, I was still very, very new at this. I had no idea that I could run the wiki locally on my own machine, so I bought some web space and threw it on there. There are &lt;a href=&#34;https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Windows&#34;&gt;pretty detailed instructions&lt;/a&gt; on the MediaWiki website on how to set up a local wiki, so I won’t go into that here. So, go on over there, get it installed, and come back. I’ll wait.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;appearance&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Appearance&lt;/h2&gt;
+&lt;p&gt;I’m big on making things look nice, even when they’re just for me. As such, I modeled the main page on my wiki after &lt;a href=&#34;http://edutechwiki.unige.ch/en/Main_Page&#34;&gt;EduTech Wiki&lt;/a&gt; with some obvious stylistic changes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mainpage.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I should note here that when I started this back in 2009, I had planned on letting other people use it. Since then I’ve made it just for myself. So, that’s why some language you’ll see there sounds like it’s for more than just me.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;extensions&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Extensions&lt;/h2&gt;
+&lt;p&gt;I use a number of extension to make it much more useful for me. It turns out that most of the ones I still use today are included in &lt;a href=&#34;Semantic_Bundle&#34;&gt;the Semantic Bundle&lt;/a&gt;, which I’ll address in a minute. Here are the ones that &lt;em&gt;aren’t&lt;/em&gt; included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MaintenanceShell&lt;/li&gt;
+&lt;li&gt;Newest Pages&lt;/li&gt;
+&lt;li&gt;Page Forms&lt;/li&gt;
+&lt;li&gt;SpecialNamespaces&lt;/li&gt;
+&lt;li&gt;WikiEditor&lt;/li&gt;
+&lt;li&gt;CategoryTree&lt;/li&gt;
+&lt;li&gt;Cite&lt;/li&gt;
+&lt;li&gt;CodeMirror&lt;/li&gt;
+&lt;li&gt;InputBox&lt;/li&gt;
+&lt;li&gt;Lingo&lt;/li&gt;
+&lt;li&gt;MyVariables&lt;/li&gt;
+&lt;li&gt;ParserFunctions&lt;/li&gt;
+&lt;li&gt;DataValuesValidators&lt;/li&gt;
+&lt;li&gt;MultiBoilerplate&lt;/li&gt;
+&lt;li&gt;ParserHooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;semantic-mediawiki&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Semantic MediaWiki&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki&#34;&gt;Semantic MediaWiki (SMW) package&lt;/a&gt; is what really makes this whole thing so useful.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Allows users to add structured data to wiki pages through simple wikitext markup that turns links to other pages and data values in a page into meaningful properties. With this information, SMW helps to search, organize, browse, evaluate, and share the wiki’s content.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is probably easier to demonstrate than just explain. We can take a look at one of my class pages.&lt;/p&gt;
+&lt;p&gt;Using a combination of boilerplates and templates, I can easily start a new page for a class offering. We’ll actually go through my fall 2019 ETCV 302 class here.&lt;/p&gt;
+&lt;p&gt;I load this &lt;code&gt;Course&lt;/code&gt; boilerplate (that I created):&lt;/p&gt;
+&lt;pre class=&#34;mediawiki&#34;&gt;&lt;code&gt;{{Infobox course
+&amp;lt;!--&amp;#39;&amp;#39;&amp;#39;DON&amp;#39;T WORRY ABOUT THE ALIGNMENT OR AMOUNT OF WHITE SPACE.&amp;#39;&amp;#39;&amp;#39; --&amp;gt;
+&amp;lt;!-- If you are entering a quarterly class rather than a general course, you may omit the fields marked with a star (*). They will be pulled from the course equivalent. --&amp;gt;
+| course     =                    &amp;lt;!-- This is the course prefix and number, such as EDCT 203 or MATH 113. --&amp;gt;
+| prefix     =                    &amp;lt;!-- * Place the prefix here again for semantic searches. EDCT or MATH or P SC,  whatever it may be.  --&amp;gt;
+| longname   =                    &amp;lt;!-- * The long name of the course goes here. Introduction to Philosophy of  Religion for example. --&amp;gt;
+| desc       =                    &amp;lt;!-- * The full description of the course goes here. Make sure there are no line breaks, as it breaks the infobox. --&amp;gt;
+| college    =                    &amp;lt;!-- * Place the college the course belongs to here. College of Education  or College of Communication for example.  --&amp;gt;
+| dept       =                    &amp;lt;!-- * Department in which the class is located. Linguistics or Educational  Studies for example. (The trailing &amp;quot;department&amp;quot; is added automatically.) --&amp;gt;
+| year       =                    &amp;lt;!-- This is the year offered. Remember, Fall of 2004 is considered part of  the 2005 school year. --&amp;gt;
+| term       =                    &amp;lt;!-- Choose between: Fall, Winter, Winter Intersession, Spring, Summer (full), Summer (1st session) and Summer (2nd session) --&amp;gt;
+| days       =                    &amp;lt;!-- The days offered. For example, Thursday or M T R F or Tu Th will  work.  --&amp;gt;
+| time       =                    &amp;lt;!-- Time of day the class is offered. 5pm - 9pm works just fine.  --&amp;gt;
+| room       =                    &amp;lt;!-- Room the class took place in. Should be building and room number: Morton  201 or Ellis 014 --&amp;gt;
+| hours      =                    &amp;lt;!-- * Number of credit hours. Numerical or written out, either is fine (5 or  five).  --&amp;gt;
+| call       =                    &amp;lt;!-- Call number for the course (five digit number): 01234 --&amp;gt;
+| section    =                    &amp;lt;!-- Section for the course. Normally A01 but can be any combination (X01 for  online courses, for example). --&amp;gt;
+| instructor =                    &amp;lt;!-- Instructor of record, without honorific. (Denis Leary rather than  Dr. Leary)  --&amp;gt;
+| syllabus   =                    &amp;lt;!-- Link to the syllabus file (PSY 101 Winter 2005 syllabus.doc for  example; can upload afterward by clicking on the red &amp;quot;Syllabus&amp;quot; link) --&amp;gt;
+| istudy     =                    &amp;lt;!-- Is this an independent study? This field is boolean, so Yes/No, True/False, 1/0 works, whatever you like. --&amp;gt;
+| text1      =                    &amp;lt;!-- Title of first text used. Make this the full-title of text with proper  capitalization as this will link to a page on the wiki for that text. --&amp;gt;
+| text2      =  
+| text3      =  
+| text4      =  
+| text5      =  
+| text6      =  
+| text7      =  
+| text8      =  
+| text9      =  
+| text10     =  
+}}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Again, some of the comments there are out of date but I deal. In the event that I’m doing a class entry for INFV 302, as long as I put &lt;code&gt;ETCV 302&lt;/code&gt; in the “Course” field, it will match the rested of the non-semester-specific data to that page’s information, shortening the amount of work to create the page. I just have to fill in the term-specific content (days, times, room, call number, etc). This creates an infobox on the class page (which is handy and looks like) but also creates a &lt;em&gt;lot&lt;/em&gt; of semantic data that I can use later to filter, find, analyze, etc, my classes.&lt;/p&gt;
+&lt;p&gt;If you’re curious, here’s the template code for that page:&lt;/p&gt;
+&lt;pre class=&#34;mediawiki&#34;&gt;&lt;code&gt;&amp;lt;includeonly&amp;gt;{|style=&amp;quot;float:{{{align|right}}}; clear: right; width:{{#if:{{{width|}}}|{{{width|}}}|264px}}; text-align:left; border:1px solid darkgray;&amp;quot; cellspacing=&amp;quot;0&amp;quot; cellpadding=&amp;quot;3&amp;quot;
+|-
+! colspan=2 style=&amp;quot;background:#DDDDDD; font-style:italic; font-size:120%; text-align:center;&amp;quot; class=&amp;quot;summary&amp;quot; | [[Is course::{{{course}}}]]{{#if:{{{term|}}}| &amp;amp;nbsp;({{{term}}}}}{{#if:{{{year|}}}| &amp;amp;nbsp;{{{year}}})}}
+|-
+|colspan=2 style=&amp;quot;text-align:center;&amp;quot; {{#if:{{{longname|}}}| {{!}} [[Has course title::{{{longname|}}}]]| {{!}} [[Has course title::{{#show:{{{course}}} | ?Has course title =}}]] }}
+|-
+|colspan=2 style=&amp;quot;text-align:center; border-bottom:1px solid darkgray;&amp;quot; {{#if:{{{desc|}}}| {{!}}&amp;lt;span style=&amp;quot;font-size: .75em;&amp;quot;&amp;gt;{{{desc|}}}&amp;lt;/span&amp;gt;{{#set:has description={{{desc}}}}}| {{!}}&amp;lt;span style=&amp;quot;font-size: .75em;&amp;quot;&amp;gt;[[Has description::{{#show: {{{course}}} | ?Has description# =}}]]&amp;lt;/span&amp;gt;}}
+{{Alternating rows table section
+|es=background:#DDDDDD;
+|{{#if:{{{college|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;College&amp;#39;&amp;#39;&amp;#39; {{!!}}[[Has college::{{{college|}}}]] | {{!}} &amp;#39;&amp;#39;&amp;#39;College&amp;#39;&amp;#39;&amp;#39;  {{!!}} [[Has college::{{#show:{{{course}}} | ?Has college# =}}]] }}
+|{{#if:{{{dept|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Department&amp;#39;&amp;#39;&amp;#39; {{!!}}[[In department::{{{dept|}}} department{{!}}{{{dept|}}}]]| {{!}}  &amp;#39;&amp;#39;&amp;#39;Department&amp;#39;&amp;#39;&amp;#39; {{!!}}[[In department::{{#show:{{{course}}} | ?In department# =}}]] }}
+|{{#if:{{{year|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;School year&amp;#39;&amp;#39;&amp;#39; {{!!}}  [[Offered in year::{{{year|}}}]] }}
+|{{#if:{{{term|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Term&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Offered in term::{{{term|}}}]] }}
+|{{#if:{{{days|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Days&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Days offered are::{{{days}}}]] }}
+|{{#if:{{{time|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Times&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Held at this time::{{{time|}}}]] }}
+|{{#if:{{{room|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Room&amp;#39;&amp;#39;&amp;#39; {{!!}} [[In room::{{{room|}}}]] }}
+|{{#if:{{{hours|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Credit hours&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Number of credit hours::{{{hours|}}}]]|{{!}} &amp;#39;&amp;#39;&amp;#39;Credit hours&amp;#39;&amp;#39;&amp;#39;  {{!!}}  [[Number of credit hours::{{#show:{{{course}}} | ?Number of credit hours =}}]] }}
+|{{#if:{{{section|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Section&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Class section::{{{section|}}}]] }}
+|{{#ifeq:{{SUBPAGENAME}}|Infobox course/boilerplate||{{#if:{{{call|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Call number&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Call number::{{{call|}}}]]{{#set:is class=true}}{{#set:has class name={{FULLPAGENAME}}}}[[Category:Classes]]|{{#set:is class=false}}[[Category:Courses]]}} }}
+|{{#if:{{{instructor|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Instructor&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Instructor::{{{instructor|}}}]] }}
+|{{#if:{{{syllabus|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Syllabus&amp;#39;&amp;#39;&amp;#39; {{!!}} {{#set:Has syllabus=yes}}[[Media:{{{syllabus|}}}{{!}}Syllabus]] }}}}{{#if:{{{text1|}}}| {{!}}-
+{{!}}colspan=2 style=&amp;quot;text-align:center;&amp;quot; {{!}}  &amp;#39;&amp;#39;&amp;#39;Texts&amp;#39;&amp;#39;&amp;#39;
+{{!}}-
+{{!}}colspan=2 {{#if:{{{text1|}}}| {{!}}  [[Has textbook::{{{text1|}}}]] }}{{#if:{{{text2|}}}| ,  [[Has textbook::{{{text2|}}}]] }}{{#if:{{{text3|}}}| ,  [[Has textbook::{{{text3|}}}]] }}{{#if:{{{text4|}}}| ,  [[Has textbook::{{{text4|}}}]] }}{{#if:{{{text5|}}}| ,  [[Has textbook::{{{text5|}}}]], }}{{#if:{{{text6|}}}| ,  [[Has textbook::{{{text6|}}}]], }}{{#if:{{{text7|}}}| ,  [[Has textbook::{{{text7|}}}]], }}{{#if:{{{text8|}}}| ,  [[Has textbook::{{{text8|}}}]], }}{{#if:{{{text9|}}}| ,  [[Has textbook::{{{text9|}}}]] }} {{#if:{{{text10|}}}|  and [[Has textbook::{{{text10|}}}]] }}}}
+|}&amp;lt;!-- Everything after this is to improve semantic searching --&amp;gt;&amp;lt;!-- Switches term name to a number for term coding --&amp;gt;
+{{#if:{{{term|}}}|{{#switch: {{{term|}}}
+| Fall = {{#set:termcode={{{year}}}1}}
+| Winter = {{#set:termcode={{{year}}}2}}
+| Winter intersession = {{#set:termcode={{{year}}}2}}
+| Spring = {{#set:termcode={{{year}}}3}}
+| #default = {{#set:termcode={{{year}}}4}}
+}}|}}&amp;lt;!-- If the course has a call number and is  not an independent study, this adds a link to a page in your namespace  for notes --&amp;gt;{{#if:{{{call|}}}|{{#ifeq:{{{istudy|}}}|yes||{{YourClassNotes}}}}}}
+&amp;lt;!-- Sets independent study flag --&amp;gt;{{#if:{{{istudy|}}}|{{#set:is independent study={{{istudy|}}}}}|{{#set:is independent study=false}}}}
+&amp;lt;!-- If the course listing doesn&amp;#39;t have a call number this tells the wiki it&amp;#39;s a course and not a class and tells it to list related classes and what textbooks have been used in all those classes. --&amp;gt;{{#if:{{{call|}}}||{{Likecourse}}
+
+{{Coursetexts}}}}
+&amp;lt;/includeonly&amp;gt;&amp;lt;noinclude&amp;gt;
+{{Template:Infobox_course/doc}}
+[[Category:Templates]]&amp;lt;/noinclude&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;So what does all this do for me? Take a look at the &lt;code&gt;room&lt;/code&gt; line: &lt;code&gt;|{{#if:{{{room|}}}| {{!}} &#39;&#39;&#39;Room&#39;&#39;&#39; {{!!}} [[In room::{{{room|}}}]] }}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;In this case, if I add a room number (or anything in that field, like “Online”), the semantic code, &lt;code&gt;[[In room:: ... ]]&lt;/code&gt; adds a property to that page with the &lt;code&gt;In room&lt;/code&gt; value. Same for number of hours, same for days of the week the class is offered, and so on.&lt;/p&gt;
+&lt;p&gt;And what does &lt;em&gt;that&lt;/em&gt; mean? Well, first let’s see all the semantic data this template created:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;302semantics.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;See the &lt;code&gt;Held at this time&lt;/code&gt; property? In this class, that’s given the value of &lt;code&gt;6:00pm - 8:00pm&lt;/code&gt;. If I want to see what other classes I’ve taught that were also held at that time, I can just click the magnifying glass and I get this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;6to8time.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;But wait, there’s more!&lt;/p&gt;
+&lt;p&gt;This is cool and all, having that sort of identifiable and meaningful data, but where it really comes in handy is writing queries to get some really useful information.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;queries&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Queries&lt;/h3&gt;
+&lt;p&gt;So, I have a template that I’ve written for pages I add to the wiki for books or research material that I really, really want to delve deeply into and go beyond just having Zotero notes and whatnot. Those individual reference pages have a template much like the Course pages, in which I include bibliographic information, format, notes, links to other content, and so on.&lt;/p&gt;
+&lt;pre class=&#34;mediawiki&#34;&gt;&lt;code&gt;{{#ask:[[was created by::{{PAGENAME}}]]
+|mainlabel=References I&amp;#39;ve added
+|?was written by=Author
+|?format=Format
+|?modification date=Last modified
+|sort=Modification date
+|order=desc
+|format=broadtable
+|limit=5
+|searchlabel=View more...&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.semantic-mediawiki.org/wiki/Help:Semantic_search&#34;&gt;The &lt;code&gt;#ask&lt;/code&gt; function&lt;/a&gt; lets you look through pages on the wiki and pull out any of that semantic content. For this query, since I have this on my user page, I’m looking for any page in the wiki that was written by me (hence, &lt;code&gt;was created by::{{PAGENAME}}&lt;/code&gt;, &lt;code&gt;PAGENAME&lt;/code&gt; being equal to my username).&lt;/p&gt;
+&lt;p&gt;It grabs every page with that data (which is an included semantic annotation in my “Reference” template), pulls all of them into a table, includes the format of the reference (book, article, etc), the author, when I last modified that page, limits the table to the 5 most recent pages, and includes a link to view the rest of the search.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;added.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;(As you can see, I’ve been neglecting putting my research notes in the wiki, a practice I’m determined to return to.)&lt;/p&gt;
+&lt;p&gt;I do something very similar with a to-do list, wherein, on each term-based class page, I keep track of things I need to do for the next time I teach it. Those to-dos are embedded with semantic content, so I can then build a query that shows me all of the to-dos I need to take care of for the next semester’s classes &lt;em&gt;regardless of when it is&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;At this point, it’s just a matter of actually using the thing. It’s nice for the research content because you can easily identify cross-references with not just links but semantic relationships like &lt;code&gt;[[references but doesn&#39;t cite:: ... ]]&lt;/code&gt; or &lt;code&gt;[[was mentee of:: ... ]]&lt;/code&gt; or &lt;code&gt;[[relies heavily on:: ... ]]&lt;/code&gt; or even &lt;code&gt;[[neglected to cite:: ... ]]&lt;/code&gt;. Imagine the kind of 30,000ft view you could get of your entire body of literature if you take the time to do this. Pretty powerful, if you ask me.&lt;/p&gt;
+&lt;p&gt;This is just scratching the surface of what’s capable, so I encourage you to just play with it. Of course, sketching out a basic skeleton of how you’d like to organize things will go a long way toward keeping you sane. For example, for my class pages, I have the following kind of breakdown, where the sub-pages are actually sub-pages of the Course page (since that content doesn’t change from class to class, just gets updated and the updated version is what’s always used):&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;right&#34;&gt;Course&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Class&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Sub-pages&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 302&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 302 FA 19&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Week 1: Introduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Week 2: Research Design&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;…&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 401&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 401 FA 19&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Module 1: The Conceptual Model&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Module 2: Personas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;(and so on)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;So for the class pages the URL would just be &lt;code&gt;/wiki/w/index.php/INFV_302_FA_19&lt;/code&gt; but the individual week/module pages with lecture notes, slide deck links, discussion prompts, etc, would be at &lt;code&gt;/wiki/w/index.php/INFV_302/Week_1:_Introduction&lt;/code&gt;. The term-specific pages are &lt;em&gt;just&lt;/em&gt; term-specific and contain content like notes about the teaching of the class, reminders for weird dates, and reflections on what could be done better next time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-else&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What else?&lt;/h2&gt;
+&lt;p&gt;Well, I used to sync the wiki data between machines using Resilio Sync, but that caused problems with the database getting out of sync and time codes bringing the entire thing down. It worked for a long time but the system was so fragile that I gave up on that. Single location is better than nothing at all.&lt;/p&gt;
+&lt;p&gt;I use the wiki for much more than just work. I keep track of my workouts, books that I want to get from the local bookshop, details on software or code that I &lt;em&gt;always&lt;/em&gt; forget, the digitization and archiving of recipes handed down through the family, woodworking projects, my side-hustles (like the soon-to-be-released YouTube channel on body modification, Inkademic), even our wedding plans from a year and a half ago.&lt;/p&gt;
+&lt;p&gt;As everything is local, I tend to storage images and files elsewhere and just link to them (Tresorit is a favorite of mine for its privacy and encryption).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;stats.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;There were long periods of time where I didn’t use this. Mostly when I’d given up on finishing my PhD and has resigned myself to working in IT. The way it’s set up now took &lt;em&gt;years&lt;/em&gt; to get right. Hell, it’s not even right, now. I’m tweaking it, constantly. I stole lots and lots of templates and styles from Wikipedia to mimic the look. The key with using a system like this is &lt;em&gt;persistence&lt;/em&gt;. You have to keep using it, obviously.&lt;/p&gt;
+&lt;p&gt;Anyway, I hope this was useful to folks. Of course, if you want to put something like this online and allow collaboration, as it’s intended, there’s nothing stopping you. This is just my way of doing it because it’s only for me and you never know, y’know?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Finding Order in Chaos</title>
       <link>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</guid>
       <description>
 

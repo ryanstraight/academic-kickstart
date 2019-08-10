@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social | ryan straight, ph.d</title>
+    <title>Social on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/categories/social/</link>
-      <atom:link href="https://ryanstraight.com/categories/social/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>Social</title>
-      <link>https://ryanstraight.com/categories/social/</link>
-    </image>
+    <description>Recent content in Social on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/categories/social/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hi, EdSurge!</title>
       <link>https://ryanstraight.com/2018/07/05/hi-edsurge/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/07/05/hi-edsurge/</guid>
       <description>
 

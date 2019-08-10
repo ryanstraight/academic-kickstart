@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
 
   
 
@@ -77,13 +77,13 @@ The Data First things first: create a new RStudio Project. Using a separate proj
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.02c61813bf6bf633aa2cf7bb72d35d43.css">
+  <link rel="stylesheet" href="/css/academic.min.c85be7ad55337e6c4899478c9dcd066a.css">
 
   
 
@@ -98,7 +98,7 @@ The Data First things first: create a new RStudio Project. Using a separate proj
       ga('require', 'urlChangeTracker');
       ga('send', 'pageview');
     </script>
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
     
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
     
@@ -107,8 +107,7 @@ The Data First things first: create a new RStudio Project. Using a separate proj
 
   
 
-  
-
+  <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
@@ -121,7 +120,6 @@ The Data First things first: create a new RStudio Project. Using a separate proj
     
     
   
-  
   <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@ryanstraight">
@@ -132,12 +130,11 @@ The Data First things first: create a new RStudio Project. Using a separate proj
   <meta property="og:title" content="Activity A | ryan straight, ph.d">
   <meta property="og:description" content="Week 2 (Activity A) Description A marketing consultant observed 50 consecutive shoppers at a grocery store, and recorded how much money each shopper spent in the store. The dataset is listed below.
 The Data First things first: create a new RStudio Project. Using a separate project for each assignment is probably best. Don&rsquo;t worry about version control unless you either a) plan on working on these assignments across multiple devices, or b) are already knowledgeable of and comfortable with Git or Subversion."><meta property="og:image" content="https://ryanstraight.com/img/icon-192.png">
-  <meta property="twitter:image" content="https://ryanstraight.com/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:locale" content="en-us">
   
-    
-      <meta property="article:published_time" content="2019-06-05T00:00:00-07:00">
-    
-    <meta property="article:modified_time" content="2019-06-05T00:00:00-07:00">
+  <meta property="article:published_time" content="2019-06-05T00:00:00-07:00">
+  
+  <meta property="article:modified_time" content="2019-06-05T00:00:00-07:00">
   
 
   
@@ -153,7 +150,8 @@ The Data First things first: create a new RStudio Project. Using a separate proj
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -171,7 +169,7 @@ The Data First things first: create a new RStudio Project. Using a separate proj
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
         
       </div>
 
@@ -188,7 +186,7 @@ The Data First things first: create a new RStudio Project. Using a separate proj
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
     
@@ -447,7 +445,7 @@ The Data First things first: create a new RStudio Project. Using a separate proj
   </button>
 
   
-  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
   
 </form>
 
@@ -862,13 +860,7 @@ kable(dfa, caption = &quot;Spending&quot;) # That displays the data frame we've 
         </div>
 
         <div class="body-footer">
-          <p>Last updated on Jun 5, 2019</p>
-
-          
-
-
-          
-
+          Last updated on Jun 5, 2019
         </div>
 
       </article>
@@ -919,7 +911,7 @@ kable(dfa, caption = &quot;Spending&quot;) # That displays the data frame we've 
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
         
       
 
@@ -932,6 +924,10 @@ kable(dfa, caption = &quot;Spending&quot;) # That displays the data frame we've 
     
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
     
 
     
@@ -991,9 +987,6 @@ kable(dfa, caption = &quot;Spending&quot;) # That displays the data frame we've 
 
     
     
-
-    
-    
     
     
     
@@ -1006,7 +999,7 @@ kable(dfa, caption = &quot;Spending&quot;) # That displays the data frame we've 
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.9ef1b53ee2bde6c7f33b150c6ba4d452.js"></script>
 
     
 

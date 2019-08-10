@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Diamond Age | ryan straight, ph.d</title>
+    <title>The Diamond Age on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/the-diamond-age/</link>
-      <atom:link href="https://ryanstraight.com/tags/the-diamond-age/index.xml" rel="self" type="application/rss+xml" />
-    <description>The Diamond Age</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>The Diamond Age</title>
-      <link>https://ryanstraight.com/tags/the-diamond-age/</link>
-    </image>
+    <description>Recent content in The Diamond Age on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/tags/the-diamond-age/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Educated vs Intelligent</title>
       <link>https://ryanstraight.com/2018/07/06/educated-vs-intelligent/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/07/06/educated-vs-intelligent/</guid>
       <description>
 

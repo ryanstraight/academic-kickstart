@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | ryan straight, ph.d</title>
+    <title>Projects on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/project/</link>
-      <atom:link href="https://ryanstraight.com/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Fri, 24 Aug 2018 09:47:44 -0700</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>https://ryanstraight.com/project/</link>
-    </image>
+    <description>Recent content in Projects on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Fri, 24 Aug 2018 09:47:44 -0700</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Read, Watch, Woof</title>
       <link>https://ryanstraight.com/project/read-watch-woof/</link>
       <pubDate>Fri, 24 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/project/read-watch-woof/</guid>
       <description>&lt;p&gt;I have a newsletter: &lt;strong&gt;Read, Watch, Woof&lt;/strong&gt;! RWW goes out Fridays on TNP off-weeks. It consists, as you may have gathered from the title, a little bit of personal-ish writing by me (also featured here), an interesting and entertaining video to watch, and a picture of one (or more) of our dogs. Enjoy! (And don&amp;rsquo;t worry, I won&amp;rsquo;t give away your email address or spam you. Promise.)
 &lt;br /&gt;&lt;/p&gt;
@@ -31,6 +32,7 @@
       <title>Squad Goals network</title>
       <link>https://ryanstraight.com/project/squad-goals-network-project/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/project/squad-goals-network-project/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Squad Goals Network&lt;/strong&gt; is a collection of like-minded teachers, designers, and researchers that get together to gab, think of innovative ways to bring technology and collaboration into higher education and K-12, and just generally have a good time. We try to uphold and demonstrate our principles through support and collaborative work.&lt;/p&gt;
 
@@ -42,6 +44,7 @@
       <title>The New Professor</title>
       <link>https://ryanstraight.com/project/the-new-professor/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/project/the-new-professor/</guid>
       <description></description>
     </item>
