@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>INFV 302: Statistics in the Information Age on ryan straight, ph.d</title>
+    <title>INFV 302: Statistics in the Information Age | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/courses/302/</link>
-    <description>Recent content in INFV 302: Statistics in the Information Age on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 -0700</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/courses/302/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/courses/302/index.xml" rel="self" type="application/rss+xml" />
+    <description>INFV 302: Statistics in the Information Age</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/courses/302/featured.jpg</url>
+      <title>INFV 302: Statistics in the Information Age</title>
+      <link>https://ryanstraight.com/courses/302/</link>
+    </image>
     
     <item>
       <title>Syllabus</title>
       <link>https://ryanstraight.com/courses/302/syllabus/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/syllabus/</guid>
       <description>
 
@@ -450,7 +449,6 @@
       <title>Module 1</title>
       <link>https://ryanstraight.com/courses/302/module1/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/module1/</guid>
       <description>
 
@@ -476,7 +474,6 @@
       <title>Introduction to Statistics</title>
       <link>https://ryanstraight.com/courses/302/module1-ch1/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/module1-ch1/</guid>
       <description>
 
@@ -619,7 +616,6 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
       <title>Research Design</title>
       <link>https://ryanstraight.com/courses/302/module1-ch6/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/module1-ch6/</guid>
       <description>
 
@@ -700,7 +696,6 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
       <title>Assignments</title>
       <link>https://ryanstraight.com/courses/302/assignments/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/assignments/</guid>
       <description>&lt;p&gt;Assignments for this class are basically broken into five types:&lt;/p&gt;
 
@@ -718,7 +713,6 @@ These are the learning objectives for this portion of the class:&lt;/p&gt;
       <title>Activity A</title>
       <link>https://ryanstraight.com/courses/302/activitya/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/activitya/</guid>
       <description>
 
@@ -1004,7 +998,6 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
       <title>Resources</title>
       <link>https://ryanstraight.com/courses/302/resources/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/resources/</guid>
       <description>
 
@@ -1044,7 +1037,6 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
       <title>R and RStudio</title>
       <link>https://ryanstraight.com/courses/302/resources-rguides/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/resources-rguides/</guid>
       <description>
 
@@ -1106,7 +1098,6 @@ kable(dfa, caption = &amp;quot;Spending&amp;quot;) # That displays the data fram
       <title>Big Data</title>
       <link>https://ryanstraight.com/courses/302/resources-bigdata/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/302/resources-bigdata/</guid>
       <description>
 

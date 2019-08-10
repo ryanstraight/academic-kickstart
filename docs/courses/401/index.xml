@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>INFV 401: Introduction to Human-Computer Interaction on ryan straight, ph.d</title>
+    <title>INFV 401: Introduction to Human-Computer Interaction | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/courses/401/</link>
-    <description>Recent content in INFV 401: Introduction to Human-Computer Interaction on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 -0700</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/courses/401/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/courses/401/index.xml" rel="self" type="application/rss+xml" />
+    <description>INFV 401: Introduction to Human-Computer Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Wed, 12 Jun 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/courses/401/featured.jpg</url>
+      <title>INFV 401: Introduction to Human-Computer Interaction</title>
+      <link>https://ryanstraight.com/courses/401/</link>
+    </image>
     
     <item>
       <title>Syllabus</title>
       <link>https://ryanstraight.com/courses/401/syllabus/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/401/syllabus/</guid>
       <description>
 
@@ -883,7 +882,6 @@ Disruptive Student Behavior policy: &lt;a href=&#34;https://deanofstudents.arizo
       <title>Syllabus</title>
       <link>https://ryanstraight.com/courses/401/info/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://ryanstraight.com/courses/401/info/</guid>
       <description></description>
     </item>

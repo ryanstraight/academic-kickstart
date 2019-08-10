@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>workflow on ryan straight, ph.d</title>
+    <title>workflow | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/workflow/</link>
-    <description>Recent content in workflow on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    <description>workflow</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>workflow</title>
+      <link>https://ryanstraight.com/tags/workflow/</link>
+    </image>
     
     <item>
       <title>Electronic Academic Workflow: Paperless Researching</title>
       <link>https://ryanstraight.com/2013/12/01/electronic-academic-workflow-paperless-researching/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2013/12/01/electronic-academic-workflow-paperless-researching/</guid>
       <description>
 

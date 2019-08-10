@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>voodoo museum on ryan straight, ph.d</title>
+    <title>voodoo museum | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/voodoo-museum/</link>
-    <description>Recent content in voodoo museum on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/tags/voodoo-museum/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/tags/voodoo-museum/index.xml" rel="self" type="application/rss+xml" />
+    <description>voodoo museum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>voodoo museum</title>
+      <link>https://ryanstraight.com/tags/voodoo-museum/</link>
+    </image>
     
     <item>
       <title>New Orleans 2017</title>
       <link>https://ryanstraight.com/2017/07/26/new-orleans-2017/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2017/07/26/new-orleans-2017/</guid>
       <description>
 

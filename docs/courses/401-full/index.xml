@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>INFV 401: Introduction to Human-Computer Interaction on ryan straight, ph.d</title>
+    <title>INFV 401: Introduction to Human-Computer Interaction | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/courses/401-full/</link>
-    <description>Recent content in INFV 401: Introduction to Human-Computer Interaction on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 -0700</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/courses/401-full/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/courses/401-full/index.xml" rel="self" type="application/rss+xml" />
+    <description>INFV 401: Introduction to Human-Computer Interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Mon, 29 Jul 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/courses/401-full/featured.jpg</url>
+      <title>INFV 401: Introduction to Human-Computer Interaction</title>
+      <link>https://ryanstraight.com/courses/401-full/</link>
+    </image>
     
     <item>
       <title>Syllabus</title>
       <link>https://ryanstraight.com/courses/401-full/syllabus/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/401-full/syllabus/</guid>
       <description>
 
@@ -885,7 +884,6 @@
       <title>Module 1: The Conceptual Model</title>
       <link>https://ryanstraight.com/courses/401-full/module1/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/401-full/module1/</guid>
       <description>
 
@@ -916,7 +914,6 @@
       <title>Module 1: The Conceptual Model: Consumables</title>
       <link>https://ryanstraight.com/courses/401-full/module1-consumables/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/401-full/module1-consumables/</guid>
       <description>
 
@@ -940,7 +937,6 @@
       <title>Module 1: The Conceptual Model: Assignments</title>
       <link>https://ryanstraight.com/courses/401-full/module1-assignments/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/courses/401-full/module1-assignments/</guid>
       <description>
 
