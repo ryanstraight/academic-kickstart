@@ -57,7 +57,7 @@ Your browser does not support the audio element.
 </div>
 <div id="extensions" class="section level2">
 <h2>Extensions</h2>
-<p>I use a number of extension to make it much more useful for me. It turns out that most of the ones I still use today are included in <a href="Semantic_Bundle">the Semantic Bundle</a>, which I’ll address in a minute. Here are the ones that <em>aren’t</em> included:</p>
+<p>I use a number of extension to make it much more useful for me. It turns out that most of the ones I still use today are included in <a href="https://www.semantic-mediawiki.org/wiki/Help:Semantic_MediaWiki_extensions">the Semantic Bundle</a>, which I’ll address in a minute. Here are the ones that <em>aren’t</em> included:</p>
 <ul>
 <li>MaintenanceShell</li>
 <li>Newest Pages</li>
@@ -82,7 +82,7 @@ Your browser does not support the audio element.
 <p>Allows users to add structured data to wiki pages through simple wikitext markup that turns links to other pages and data values in a page into meaningful properties. With this information, SMW helps to search, organize, browse, evaluate, and share the wiki’s content.</p>
 </blockquote>
 <p>This is probably easier to demonstrate than just explain. We can take a look at one of my class pages.</p>
-<p>Using a combination of boilerplates and templates, I can easily start a new page for a class offering. We’ll actually go through my fall 2019 ETCV 302 class here.</p>
+<p>Using a combination of boilerplates and templates, I can easily start a new page for a class offering. We’ll actually go through my fall 2019 INFV 302 class here.</p>
 <p>I load this <code>Course</code> boilerplate (that I created):</p>
 <pre class="mediawiki"><code>{{Infobox course
 &lt;!--&#39;&#39;&#39;DON&#39;T WORRY ABOUT THE ALIGNMENT OR AMOUNT OF WHITE SPACE.&#39;&#39;&#39; --&gt;
@@ -115,7 +115,7 @@ Your browser does not support the audio element.
 | text9      =  
 | text10     =  
 }}</code></pre>
-<p>Again, some of the comments there are out of date but I deal. In the event that I’m doing a class entry for INFV 302, as long as I put <code>ETCV 302</code> in the “Course” field, it will match the rested of the non-semester-specific data to that page’s information, shortening the amount of work to create the page. I just have to fill in the term-specific content (days, times, room, call number, etc). This creates an infobox on the class page (which is handy and looks like) but also creates a <em>lot</em> of semantic data that I can use later to filter, find, analyze, etc, my classes.</p>
+<p>Again, some of the comments there are out of date but I deal. In the event that I’m doing a class entry for INFV 302, as long as I put <code>INFV 302</code> in the “Course” field, it will match the rested of the non-semester-specific data to that page’s information, shortening the amount of work to create the page. I just have to fill in the term-specific content (days, times, room, call number, etc). This creates an infobox on the class page (which is handy and looks like) but also creates a <em>lot</em> of semantic data that I can use later to filter, find, analyze, etc, my classes.</p>
 <p>If you’re curious, here’s the template code for that page:</p>
 <pre class="mediawiki"><code>&lt;includeonly&gt;{|style=&quot;float:{{{align|right}}}; clear: right; width:{{#if:{{{width|}}}|{{{width|}}}|264px}}; text-align:left; border:1px solid darkgray;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;3&quot;
 |-

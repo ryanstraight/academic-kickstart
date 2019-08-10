@@ -54,7 +54,7 @@ I should note here that when I started this back in 2009, I had planned on letti
 
 ## Extensions
 
-I use a number of extension to make it much more useful for me. It turns out that most of the ones I still use today are included in [the Semantic Bundle](Semantic_Bundle), which I'll address in a minute. Here are the ones that _aren't_ included:
+I use a number of extension to make it much more useful for me. It turns out that most of the ones I still use today are included in [the Semantic Bundle](https://www.semantic-mediawiki.org/wiki/Help:Semantic_MediaWiki_extensions), which I'll address in a minute. Here are the ones that _aren't_ included:
 
 + MaintenanceShell
 + Newest Pages
@@ -80,7 +80,7 @@ The [Semantic MediaWiki (SMW) package](https://www.semantic-mediawiki.org/wiki/S
 
 This is probably easier to demonstrate than just explain. We can take a look at one of my class pages.
 
-Using a combination of boilerplates and templates, I can easily start a new page for a class offering. We'll actually go through my fall 2019 ETCV 302 class here.
+Using a combination of boilerplates and templates, I can easily start a new page for a class offering. We'll actually go through my fall 2019 INFV 302 class here.
 
 I load this `Course` boilerplate (that I created):
 
@@ -117,7 +117,7 @@ I load this `Course` boilerplate (that I created):
 | text10     =  
 }}
 ```
-Again, some of the comments there are out of date but I deal. In the event that I'm doing a class entry for INFV 302, as long as I put `ETCV 302` in the "Course" field, it will match the rested of the non-semester-specific data to that page's information, shortening the amount of work to create the page. I just have to fill in the term-specific content (days, times, room, call number, etc). This creates an infobox on the class page (which is handy and looks like) but also creates a _lot_ of semantic data that I can use later to filter, find, analyze, etc, my classes.
+Again, some of the comments there are out of date but I deal. In the event that I'm doing a class entry for INFV 302, as long as I put `INFV 302` in the "Course" field, it will match the rested of the non-semester-specific data to that page's information, shortening the amount of work to create the page. I just have to fill in the term-specific content (days, times, room, call number, etc). This creates an infobox on the class page (which is handy and looks like) but also creates a _lot_ of semantic data that I can use later to filter, find, analyze, etc, my classes.
 
 If you're curious, here's the template code for that page:
 
