@@ -3,93 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ryanstraight.com/courses/401-full/</loc>
-    <lastmod>2019-07-29T00:00:00-07:00</lastmod>
+    <loc>https://ryanstraight.com/talk/</loc>
+    <lastmod>2019-09-20T14:00:00-10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/courses/302/</loc>
-    <lastmod>2019-06-13T00:00:00-07:00</lastmod>
+    <loc>https://ryanstraight.com/talk/olccollaborate2019/</loc>
+    <lastmod>2019-09-20T14:00:00-10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/courses/401/</loc>
-    <lastmod>2019-06-13T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/401-full/syllabus/</loc>
-    <lastmod>2019-07-29T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/401/syllabus/</loc>
-    <lastmod>2019-07-29T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/syllabus/</loc>
-    <lastmod>2019-07-29T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/module1/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/401-full/module1/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/401/info/</loc>
-    <lastmod>2019-06-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/module1-ch1/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/401-full/module1-consumables/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/401-full/module1-assignments/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/module1-ch6/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/assignments/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/activitya/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/resources/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/resources-rguides/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/302/resources-bigdata/</loc>
-    <lastmod>2019-06-05T00:00:00-07:00</lastmod>
+    <loc>https://ryanstraight.com/</loc>
+    <lastmod>2019-09-20T14:00:00-10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -145,12 +71,6 @@
   
   <url>
     <loc>https://ryanstraight.com/tags/pkb/</loc>
-    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -328,6 +248,12 @@
   </url>
   
   <url>
+    <loc>https://ryanstraight.com/tags/professional/</loc>
+    <lastmod>2019-06-13T16:27:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ryanstraight.com/project/squad-goals-network-project/</loc>
     <lastmod>2018-08-05T09:47:44-07:00</lastmod>
   </url>
@@ -346,12 +272,6 @@
   <url>
     <loc>https://ryanstraight.com/tags/podcast/</loc>
     <lastmod>2019-06-13T16:30:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/tags/professional/</loc>
-    <lastmod>2019-06-13T16:27:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -794,14 +714,6 @@
     <loc>https://ryanstraight.com/tags/mobile-learning/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/talk/</loc>
   </url>
   
 </urlset>
