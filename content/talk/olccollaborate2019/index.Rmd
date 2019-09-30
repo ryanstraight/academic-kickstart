@@ -1,0 +1,59 @@
+---
+title: The Games Peoples Play
+event: OLC Collaborate 2019, Maui
+event_url: https://onlinelearningconsortium.org/attend-2019/collaborate-maui/#topic3
+location: "University of Hawai'i Maui College, Maui, Hawai'i"
+summary: Games, engagement, and representation.
+abstract: "How are indigenous and multicultural identities represented in video games? How can games be used to engage underrepresented groups and support deep learning in higher education? In this talk, Dr. Straight explores phenomena like gamification, game-based learning, and best practices for including these incredibly powerful but often mis- or under-utilized instructional strategies in supporting multicultural perspectives in education. He suggests ways in which, through these lenses, video games can create better understanding, engage underrepresented groups, and support more authentic learning experiences."
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2019-09-20T14:00:00-10:00"
+date_end: "2019-09-20T14:45:00-10:00"
+all_day: false
+
+# Schedule page publish date (NOT talk date).
+publishDate: "2019-09-19T08:00:00-07:00"
+
+authors: []
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: true
+
+image:
+  caption:
+  focal_point: center
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/ryanstraight
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+# Enable math on this page?
+math: true
+---
+
+
+```{r echo=FALSE}
+blogdown::shortcode("gdocs", "https://drive.google.com/open?id=1K1lm-gOU1b3XC2bWBkPjoGo--jxVLHbQpY_eLQqa28c")
+```
