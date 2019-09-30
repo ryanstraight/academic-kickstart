@@ -112,6 +112,9 @@ plugins_js  = []
 ## Advanced options       ##
 ############################
 
+# Disable linking authors to their profile page
+link_authors = false
+
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
@@ -182,3 +185,10 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = "UA-123447651-1"
+  google_tag_manager = ""
