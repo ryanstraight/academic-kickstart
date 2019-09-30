@@ -57,4 +57,3 @@ math: true
 ```{r echo=FALSE}
 blogdown::shortcode("gdocs", "src='https://drive.google.com/open?id=1K1lm-gOU1b3XC2bWBkPjoGo--jxVLHbQpY_eLQqa28c'")
 ```
-
