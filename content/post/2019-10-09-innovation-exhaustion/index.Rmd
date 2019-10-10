@@ -1,5 +1,6 @@
 ---
 title: Innovation Exhaustion
+draft: false
 author: ryan
 date: '2019-10-09'
 slug: innovation-exhaustion
@@ -16,6 +17,7 @@ image:
   caption: '[By Hutomo Abrianto on Unsplash](https://unsplash.com/photos/3TRdlKU-3II)'
   focal_point: ''
   preview_only: no
+  placement: 1
 projects: []
 output:
   blogdown::html_page:
