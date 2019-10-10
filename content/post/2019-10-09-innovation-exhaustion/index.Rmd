@@ -17,6 +17,10 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
 ---
 
 A friend accused me of getting cranky in my dotage. This piece perhaps is the digital equivalent of a get-off-my-lawn sign. You've been warned.
@@ -37,6 +41,9 @@ More accurately, what is innovation *supposed* to be?
 
 Innovation, the word, feels like it's gone the way of "tenure." Remember when tenure was supposed to be the shield against public whim or arbitrary leadership tides? And somehow it's become something different? Yeah. It's like that.
 
+
+
+If you Google "innovation" and limit it to sites that end in .edu, you get:
 
 
 
