@@ -1,0 +1,20 @@
+---
+title: Innovation Exhaustion
+author: ryan
+date: '2019-10-09'
+slug: innovation-exhaustion
+categories:
+  - Academic
+tags:
+  - innovation
+subtitle: "Gettin' real tired of that word."
+summary: ''
+authors: []
+lastmod: '2019-10-09T22:40:07-07:00'
+featured: no
+image:
+  caption: '[By Hutomo Abrianto on Unsplash](https://unsplash.com/photos/3TRdlKU-3II)'
+  focal_point: ''
+  preview_only: no
+projects: []
+---
