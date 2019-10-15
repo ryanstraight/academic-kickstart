@@ -1,0 +1,57 @@
+---
+title: Innovation Exhaustion
+draft: true
+author: ryan
+date: '2019-10-09'
+slug: innovation-exhaustion
+categories:
+  - Academic
+tags:
+  - innovation
+subtitle: "Gettin' real tired of that word."
+summary: ''
+authors: []
+lastmod: '2019-10-09T22:40:07-07:00'
+featured: no
+image:
+  caption: '[By Hutomo Abrianto on Unsplash](https://unsplash.com/photos/3TRdlKU-3II)'
+  focal_point: ''
+  preview_only: no
+  placement: 1
+projects: []
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 2
+---
+
+A friend accused me of getting cranky in my dotage. This piece perhaps is the digital equivalent of a get-off-my-lawn sign. You've been warned.
+
+I'm tired of innovation.[^1]
+
+Not the idea, just the word. It's lost meaning, I feel. It's up there with *synergy* and _________ and all the other words that've been over-wrought, under-appreciated, had their teeth filed down and their blood squeezes from them.
+
+When's the last time you heard someone mention *innovation*, especially by or in reference to something administrative, and were actually excited to hear what it was?
+
+It's been a long time for me. 
+
+So let's dig into this a bit.
+
+## What is *innovation*?
+
+More accurately, what is innovation *supposed* to be? 
+
+Innovation, the word, feels like it's gone the way of "tenure." Remember when tenure was supposed to be the shield against public whim or arbitrary leadership tides? And somehow it's become something different? Yeah. It's like that.
+
+
+
+If you Google "innovation" and limit it to sites that end in .edu, you get:
+
+
+
+
+
+
+
+
+[^1]: I should clarify that I'm not tired of the OLC Innovate conference, where I've met some of what I consider my closest internet pals. Just want to point out that out.
