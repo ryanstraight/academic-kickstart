@@ -6,7 +6,7 @@
     <description>Recent content on ryan straight, ph.d</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <copyright>&amp;copy;{year} Ryan Straight</copyright>
     <lastBuildDate>Fri, 20 Sep 2019 14:00:00 -1000</lastBuildDate>
     
 	    <atom:link href="https://ryanstraight.com/index.xml" rel="self" type="application/rss+xml" />
@@ -485,9 +485,9 @@ Your browser does not support the audio element.
 &lt;p&gt;I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.&lt;/p&gt;
 &lt;p&gt;Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.&lt;/p&gt;
 &lt;p&gt;While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”&lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;mjs-d052302739a7e72d313d0795b7d3e8&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;mjs-d052302739a7e72d313d0795b7d3e8-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-d052302739a7e72d313d0795b7d3e8&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-d052302739a7e72d313d0795b7d3e8&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;mjs-b4dae2b2baa57490288931b5c3e2ce&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;mjs-b4dae2b2baa57490288931b5c3e2ce-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-b4dae2b2baa57490288931b5c3e2ce&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-b4dae2b2baa57490288931b5c3e2ce&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p&gt;Below each picture and accompanying temperature is a description of a relative internal cooking temperature&lt;a href=&#34;#fn4&#34; class=&#34;footnote-ref&#34; id=&#34;fnref4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; for comparison.&lt;/p&gt;
 &lt;div id=&#34;am&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;11am&lt;/h2&gt;
@@ -681,10 +681,16 @@ The content on the site is released under a &lt;a href=&#34;https://creativecomm
 &lt;div id=&#34;under-the-following-terms&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Under the following terms:&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Attribution&lt;/strong&gt;: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;NonCommercial&lt;/strong&gt;: You may not use the material for commercial purposes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NonCommercial&lt;/strong&gt;: You may not use the material for commercial purposes.&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ShareAlike&lt;/strong&gt;: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;You can also &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;read George Cushen’s license for the Academic Hugo theme&lt;/a&gt; if you like.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;As far as I’m concerned, if you use anything to help you with your “work,” that’s great. Just don’t take and sell, basically.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -698,7 +704,30 @@ The content on the site is released under a &lt;a href=&#34;https://creativecomm
       <description>
 
 
-&lt;p&gt;Subscribe!&lt;/p&gt;
+&lt;p&gt;Every other week I put out the &lt;a href=&#34;https://thenewprofessor.com&#34;&gt;The New Professor&lt;/a&gt; podcast. On every &lt;em&gt;other&lt;/em&gt; other week, I send out a newsletter! Well, something adjacent to a newsletter, anyway.&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Each email consists of:&lt;br /&gt;
+1) a little bit of writing by me, whether that’s something about the news or some personal updates or whatever is on my mind that doesn’t constitute a full publication (that’s the &lt;strong&gt;read&lt;/strong&gt; part),&lt;br /&gt;
+2) a video that I think is worth checking out, sometimes music videos and sometimes just weird stuff (that’s the &lt;strong&gt;watch&lt;/strong&gt;), and&lt;br /&gt;
+3) a picture of one of our dogs (that’s, if you can believe it, the &lt;strong&gt;woof&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Why a picture of the dogs? I mean, &lt;a href=&#34;https://pbs.twimg.com/media/EHIHad6WoAAz7GY.jpg&#34;&gt;have you &lt;em&gt;seen&lt;/em&gt; our dogs&lt;/a&gt;?&lt;/p&gt;
+&lt;form style=&#34;border:1px solid #ccc;padding:3px;text-align:center;&#34; action=&#34;https://tinyletter.com/ryanstraight&#34; method=&#34;post&#34; target=&#34;popupwindow&#34; onsubmit=&#34;window.open(&amp;#39;https://tinyletter.com/ryanstraight&amp;#39;, &amp;#39;popupwindow&amp;#39;, &amp;#39;scrollbars=yes,width=800,height=600&amp;#39;);return true&#34;&gt;
+&lt;p&gt;
+&lt;label for=&#34;tlemail&#34;&gt;Enter your email address&lt;/label&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;input type=&#34;text&#34; style=&#34;width:140px&#34; name=&#34;email&#34; id=&#34;tlemail&#34; /&gt;
+&lt;/p&gt;
+&lt;input type=&#34;hidden&#34; value=&#34;1&#34; name=&#34;embed&#34;/&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; /&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://tinyletter.com&#34; target=&#34;_blank&#34;&gt;powered by TinyLetter&lt;/a&gt;
+&lt;/p&gt;
+&lt;/form&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;You’ll get &lt;em&gt;at most&lt;/em&gt; one every other week and you’ll &lt;em&gt;never&lt;/em&gt; get spammed. Doesn’t that sound nice?&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
 </description>
     </item>
     

@@ -14,5 +14,14 @@ header:
   caption: ''
 ---
 
+Every other week I put out the [The New Professor](https://thenewprofessor.com) podcast. On every *other* other week, I send out a newsletter! Well, something adjacent to a newsletter, anyway.^[You'll get *at most* one every other week and you'll *never* get spammed. Doesn't that sound nice?]
+
+Each email consists of:  
+1) a little bit of writing by me, whether that's something about the news or some personal updates or whatever is on my mind that doesn't constitute a full publication (that's the **read** part),  
+2) a video that I think is worth checking out, sometimes music videos and sometimes just weird stuff (that's the **watch**), and  
+3) a picture of one of our dogs (that's, if you can believe it, the **woof**).
+
+Why a picture of the dogs? I mean, [have you *seen* our dogs](https://pbs.twimg.com/media/EHIHad6WoAAz7GY.jpg)?
+
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/ryanstraight" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/ryanstraight', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
          
