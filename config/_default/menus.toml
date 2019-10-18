@@ -67,7 +67,7 @@
 
 [[main]]
   name = "Newsletter"
-  url = "https://tinyletter.com/ryanstraight"
+  url = "/newsletter"
   weight = 50
 
 [[main]]
