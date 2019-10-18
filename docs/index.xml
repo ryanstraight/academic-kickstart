@@ -3,19 +3,20 @@
   <channel>
     <title>ryan straight, ph.d</title>
     <link>https://ryanstraight.com/</link>
-      <atom:link href="https://ryanstraight.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Fri, 20 Sep 2019 14:00:00 -1000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>ryan straight, ph.d</title>
-      <link>https://ryanstraight.com/</link>
-    </image>
+    <description>Recent content on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Fri, 20 Sep 2019 14:00:00 -1000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Games Peoples Play</title>
       <link>https://ryanstraight.com/talk/olccollaborate2019/</link>
       <pubDate>Fri, 20 Sep 2019 14:00:00 -1000</pubDate>
+      
       <guid>https://ryanstraight.com/talk/olccollaborate2019/</guid>
       <description>
 
@@ -30,6 +31,7 @@
       <title>Building a MediaWiki Personal Knowledge Base, 2019 Style</title>
       <link>https://ryanstraight.com/2019/08/08/pkb/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2019/08/08/pkb/</guid>
       <description>
 
@@ -249,6 +251,7 @@ Your browser does not support the audio element.
       <title>#WeAreOLC</title>
       <link>https://ryanstraight.com/2019/07/24/weareolc/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2019/07/24/weareolc/</guid>
       <description>
 
@@ -299,6 +302,7 @@ Your browser does not support the audio element.
       <title>Finding Order in Chaos</title>
       <link>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</guid>
       <description>
 
@@ -316,6 +320,7 @@ Your browser does not support the audio element.
       <title>October Squad Ghouls Network Take-Over: Postmortem</title>
       <link>https://ryanstraight.com/2018/11/01/october-squad-ghouls-network-take-over-postmortem/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/11/01/october-squad-ghouls-network-take-over-postmortem/</guid>
       <description>
 
@@ -343,6 +348,7 @@ Your browser does not support the audio element.
       <title>9x9x25 Challenge: The Harshest Mirror</title>
       <link>https://ryanstraight.com/2018/10/16/9x9x25-challenge-the-harshest-mirror/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/10/16/9x9x25-challenge-the-harshest-mirror/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;Reflection is hard. It can be scary. Not for lack of content but for the what it means to potentially confront your shortcomings. Yes, the goal is to improve but to do that you must admit where you are lacking. Of course, we can couch this in platitudes like, “It’s not that I’m &lt;em&gt;bad&lt;/em&gt; at it, just that… it’s an area for growth.” And this is most likely true. Doesn’t change the fact that you still have to admit that first part.&lt;/p&gt;
@@ -357,6 +363,7 @@ Your browser does not support the audio element.
       <title>9x9x25 Challenge: An Introduction and a Plan</title>
       <link>https://ryanstraight.com/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;To start off with, let me say that I volunteered the &lt;a href=&#34;https://squadgoalsnetwork.com&#34;&gt;#SquadGoalsNetwork&lt;/a&gt; for this challenge and take full responsibility for it. That said, I’m looking for the entire squad to do the challenge in total, not for each member to do their own 9x9x25 challenge. They can if they want but it’s far from necessary. I’m hard but I’m not cruel, sheesh. The SGN is (and continues to grow into) a collection of incredibly talented and reflective people, so the content produced should be impressive.&lt;/p&gt;
@@ -374,6 +381,7 @@ Your browser does not support the audio element.
       <title>October 2018 SGN Social Media Takeover</title>
       <link>https://ryanstraight.com/2018/10/01/october-2018-sgn-social-media-takeover/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/10/01/october-2018-sgn-social-media-takeover/</guid>
       <description>
 
@@ -392,6 +400,7 @@ Your browser does not support the audio element.
       <title>Read, Watch, Woof</title>
       <link>https://ryanstraight.com/project/read-watch-woof/</link>
       <pubDate>Fri, 24 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/project/read-watch-woof/</guid>
       <description>&lt;p&gt;I have a newsletter: &lt;strong&gt;Read, Watch, Woof&lt;/strong&gt;! RWW goes out Fridays on TNP off-weeks. It consists, as you may have gathered from the title, a little bit of personal-ish writing by me (also featured here), an interesting and entertaining video to watch, and a picture of one (or more) of our dogs. Enjoy! (And don&amp;rsquo;t worry, I won&amp;rsquo;t give away your email address or spam you. Promise.)
 &lt;br /&gt;&lt;/p&gt;
@@ -407,6 +416,7 @@ Your browser does not support the audio element.
       <title>Evidence</title>
       <link>https://ryanstraight.com/2018/08/24/evidence/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/08/24/evidence/</guid>
       <description>
 
@@ -436,6 +446,7 @@ Your browser does not support the audio element.
       <title>Squad Goals network</title>
       <link>https://ryanstraight.com/project/squad-goals-network-project/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/project/squad-goals-network-project/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Squad Goals Network&lt;/strong&gt; is a collection of like-minded teachers, designers, and researchers that get together to gab, think of innovative ways to bring technology and collaboration into higher education and K-12, and just generally have a good time. We try to uphold and demonstrate our principles through support and collaborative work.&lt;/p&gt;
 
@@ -447,6 +458,7 @@ Your browser does not support the audio element.
       <title>The New Professor</title>
       <link>https://ryanstraight.com/project/the-new-professor/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/project/the-new-professor/</guid>
       <description></description>
     </item>
@@ -455,6 +467,7 @@ Your browser does not support the audio element.
       <title>Not that Kind of Hot Dog</title>
       <link>https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/</guid>
       <description>
 &lt;script src=&#34;https://ryanstraight.com/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
@@ -472,174 +485,114 @@ Your browser does not support the audio element.
 &lt;p&gt;I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.&lt;/p&gt;
 &lt;p&gt;Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.&lt;/p&gt;
 &lt;p&gt;While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”&lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;mjs-61ccd89c645677b1e85a7d9d465c02&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;mjs-61ccd89c645677b1e85a7d9d465c02-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-61ccd89c645677b1e85a7d9d465c02&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-61ccd89c645677b1e85a7d9d465c02&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;mjs-d052302739a7e72d313d0795b7d3e8&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;mjs-d052302739a7e72d313d0795b7d3e8-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-d052302739a7e72d313d0795b7d3e8&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-d052302739a7e72d313d0795b7d3e8&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p&gt;Below each picture and accompanying temperature is a description of a relative internal cooking temperature&lt;a href=&#34;#fn4&#34; class=&#34;footnote-ref&#34; id=&#34;fnref4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; for comparison.&lt;/p&gt;
 &lt;div id=&#34;am&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;11am&lt;/h2&gt;
 &lt;p&gt;Gravel at 11am: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1100-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1100-gravel.jpg&#34; alt=&#34;Gravel at 11am&#34; /&gt;
 
-&lt;img src=&#34;1100-gravel.jpg&#34; alt=&#34;Gravel at 11am&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Patio at 11am: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1100-patio.jpg&#34; &gt;
+&lt;img src=&#34;1100-patio.jpg&#34; alt=&#34;Patio at 11am&#34; /&gt;
 
-&lt;img src=&#34;1100-patio.jpg&#34; alt=&#34;Patio at 11am&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;pm&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;12pm&lt;/h2&gt;
 &lt;p&gt;Gravel at 12pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1200-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1200-gravel.jpg&#34; alt=&#34;Gravel at 12pm&#34; /&gt;
 
-&lt;img src=&#34;1200-gravel.jpg&#34; alt=&#34;Gravel at 12pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Patio at 12pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1200-patio.jpg&#34; &gt;
+&lt;img src=&#34;1200-patio.jpg&#34; alt=&#34;Patio at 12pm&#34; /&gt;
 
-&lt;img src=&#34;1200-patio.jpg&#34; alt=&#34;Patio at 12pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;pm-1&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;1pm&lt;/h2&gt;
 &lt;p&gt;Gravel at 1pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1300-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1300-gravel.jpg&#34; alt=&#34;Gravel at 1pm&#34; /&gt;
 
-&lt;img src=&#34;1300-gravel.jpg&#34; alt=&#34;Gravel at 1pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Patio at 1pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1300-patio.jpg&#34; &gt;
+&lt;img src=&#34;1300-patio.jpg&#34; alt=&#34;Patio at 1pm&#34; /&gt;
 
-&lt;img src=&#34;1300-patio.jpg&#34; alt=&#34;Patio at 1pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;pm-2&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;2:30pm&lt;/h2&gt;
 &lt;p&gt;Gravel at 2:30pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1430-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1430-gravel.jpg&#34; alt=&#34;Gravel at 2:30pm&#34; /&gt;
 
-&lt;img src=&#34;1430-gravel.jpg&#34; alt=&#34;Gravel at 2:30pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Patio at 2:30pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1430-patio.jpg&#34; &gt;
+&lt;img src=&#34;1430-patio.jpg&#34; alt=&#34;Patio at 2:30pm&#34; /&gt;
 
-&lt;img src=&#34;1430-patio.jpg&#34; alt=&#34;Patio at 2:30pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;pm-3&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;3:30pm&lt;/h2&gt;
 &lt;p&gt;Gravel at 3:30pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1530-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1530-gravel.jpg&#34; alt=&#34;Gravel at 3:30pm&#34; /&gt;
 
-&lt;img src=&#34;1530-gravel.jpg&#34; alt=&#34;Gravel at 3:30pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Patio at 3:30pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1530-patio.jpg&#34; &gt;
+&lt;img src=&#34;1530-patio.jpg&#34; alt=&#34;Patio at 3:30pm&#34; /&gt;
 
-&lt;img src=&#34;1530-patio.jpg&#34; alt=&#34;Patio at 3:30pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div id=&#34;pm-4&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;7:30pm&lt;/h2&gt;
@@ -647,26 +600,20 @@ Your browser does not support the audio element.
 &lt;p&gt;Patio at 7:30pm: 
 
 
-
-
-
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1930-patio.jpg&#34; &gt;
+&lt;img src=&#34;1930-patio.jpg&#34; alt=&#34;Patio at 7:30pm&#34; /&gt;
 
-&lt;img src=&#34;1930-patio.jpg&#34; alt=&#34;Patio at 7:30pm&#34; &gt;
-&lt;/a&gt;
 
-&lt;/figure&gt;
-&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://www.wunderground.com/history/daily/KTUS/date/2018-7-23&#34; class=&#34;uri&#34;&gt;https://www.wunderground.com/history/daily/KTUS/date/2018-7-23&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://thenewprofessor.com/005&#34; class=&#34;uri&#34;&gt;https://thenewprofessor.com/005&lt;/a&gt;&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&#34;fn3&#34;&gt;&lt;p&gt;&lt;a href=&#34;http://burncentrecare.co.uk/what_can_cause_a_burn.htm&#34; class=&#34;uri&#34;&gt;http://burncentrecare.co.uk/what_can_cause_a_burn.htm&lt;/a&gt;&lt;a href=&#34;#fnref3&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&#34;fn4&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://whatscookingamerica.net/Information/MeatTemperatureChart.htm&#34; class=&#34;uri&#34;&gt;https://whatscookingamerica.net/Information/MeatTemperatureChart.htm&lt;/a&gt;&lt;a href=&#34;#fnref4&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://www.wunderground.com/history/daily/KTUS/date/2018-7-23&#34; class=&#34;uri&#34;&gt;https://www.wunderground.com/history/daily/KTUS/date/2018-7-23&lt;/a&gt;&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn2&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://thenewprofessor.com/005&#34; class=&#34;uri&#34;&gt;https://thenewprofessor.com/005&lt;/a&gt;&lt;a href=&#34;#fnref2&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn3&#34;&gt;&lt;p&gt;&lt;a href=&#34;http://burncentrecare.co.uk/what_can_cause_a_burn.htm&#34; class=&#34;uri&#34;&gt;http://burncentrecare.co.uk/what_can_cause_a_burn.htm&lt;/a&gt;&lt;a href=&#34;#fnref3&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn4&#34;&gt;&lt;p&gt;&lt;a href=&#34;https://whatscookingamerica.net/Information/MeatTemperatureChart.htm&#34; class=&#34;uri&#34;&gt;https://whatscookingamerica.net/Information/MeatTemperatureChart.htm&lt;/a&gt;&lt;a href=&#34;#fnref4&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
@@ -676,6 +623,7 @@ Your browser does not support the audio element.
       <title>Educated vs Intelligent</title>
       <link>https://ryanstraight.com/2018/07/06/educated-vs-intelligent/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/07/06/educated-vs-intelligent/</guid>
       <description>
 
@@ -694,31 +642,63 @@ Your browser does not support the audio element.
       <title>Hi, EdSurge!</title>
       <link>https://ryanstraight.com/2018/07/05/hi-edsurge/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/07/05/hi-edsurge/</guid>
       <description>
 
 
-&lt;p&gt;&lt;img src=&#34;featured.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;embed src=&#34;featured.webp&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I’m featured as the July &lt;a href=&#34;https://twitter.com/hashtag/dlnchat&#34;&gt;EdSurge #DLNchat&lt;/a&gt; Member of the Month!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>CC-BY-SA 4.0</title>
+      <title>CC BY-NC-SA 4.0</title>
       <link>https://ryanstraight.com/license/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/license/</guid>
       <description>
 
 
 &lt;p&gt;As I have gotten such an education from her site and her Twitter feed, I was inspired to copy her (get it?), so I’m using a variation on &lt;a href=&#34;https://alison.rbind.io/license/&#34;&gt;Alison Presmanes Hill’s license&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
-With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&gt;course content&lt;/a&gt;, my &lt;a href=&#34;https://ryanstraight.com/post/&#34;&gt;blog posts&lt;/a&gt; and other content on the site is released under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;br /&gt;
+The content on the site is released under a &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;br /&gt;
+
 &lt;center&gt;
-&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
+&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;
+&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;
+&lt;i class=&#34;fab fa-creative-commons-nc fa-2x&#34;&gt;&lt;/i&gt;
+&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
 &lt;/center&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Essentially, this means:&lt;/p&gt;
+&lt;div id=&#34;you-are-free-to&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;You are free to:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Share&lt;/strong&gt;: copy and redistribute the material in any medium or format&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Adapt&lt;/strong&gt;: remix, transform, and build upon the material&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;under-the-following-terms&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Under the following terms:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attribution&lt;/strong&gt;: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NonCommercial&lt;/strong&gt;: You may not use the material for commercial purposes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ShareAlike&lt;/strong&gt;: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original&lt;/p&gt;
+&lt;hr /&gt;
 &lt;p&gt;You can also &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;read George Cushen’s license for the Academic Hugo theme&lt;/a&gt; if you like.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Newsletter</title>
+      <link>https://ryanstraight.com/newsletter/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanstraight.com/newsletter/</guid>
+      <description>
+
+
+&lt;p&gt;Subscribe!&lt;/p&gt;
 </description>
     </item>
     
@@ -726,6 +706,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
       <title>365papers</title>
       <link>https://ryanstraight.com/2018/01/04/365papers/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/01/04/365papers/</guid>
       <description>
 
@@ -807,6 +788,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
       <title>New Orleans 2017</title>
       <link>https://ryanstraight.com/2017/07/26/new-orleans-2017/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2017/07/26/new-orleans-2017/</guid>
       <description>
 
@@ -890,6 +872,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
       <title>OLC Innovate 2017</title>
       <link>https://ryanstraight.com/2017/07/26/olc-innovate-2017/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2017/07/26/olc-innovate-2017/</guid>
       <description>
 
@@ -1003,6 +986,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
       <title>The New Professor: An Experiment in Podcasting</title>
       <link>https://ryanstraight.com/2017/05/21/the-new-professor-an-experiment-in-podcasting/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2017/05/21/the-new-professor-an-experiment-in-podcasting/</guid>
       <description>
 
@@ -1017,6 +1001,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
       <title>Hang Out with Me After Class</title>
       <link>https://ryanstraight.com/2017/04/26/hang-out-with-me-after-class/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2017/04/26/hang-out-with-me-after-class/</guid>
       <description>
 
@@ -1040,7 +1025,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
 &lt;div class=&#34;footnotes&#34;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;{{&amp;lt; youtube rtrn6-cKqkM &amp;gt;}}&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;{{&amp;lt; youtube rtrn6-cKqkM &amp;gt;}}&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
@@ -1050,6 +1035,7 @@ With the exception of my &lt;a href=&#34;https://ryanstraight.com/courses/&#34;&
       <title>On Expertise and Being &#39;Out There&#39;</title>
       <link>https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/</guid>
       <description>
 
@@ -1066,7 +1052,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
 &lt;div class=&#34;footnotes&#34;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;Did you know you can buy machetes at Home Depot? They’re with the gardening tools. That blew my mind. Not sure where I thought they were sold before I discovered this. Not sure I’d ever thought about where they’re sold before then. It just struck me as odd.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;Did you know you can buy machetes at Home Depot? They’re with the gardening tools. That blew my mind. Not sure where I thought they were sold before I discovered this. Not sure I’d ever thought about where they’re sold before then. It just struck me as odd.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
@@ -1076,6 +1062,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
       <title>On the Loss of a Loved One</title>
       <link>https://ryanstraight.com/2015/04/15/on-the-loss-of-a-loved-one/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2015/04/15/on-the-loss-of-a-loved-one/</guid>
       <description>
 
@@ -1083,26 +1070,26 @@ One scary thing for me was the idea that there would now be a record of me rambl
 &lt;p&gt;The following is in reaction to yesterday’s passing of my beloved aunt Geraldine after a half-year long battle with (what started out as) gall bladder cancer. She is very much missed and, though I couldn’t be there, I believe was very well taken care of when her time came.&lt;/p&gt;
 &lt;p&gt;When I decided to write something on the loss of a loved one—both as a way of informing others of the passing of my aunt and as a way to cope with the loss, myself—I imagined it would flow easily and naturally from my fingers given what happened yesterday.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;PD_0001.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;PD_0001.jpg&#34; alt=&#34;The Family&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;The Family&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;I thought, ‘Shouldn’t take much to produce something touching, heartfelt, poignant, and maybe a little tear-jerky. Just say how you feel.’ And that’s the problem. It ain’t happening.&lt;/p&gt;
 &lt;p&gt;It’s not that I don’t feel anything. I feel a great many things: sadness, disappointment, anger, confusion, you name it. When my father passed in 2002 it was like a punch to the gut. I was as speechless as his passing was sudden. When my grandparents (any one of them) died, it was easier as they were elderly and ‘that’s what elderly people do.’ This time around—though Jerre was in her 80s and, I suppose, in the ‘elderly’ category—after hearing a six-months-to-live prognosis given six months ago to someone who was seemingly in good health, the passing of a loved one takes on a completely different color. It becomes something that weaves itself into your calendar, that you prepare for, that you make phone calls about. It’s the first time I’ve ever thought to myself, ‘I need to make sure my phone’s charged because someone is going to die.’ Not &lt;em&gt;might&lt;/em&gt;. &lt;em&gt;Is&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;At the time it seems perfectly rational. Upon reflection it feels oddly cold. This is nobody and nothing’s fault; just something I noticed.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;PD_0045.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;PD_0045.jpg&#34; alt=&#34;Jerre and me&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Jerre and me&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Some of my favorite memories of my childhood center around Jerre and her home, which the family simply refers to as The Farm. At one point it was a functioning farm where they had pigs and chickens, and rows upon rows of vegetables. I can still smell the damp stone of the cellar where the walls were lined with cans of every foodstuff imaginable. The kitchen always smelled like frying meat of some sort and in the winter the wood burner would impregnate the entire house with the smell of a campfire. Jerre would insist you eat something (even if you weren’t hungry) and always put others’ needs before her own. I’d ride my four-wheeler or dirt bike all over The Farm and she’d rule over the place like a queen. It’s just how things were.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;PD_0049.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;PD_0049.jpg&#34; alt=&#34;She was incredibly joyful.&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;She was incredibly joyful.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;When my father passed unexpectedly, it left me and my mother alone, as my siblings (a half-brother and half-sister) are considerably older than me and were never in the ‘family unit,’ as it were. I was away at college about 90 minutes away from my family home and 60 minutes away from The Farm. Jerre’s role in my life changed slowly from being an aunt to being close to a surrogate parent, stepping in to help fill the void left by my father. She supported not just me, but my mother, as well. Our family is by-and-large pretty good at coping with loss and being alone, but it was comforting to not have to do that. Jerre, who had no children of her own and was unmarried, was there.&lt;/p&gt;
 &lt;p&gt;As the years went on, we grew closer. She got older and had trouble doing things around the house, so I (not as often as I’d liked to have, much to my regret) tried to make it over to The Farm when I could to do odd jobs, run wiring, pick up sticks in the yard, whatever she needed. The idea of her no longer being there never really crossed my mind. Jerre and The Farm were a permanent fixture in my life and there was no reason to even question that. Even after her cancer diagnosis, even during her chemotherapy, her being gone wasn’t something that seemed real or even possible. At least, not real enough to spend any energy on.&lt;/p&gt;
 &lt;p&gt;That probably falls under the category of ‘denial,’ but, I’m not a psychiatrist.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;PD_0183.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;PD_0183.jpg&#34; alt=&#34;We miss you.&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;We miss you.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Regardless, as the end grew closer, she was in good spirits. She laughed and still bossed people around. She was even still making sure others’ needs were taken care of when she was lying on her death-bed. Then, at about 10pm on April 14th, she left us. For the week leading up she’d been surrounded by friends and family—sometimes to the point that they needed to bring in more chairs. At the end, she was there with her sister and best friend, my mother.&lt;/p&gt;
@@ -1116,6 +1103,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
       <title>Electronic Academic Workflow: Paperless Researching</title>
       <link>https://ryanstraight.com/2013/12/01/electronic-academic-workflow-paperless-researching/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2013/12/01/electronic-academic-workflow-paperless-researching/</guid>
       <description>
 
@@ -1181,6 +1169,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
       <title>Commercial Off-The-Shelf Video Games as Computer-Assisted Language Learning Environments</title>
       <link>https://ryanstraight.com/publication/2011-03-07-commercial-off-the-shelf-video-games/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/publication/2011-03-07-commercial-off-the-shelf-video-games/</guid>
       <description>
 
@@ -1193,6 +1182,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
       <title>The Development and Delivery of Custom Mobile Apps for K-12 Learning: Viable  Options for Educators</title>
       <link>https://ryanstraight.com/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/</guid>
       <description>
 

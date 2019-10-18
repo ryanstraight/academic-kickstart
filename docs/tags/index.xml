@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | ryan straight, ph.d</title>
+    <title>Tags on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/</link>
-      <atom:link href="https://ryanstraight.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://ryanstraight.com/tags/</link>
-    </image>
+    <description>Recent content in Tags on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>mediawiki</title>
       <link>https://ryanstraight.com/tags/mediawiki/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/mediawiki/</guid>
       <description></description>
     </item>
@@ -24,6 +25,7 @@
       <title>organization</title>
       <link>https://ryanstraight.com/tags/organization/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/organization/</guid>
       <description></description>
     </item>
@@ -32,6 +34,7 @@
       <title>pkb</title>
       <link>https://ryanstraight.com/tags/pkb/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/pkb/</guid>
       <description></description>
     </item>
@@ -40,6 +43,7 @@
       <title>wiki</title>
       <link>https://ryanstraight.com/tags/wiki/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/wiki/</guid>
       <description></description>
     </item>
@@ -48,6 +52,7 @@
       <title>olc</title>
       <link>https://ryanstraight.com/tags/olc/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/olc/</guid>
       <description></description>
     </item>
@@ -56,6 +61,7 @@
       <title>online</title>
       <link>https://ryanstraight.com/tags/online/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/online/</guid>
       <description></description>
     </item>
@@ -64,6 +70,7 @@
       <title>teaching</title>
       <link>https://ryanstraight.com/tags/teaching/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/teaching/</guid>
       <description></description>
     </item>
@@ -72,6 +79,7 @@
       <title>chaos</title>
       <link>https://ryanstraight.com/tags/chaos/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/chaos/</guid>
       <description></description>
     </item>
@@ -80,6 +88,7 @@
       <title>reflection</title>
       <link>https://ryanstraight.com/tags/reflection/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/reflection/</guid>
       <description></description>
     </item>
@@ -88,6 +97,7 @@
       <title>semantic annotation</title>
       <link>https://ryanstraight.com/tags/semantic-annotation/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/semantic-annotation/</guid>
       <description></description>
     </item>
@@ -96,6 +106,7 @@
       <title>collaboration</title>
       <link>https://ryanstraight.com/tags/collaboration/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/collaboration/</guid>
       <description></description>
     </item>
@@ -104,6 +115,7 @@
       <title>social</title>
       <link>https://ryanstraight.com/tags/social/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/social/</guid>
       <description></description>
     </item>
@@ -112,6 +124,7 @@
       <title>squad goals network</title>
       <link>https://ryanstraight.com/tags/squad-goals-network/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/squad-goals-network/</guid>
       <description></description>
     </item>
@@ -120,6 +133,7 @@
       <title>9x9x25</title>
       <link>https://ryanstraight.com/tags/9x9x25/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/9x9x25/</guid>
       <description></description>
     </item>
@@ -128,6 +142,7 @@
       <title>challenge</title>
       <link>https://ryanstraight.com/tags/challenge/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/challenge/</guid>
       <description></description>
     </item>
@@ -136,6 +151,7 @@
       <title>fear</title>
       <link>https://ryanstraight.com/tags/fear/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/fear/</guid>
       <description></description>
     </item>
@@ -144,6 +160,7 @@
       <title>halloween</title>
       <link>https://ryanstraight.com/tags/halloween/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/halloween/</guid>
       <description></description>
     </item>
@@ -152,6 +169,7 @@
       <title>social media</title>
       <link>https://ryanstraight.com/tags/social-media/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/social-media/</guid>
       <description></description>
     </item>
@@ -160,6 +178,7 @@
       <title>evidence</title>
       <link>https://ryanstraight.com/tags/evidence/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/evidence/</guid>
       <description></description>
     </item>
@@ -168,6 +187,7 @@
       <title>nutrition</title>
       <link>https://ryanstraight.com/tags/nutrition/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/nutrition/</guid>
       <description></description>
     </item>
@@ -176,6 +196,7 @@
       <title>read watch woof</title>
       <link>https://ryanstraight.com/tags/read-watch-woof/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/read-watch-woof/</guid>
       <description></description>
     </item>
@@ -184,6 +205,7 @@
       <title>Professional</title>
       <link>https://ryanstraight.com/tags/professional/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/tags/professional/</guid>
       <description></description>
     </item>
@@ -192,6 +214,7 @@
       <title>podcast</title>
       <link>https://ryanstraight.com/tags/podcast/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/tags/podcast/</guid>
       <description></description>
     </item>
@@ -200,6 +223,7 @@
       <title>the new professor</title>
       <link>https://ryanstraight.com/tags/the-new-professor/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/tags/the-new-professor/</guid>
       <description></description>
     </item>
@@ -208,6 +232,7 @@
       <title>dogs</title>
       <link>https://ryanstraight.com/tags/dogs/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/dogs/</guid>
       <description></description>
     </item>
@@ -216,6 +241,7 @@
       <title>summer</title>
       <link>https://ryanstraight.com/tags/summer/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/summer/</guid>
       <description></description>
     </item>
@@ -224,6 +250,7 @@
       <title>The Diamond Age</title>
       <link>https://ryanstraight.com/tags/the-diamond-age/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/the-diamond-age/</guid>
       <description></description>
     </item>
@@ -232,6 +259,7 @@
       <title>education</title>
       <link>https://ryanstraight.com/tags/education/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/education/</guid>
       <description></description>
     </item>
@@ -240,6 +268,7 @@
       <title>intelligence</title>
       <link>https://ryanstraight.com/tags/intelligence/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/intelligence/</guid>
       <description></description>
     </item>
@@ -248,6 +277,7 @@
       <title>quote</title>
       <link>https://ryanstraight.com/tags/quote/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/quote/</guid>
       <description></description>
     </item>
@@ -256,6 +286,7 @@
       <title>dlnchat</title>
       <link>https://ryanstraight.com/tags/dlnchat/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/dlnchat/</guid>
       <description></description>
     </item>
@@ -264,6 +295,7 @@
       <title>edsurge</title>
       <link>https://ryanstraight.com/tags/edsurge/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/edsurge/</guid>
       <description></description>
     </item>
@@ -272,6 +304,7 @@
       <title>365papers</title>
       <link>https://ryanstraight.com/tags/365papers/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/365papers/</guid>
       <description></description>
     </item>
@@ -280,6 +313,7 @@
       <title>accountability</title>
       <link>https://ryanstraight.com/tags/accountability/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/accountability/</guid>
       <description></description>
     </item>
@@ -288,6 +322,7 @@
       <title>hashtag</title>
       <link>https://ryanstraight.com/tags/hashtag/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/hashtag/</guid>
       <description></description>
     </item>
@@ -296,6 +331,7 @@
       <title>scholarship</title>
       <link>https://ryanstraight.com/tags/scholarship/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/scholarship/</guid>
       <description></description>
     </item>
@@ -304,6 +340,7 @@
       <title>twitter</title>
       <link>https://ryanstraight.com/tags/twitter/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/twitter/</guid>
       <description></description>
     </item>
@@ -312,6 +349,7 @@
       <title>conference</title>
       <link>https://ryanstraight.com/tags/conference/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/conference/</guid>
       <description></description>
     </item>
@@ -320,6 +358,7 @@
       <title>educational technology</title>
       <link>https://ryanstraight.com/tags/educational-technology/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/educational-technology/</guid>
       <description></description>
     </item>
@@ -328,6 +367,7 @@
       <title>higher education</title>
       <link>https://ryanstraight.com/tags/higher-education/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/higher-education/</guid>
       <description></description>
     </item>
@@ -336,6 +376,7 @@
       <title>lafayette cemetary</title>
       <link>https://ryanstraight.com/tags/lafayette-cemetary/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/lafayette-cemetary/</guid>
       <description></description>
     </item>
@@ -344,6 +385,7 @@
       <title>new orleans</title>
       <link>https://ryanstraight.com/tags/new-orleans/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/new-orleans/</guid>
       <description></description>
     </item>
@@ -352,6 +394,7 @@
       <title>olc innovate</title>
       <link>https://ryanstraight.com/tags/olc-innovate/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/olc-innovate/</guid>
       <description></description>
     </item>
@@ -360,6 +403,7 @@
       <title>personal</title>
       <link>https://ryanstraight.com/tags/personal/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/personal/</guid>
       <description></description>
     </item>
@@ -368,6 +412,7 @@
       <title>voodoo museum</title>
       <link>https://ryanstraight.com/tags/voodoo-museum/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/voodoo-museum/</guid>
       <description></description>
     </item>
@@ -376,6 +421,7 @@
       <title>class time</title>
       <link>https://ryanstraight.com/tags/class-time/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/class-time/</guid>
       <description></description>
     </item>
@@ -384,6 +430,7 @@
       <title>john travolta</title>
       <link>https://ryanstraight.com/tags/john-travolta/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/john-travolta/</guid>
       <description></description>
     </item>
@@ -392,6 +439,7 @@
       <title>online programs</title>
       <link>https://ryanstraight.com/tags/online-programs/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/online-programs/</guid>
       <description></description>
     </item>
@@ -400,6 +448,7 @@
       <title>relationships</title>
       <link>https://ryanstraight.com/tags/relationships/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/relationships/</guid>
       <description></description>
     </item>
@@ -408,6 +457,7 @@
       <title>socialization</title>
       <link>https://ryanstraight.com/tags/socialization/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/socialization/</guid>
       <description></description>
     </item>
@@ -416,6 +466,7 @@
       <title>expertise</title>
       <link>https://ryanstraight.com/tags/expertise/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/expertise/</guid>
       <description></description>
     </item>
@@ -424,6 +475,7 @@
       <title>faculty</title>
       <link>https://ryanstraight.com/tags/faculty/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/faculty/</guid>
       <description></description>
     </item>
@@ -432,6 +484,7 @@
       <title>growth</title>
       <link>https://ryanstraight.com/tags/growth/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/growth/</guid>
       <description></description>
     </item>
@@ -440,6 +493,7 @@
       <title>death</title>
       <link>https://ryanstraight.com/tags/death/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/death/</guid>
       <description></description>
     </item>
@@ -448,6 +502,7 @@
       <title>family</title>
       <link>https://ryanstraight.com/tags/family/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/family/</guid>
       <description></description>
     </item>
@@ -456,6 +511,7 @@
       <title>loss</title>
       <link>https://ryanstraight.com/tags/loss/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/loss/</guid>
       <description></description>
     </item>
@@ -464,6 +520,7 @@
       <title>citavi</title>
       <link>https://ryanstraight.com/tags/citavi/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/citavi/</guid>
       <description></description>
     </item>
@@ -472,6 +529,7 @@
       <title>evernote</title>
       <link>https://ryanstraight.com/tags/evernote/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/evernote/</guid>
       <description></description>
     </item>
@@ -480,6 +538,7 @@
       <title>grad school</title>
       <link>https://ryanstraight.com/tags/grad-school/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/grad-school/</guid>
       <description></description>
     </item>
@@ -488,6 +547,7 @@
       <title>liquidplanner</title>
       <link>https://ryanstraight.com/tags/liquidplanner/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/liquidplanner/</guid>
       <description></description>
     </item>
@@ -496,6 +556,7 @@
       <title>mendeley</title>
       <link>https://ryanstraight.com/tags/mendeley/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/mendeley/</guid>
       <description></description>
     </item>
@@ -504,6 +565,7 @@
       <title>paperless</title>
       <link>https://ryanstraight.com/tags/paperless/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/paperless/</guid>
       <description></description>
     </item>
@@ -512,6 +574,7 @@
       <title>reviews</title>
       <link>https://ryanstraight.com/tags/reviews/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/reviews/</guid>
       <description></description>
     </item>
@@ -520,6 +583,7 @@
       <title>scrivener</title>
       <link>https://ryanstraight.com/tags/scrivener/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/scrivener/</guid>
       <description></description>
     </item>
@@ -528,6 +592,7 @@
       <title>software</title>
       <link>https://ryanstraight.com/tags/software/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/software/</guid>
       <description></description>
     </item>
@@ -536,6 +601,7 @@
       <title>web services</title>
       <link>https://ryanstraight.com/tags/web-services/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/web-services/</guid>
       <description></description>
     </item>
@@ -544,6 +610,7 @@
       <title>workflow</title>
       <link>https://ryanstraight.com/tags/workflow/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/workflow/</guid>
       <description></description>
     </item>
@@ -552,6 +619,7 @@
       <title>AACE</title>
       <link>https://ryanstraight.com/tags/aace/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/aace/</guid>
       <description></description>
     </item>
@@ -560,6 +628,7 @@
       <title>CALL</title>
       <link>https://ryanstraight.com/tags/call/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/call/</guid>
       <description></description>
     </item>
@@ -568,6 +637,7 @@
       <title>SITE</title>
       <link>https://ryanstraight.com/tags/site/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/site/</guid>
       <description></description>
     </item>
@@ -576,6 +646,7 @@
       <title>computer assisted language learning</title>
       <link>https://ryanstraight.com/tags/computer-assisted-language-learning/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/computer-assisted-language-learning/</guid>
       <description></description>
     </item>
@@ -584,6 +655,7 @@
       <title>gaming</title>
       <link>https://ryanstraight.com/tags/gaming/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/gaming/</guid>
       <description></description>
     </item>
@@ -592,6 +664,7 @@
       <title>video games</title>
       <link>https://ryanstraight.com/tags/video-games/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/video-games/</guid>
       <description></description>
     </item>
@@ -600,6 +673,7 @@
       <title>k-12</title>
       <link>https://ryanstraight.com/tags/k-12/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/k-12/</guid>
       <description></description>
     </item>
@@ -608,6 +682,7 @@
       <title>mobile apps</title>
       <link>https://ryanstraight.com/tags/mobile-apps/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/mobile-apps/</guid>
       <description></description>
     </item>
@@ -616,6 +691,7 @@
       <title>mobile learning</title>
       <link>https://ryanstraight.com/tags/mobile-learning/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/tags/mobile-learning/</guid>
       <description></description>
     </item>

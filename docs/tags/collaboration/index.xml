@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>collaboration | ryan straight, ph.d</title>
+    <title>collaboration on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/collaboration/</link>
-      <atom:link href="https://ryanstraight.com/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
-    <description>collaboration</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>collaboration</title>
-      <link>https://ryanstraight.com/tags/collaboration/</link>
-    </image>
+    <description>Recent content in collaboration on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>October Squad Ghouls Network Take-Over: Postmortem</title>
       <link>https://ryanstraight.com/2018/11/01/october-squad-ghouls-network-take-over-postmortem/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/11/01/october-squad-ghouls-network-take-over-postmortem/</guid>
       <description>
 

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>twitter | ryan straight, ph.d</title>
+    <title>twitter on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/twitter/</link>
-      <atom:link href="https://ryanstraight.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
-    <description>twitter</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ryan Straight, 2019</copyright><lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>twitter</title>
-      <link>https://ryanstraight.com/tags/twitter/</link>
-    </image>
+    <description>Recent content in twitter on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Ryan Straight, {year}</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>365papers</title>
       <link>https://ryanstraight.com/2018/01/04/365papers/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/2018/01/04/365papers/</guid>
       <description>
 
