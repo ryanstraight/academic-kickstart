@@ -1,0 +1,67 @@
+# Introduction {#intro}
+
+This full-length workshop is designed to be your one-stop-shop for creating an academic podcast, from ideation all the way to publishing. The presenters will highlight the opportunity to establish experiential student learning through podcast creation, and discuss its effectiveness as a scholastic assignment or professional outlet.
+
+For example, when students are assigned the task of writing and creating podcasts in classes, they must master a vast array of transferable skills, from content research to writing for a potentially unfamiliar medium to media editing to public speaking. These key skills are widely applicable within an interdisciplinary array of fields, but are also easily scaffolded for students moving into the realm of media production or content creation.
+
+From the faculty perspective, a podcast provides you an interesting, engaging, and widely dispersed outlet for your creativity and research. It allows you to discuss topics in ways traditional text-based publications don't afford. Beyond podcasting as an informal means of research dissemination, it also could include:
+
++ Holding conversations or interviews with co-authors or others in related fields that can lead to ideas or paths that may not have arisen otherwise;
++ Supporting a spirit of open scholarship
++ Giving staff agency and voice in their support of teaching and learning
++ Creating a personal learning network that extended beyond the traditional formats (Twitter) into authentic conversations and shared insights 
++ Bringing people together, fostering communities of practice, and sharingstories (regardless of the topic or field)
+
+This workshop is hands-on, encouraging participants to learn all the steps necessary to walk away with the knowledge, skills, and even the pilot episode necessary to begin podcasting immediately. Participants will also have the option of being featured on the lead presenter's podcast, The New Professor, to talk about just what their plans are for their own podcast. 
+
+Throughout the workshop, the presenters will focus on the four essential “P’s” of podcasting - Plan, Produce, Post and Promote.  Additionally, stories will be shared from the presenters’ respective institutions on how they’ve implemented academic podcasts of varying scales and topics. Through groupwork and pair-and-share discussions, participants will narrow down a particular topic or area of exploration that lends itself well to the affordances of the podcast medium. They will have an understanding of the logistics required to plan a podcast from the ground-up. They will know enough about the hardware and software necessary to produce professional-quality audio for little to no extra cost. They will also be able to do basic post-production audio editing necessary to publish polished radio-quality stories or interviews and industry-standard best practices. Finally, attendees will be able to market and share their podcast with larger audiences, as well as get potential buy-in from their institutions.
+
+## Workshop Setup
+
+This text is intended to be both the handbook for and supplemental to the workshop presented at the 2019 OLC Accelerate conference. The workshop is held in the _TBD_ room at the Dolphin hotel in Orlando, FL.
+
+## Your Facilitators
+
+This workshop is brought to you by the podcasting talents below:
+
+### Ryan Straight (lead facilitator)
+
+Dr. Ryan Straight is currently Assistant Professor of Educational Technology at the University of Arizona where he is also a Faculty Fellow and Honors Professor. He holds a PhD in Instructional Technology from Ohio University, where he also earned his MEd in Cultural Studies in Education and a BS.Ed in Integrated Language Arts. He teaches fully online at the undergraduate and graduate levels in topics like serious game design, human-computer interaction, designing online learning environments, and the classroom integration of technology. In addition to teaching, Dr. Straight is Principle Investigator on an ongoing Innovative Learning Project grant at the University of Arizona (2016-2018). He writes for the Chronicle of Higher Education on mobile learning technologies, augmented reality, and social presence in online education. He lives in Tucson with his wife and three dogs.
+
+#### Ryan's podcasting projects:
+
++ [The New Professor](https://thenewprofessor.com)
+
+### Angela Gunder
+
+Angela Gunder serves as Director of Instructional Design and Curriculum Development for the Office of Digital Learning at The University of Arizona. Angela came into instructional design rather circuitously, helming large-scale site designs as webmaster for The City College of New York, the honors college at ASU, and Northern Virginia Community College (NOVA).  Her over fifteen year career as a designer for higher education informs her instructional design practice, where she leverages her expertise in usability, visual communication, programming, and standards-based online learning. Angela holds a B.S. in Computer Science and Fine Art from Fordham University, and a M.Ed. in Education Technology from Arizona State University.  Prior to her position at UA, she was a member of NOVA’s instructional design team, supporting over 23,000 students in 550 unique courses.   Angela is an Associate Editor for the Teacher Education Board of MERLOT, and a Quality Matters certified peer reviewer and online facilitator.  Her research interests include technology for second language acquisition, open educational resources, and emerging technology to promote digital literacy. A voracious culinary nerd, Angela spends her free time composing, cooking and photographing original recipes for her food blog.
+
+#### Angela's podcasting projects:
+
++ Squadcast
+    + Innovation Labcast
+    + Constructivist Kitchen
+    + Sounds Like a Podcast
+
++ UA Online Podcast Network
+    + Science of Sports Cast
+    + OSE Design Thinking Podcast
+    + TESS Podcast
+    
+    
+### Kelvin Thompson
+
+A popular speaker and facilitator, Dr. Kelvin Thompson regularly addresses groups throughout the US on topics related to online/blended learning and educational technology while he serves as the Executive Director of the University of Central Florida's (UCF) Center for Distributed Learning (http://cdl.ucf.edu) with a faculty appointment as a graduate faculty scholar in UCF's College of Education & Human Performance. Dr. Thompson has collaborated on the design of hundreds of online and blended courses over the past twenty years and is active in the online education community. Kelvin developed the BlendKit Course open courseware (http://bit.ly/blendkit) as part of UCF's Blended Learning Toolkit, and he also co-hosts TOPcast: The Teaching Online Podcast available on iTunes and at http://topcast.online.ucf.edu. His personal research interests center around how interaction affects learner engagement, and information on his Online Course Criticism qualitative evaluation model for facilitating the scholarship of teaching and learning in online and blended environments is available online (http://onlinecoursecriticism.com). Kelvin Thompson holds an EdD in curriculum and instruction and an MA in instructional systems technology from UCF and a Bachelor of Music Education degree from The Florida State University. Curriculum vitae is available online at http://bit.ly/kelvin_cv.
+
+#### Kelvin's podcasting projects:
+
++ [TOPcast: The Teaching Online Podcast](http://topcast.online.ucf.edu)
+
+### Jon Pizzo
+
+Jonathan received his B.S. in Information Technology from the College of Engineering and Computer Science at the University of Central Florida (UCF). He currently works as a Web Project Manager Assistant at UCF’s Center for Distributed Learning. In this role, Jon assists with the production of webinars and streaming conferences, establishes project specifications for managing the department’s websites, assists the facilitation and development of faculty professional development courses, and manages other web-based projects. Highly motivated by his career at UCF, Jon works hard and plays hard. As a native Floridian, he enjoys fishing, visiting local beaches, tailgating UCF home games (Go Knights!), kayaking, camping, and traveling around the state.
+
+#### Jon's podcasting projects:
+
++ [TOPcast: The Teaching Online Podcast](http://topcast.online.ucf.edu)
+

@@ -1,0 +1,180 @@
+# Produce {#produce}
+
+Okay, so you've done the planning. You know your audience, you've got a few episodes lined up and scripted, and you've even thrown together some graphics for a website. Maybe you've even got a title! Now you need to actually get some voices recorded. It's both easier and harder than it sounds.
+
+## Hardware
+
+### The Simple Route
+
+It takes very little to actually record a podcast. You basically just need a microphone and something to record on. So let's look at some simple budget options as of 2018. Side note: we're not addressing lav mics as the sound quality is inferior for podcasting until you get to insane price levels.
+
+#### Microphones
+
+If you're just trying to get something recorded you can use the headset you have for Skype calls or a gaming headset. That is really all it takes. Plug it in a laptop and go! If you want something a bit more specific, versatile, and that's still relatively cheap, the [Audio-Technica ATR2100USB](https://amzn.to/2RZQ4Xr) is a great option as it has both XLR and USB outputs (more on that shortly). The Blue Yeti or the Blue Snowball are decent options if you're just starting out but be aware that you'll probably outgrow them rather quickly. 
+
+Worse comes to worse, simply use a voice recorder on your smartphone. Something is better than nothing. 
+
+#### Headphones
+
+If you're using a headset, you're done here. If you need to use a separate pair of headphones you're better off using either earbuds or over-the-ear headphones. Avoid using on-ear headphones (the kind that just sit against your ears, not either inside or around) as you'll tend to get bleed from the headphones into the microphone and this create an echo. 
+
+### The Middle Ground
+
+The middle ground between *just starting* and *getting serious* is a fairly large area. At this point you should be still giving yourself options to grow but we'll stick to USB options to avoid the other expenses found below in the Complex but Professional section.
+
+1. [Yeti Pro](https://amzn.to/2S2vYvB): has both USB and XLR outputs. Expensive but flexible.
+1. [Rode NT-USB](https://amzn.to/2NQkg42): only USB.
+1. [Rode Podcaster](https://amzn.to/2PJuqp5): also only USB.
+1. [Zoom recorder](https://amzn.to/2yOtw37): not the best quality but flexible as this isn't just a microphone but a fully-fledged voice recorder. While this is better than a smartphone it's far from ideal. We'll be coming back to Zoom recorders soon, though.
+
+#### Headphones
+
+A fairly standard set of "cans" (audio jargon for headphones) at this point is the [Audio-Technica ATH-M40x](https://amzn.to/2NOvdTJ). Yes, they're $100 but will keep you going for a long, long time. If you want to maximize your bang for your buck, consider a nice pair of noise-cancelling over-ear Bluetooth headphones as you can use these for more than just podcasting. 
+
+It's important to note that at this level we begin seeing other terminology like "reference monitor" headphones rather than simply headphones. "Monitors" are meant to provide the *most accurate* sound rather than the sound you personally prefer. The reason for this? You want to know *exactly* what you're sending out in your podcast. If your bass is cranked up on your home system you may be performing unnecessary and destructive edits to your audio that will actually degrade the quality when it's delivered to your listeners. Keep it as clear and as neutral as possible. You may want to consider some actual reference monitor speakers, which are addressed below.
+
+### The Complex but Professional Route
+
+If you've got money to burn or want to get as professional a sound as possible it begins to get considerably more complex rather quickly. At this point we're assuming you've moved beyond USB microphones and are looking for something more professional.
+
+At this point, as well, your options begin growing exponentially. As such, here are a number of popular options for each category of items you'll either need or want to look into.
+
+Protip: look around at your institution/workplace and try to locate a studio that has all this hardware and space for you to use for free. Hey, presto, professional-grade equipment and setup with no cost to you! Additionally, they'll often provide you with a "producer" to do the recording and setup, as well.
+
+#### Microphones
+
+Here you'll be looking at condenser microphones rather than dynamic microphones. This also means you'll be needing some sort of *interface* to provide th 48V of "phantom power" these microphones require to use. More on that below.
+
+Instead of recommending a specific microphone or even giving you a brief review of microphones that begin reaching the $300+ range, here is a list for you to explore, yourself. If you can find someone that has these mics, the best possible thing you can do is go try them. While you're not necessarily doing voiceover work, some mics are more or less flattering to your specific vocal range and tone. The better you sound in the hardware means the less time you'll spend in the software.
+
++ [Rode NT1](https://amzn.to/2q2GVkm) and [Rode NT1a](https://amzn.to/2CthdwM)
++ [Shure SM7B](https://amzn.to/2EyjGJ1)^[Some microphones are very insensitive (like the Shure SM7B) and [a little gadget like the Cloudlifter](https://amzn.to/2NOVql5) boosts the signal.]
++ [Electro-Voice RE20](https://amzn.to/2yN7Nsy)
++ [Heil Sound PR 40](https://amzn.to/2J639ur)
+
+#### Headphones
+
+You'll probably be okay with the headphones from the Middle Ground section but the MX50 is a solid choice for this. Again, aim for *reference monitor headphones* rather than traditional headphones.
+
+#### Interfaces
+
+And now we get into the complex part of this. As you move into the condenser microphone world you move away from USB options and into XLR connections. Here's the rub: your computer doesn't have an XLR input. Popular options are the Scarlet interfaces, which turn your analog XLR input into a digital USB output, allowing you to connect it to your computer. Basically, interfaces are external soundcards. Here are two of the most popular:
+
++ [Focusrite Scarlett 2i2](https://amzn.to/2CtnHeZ): takes 2 XLR inputs and provides a USB output to connect to a computer. Very popular and compact.
++ [PreSonus AudioBox USB 96](https://amzn.to/2CqTjlk): also has 2 XLR inputs.
+
+#### Mixers
+
+While mixing boards used to be discrete items used *in addition* to the interfaces, some newer mixers include a USB interface built in. This is handy if you want to purchase just one device to cover a few different bases. Mixers are certainly not required, however. That said, again, doing as much as you can in the hardware is far-and-away preferable to leaving it for the software. Some mixers (like the Behringer Xenyx X1204USB below) include built-in compressors, as well. Some popular options that include two or more XLR inputs (to ensure you can have at least two mics running simultaneously and easily) are:
+
++ Behringer XENYX [Q802USB](https://www.amazon.com/Behringer-Q802USB-BEHRINGER-XENYX/dp/B008O517IC/), [Q1202USB](https://amzn.to/2CvEPRw), [1204USB](https://amzn.to/2CTP2YD), and [X1204USB](https://amzn.to/2yN90jA) (same as 1204USB but with built-in sound effects)
++ [Mackie PROFX8V2](https://amzn.to/2Ct9ZJ4)
+
+#### Recorders
+
+Now, if you're podcasting on the go, you may not want to have to drag a laptop, an interface and/or mixer board along with you. Also, laptops crash. Software freezes. All sorts of things can go wrong when you're using a complex setup. The solution? Stand-alone audio recorders. The Zoom H1 mentioned above is good for *vox pops* kind of recordings but if you've got the XLR microphones, why not use them? These recorders make for *fantastic* options to record "on location," as we say. They are expensive, though, so think carefully about which one meets your needs, which one you'd *likely get the most use out of*, and which one is probably overkill. (Hint: they're in that order.) Note that there are really two players in this arena: Zoom and TASCAM. Below are the comparable recorders for you to compare yourself.
+
+1. 2 mic inputs:
+    + [Zoom H4n Pro](https://amzn.to/2Cvhz68): has 2 XLR/TRS (tip-ring-sleeve, the 1/4" headphone jack style) inputs, built-in stereo microphones (like the H1), and SD card and USB output options.
+    + [TASCAM DR-40](https://amzn.to/2Cv5Ns7): nearly the exact same features as the Zoom H4n
+1. 2+ mic inputs
+    + [Zoom H5](https://amzn.to/2CSDjtr): 2 built-in XLR/TRS inputs, built-in stereo mirophones (like H1 and H4n), but provides option for swappable capsules to change out the stereo microphones for others like a shotgun mic, larger stereo mics, a mid-side mic, and even two extra XLR/TRS inputs, turning the H5 effectively into a 4-mic input recorder like the H6.
+    + [TASCAM DR-100mkII](https://amzn.to/2PF3o24): closest comparison to the Zoom H5 though does not provide similar swappable capsule feature
+    + [TASCAM DR-44WL](https://amzn.to/2Cwzh9p): basically the same as above but with Wi-Fi capabilities allowing wireless streaming to smartphones and computers
+1. 4+ inputs
+    + [Zoom H6](https://amzn.to/2NRZcdH): often seen professionally, includes same swappable capsules as H5 but with 4 built-in XLR/TRS inputs, effectively turning the H6 into a 6-mic input recorder.
+
+#### Accessories
+
+Consider getting a *pop filter* for each microphone. This is basically a screen that sits between your mouth and your microphone and catches "plosives," or the puff of air you create when you say words with Ps or Bs in them. This air travels through to the microphone and makes a popping noise. A tip for avoiding these beyond using a pop filter (which will never stop 100% of the air) is to talk *past* the microphone a bit but point the microphone *at* your mouth. Also make sure you're using your microphone the way you're supposed to. You'd be surprised how many people talk into the top of a Blue Yeti instead of the side (it's what's known as a "side address" mic, along with others like the Rode NT1).
+
+You can choose to get an *isolation screen* for your microphone, as well, though these tend to be expensive and not work *all* that well. More on this in the Recording section below.
+
++ 
++ [Pop filters](https://amzn.to/2CYiHjA) again prevent plosives from entering your microphone and distorting your sound. Some mics come with one.
++ [Boom arms](https://amzn.to/2R4ABUZ) get your mic up off the desk or table and allow for much more movement and convenience. This is a good place *not* to skimp on expense as you really do get what you pay for.
++ [Shock mounts](https://amzn.to/2S2QyMn) suspend your microphone to mitigate noises traveling from your desk to your microphone. Many mics come with one but you may want to upgrade.
++ Headphone amplifiers allow you to split the headphone signal from one-to-many. Essential for group podcasts. Solid choices are the [Behringer HA400](https://amzn.to/2q1x1iF) and the [Pyle-Pro PHA40](https://amzn.to/2CsjPuS). You can also daisy-chain these together to have more than 4 outputs.
++ Acoustic treatments in  your studio space are always an option, as well. There are a number of online tutorials for how to make them relatively cheap with just a few bits of hardware from the store. 
++ Once you're *really* serious about podcasting, you might want to look into a hardware [compressor and noise gate (the Behringer MDX4600 for example)](https://amzn.to/2PFkjl6) to again do as much vocal modification in the hardware as you can, avoiding relying on the software. Speaking of which...
+
+## Software
+
+There are three basic categories of software for podcast recording: free, paid, and supplemental. The first two (free and paid) are for getting your vocal track recorded, simple as that. The supplemental software is for doing... well, supplemental things. Some terminology to know: you'll often hear talk ofa  DAW or Digital Audio Workstation. Software like Audacity and Audition are DAWs.
+
+### Free software
+
+The #1 free software that probably the majority of podcasters use is Audacity. It can be as simple as "hit record, hit stop, save" and you're done. Alternately, there is GarageBand also for both Mac and PC. A simple voice recorder app will work for Android and iPhone, as well.
+
+### Paid software
+
+The paid software tends to be a bit more specialized in its uses. For example, Adobe Audition is a phenomenal piece of software that does everything Audacity does (and more) but it now comes with a monthly subscription cost. Other software like Sound Booth or Logic Pro are options, as well, but Audition is a good choice if you’re already comfortable with the other Adobe Creative Cloud software as the ecosystem is essentially the same.
+
+You may have heard of Reaper, as well. This software is more suited to recording vocals like voiceover or audiobook narration but there’s no doubt it could certainly be used to podcast.
+
+
+### Supplemental software
+
+While it seems like podcasting should mostly be focused on the audio, there tends to be a considerable amount of other and supplemental software that goes with it.
+
+Zencastr, for example, is a phenomenal (paid) choice for recording remote interviews. The key feature that makes Zencastr great is this: instead of you recording the sound of your guest as it comes down the line, they end up with a high quality recording of just themselves on their machine, which you can then have and work with. So, instead of using a compressed, low quality recording, you can use one of considerably higher quality. 
+
+Of course, if this isn’t an option, many simply use Skype to record interviews. “Simply” perhaps is a bit misleading, here. Recording a live conversation using Skype requires either two machines (one for the Skype call and one for the recording) or a somewhat confusing setup called a mix-minus. This setup requires a mixing deck. 
+
+Beyond the audio, you’ll need graphic assets for labels, icons, websites, which brings Photoshop, GIMP, and other graphic editing software into the mix. Again, if you’re using Audition for the audio, it’s likely you’ll have access to Photoshop for this. Otherwise, if you’re not graphically inclined, there are sites like Fiverr that let you commission work for cheap.
+
+Don’t forget your ID3 tag editing software! After you finish recording your podcast and have your finished MP3 file, you’ll need to edit your ID3 tags to identify and label everything properly. Some of these tags you can edit directly in your OS but some require special software to edit. If you do need separate software, there is no shortage of options, like AudioShell for Windows and Tag Editor for Mac.
+
+Regardless of whether you choose free or paid software, your workflow should be roughly the same. You start by doing the recording!
+
+
+## Recording
+Finally, we’re ready to record! You’ve got your microphone, your recorder or laptop, your headphones or earbuds, and your script or guest. Now what? First, everything you considered in the Planning phase should lead you to the decisions you make here. Are you doing a podcast that’s more like audio essays, and so you want that kind of NPR-ish in-studio feeling? Are you interviewing people on location? Is it something between the two? For the purposes of this manual, the assumption is you will be doing the recording yourself. If you can find a studio and people to do the recording for you, fantastic! That said, learning to do your own recordings will never be a waste of time as you’re no longer tethered to that studio.
+
+### Solo
+A lot of podcasters get started the same way: grabbing a laptop and a pair of earbuds and heading into a walk-in closet. This is a great little makeshift sound booth as the clothes prevent soundwaves from bouncing all around you and creating echo. Likewise, you get less incidental noise than if you were recording in your living room (typically). Obviously, recording solo gives you the most flexibility as you can go anywhere and do it any time that’s convenient. 
+
+As you begin to build your collection of hardware and improve your surroundings, you may consider moving into an office or spare bedroom. At that point you’ll have more room to spread out and can begin exploring ways to improve your recording space, like hanging audio panels or other sound treatments. These can get expensive pretty quickly, though, so either be sure you need them or be willing to go the DIY route.
+
+### Group
+Recording in a group gets a little trickier, especially when you’re just starting out because, presumably, you don’t have the high-end equipment and setting made specifically for it or necessarily the editing skills to really polish the sound. However, that shouldn’t stop you from doing it.
+
+On the cheap, if you have a multi-pattern microphone like the Blue Yeti, you could theoretically just have everyone sit at a table, stick the Yeti in the middle, and record. This won’t be the best quality but at least you’ll have a recording! 
+
+Obviously, the most ideal setup would be to have one microphone for each person. This can get expensive quickly, however. Not to mention you’ll need to figure out a way to record all those different tracks, so a recorder like the Zoom H6 is necessary or having a mixer that can take multiple inputs. That also means you need to pay attention to the levels (volume) of each and every one! Having an extra person there to help out with that is probably the most convenient as it leaves you able to focus on the people and the content you’re creating. 
+
+There are other considerations when recording groups, as well. For example, do you know how to position the microphones properly so you get as little cross-recording as possible? Ideally, you want each microphone to pick up only that person’s voice and not the voices of the others’. Microphone positioning and gain setting become key.
+
+If you ever watch videos of the more professional group podcast recordings you’ll also see they use other hardware, not just a microphone and recorder/mixer. Typically you will see two items: a compressor and a gate. A compressor works to, as you could imagine, compress very loud sounds down into a listenable range. So, even when someone is yelling into the microphone, it will sound like it’s loud without actually being loud. The other bit of kit, the gate, will actually (basically) mute any sound that’s below a certain volume level or threshhold. So, instead of having to go in and manually edit out that traffic outside or the room noise or the ceiling fan, this does it for you. While you can usually pick up these bits of hardware for relatively cheap (used, you can find them for around \$75 to \$150, each), it does exponentially increase the amount of work and attention that goes into the setup. They are also not portable, so when you’re on-location, you’re back to the microphones and recorder. Many, many podcasters go their entire pods without touching either of these pieces of hardware but remember that they are an option.
+
+### Tips
+Here are a few tips to help ease your workflow when recording. 
+
+First, when you begin recording (and this is true whether or not you’re alone or with a group), try to include a few seconds of silence at the beginning *and* at the end of the recording. This is to allow you to capture a *noise print* in your editing software and use that to remove background noise (akin but not identical to what the gate does, mentioned above). The reason for both the beginning and the end? Noise changes over time! This gives you the most options.
+
+Second, carry a dog training clicker in your bag or keep it in your studio. This comes in handy in both group and solo recordings. When you record audio it’s saved as, basically, sound waves. That’s called the waveform. As you get better with editing you’ll begin to almost (a la The Matrix) be able to read the waveform and know who’s saying what, when. Certain sounds made by certain people have very distinct waveforms. That said, when you’re recording multi-track audio (in a group or interview, for example), you’ll need a way to sync up all those audio tracks perfectly. Likewise, when recording solo, if you’re reading from a script or just need to re-do a particular section, having a way to mark that in the waveform makes editing a breeze. That’s where the clicker comes in. Simply press the clicker and you’ll get two very distinct and very loud spikes in the waveform. For multiple tracks, this gives you a very clear point to sync and for solo recordings it’s like an audio marker in the waveform that says, “Hey, fix this.” 
+
+Third, while a desk shock mount is good for your home studio, purchasing a cheap boom-arm and actually *attaching it to the wall* or a separate stand is ideal. This completely removes the microphone from your desk setup and even makes it much more stable. A very easy and secure method of doing this is using the French cleat, which also allows you to still move the microphone along the wall if need be. 
+
+Fourth, if recording at home, don’t forget to turn off the air conditioner or heater before recording. It may not seem like much noise to you when it runs but, assuredly, using a sensitive microphone, it will be very apparent and distracting. Doing as much as you can do eliminate noise and reflection prior to hitting record will save you considerable time afterwards. And, after all, we podcast because of the *content*, not our love of audio editing, right?
+
+
+## Organization
+You probably gave thought to this in your Planning section but now is when you really need to implement those decisions. For some podcasters, it’s simply a regularly scheduled recording, maybe once or twice a week, maybe every other week, regardless of time or year; they simply continue on a set schedule. For others, especially those in academia, they’re more likely to follow the academic calendar, which is to say episodes begin airing in the fall and run through the spring, with summers either completely silent or at least on a very pared-down schedule.
+
+If you’ve decided on seasons (say, an academic year being a single season), that gives you a bit of an edge as you can tell by the calendar exactly how many episodes you’ll need. It means you can ramp up to something or even plan on a best-of episode that you put together on-going throughout the season. At least you’ll know when the season is ending. It also means you can actually promote the season while you’re publicizing the pod. (Plus, it does give a bit of a ‘wow’ factor when you can say something like, “Welcome to season 4 of the pod!” rather than just “Here’s episode 40.”). Seasons also give you an inherent opportunity to change your style or theme occasionally. You can say, “In season 2 we’re going to do things a little bit differently,” rather than just changing slowly over time. You can even aim for a “big” guest to be the season finale but record that episode whenever is good for them and preview it as the season goes on. 
+
+Having said all that, regardless of how you organize your pod, one key is consistency and planning ahead. If you say your pod is bi-weekly, it actually needs to be bi-weekly. If for some reason beyond your control you don’t have an episode lined up and one definitely needs to go out, one option is to do a flashback to a previous episode but record a new intro for it. It’s not ideal and you’ll probably see a dip in listener stats for that episode, but something is always better than nothing. 
+
+Planning ahead and having one or two episodes in your back pocket helps prevent this. Ideally, you’ll record a month ahead, so while you’re releasing an episode today, you just recorded the episode that will be released in 4 weeks. Sticking to that sort of schedule and keeping ahead of it will serve to both keep you consistent and relieve some stress, knowing that no matter what, you’re still good for this week.
+
+## Best practices
+There are a few “best practices” that you should consider paying attention to as you’re putting your podcast episodes together prior to posting them.
+
+First, provide a transcription of the episode. If you’re working off a script, that’s easy: just post the script. If you’re having a conversation or doing an interview, that’s a bit more time-consuming. While some more highly produced podcasts actually have a person that will sit down and transcribe the interview, for most of us that’s not an option (and transcription by hand takes a *long* time). Since you really should have something rather than nothing (seeing a pattern, here?), many podcasters resort to using auto-transcript services. The simplest one? Just make a Youtube video and set it to private! Youtube will automatically transcribe the audio and you can include that in your episode. Other services like Zoom make automatic transcriptions, as well. While these aren’t going to be perfect and the timestamps will most likely be off, it does give your listeners some sort of reference.
+
+Second, make show notes. You talk about a lot of stuff in your podcast, right? The show notes are where you put links and supplemental material to the audio content in your pod. Some people like to create narratives for their show notes, writing out sentences like, “My guest and I then talk about X (here’s a link), and Y (here’s a link).” Others like to just use bullet points more for reference than anything.
+
+Third, decide on an intro and outro that’s consistent. Use it in every episode. Many podcasters end their episodes with either a little recap or a call-to-action (“Follow me on Twitter” or “Subscribe at….”) However you choose to do it, keep it consistent. 
+
+Fourth, make sure you get all the contact info and a bio for your guests if you have them. Your guests are people that, hopefully, your listeners will want to know more about. Having this info available to them is not only good for you but them, as well!
