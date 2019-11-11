@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reflection on ryan straight, ph.d</title>
+    <title>reflection | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/reflection/</link>
-    <description>Recent content in reflection on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Ryan Straight</copyright>
-    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <description>reflection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>reflection</title>
+      <link>https://ryanstraight.com/tags/reflection/</link>
+    </image>
     
     <item>
       <title>Finding Order in Chaos</title>
       <link>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</guid>
       <description>
 
@@ -34,7 +33,6 @@
       <title>9x9x25 Challenge: The Harshest Mirror</title>
       <link>https://ryanstraight.com/2018/10/16/9x9x25-challenge-the-harshest-mirror/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/10/16/9x9x25-challenge-the-harshest-mirror/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;Reflection is hard. It can be scary. Not for lack of content but for the what it means to potentially confront your shortcomings. Yes, the goal is to improve but to do that you must admit where you are lacking. Of course, we can couch this in platitudes like, “It’s not that I’m &lt;em&gt;bad&lt;/em&gt; at it, just that… it’s an area for growth.” And this is most likely true. Doesn’t change the fact that you still have to admit that first part.&lt;/p&gt;
@@ -49,7 +47,6 @@
       <title>9x9x25 Challenge: An Introduction and a Plan</title>
       <link>https://ryanstraight.com/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;To start off with, let me say that I volunteered the &lt;a href=&#34;https://squadgoalsnetwork.com&#34;&gt;#SquadGoalsNetwork&lt;/a&gt; for this challenge and take full responsibility for it. That said, I’m looking for the entire squad to do the challenge in total, not for each member to do their own 9x9x25 challenge. They can if they want but it’s far from necessary. I’m hard but I’m not cruel, sheesh. The SGN is (and continues to grow into) a collection of incredibly talented and reflective people, so the content produced should be impressive.&lt;/p&gt;
@@ -67,7 +64,6 @@
       <title>On Expertise and Being &#39;Out There&#39;</title>
       <link>https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/</guid>
       <description>
 
@@ -84,7 +80,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
 &lt;div class=&#34;footnotes&#34;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;Did you know you can buy machetes at Home Depot? They’re with the gardening tools. That blew my mind. Not sure where I thought they were sold before I discovered this. Not sure I’d ever thought about where they’re sold before then. It just struck me as odd.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&#34;fn1&#34;&gt;&lt;p&gt;Did you know you can buy machetes at Home Depot? They’re with the gardening tools. That blew my mind. Not sure where I thought they were sold before I discovered this. Not sure I’d ever thought about where they’re sold before then. It just struck me as odd.&lt;a href=&#34;#fnref1&#34; class=&#34;footnote-back&#34;&gt;↩︎&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>

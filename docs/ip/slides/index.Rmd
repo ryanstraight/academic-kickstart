@@ -1,0 +1,151 @@
+---
+title: "**Owning Your Success**"
+subtitle: "<br />Battling the Impostor Phenomenon in Higher Education"
+author:
+  - "Tina Rettler-Pagel"
+  - "Madison College"
+  - ".small[rettler@madisoncollege.edu ]"
+  - "she/her/hers"
+  - "<br />"
+  - "Ryan Straight"
+  - "University of Arizona"
+  - ".small[ryanstraight@email.arizona.edu ]"
+  - "he/him/his"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [default, metropolis, metropolis-fonts, header-footer.css]
+    lib_dir: libs
+    nature:
+      countIncrementalSlides: no
+      highlightLines: yes
+      highlightStyle: github
+      scroll: yes
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          </div>
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+    seal: yes
+    yolo: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+layout: true
+
+<div class="my-footer"><span>Tina Rettler-Pagel - @TinaRPagel   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Dr. Ryan Straight - @ryanstraight</span></div> 
+
+
+---
+
+# Welcome, all!
+
+???
+
+Introduce selves
+
+
+
+---
+
+# Plan for Today
+
+--
+
+## MATAC
+
+--
+
+## What is IP?
+
+--
+
+## Discussion
+
+--
+
+## Bringing it home
+
+---
+
+# What is impost**o**r phenomenon?
+
+How does it work?
+
+
+---
+
+# Do you have it?
+
+--
+
+## Group-share, brainstorm, **get it out**.
+
+--
+
+## How do we explain away your successes?
+
+--
+
+## When do **you** most feel like an impostor?
+
+--
+
+## How do "impostors" cope?
+
+--
+
+## How does this impact your work?
+
+---
+
+# Disrupting the IP mindset
+
+--
+
+## 1. DO X
+
+Brief description of X
+
+--
+
+## 2. DO Y
+
+Brief description of Y
+
+--
+
+## 3. DO Z
+
+Brief description of Z
+
+---
+
+# Self-Assessments
+
+## Values Assessment
+
+Brief description here.
+
+## Thought Record
+
+Brief description here.
+
+## Clance Scale
+
+Brief description here.
+
+---
+
+# Just because it's fake
+
+## Doesn't mean it doesn't feel real
+
+<iframe src="https://giphy.com/embed/vckrZcxyyUZry" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/stop-ca-vckrZcxyyUZry">via GIPHY</a></p>
+
+
+---
+
