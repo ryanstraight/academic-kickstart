@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>evidence on ryan straight, ph.d</title>
+    <title>evidence | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/evidence/</link>
-    <description>Recent content in evidence on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Ryan Straight</copyright>
-    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/tags/evidence/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/tags/evidence/index.xml" rel="self" type="application/rss+xml" />
+    <description>evidence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>evidence</title>
+      <link>https://ryanstraight.com/tags/evidence/</link>
+    </image>
     
     <item>
       <title>Evidence</title>
       <link>https://ryanstraight.com/2018/08/24/evidence/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/08/24/evidence/</guid>
       <description>
 
