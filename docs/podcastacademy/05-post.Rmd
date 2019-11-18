@@ -1,0 +1,47 @@
+# Post {#post}
+
+So you've got your theme all figured out, you know your audience, you even recorded a pilot. Now... what do you do with it?
+
+The files that make up your podcast must be publically available on the internet for your listeners to access. These files can be self hosted on your own web server or made available via various podcast hosting services. 
+
+## Paid Hosting Services
+
+These are a good idea if you're not too technical. However, you'll likely be locked into a platform and moving away from it is difficult. That's why this section is pretty sparse: you're better off just skipping this and going straight to the...
+
+## Self Hosting Tools
+There are many benefits to paid hosting services, such as integrated analytics, a simple UI for managing your podcast, and direct access to publish your podcast in various podcasting repositories/directories. One of the biggest benefits of using a paid hosting service is that it saves you time in setting up and managing your podcast, however these solutions will cost you money. 
+
+If you have a bit of time in your schedule and a some technical expertise, you may want to look into some self hosting solutions for podcasting. Self hosting solutions will work best for those who already have access to a web server and domain. While a self hosted solution is not free, you may be able to cut costs by leveraging your own web server and domain. If you manage a website, then you already have access to these.
+
+### Podcast Generator 
+Podcast Generator is a free, open source podcast publishing solution. You can learn more and demo the tool here: http://www.podcastgenerator.net/home. 
+
+### Blubrry/PowerPress for Wordpress
+If you are running your own WordPress site, I would highly recommend looking at PowerPress by Blubrry https://create.blubrry.com/resources/powerpress/. PowerPress is a free Wordpress plugin that you can easily install within Wordpress. The plugin will allow you to create and manage multiple podcast channels within Wordpress. Once setup and configured, creating a new podcast episode is as simple as creating a new post within Wordpress. 
+
+
+## Data & Analytics
+Capturing data and analytics is an important part of podcasting. Having access to analytics and data will help you make informed decisions when curating content, promoting episodes, and determining listenership. Simply put, having access to such data/analytics will help you better understand your listeners. 
+
+Whether you are using a paid hosting solution or self hosting solution, you will need to make sure you are capturing analytics on each episode and your RSS feed. Most paid hosting services will provide basic analytics/reporting tools with purchase of their service. Many will also offer advance analytics/reporting tools for an additional cost.
+
+If you are using a self hosting solution for podcasting, then gathering analytics can be a bit more tricky, but not impossible. Below are a few methods for gathering data/analytics when using a self hosting solution.
+
+### Gather data from the web server
+When self hosting, your individual MP3 files are hosted on your own web server. With this method, listeners must connect to your web server to listen to each episode. There are a wide range of web server logging applications (both paid and free) that are designed to analyze traffic to and from your web server. These applications can often be configured to capture traffic to/from each mp3 file and then compile an easy to read report for you. 
+
+Popular Server logging Applications:
++	LogZilla
++	Splunk 
++	Mixpanel
++	Sumo Logic
+
+### Gather data from tracking URLs
+Another way of capturing data/analytics when self hosting is through the use of tracking URLs. Once a connection is made, tracking URLs will gather data from the connection and then redirect the connection to the source file, page, URL, or in this case, MP3 file.
+
+If you open up your RSS feed for you podcast, you’ll notice that each episode has a link/URL to the individual mp3 file. This is how podcast repositories such as Google play and Apple Podcast locate your episodes. You can start gathering analytics on each episode by simply replacing the URL to each MP3 file in your feed with a tracking URL.
+
+There are many ways to create tracking URLs. A popular method for creating tracking URLs is to do so through Google Analytics. Another popular service by Blubrry offers podcasters professional statistics through the use of tracking URLs. Plans through Blubrry range from free to $5 per month.  
+
+## Syndication
+Your content gets pushed out via RSS feed. Virtually every blog or website that contains timely and updated content has a feed. Protip: use FeedBurner (or something similar) to have a permanent feed URL. That way, if/when you change hosts or websites, you just have to change the URL that FeedBurner pulls from and your podcast’s syndicated feed should go on uninterrupted in distribution services like Stitcher and Apple Podcasts. Futureproofing!

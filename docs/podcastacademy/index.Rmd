@@ -1,0 +1,35 @@
+--- 
+title: "Podcast Academy"
+subtitle: "Start to Finish Guide to Developing an Academic Podcast"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is the electronic handbook to accompany the Podcast Academy workshop at the OLC Accelerate 2019 conference."
+---
+
+# The Handbook {-}
+
+This full-length workshop is designed to be your one-stop-shop for creating an academic podcast, from ideation all the way to publishing. 
+
+This workshop booklet is organized into the following sections:
+
+1. Introduction:  more in-depth look at what this workshop is all about.
+1. Why?: what are the benefits of podcasting? Why would someone want to do it in the first place?
+1. Plan: making the big decisions like theme, audience, format, and more.
+1. Produce: deciding on hardware, software, organization, and accessibility.
+1. Post: where does a podcast live, anyway? You need to know this before you can move on to...
+1. Publicize: getting your voice out there and heard.
+
+You can also [view the slide deck for the workshop]() and download a copy of the worksheet in [Google Doc](https://docs.google.com/document/d/1g2FGgv_a5fwEQXsfk4xBktAlJE64FtPZ4aL0s0UBU-A/edit?usp=sharing), [Word](), or [PDF](. 
+
+# Workshop Schedule {-}
+
+The basic plan for the workshop is listed below. Please note that this is a goal and, depending on the expressed desires of the workshop participants, may change.
+
+| Time      |   | Topic                         |
+|---------- |-- |------------------------------ |
+|           |   |                               |
+
