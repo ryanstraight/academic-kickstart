@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | ryan straight, ph.d</title>
+    <title>Categories on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/categories/</link>
-      <atom:link href="https://ryanstraight.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>Categories</title>
-      <link>https://ryanstraight.com/categories/</link>
-    </image>
+    <description>Recent content in Categories on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} Ryan Straight</copyright>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Organization</title>
       <link>https://ryanstraight.com/categories/organization/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/organization/</guid>
       <description></description>
     </item>
@@ -24,6 +25,7 @@
       <title>Teaching</title>
       <link>https://ryanstraight.com/categories/teaching/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/teaching/</guid>
       <description></description>
     </item>
@@ -32,6 +34,7 @@
       <title>Professional</title>
       <link>https://ryanstraight.com/categories/professional/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/professional/</guid>
       <description></description>
     </item>
@@ -40,6 +43,7 @@
       <title>Personal</title>
       <link>https://ryanstraight.com/categories/personal/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/personal/</guid>
       <description></description>
     </item>
@@ -48,6 +52,7 @@
       <title>The New Professor</title>
       <link>https://ryanstraight.com/categories/the-new-professor/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      
       <guid>https://ryanstraight.com/categories/the-new-professor/</guid>
       <description></description>
     </item>
@@ -56,6 +61,7 @@
       <title>Social</title>
       <link>https://ryanstraight.com/categories/social/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/social/</guid>
       <description></description>
     </item>
@@ -64,6 +70,7 @@
       <title>Academic</title>
       <link>https://ryanstraight.com/categories/academic/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/academic/</guid>
       <description></description>
     </item>
@@ -72,6 +79,7 @@
       <title>Conferences</title>
       <link>https://ryanstraight.com/categories/conferences/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/conferences/</guid>
       <description></description>
     </item>
@@ -80,6 +88,7 @@
       <title>Travel</title>
       <link>https://ryanstraight.com/categories/travel/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/travel/</guid>
       <description></description>
     </item>
@@ -88,6 +97,7 @@
       <title>Writing</title>
       <link>https://ryanstraight.com/categories/writing/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/categories/writing/</guid>
       <description></description>
     </item>

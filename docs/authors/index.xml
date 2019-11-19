@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | ryan straight, ph.d</title>
+    <title>Authors on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/authors/</link>
-      <atom:link href="https://ryanstraight.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>https://ryanstraight.com/authors/</link>
-    </image>
+    <description>Recent content in Authors on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} Ryan Straight</copyright>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
       <link>https://ryanstraight.com/authors/ryan/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/authors/ryan/</guid>
       <description>&lt;p&gt;Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, &lt;em&gt;Cyborgs and Transhumanism&lt;/em&gt;, in the Honors College.&lt;/p&gt;
 
@@ -29,6 +30,7 @@
       <title>Jamie Smith</title>
       <link>https://ryanstraight.com/authors/jamie-smith/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
       <guid>https://ryanstraight.com/authors/jamie-smith/</guid>
       <description></description>
     </item>

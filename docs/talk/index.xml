@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | ryan straight, ph.d</title>
+    <title>Recent &amp; Upcoming Talks on ryan straight, ph.d</title>
     <link>https://ryanstraight.com/talk/</link>
-      <atom:link href="https://ryanstraight.com/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Fri, 20 Sep 2019 14:00:00 -1000</lastBuildDate>
-    <image>
-      <url>https://ryanstraight.com/img/icon-192.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ryanstraight.com/talk/</link>
-    </image>
+    <description>Recent content in Recent &amp; Upcoming Talks on ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} Ryan Straight</copyright>
+    <lastBuildDate>Fri, 20 Sep 2019 14:00:00 -1000</lastBuildDate>
+    
+	    <atom:link href="https://ryanstraight.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Games Peoples Play</title>
       <link>https://ryanstraight.com/talk/olccollaborate2019/</link>
       <pubDate>Fri, 20 Sep 2019 14:00:00 -1000</pubDate>
+      
       <guid>https://ryanstraight.com/talk/olccollaborate2019/</guid>
       <description>
 
