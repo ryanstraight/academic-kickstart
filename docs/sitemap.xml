@@ -3,6 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ryanstraight.com/authors/ryan/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/authors/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/categories/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/2019/12/08/privacy/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/post/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/categories/professional/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/privacy/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/security/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanstraight.com/tags/vpn/</loc>
+    <lastmod>2019-12-08T11:56:47-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ryanstraight.com/talk/</loc>
     <lastmod>2019-09-20T14:00:00-10:00</lastmod>
   </url>
@@ -13,46 +76,12 @@
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/</loc>
-    <lastmod>2019-09-20T14:00:00-10:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/authors/ryan/</loc>
-    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/authors/</loc>
-    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ryanstraight.com/2019/08/08/pkb/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ryanstraight.com/categories/</loc>
-    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ryanstraight.com/categories/organization/</loc>
-    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/post/</loc>
-    <lastmod>2019-08-08T08:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/tags/</loc>
     <lastmod>2019-08-08T08:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -113,12 +142,6 @@
   <url>
     <loc>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</loc>
     <lastmod>2018-11-02T16:44:29-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanstraight.com/categories/professional/</loc>
-    <lastmod>2019-06-13T11:51:56-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
