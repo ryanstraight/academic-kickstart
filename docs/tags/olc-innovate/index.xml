@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>olc innovate on ryan straight, ph.d</title>
+    <title>olc innovate | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/tags/olc-innovate/</link>
-    <description>Recent content in olc innovate on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Ryan Straight</copyright>
-    <lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/tags/olc-innovate/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/tags/olc-innovate/index.xml" rel="self" type="application/rss+xml" />
+    <description>olc innovate</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>olc innovate</title>
+      <link>https://ryanstraight.com/tags/olc-innovate/</link>
+    </image>
     
     <item>
       <title>OLC Innovate 2017</title>
       <link>https://ryanstraight.com/2017/07/26/olc-innovate-2017/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2017/07/26/olc-innovate-2017/</guid>
       <description>
 

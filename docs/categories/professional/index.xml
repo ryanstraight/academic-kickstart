@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Professional on ryan straight, ph.d</title>
+    <title>Professional | ryan straight, ph.d</title>
     <link>https://ryanstraight.com/categories/professional/</link>
-    <description>Recent content in Professional on ryan straight, ph.d</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} Ryan Straight</copyright>
-    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://ryanstraight.com/categories/professional/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://ryanstraight.com/categories/professional/index.xml" rel="self" type="application/rss+xml" />
+    <description>Professional</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>Professional</title>
+      <link>https://ryanstraight.com/categories/professional/</link>
+    </image>
     
     <item>
       <title>Picking the Low-Hanging Fruit of Privacy and Security</title>
       <link>https://ryanstraight.com/2019/12/08/privacy/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2019/12/08/privacy/</guid>
       <description>
 
@@ -171,7 +170,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>Finding Order in Chaos</title>
       <link>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/11/02/finding-order-in-chaos/</guid>
       <description>
 
@@ -189,7 +187,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>October Squad Ghouls Network Take-Over: Postmortem</title>
       <link>https://ryanstraight.com/2018/11/01/october-squad-ghouls-network-take-over-postmortem/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/11/01/october-squad-ghouls-network-take-over-postmortem/</guid>
       <description>
 
@@ -217,7 +214,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>9x9x25 Challenge: The Harshest Mirror</title>
       <link>https://ryanstraight.com/2018/10/16/9x9x25-challenge-the-harshest-mirror/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/10/16/9x9x25-challenge-the-harshest-mirror/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;Reflection is hard. It can be scary. Not for lack of content but for the what it means to potentially confront your shortcomings. Yes, the goal is to improve but to do that you must admit where you are lacking. Of course, we can couch this in platitudes like, “It’s not that I’m &lt;em&gt;bad&lt;/em&gt; at it, just that… it’s an area for growth.” And this is most likely true. Doesn’t change the fact that you still have to admit that first part.&lt;/p&gt;
@@ -232,7 +228,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>9x9x25 Challenge: An Introduction and a Plan</title>
       <link>https://ryanstraight.com/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/</guid>
       <description>&lt;/p&gt;
 &lt;p&gt;To start off with, let me say that I volunteered the &lt;a href=&#34;https://squadgoalsnetwork.com&#34;&gt;#SquadGoalsNetwork&lt;/a&gt; for this challenge and take full responsibility for it. That said, I’m looking for the entire squad to do the challenge in total, not for each member to do their own 9x9x25 challenge. They can if they want but it’s far from necessary. I’m hard but I’m not cruel, sheesh. The SGN is (and continues to grow into) a collection of incredibly talented and reflective people, so the content produced should be impressive.&lt;/p&gt;
@@ -250,7 +245,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>October 2018 SGN Social Media Takeover</title>
       <link>https://ryanstraight.com/2018/10/01/october-2018-sgn-social-media-takeover/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2018/10/01/october-2018-sgn-social-media-takeover/</guid>
       <description>
 
@@ -269,7 +263,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>Squad Goals network</title>
       <link>https://ryanstraight.com/project/squad-goals-network-project/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
-      
       <guid>https://ryanstraight.com/project/squad-goals-network-project/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Squad Goals Network&lt;/strong&gt; is a collection of like-minded teachers, designers, and researchers that get together to gab, think of innovative ways to bring technology and collaboration into higher education and K-12, and just generally have a good time. We try to uphold and demonstrate our principles through support and collaborative work.&lt;/p&gt;
 
@@ -281,7 +274,6 @@ e) how you compare to the rest of the LastPass community.&lt;/p&gt;
       <title>Electronic Academic Workflow: Paperless Researching</title>
       <link>https://ryanstraight.com/2013/12/01/electronic-academic-workflow-paperless-researching/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://ryanstraight.com/2013/12/01/electronic-academic-workflow-paperless-researching/</guid>
       <description>
 
