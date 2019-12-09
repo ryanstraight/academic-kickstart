@@ -1,0 +1,34 @@
+name: "Impostor Pheonemonon"
+output_dir: "docs"
+include: [".nojekyll", ".gitignore", ".gitattributes", "CNAME"]
+navbar:
+  title: "Owning Your Success"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Abstract"
+      href: about.html
+    - text: "Slides"
+      href: slides/index.html
+    - text: "Facilitators"
+      href: authors.html
+output:
+  html_document:
+    number_sections: no
+    smart: yes
+    theme: journal
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+    highlight: textmate
+    include:
+#      in_header: GA_Script.html
+      after_body: footer.html
+#    css: styles.css
+params:
+  ## Use params inline like this: `r params$classname`
+  workshop: "Owning Your Success: Battling The Impostor Phenomenon in Higher Education"
+  date: "Friday, November 22nd"
+  time: "9:45am to 10:30am"
+  location: "Asia 3"
+  year: 2019
