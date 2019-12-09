@@ -190,5 +190,5 @@ sharing = true
 ## Marketing
 ############################
 [marketing]
-  google_analytics = "UA-123447651-1"
-  google_tag_manager = ""
+  #google_analytics = "UA-123447651-1"
+  google_tag_manager = "GTM-P459F26"
