@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ryan straight, ph.d</title>
+    <link>https://ryanstraight.com/authors/ryan/</link>
+      <atom:link href="https://ryanstraight.com/authors/ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>ryan straight, ph.d</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/img/icon-192.png</url>
+      <title>ryan straight, ph.d</title>
+      <link>https://ryanstraight.com/authors/ryan/</link>
+    </image>
+    
+    <item>
+      <title>Picking the Low-Hanging Fruit of Privacy and Security</title>
+      <link>https://ryanstraight.com/post/privacy/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/privacy/</guid>
+      <description>&lt;p&gt;A little while back I was involved in a Twitter thread in which I suggested the &lt;a href=&#34;https://brave.com&#34;&gt;Brave browser&lt;/a&gt; for its integrated privacy and security settings.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Both! I sync my Brave wallet across all my browsers, though. This is just one of the browsers and, wow, it&amp;#39;s disturbing. &lt;a href=&#34;https://t.co/aziApUdiQA&#34;&gt;pic.twitter.com/aziApUdiQA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/1201891797011763200?ref_src=twsrc%5Etfw&#34;&gt;December 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;That&#39;s fairly striking, I know.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Maybe I should do a blog post on this kinda thing. A &amp;quot;so you want to be safer in 2020&amp;quot; kinda thing with some low-hanging fruit (like switching from Chrome to Brave).&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/1201892630109528064?ref_src=twsrc%5Etfw&#34;&gt;December 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;So, here it is: my &amp;ldquo;So You Want To Be Safer In 2020&amp;rdquo; post! I&#39;ll preface it with this: this is &lt;em&gt;my&lt;/em&gt; opinion based on the products and services I know. Does it mean this is 100% the best way to go about it or there aren&#39;t potentially better options out there? Not at all. But if you want to hear firsthand experience, you&#39;ve come to the right spot.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
+
+&lt;h2 id=&#34;what-do-you-mean-lowhanging-fruit&#34;&gt;What do you mean, &amp;ldquo;low-hanging fruit?&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;One of the topics I address pretty heavily in my classes is the importance of finding a balance between usability and security. As the old joke goes, &amp;ldquo;The most secure system is one you can&#39;t access.&amp;rdquo; This isn&#39;t what I&#39;m addressing here today but it does lead us down this road: what are the simple solutions you can choose that will have the least impact on your day-to-day user experience? Some of these are simpler than others but I think everything below is definitely worth looking into. Note that I&#39;m not affiliated with any of these products or services, though you may find the occasional affiliate link.&lt;/p&gt;
+&lt;p&gt;Now. First things first:&lt;/p&gt;
+&lt;h2 id=&#34;internet-traffic-generally-get-yourself-a-vpn&#34;&gt;Internet traffic, generally: get yourself a VPN&lt;/h2&gt;
+&lt;p&gt;You&#39;ve probably heard the term before. VPN stands for &lt;strong&gt;V&lt;/strong&gt;irtual &lt;strong&gt;P&lt;/strong&gt;rivate &lt;strong&gt;N&lt;/strong&gt;etwork. The way it works is basically like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;VPN_explained_transparent_grey.png&#34; alt=&#34;VPN Monitor EU&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A VPN creates an encrypted (read: secure) line between you and the internet. Traffic from your computer goes through the VPN before it gets anywhere else and vice versa. This protects you from, among other things, snooping by your internet service provider (ISP), tracking/identification by the websites you visit, and unwanted incoming connections. It also anonymizes you to the rest of the world (within reason; if you sign into a website that will give the game away, of course) and allows you to get around government or other blocks.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Because of its relative simplicity to use. It looks and sounds complicated but these days it&#39;s as simple as signing up for the service, installing the app, and &amp;hellip; well, that&#39;s about it. Most commercial VPNs will run perfectly fine just out of the box, though you can tweak some settings (like where you &lt;em&gt;look&lt;/em&gt; like you&#39;re geographically located and whether or not you want X app or Y app to bypass the VPN connection &amp;ndash; handy for Netflix since they block most proxies/VPNs).&lt;/p&gt;
+&lt;h3 id=&#34;my-pick-private-internet-accesshttpsamznto2yvkbtb&#34;&gt;My pick: &lt;a href=&#34;https://amzn.to/2YvkbtB&#34;&gt;Private Internet Access&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;They&#39;re cheap, fast, and work on virtually any device. You can purchase any number of service lengths (monthly, annually, etc.) on their website or just get a &lt;a href=&#34;https://amzn.to/2YvkbtB&#34;&gt;one-year subscription here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;web-tracking-and-ads-change-your-browser--search-engine&#34;&gt;Web tracking and ads: change your browser &amp;amp; search engine&lt;/h2&gt;
+&lt;p&gt;Most of our online lives are lived in web browsers and social media apps, it seems (and we&#39;ll come back to the latter in a bit). That said, it only stands to reason that your online experience is only as good as your browser. Chrome currently stands as the browser king with &lt;a href=&#34;https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables&#34;&gt;roughly 65% of the browser market share&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit1&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Mostly because of my pick for an alternate browser. It&#39;s the same experience but with increased security and privacy. And that is&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;my-picks-bravehttpswwwbravecom-and-duckduckgohttpduckduckgocom&#34;&gt;My picks: &lt;a href=&#34;https://www.brave.com&#34;&gt;Brave&lt;/a&gt; and &lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;See, Brave is actually a version of Chrome. Anything you can do in Chrome, you can do in Brave. It&#39;s actually built on &lt;a href=&#34;https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/&#34;&gt;Chromium, the open-source platform that makes Chrome possible&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Brave has built-in ad blocking and privacy controls. When these features are enabled, Brave refers to it as being &lt;em&gt;shields up&lt;/em&gt; (though it does break some websites, so switching to &lt;em&gt;shields down&lt;/em&gt; is occasionally necessary but it&#39;ll be obvious when that&#39;s the case). Here&#39;s what happens if you visit, say, Buzzfeed:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;brave-shields.png&#34; alt=&#34;Brave shields on Buzzfeed&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And that&#39;s not even nearly the worst perpetrator I can think of, it was just a random popular website that came to mind.&lt;/p&gt;
+&lt;p&gt;There&#39;s also the whole Brave Rewards program and a built-in version of cryptocurrency called the Basic Attention Token (BAT) that can be used to tip websites that have enabled it but that&#39;s another post. Feel free to &lt;a href=&#34;https://brave.com/tips/&#34;&gt;throw a tip my way&lt;/a&gt; if you&#39;re using it, though!&lt;/p&gt;
+&lt;p&gt;As for the search engine, just moving away from Google is a huge step (because nobody actually uses Bing, let&#39;s be honest). My typical go-to for search engines is &lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; (which, ironically, &lt;em&gt;does&lt;/em&gt; use Bing&#39;s results along with many, many others). It&#39;s easy to &lt;a href=&#34;https://support.brave.com/hc/en-us/articles/360017479752-How-do-I-set-my-default-search-engine-&#34;&gt;switch your default browser search engine in Brave&lt;/a&gt; and their private windows (like Incognito in Chrome) uses it automatically. If you&#39;re interested in using Google&#39;s results, &lt;a href=&#34;https://www.startpage.com/&#34;&gt;you can try StartPage&lt;/a&gt;, instead, which is also a great choice.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;credentials-use-a-password-vault-and-2fa&#34;&gt;Credentials: use a password vault and 2FA&lt;/h2&gt;
+&lt;p&gt;I cannot emphasize this enough: use long, unique passwords for everything and enable two-factor authentication everywhere you can. Let&#39;s have a little thought experiment, shall we?&lt;/p&gt;
+&lt;p&gt;You&#39;ve been using the same email and password for everything for years. Let&#39;s say it&#39;s &lt;code&gt;password1&lt;/code&gt;. (Think that&#39;s too obvious? It doesn&#39;t even &lt;a href=&#34;https://www.welivesecurity.com/2018/12/17/most-popular-passwords-2018-revealed/&#34;&gt;crack the top 20&lt;/a&gt; of the most popular passwords.) So you&#39;ve been using that password everywhere from your university email to Netflix to the bank to a silly little website you don&#39;t even remember signing into a couple years ago.&lt;/p&gt;
+&lt;p&gt;Is it likely your university or your bank or Netflix is going to find their entire user database of credentials obtained and leaked? Nah, probably not. That&#39;s not how these things typically go. What will usually happen is that little website you signed up for (and probably even forgot about) gets hacked and, because they didn&#39;t know what they were doing, kept all their users&amp;rsquo; emails and passwords in plain text right there on the server. (Sound unlikely? &lt;a href=&#34;https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/&#34;&gt;It&#39;s what Facebook did for years&lt;/a&gt;.) So while your email and bank and Netflix weren&#39;t hacked, someone&amp;ndash;and, likely, anyone who wants to search the &lt;a href=&#34;https://haveibeenpwned.com/Passwords&#34;&gt;half-billion passwords&lt;/a&gt; that&#39;ve been exposed online&amp;ndash;now has those credentials because they&#39;re the same everywhere. So, all that person has to do in theory is take that email and password combination, start visiting popular websites, and eventually they&#39;re going to get lucky.&lt;/p&gt;
+&lt;p&gt;That is a true nightmare just waiting to happen. That particular nightmare could&#39;ve been avoided by just using different passwords for everything. But who wants to keep track of all those, right? Well.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit2&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Because services like the ones I&#39;ve chosen for my picks are so dead simple to use that the tiny learning curve is absolutely justified by the benefits of using the services.&lt;/p&gt;
+&lt;h3 id=&#34;my-picks-lastpasshttpslastpasscom-and-authyhttpsauthycom&#34;&gt;My picks: &lt;a href=&#34;https://lastpass.com&#34;&gt;LastPass&lt;/a&gt; and &lt;a href=&#34;https://authy.com&#34;&gt;Authy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Both are both browser extensions and stand-alone phone apps. LastPass keeps track of all those passwords for you, even updates automatically when you need or decide to change your password. It can generate passwords as long and as complex as you need. It even provides what they call the &lt;a href=&#34;https://helpdesk.lastpass.com/lastpass-security-challenge/&#34;&gt;&lt;em&gt;Security Challenge&lt;/em&gt;&lt;/a&gt; that audits your entire collection of usernames and passwords and tells you if:&lt;/p&gt;
+&lt;p&gt;a) any are duplicates and used on more than one site,&lt;br&gt;
+b) if any of your passwords are just generally weak,&lt;br&gt;
+c) if any of your email addresses are included in lists of exposed credentials online,&lt;br&gt;
+d) if any of your passwords are old, and&lt;br&gt;
+e) how you compare to the rest of the LastPass community.&lt;/p&gt;
+&lt;p&gt;Take an afternoon and get it set up. Seriously.&lt;/p&gt;
+&lt;p&gt;Then there&#39;s the two-factor authentication (2FA). Know when you&#39;re prompted to put in a 6-digit code after signing into a website? That&#39;s that. While many just use the &amp;ldquo;send me an SMS&amp;rdquo; option (terrible, by the way), you can improve upon that with an app that has multi-device support. My favorite is &lt;a href=&#34;https://authy.com/&#34;&gt;Authy&lt;/a&gt;, which is hands-down better &lt;a href=&#34;https://authy.com/blog/authy-vs-google-authenticator/&#34;&gt;than the other most popular one, Google Authenticator&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;chatting-switch-your-chat-app&#34;&gt;Chatting: switch your chat app&lt;/h2&gt;
+&lt;p&gt;Text messages are inherently insecure. WhatsApp is owned by Facebook. Signal is secure but it still uses your phone number. Telegram isn&#39;t open source. Allo is owned by Google. Skype is owned by Microsoft. &lt;a href=&#34;https://www.securemessagingapps.com/&#34;&gt;The list goes on&lt;/a&gt;. If you want to be sure that your communications are secure and you&#39;re talking to whomever they &lt;em&gt;say&lt;/em&gt; they actually are, you&#39;ll need a different option.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit3&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;The implications for privacy, more or less. Right up there with your passwords and protecting your internet traffic, this is no less important so the stakes are much higher. After all: would you be okay with someone listening in on your phone calls? That feels oddly more invasive, doesn&#39;t it? It shouldn&#39;t. It shouldn&#39;t feel exactly as invasive as someone potentially reading your chats. Heck, that&#39;s even worse because you can just print out the transcript and &lt;em&gt;voila&lt;/em&gt;. In short, there&#39;s a record. If you can convince anyone of doing anything, this&amp;ndash;changing the means of communication you use&amp;ndash;is a good place to start.&lt;/p&gt;
+&lt;h3 id=&#34;my-pick-keybasehttpskeybaseio&#34;&gt;My pick: &lt;a href=&#34;https://keybase.io&#34;&gt;Keybase&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Why? Well, in one word:&lt;/p&gt;
+&lt;div style=&#34;width:100%;height:0;padding-bottom:56%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/13UJifd97hqdji&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/television-john-oliver-last-week-tonight-13UJifd97hqdji&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keybase was originally just a new place to generate and keep PGP keys (tl;dr: a way to securely message people that nobody ever really, actually uses in the real world). They&#39;ve been expanding and expanding since those days and now they provide chat, teams (like Slack or group messaging), secure file storage, cryptocurrency wallets, and even encrypted Git repositories (a way of storing and change-tracking code, more or less). Since their platform is open source, it&#39;s inherently more secure since anyone can look at and improve the code. Combine that with the fact content from Keybase users is end-to-end encrypted (like what happens in the VPN, more or less), the Keybase folks can&#39;t even actually see what you&#39;re saying or what your files are or &amp;hellip; well, anything. They can see a message was sent, what time it was, that sort of thing (known as &lt;em&gt;metadata&lt;/em&gt;) but the content of that stuff? Totally secure (insofar as you don&#39;t lose your device; they have no control over you being a doofus).&lt;/p&gt;
+&lt;p&gt;You can find me at &lt;a href=&#34;https://keybase.io/ryanstraight&#34;&gt;https://keybase.io/ryanstraight&lt;/a&gt; if you want to give it a trial run and say hi. 😄&lt;/p&gt;
+&lt;p&gt;We switched from WhatsApp to Keybase a while ago for our daily communication and I can say it&#39;s been pretty painless. In Keybase you can still share a live location, you can share gifs, leave voice messages instead of typing, everything you can do with other chat platforms, you can do in there. There are some really nice other features, too, like easy access to all the files and links you&#39;ve shared back and forth. One killer feature I&#39;d love to see, though, is like how Signal can be used as both a secure messaging app (if both people use Signal) or a default SMS app (if you get a text from someone &lt;em&gt;not&lt;/em&gt; on Signal, it still shows up &lt;em&gt;in&lt;/em&gt; Signal). I&#39;d love if Keybase could do the same thing. Likewise, a direct &amp;ldquo;Send to Keybase user&amp;rdquo; in the system share dialog would be great and save a few steps (compared to copying and pasting URLs).&lt;/p&gt;
+&lt;p&gt;Oh, and if you want to leave a message that&#39;ll disappear after a set length of time, you can &lt;a href=&#34;https://keybase.io/blog/keybase-exploding-messages&#34;&gt;do that, too&lt;/a&gt;. 💣&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://keybase.io/download&#34;&gt;Getting set up on Keybase&lt;/a&gt; can be a &lt;em&gt;tad&lt;/em&gt; confusing if you&#39;re thinking it&#39;s just a chat app because, as I said, it&#39;s much more than that. The benefits are so great, though, that I&#39;d encourage you to just get whomever you also want to switch set up (if necessary, just do it for them) as once you&#39;re up and running the experience is incredibly familiar. Especially if you&#39;re coming from WhatsApp for Facebook Messenger&amp;hellip; because my next thing is:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;social-media-deletefacebook&#34;&gt;Social media: #DeleteFacebook&lt;/h2&gt;
+&lt;p&gt;Couldn&#39;t make an entire post about security and privacy online without mentioning #DeleteFacebook, right? This one really is a bit of a no-brainer, although I&#39;m on the fence about whether it&#39;s actually low-hanging fruit. For a lot of people, Facebook is how they stay in contact with family, friends, communities, and perhaps even conduct business. For some, it&#39;s their living.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit4&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Again, I&#39;m not entirely sure it is for a large portion of the population. I just think it&#39;s important enough to include, regardless. Also, I&#39;ll say this: after leaving Facebook, I&#39;ve found myself considerably more positive and compassionate.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It occurs to me that my tweets over the past few weeks have become markedly more positive and supportive, rather than critical and complaintive. I wonder if it has to do with me leaving Facebook. &lt;a href=&#34;https://twitter.com/hashtag/DeleteFACEBOOK?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DeleteFACEBOOK&lt;/a&gt; &lt;a href=&#34;https://t.co/PTyAO8V6pS&#34;&gt;pic.twitter.com/PTyAO8V6pS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/1199331737567973379?ref_src=twsrc%5Etfw&#34;&gt;November 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;h3 id=&#34;my-pick-thats-complicated&#34;&gt;My pick: that&#39;s complicated&lt;/h3&gt;
+&lt;p&gt;See, there really is no viable alternative to Facebook. Not really. There are networks out there that are &lt;em&gt;trying&lt;/em&gt; (Peepeth comes to mind but the blockchain integration, while good in theory, is just too overly complicated for widespread adoption, at least right now) and some that are so focused on anti-censorship that they turn into magnets for alt-right hate, but none that even come close to being as ubiquitous and entangled with our daily lives (for better or worse).&lt;/p&gt;
+&lt;p&gt;On the other hand, you have something really promising like &lt;a href=&#34;https://www.okuna.io/en/home&#34;&gt;Okuna&lt;/a&gt;, which is still in private beta but is open source and focused on respecting user privacy. Looking forward to getting in there. Christmas present, perhaps?&lt;/p&gt;
+&lt;p&gt;That said, I&#39;m still &lt;a href=&#34;https://twitter.com/ryanstraight&#34;&gt;on Twitter&lt;/a&gt; but have moved mostly away from using Instagram. Nobody&#39;s perfect.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;So, there you have it: five relatively simple, small changes you can make in your daily online lifestyle that will reap &lt;em&gt;huge&lt;/em&gt; benefits. Even doing just one of these things will be an improvement. I hope this has been useful!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building a MediaWiki Personal Knowledge Base, 2019 Style</title>
+      <link>https://ryanstraight.com/post/pkb/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/pkb/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#the-platform&#34;&gt;The Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#appearance&#34;&gt;Appearance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#extensions&#34;&gt;Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#what-else&#34;&gt;What else?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;My personal knowledge base (PKB) is turning 10 years old this December. Back in graduate school, I wanted a way to keep track of not just resources and references and miscellany, but also a way to kind of keep my life organized. It’s actually something I talked about &lt;a href=&#34;https://thenewprofessor/019/&#34;&gt;back in an episode of my podcast, The New Professor&lt;/a&gt;. You can have a listen here:&lt;/p&gt;
+&lt;audio src=&#34;https://s3-us-west-1.amazonaws.com/thenewprofessor.com/mp3s/TNP_Ep019.mp3&#34; controls=&#34;controls&#34;&gt;
+Your browser does not support the audio element.
+&lt;/audio&gt;
+&lt;p&gt;Some folks have expressed an interest in seeing how I go about setting up and actually using my PBK. So, I figured, let’s write it up!&lt;/p&gt;
+&lt;div id=&#34;the-platform&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;The Platform&lt;/h2&gt;
+&lt;p&gt;I’ve always liked wikis. The interconnectedness of knowledge (can you tell I’m a Connectivism fan?) is easy to follow and fairly well mimics the way our brains work in that we can bounce between related topics quickly. For that reason (and to force myself to learn how to work with PHP and SQL), I decided to start my own MediaWiki.&lt;/p&gt;
+&lt;p&gt;Back then, in 2009, I was still very, very new at this. I had no idea that I could run the wiki locally on my own machine, so I bought some web space and threw it on there. There are &lt;a href=&#34;https://www.mediawiki.org/wiki/Manual:Running_MediaWiki_on_Windows&#34;&gt;pretty detailed instructions&lt;/a&gt; on the MediaWiki website on how to set up a local wiki, so I won’t go into that here. So, go on over there, get it installed, and come back. I’ll wait.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;appearance&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Appearance&lt;/h2&gt;
+&lt;p&gt;I’m big on making things look nice, even when they’re just for me. As such, I modeled the main page on my wiki after &lt;a href=&#34;http://edutechwiki.unige.ch/en/Main_Page&#34;&gt;EduTech Wiki&lt;/a&gt; with some obvious stylistic changes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mainpage.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I should note here that when I started this back in 2009, I had planned on letting other people use it. Since then I’ve made it just for myself. So, that’s why some language you’ll see there sounds like it’s for more than just me.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;extensions&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Extensions&lt;/h2&gt;
+&lt;p&gt;I use a number of extension to make it much more useful for me. It turns out that most of the ones I still use today are included in &lt;a href=&#34;https://www.semantic-mediawiki.org/wiki/Help:Semantic_MediaWiki_extensions&#34;&gt;the Semantic Bundle&lt;/a&gt;, which I’ll address in a minute. Here are the ones that &lt;em&gt;aren’t&lt;/em&gt; included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MaintenanceShell&lt;/li&gt;
+&lt;li&gt;Newest Pages&lt;/li&gt;
+&lt;li&gt;Page Forms&lt;/li&gt;
+&lt;li&gt;SpecialNamespaces&lt;/li&gt;
+&lt;li&gt;WikiEditor&lt;/li&gt;
+&lt;li&gt;CategoryTree&lt;/li&gt;
+&lt;li&gt;Cite&lt;/li&gt;
+&lt;li&gt;CodeMirror&lt;/li&gt;
+&lt;li&gt;InputBox&lt;/li&gt;
+&lt;li&gt;Lingo&lt;/li&gt;
+&lt;li&gt;MyVariables&lt;/li&gt;
+&lt;li&gt;ParserFunctions&lt;/li&gt;
+&lt;li&gt;DataValuesValidators&lt;/li&gt;
+&lt;li&gt;MultiBoilerplate&lt;/li&gt;
+&lt;li&gt;ParserHooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&#34;semantic-mediawiki&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Semantic MediaWiki&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki&#34;&gt;Semantic MediaWiki (SMW) package&lt;/a&gt; is what really makes this whole thing so useful.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Allows users to add structured data to wiki pages through simple wikitext markup that turns links to other pages and data values in a page into meaningful properties. With this information, SMW helps to search, organize, browse, evaluate, and share the wiki’s content.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is probably easier to demonstrate than just explain. We can take a look at one of my class pages.&lt;/p&gt;
+&lt;p&gt;Using a combination of boilerplates and templates, I can easily start a new page for a class offering. We’ll actually go through my fall 2019 INFV 302 class here.&lt;/p&gt;
+&lt;p&gt;I load this &lt;code&gt;Course&lt;/code&gt; boilerplate (that I created):&lt;/p&gt;
+&lt;pre class=&#34;mediawiki&#34;&gt;&lt;code&gt;{{Infobox course
+&amp;lt;!--&amp;#39;&amp;#39;&amp;#39;DON&amp;#39;T WORRY ABOUT THE ALIGNMENT OR AMOUNT OF WHITE SPACE.&amp;#39;&amp;#39;&amp;#39; --&amp;gt;
+&amp;lt;!-- If you are entering a quarterly class rather than a general course, you may omit the fields marked with a star (*). They will be pulled from the course equivalent. --&amp;gt;
+| course     =                    &amp;lt;!-- This is the course prefix and number, such as EDCT 203 or MATH 113. --&amp;gt;
+| prefix     =                    &amp;lt;!-- * Place the prefix here again for semantic searches. EDCT or MATH or P SC,  whatever it may be.  --&amp;gt;
+| longname   =                    &amp;lt;!-- * The long name of the course goes here. Introduction to Philosophy of  Religion for example. --&amp;gt;
+| desc       =                    &amp;lt;!-- * The full description of the course goes here. Make sure there are no line breaks, as it breaks the infobox. --&amp;gt;
+| college    =                    &amp;lt;!-- * Place the college the course belongs to here. College of Education  or College of Communication for example.  --&amp;gt;
+| dept       =                    &amp;lt;!-- * Department in which the class is located. Linguistics or Educational  Studies for example. (The trailing &amp;quot;department&amp;quot; is added automatically.) --&amp;gt;
+| year       =                    &amp;lt;!-- This is the year offered. Remember, Fall of 2004 is considered part of  the 2005 school year. --&amp;gt;
+| term       =                    &amp;lt;!-- Choose between: Fall, Winter, Winter Intersession, Spring, Summer (full), Summer (1st session) and Summer (2nd session) --&amp;gt;
+| days       =                    &amp;lt;!-- The days offered. For example, Thursday or M T R F or Tu Th will  work.  --&amp;gt;
+| time       =                    &amp;lt;!-- Time of day the class is offered. 5pm - 9pm works just fine.  --&amp;gt;
+| room       =                    &amp;lt;!-- Room the class took place in. Should be building and room number: Morton  201 or Ellis 014 --&amp;gt;
+| hours      =                    &amp;lt;!-- * Number of credit hours. Numerical or written out, either is fine (5 or  five).  --&amp;gt;
+| call       =                    &amp;lt;!-- Call number for the course (five digit number): 01234 --&amp;gt;
+| section    =                    &amp;lt;!-- Section for the course. Normally A01 but can be any combination (X01 for  online courses, for example). --&amp;gt;
+| instructor =                    &amp;lt;!-- Instructor of record, without honorific. (Denis Leary rather than  Dr. Leary)  --&amp;gt;
+| syllabus   =                    &amp;lt;!-- Link to the syllabus file (PSY 101 Winter 2005 syllabus.doc for  example; can upload afterward by clicking on the red &amp;quot;Syllabus&amp;quot; link) --&amp;gt;
+| istudy     =                    &amp;lt;!-- Is this an independent study? This field is boolean, so Yes/No, True/False, 1/0 works, whatever you like. --&amp;gt;
+| text1      =                    &amp;lt;!-- Title of first text used. Make this the full-title of text with proper  capitalization as this will link to a page on the wiki for that text. --&amp;gt;
+| text2      =  
+| text3      =  
+| text4      =  
+| text5      =  
+| text6      =  
+| text7      =  
+| text8      =  
+| text9      =  
+| text10     =  
+}}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Again, some of the comments there are out of date but I deal. In the event that I’m doing a class entry for INFV 302, as long as I put &lt;code&gt;INFV 302&lt;/code&gt; in the “Course” field, it will match the rested of the non-semester-specific data to that page’s information, shortening the amount of work to create the page. I just have to fill in the term-specific content (days, times, room, call number, etc). This creates an infobox on the class page (which is handy and looks like) but also creates a &lt;em&gt;lot&lt;/em&gt; of semantic data that I can use later to filter, find, analyze, etc, my classes.&lt;/p&gt;
+&lt;p&gt;If you’re curious, here’s the template code for that page:&lt;/p&gt;
+&lt;pre class=&#34;mediawiki&#34;&gt;&lt;code&gt;&amp;lt;includeonly&amp;gt;{|style=&amp;quot;float:{{{align|right}}}; clear: right; width:{{#if:{{{width|}}}|{{{width|}}}|264px}}; text-align:left; border:1px solid darkgray;&amp;quot; cellspacing=&amp;quot;0&amp;quot; cellpadding=&amp;quot;3&amp;quot;
+|-
+! colspan=2 style=&amp;quot;background:#DDDDDD; font-style:italic; font-size:120%; text-align:center;&amp;quot; class=&amp;quot;summary&amp;quot; | [[Is course::{{{course}}}]]{{#if:{{{term|}}}| &amp;amp;nbsp;({{{term}}}}}{{#if:{{{year|}}}| &amp;amp;nbsp;{{{year}}})}}
+|-
+|colspan=2 style=&amp;quot;text-align:center;&amp;quot; {{#if:{{{longname|}}}| {{!}} [[Has course title::{{{longname|}}}]]| {{!}} [[Has course title::{{#show:{{{course}}} | ?Has course title =}}]] }}
+|-
+|colspan=2 style=&amp;quot;text-align:center; border-bottom:1px solid darkgray;&amp;quot; {{#if:{{{desc|}}}| {{!}}&amp;lt;span style=&amp;quot;font-size: .75em;&amp;quot;&amp;gt;{{{desc|}}}&amp;lt;/span&amp;gt;{{#set:has description={{{desc}}}}}| {{!}}&amp;lt;span style=&amp;quot;font-size: .75em;&amp;quot;&amp;gt;[[Has description::{{#show: {{{course}}} | ?Has description# =}}]]&amp;lt;/span&amp;gt;}}
+{{Alternating rows table section
+|es=background:#DDDDDD;
+|{{#if:{{{college|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;College&amp;#39;&amp;#39;&amp;#39; {{!!}}[[Has college::{{{college|}}}]] | {{!}} &amp;#39;&amp;#39;&amp;#39;College&amp;#39;&amp;#39;&amp;#39;  {{!!}} [[Has college::{{#show:{{{course}}} | ?Has college# =}}]] }}
+|{{#if:{{{dept|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Department&amp;#39;&amp;#39;&amp;#39; {{!!}}[[In department::{{{dept|}}} department{{!}}{{{dept|}}}]]| {{!}}  &amp;#39;&amp;#39;&amp;#39;Department&amp;#39;&amp;#39;&amp;#39; {{!!}}[[In department::{{#show:{{{course}}} | ?In department# =}}]] }}
+|{{#if:{{{year|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;School year&amp;#39;&amp;#39;&amp;#39; {{!!}}  [[Offered in year::{{{year|}}}]] }}
+|{{#if:{{{term|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Term&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Offered in term::{{{term|}}}]] }}
+|{{#if:{{{days|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Days&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Days offered are::{{{days}}}]] }}
+|{{#if:{{{time|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Times&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Held at this time::{{{time|}}}]] }}
+|{{#if:{{{room|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Room&amp;#39;&amp;#39;&amp;#39; {{!!}} [[In room::{{{room|}}}]] }}
+|{{#if:{{{hours|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Credit hours&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Number of credit hours::{{{hours|}}}]]|{{!}} &amp;#39;&amp;#39;&amp;#39;Credit hours&amp;#39;&amp;#39;&amp;#39;  {{!!}}  [[Number of credit hours::{{#show:{{{course}}} | ?Number of credit hours =}}]] }}
+|{{#if:{{{section|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Section&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Class section::{{{section|}}}]] }}
+|{{#ifeq:{{SUBPAGENAME}}|Infobox course/boilerplate||{{#if:{{{call|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Call number&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Call number::{{{call|}}}]]{{#set:is class=true}}{{#set:has class name={{FULLPAGENAME}}}}[[Category:Classes]]|{{#set:is class=false}}[[Category:Courses]]}} }}
+|{{#if:{{{instructor|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Instructor&amp;#39;&amp;#39;&amp;#39; {{!!}} [[Instructor::{{{instructor|}}}]] }}
+|{{#if:{{{syllabus|}}}| {{!}} &amp;#39;&amp;#39;&amp;#39;Syllabus&amp;#39;&amp;#39;&amp;#39; {{!!}} {{#set:Has syllabus=yes}}[[Media:{{{syllabus|}}}{{!}}Syllabus]] }}}}{{#if:{{{text1|}}}| {{!}}-
+{{!}}colspan=2 style=&amp;quot;text-align:center;&amp;quot; {{!}}  &amp;#39;&amp;#39;&amp;#39;Texts&amp;#39;&amp;#39;&amp;#39;
+{{!}}-
+{{!}}colspan=2 {{#if:{{{text1|}}}| {{!}}  [[Has textbook::{{{text1|}}}]] }}{{#if:{{{text2|}}}| ,  [[Has textbook::{{{text2|}}}]] }}{{#if:{{{text3|}}}| ,  [[Has textbook::{{{text3|}}}]] }}{{#if:{{{text4|}}}| ,  [[Has textbook::{{{text4|}}}]] }}{{#if:{{{text5|}}}| ,  [[Has textbook::{{{text5|}}}]], }}{{#if:{{{text6|}}}| ,  [[Has textbook::{{{text6|}}}]], }}{{#if:{{{text7|}}}| ,  [[Has textbook::{{{text7|}}}]], }}{{#if:{{{text8|}}}| ,  [[Has textbook::{{{text8|}}}]], }}{{#if:{{{text9|}}}| ,  [[Has textbook::{{{text9|}}}]] }} {{#if:{{{text10|}}}|  and [[Has textbook::{{{text10|}}}]] }}}}
+|}&amp;lt;!-- Everything after this is to improve semantic searching --&amp;gt;&amp;lt;!-- Switches term name to a number for term coding --&amp;gt;
+{{#if:{{{term|}}}|{{#switch: {{{term|}}}
+| Fall = {{#set:termcode={{{year}}}1}}
+| Winter = {{#set:termcode={{{year}}}2}}
+| Winter intersession = {{#set:termcode={{{year}}}2}}
+| Spring = {{#set:termcode={{{year}}}3}}
+| #default = {{#set:termcode={{{year}}}4}}
+}}|}}&amp;lt;!-- If the course has a call number and is  not an independent study, this adds a link to a page in your namespace  for notes --&amp;gt;{{#if:{{{call|}}}|{{#ifeq:{{{istudy|}}}|yes||{{YourClassNotes}}}}}}
+&amp;lt;!-- Sets independent study flag --&amp;gt;{{#if:{{{istudy|}}}|{{#set:is independent study={{{istudy|}}}}}|{{#set:is independent study=false}}}}
+&amp;lt;!-- If the course listing doesn&amp;#39;t have a call number this tells the wiki it&amp;#39;s a course and not a class and tells it to list related classes and what textbooks have been used in all those classes. --&amp;gt;{{#if:{{{call|}}}||{{Likecourse}}
+
+{{Coursetexts}}}}
+&amp;lt;/includeonly&amp;gt;&amp;lt;noinclude&amp;gt;
+{{Template:Infobox_course/doc}}
+[[Category:Templates]]&amp;lt;/noinclude&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;So what does all this do for me? Take a look at the &lt;code&gt;room&lt;/code&gt; line: &lt;code&gt;|{{#if:{{{room|}}}| {{!}} &#39;&#39;&#39;Room&#39;&#39;&#39; {{!!}} [[In room::{{{room|}}}]] }}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;In this case, if I add a room number (or anything in that field, like “Online”), the semantic code, &lt;code&gt;[[In room:: ... ]]&lt;/code&gt; adds a property to that page with the &lt;code&gt;In room&lt;/code&gt; value. Same for number of hours, same for days of the week the class is offered, and so on.&lt;/p&gt;
+&lt;p&gt;And what does &lt;em&gt;that&lt;/em&gt; mean? Well, first let’s see all the semantic data this template created:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;302semantics.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;See the &lt;code&gt;Held at this time&lt;/code&gt; property? In this class, that’s given the value of &lt;code&gt;6:00pm - 8:00pm&lt;/code&gt;. If I want to see what other classes I’ve taught that were also held at that time, I can just click the magnifying glass and I get this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;6to8time.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;But wait, there’s more!&lt;/p&gt;
+&lt;p&gt;This is cool and all, having that sort of identifiable and meaningful data, but where it really comes in handy is writing queries to get some really useful information.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;queries&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Queries&lt;/h3&gt;
+&lt;p&gt;So, I have a template that I’ve written for pages I add to the wiki for books or research material that I really, really want to delve deeply into and go beyond just having Zotero notes and whatnot. Those individual reference pages have a template much like the Course pages, in which I include bibliographic information, format, notes, links to other content, and so on.&lt;/p&gt;
+&lt;pre class=&#34;mediawiki&#34;&gt;&lt;code&gt;{{#ask:[[was created by::{{PAGENAME}}]]
+|mainlabel=References I&amp;#39;ve added
+|?was written by=Author
+|?format=Format
+|?modification date=Last modified
+|sort=Modification date
+|order=desc
+|format=broadtable
+|limit=5
+|searchlabel=View more...&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.semantic-mediawiki.org/wiki/Help:Semantic_search&#34;&gt;The &lt;code&gt;#ask&lt;/code&gt; function&lt;/a&gt; lets you look through pages on the wiki and pull out any of that semantic content. For this query, since I have this on my user page, I’m looking for any page in the wiki that was written by me (hence, &lt;code&gt;was created by::{{PAGENAME}}&lt;/code&gt;, &lt;code&gt;PAGENAME&lt;/code&gt; being equal to my username).&lt;/p&gt;
+&lt;p&gt;It grabs every page with that data (which is an included semantic annotation in my “Reference” template), pulls all of them into a table, includes the format of the reference (book, article, etc), the author, when I last modified that page, limits the table to the 5 most recent pages, and includes a link to view the rest of the search.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;added.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;(As you can see, I’ve been neglecting putting my research notes in the wiki, a practice I’m determined to return to.)&lt;/p&gt;
+&lt;p&gt;I do something very similar with a to-do list, wherein, on each term-based class page, I keep track of things I need to do for the next time I teach it. Those to-dos are embedded with semantic content, so I can then build a query that shows me all of the to-dos I need to take care of for the next semester’s classes &lt;em&gt;regardless of when it is&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;At this point, it’s just a matter of actually using the thing. It’s nice for the research content because you can easily identify cross-references with not just links but semantic relationships like &lt;code&gt;[[references but doesn&#39;t cite:: ... ]]&lt;/code&gt; or &lt;code&gt;[[was mentee of:: ... ]]&lt;/code&gt; or &lt;code&gt;[[relies heavily on:: ... ]]&lt;/code&gt; or even &lt;code&gt;[[neglected to cite:: ... ]]&lt;/code&gt;. Imagine the kind of 30,000ft view you could get of your entire body of literature if you take the time to do this. Pretty powerful, if you ask me.&lt;/p&gt;
+&lt;p&gt;This is just scratching the surface of what’s capable, so I encourage you to just play with it. Of course, sketching out a basic skeleton of how you’d like to organize things will go a long way toward keeping you sane. For example, for my class pages, I have the following kind of breakdown, where the sub-pages are actually sub-pages of the Course page (since that content doesn’t change from class to class, just gets updated and the updated version is what’s always used):&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;right&#34;&gt;Course&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Class&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Sub-pages&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 302&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 302 FA 19&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Week 1: Introduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Week 2: Research Design&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;…&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 401&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;INFV 401 FA 19&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Module 1: The Conceptual Model&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;Module 2: Personas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;(and so on)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;So for the class pages the URL would just be &lt;code&gt;/wiki/w/index.php/INFV_302_FA_19&lt;/code&gt; but the individual week/module pages with lecture notes, slide deck links, discussion prompts, etc, would be at &lt;code&gt;/wiki/w/index.php/INFV_302/Week_1:_Introduction&lt;/code&gt;. The term-specific pages are &lt;em&gt;just&lt;/em&gt; term-specific and contain content like notes about the teaching of the class, reminders for weird dates, and reflections on what could be done better next time.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-else&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What else?&lt;/h2&gt;
+&lt;p&gt;Well, I used to sync the wiki data between machines using Resilio Sync, but that caused problems with the database getting out of sync and time codes bringing the entire thing down. It worked for a long time but the system was so fragile that I gave up on that. Single location is better than nothing at all.&lt;/p&gt;
+&lt;p&gt;I use the wiki for much more than just work. I keep track of my workouts, books that I want to get from the local bookshop, details on software or code that I &lt;em&gt;always&lt;/em&gt; forget, the digitization and archiving of recipes handed down through the family, woodworking projects, my side-hustles (like the soon-to-be-released YouTube channel on body modification, Inkademic), even our wedding plans from a year and a half ago.&lt;/p&gt;
+&lt;p&gt;As everything is local, I tend to storage images and files elsewhere and just link to them (Tresorit is a favorite of mine for its privacy and encryption).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;stats.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;There were long periods of time where I didn’t use this. Mostly when I’d given up on finishing my PhD and has resigned myself to working in IT. The way it’s set up now took &lt;em&gt;years&lt;/em&gt; to get right. Hell, it’s not even right, now. I’m tweaking it, constantly. I stole lots and lots of templates and styles from Wikipedia to mimic the look. The key with using a system like this is &lt;em&gt;persistence&lt;/em&gt;. You have to keep using it, obviously.&lt;/p&gt;
+&lt;p&gt;Anyway, I hope this was useful to folks. Of course, if you want to put something like this online and allow collaboration, as it’s intended, there’s nothing stopping you. This is just my way of doing it because it’s only for me and you never know, y’know?&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#WeAreOLC</title>
+      <link>https://ryanstraight.com/post/weareolc/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/weareolc/</guid>
+      <description>
+
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#how-did-you-first-get-involved-with-the-olc&#34;&gt;How did you first get involved with the OLC??&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#years-then-and-now-what-kinds-of-technology-were-you-using-25-years-ago-and-what-technology-do-you-engage-with-now&#34;&gt;25 years (then and now): What kinds of technology were you using 25 years ago and what technology do you engage with now?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#what-is-one-of-your-favorite-olc-experiences&#34;&gt;What is one of your favorite OLC experiences?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#who-composes-your-olc-community&#34;&gt;Who composes your OLC community?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I was invited to include something in the &lt;a href=&#34;https://onlinelearningconsortium.org/weareolc-the-power-of-storytelling-at-accelerates-25th-anniversary/&#34;&gt;#WeAreOLC&lt;/a&gt; collection of narratives. Each of the posts in the series uses the same sort of framework: a few topics to get you started. So, without getting &lt;em&gt;too&lt;/em&gt; wordy, here they are:&lt;/p&gt;
+&lt;div id=&#34;how-did-you-first-get-involved-with-the-olc&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;How did you first get involved with the OLC??&lt;/h2&gt;
+&lt;p&gt;I first got involved because of the inimitable &lt;a href=&#34;https://twitter.com/angelagunder&#34;&gt;Angela Gunder&lt;/a&gt;, as is the case for so many, I’ve no doubt. I submitted an Innovation Studio talk/workshop/thing for the &lt;a href=&#34;https://ryanstraight.com/2017/07/26/olc-innovate-2017/&#34;&gt;2017 OLC Innovate conference in New Orleans&lt;/a&gt;. I got to talk about using Slack in online programs (something I’m still doing), which was a lot of fun. I also ended up working in the Lab, getting to wear the white lab coat and talk to folks about the cool stuff they were doing or wanting to do.&lt;/p&gt;
+&lt;p&gt;Plus, it was in New Orleans, so. Yeah.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;years-then-and-now-what-kinds-of-technology-were-you-using-25-years-ago-and-what-technology-do-you-engage-with-now&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;25 years (then and now): What kinds of technology were you using 25 years ago and what technology do you engage with now?&lt;/h2&gt;
+&lt;p&gt;So what was I doing 25 years ago in 1994? Well, I was in 7th grade. That’s actully pretty hard to believe. For me, I mean. You probably have no feelings on it one way or another. &lt;img src=&#34;cello.jpg&#34; alt=&#34;me playing cello circa 1994&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Anyway, back then I had a Packard Bell computer. It had a 4x CD-rom drive and, if I recall correctly, 420M of harddrive space. I remember my friends being very impressed by this and claiming I’d “never fill that up!” (Spoiler: I did.)&lt;/p&gt;
+&lt;p&gt;I played Doom and Descent and Hexen and Heretic and a MUD called “Apocalypse” (which, holy crap, &lt;a href=&#34;http://thewoodedglen.com/attn-apoc-mudders/&#34;&gt;is totally still around&lt;/a&gt;) and all was right with the world.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;apoc.png&#34; width=&#34;1164&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The technology I engage with now is… well, just browse this site. It’s everywhere. My field is &lt;strong&gt;human-computer interaction&lt;/strong&gt;, after all!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;what-is-one-of-your-favorite-olc-experiences&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;What is one of your favorite OLC experiences?&lt;/h2&gt;
+&lt;p&gt;I don’t think I can peg just one down, and that’s because of the next prompt: my favorite OLC experience has been the building of that community. Making the friends I’ve made. Sharing the times I’ve shared. Seeing everyone involved being better for it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;who-composes-your-olc-community&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Who composes your OLC community?&lt;/h2&gt;
+&lt;p&gt;I’ve met people through OLC that I most likely never would have met otherwise and I am so grateful for it that it borders on weepy. The community has not just been a PLN but a group of friends that I always look forward to seeing whenever I get the chance. In fact, we all went in together on a more formalized (if informal… it’s unique) PLN called the &lt;strong&gt;SquadGoalsNetwork&lt;/strong&gt; and ended up winning an OLC Effective Practice Award for it. Not too shabby!&lt;/p&gt;
+&lt;p&gt;I get to work with OLC a lot and it’s really opened me up to a huge collection of wonderful people and great opportunities. I look forward to continuing to do so in the future.&lt;/p&gt;
+&lt;div style=&#34;width:100%;height:0;padding-bottom:77%;position:relative;&#34;&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/awxqzKhiUV4ly&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p style=&#34;font-size:50%&#34;&gt;
+&lt;a href=&#34;https://giphy.com/gifs/funny-lol-game-boy-awxqzKhiUV4ly&#34;&gt;via GIPHY&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;And yeah, me too, kid.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Orleans 2017</title>
+      <link>https://ryanstraight.com/post/2017-07-26-new-orleans-2017/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/2017-07-26-new-orleans-2017/</guid>
+      <description>
+
+
+&lt;p&gt;New Orleans is one of my favorite cities to visit. The food, the sights, the art. Here are a bunch of photos we took!&lt;/p&gt;
+&lt;div id=&#34;photos&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Photos&lt;/h2&gt;
+&lt;p&gt;We took a trip to Lafeyette Cemetery! Well, one of them. And the Voodoo Museum. Enjoy! Click on the image below to start the slideshow of the Voodoo Museum first, then the cemetery. Beautiful, both of them.&lt;/p&gt;
+&lt;div id=&#34;slideshow&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Slideshow&lt;/h3&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js&#34; async&gt;&lt;/script&gt;
+&lt;div class=&#34;pa-gallery-player-widget&#34; style=&#34;width:100%; height:480px; display:none;&#34; data-link=&#34;https://photos.app.goo.gl/nAVaNtjyCMUDVxWH8&#34; data-title=&#34;New Orleans 2017&#34; data-description=&#34;56 new photos · Album by Ryan Straight&#34;&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://lh3.googleusercontent.com/dJFmL1dfH8YkB4aph6F0XbR-xgp_oEBem487ZGyDsnJfYe3SBlnbnrFEDa-f_M2O5_jCw6WtCs7UvRCQgHuAjc08WFCypOfdf6Gs28NCqUkUbE2pLnlNki99cYbRrXq772wKmC3akIw=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/3ZVSD96TcOlms-Wk9r0T2mwwnkOFiBvXFJeQ_cqU7hvNHMMMtlR1WY9eXf1mPcaRED4Pdkjmlg_zRo8fjD-I-hSGpLauCf-Q76B0rLucMX4ifkssmxaEsD5hDOo54utvGpTlbZ7dlmw=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/__SdkE5dF91zoY2PiNqjqtUL6TpmVu3Y1UdDclkjqTpogX7UXIFP5WlGidAxnYnnd3IXd289bmXj76AOG6uv34LOaRgvQ-IHhWPohEFBZvpebOdKPU1VAU6_vkk0SplK1C9lc5zLSZE=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/ObCFcmvQrE9bL2Lcl8mwVl3NrKI53LgXj6RB-w7mPuhZ_8Gn5fl-ibHU71V4wGYIcOXBdEyCPQOcv4d41U1Ekeqrr4kE-msbGVf0XWJBE3UvgnG0xGx_tTOqYcGtnyENa6RSOJhKRj8=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/1J6YZBPJydse8hJhLGw9tkj-ZGj_eNhcTMdV3GjYcnidic9EuJCG-kYaqLtMkjXL2G61OM8Ff3Xg5eY1O8WI6UbFeZWaqcH_pSB77zJLz4V5yUIvTyEr4GHfOqjphabw-h24oBWxrsI=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/rIswZpEDhFaq-8anQIEwFst3sXQcCLcOiN4oFPy5-EE-DXLTgEwaFnlegBuvKImH2mLLSj6uHmtz1_gTIzXEKvWsgfDT_WZxPArS-Z5tfOrZt6fYxVIOEenRaFRjvLX2TJeig0-3zL4=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/DiG2W5DUnLURzmUf4g7HAYbdDdekow2nM50xUViEl-zqjg7OozXGai7EGDCqjsvFed--d3oTA92xct4PkVNIHl7eW1TrGnqeHOvO9-Be1JCM1GhMpq35_LyJTOlHJ5au9Nr4F4sJaK0=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/oLMEoyBSqsHO673wZFKfTKSlxqM7cq-SNxIl23CmexvOtJAP5U8mcZJU-o558S3zzqYfLsAFsnBAYGK1rgOU7O-HLyS2DbWffzMkCWziocqiIowl9e2QFWxA5Me-doZhVD4Bedyezq0=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/q3RKCzYm36UOSSpldJsAJIHO6zLgazHONoH4iLUnIebVTYfwJa-jiSMDcTdengz8ZMYpst5cXqQjUKiUllnZWcW_hyWhiiEeBEDQhf-GBO0tQc5uezgQNwgPeWwo3Qmg8LDOzTiELVM=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/1kb3tPqGVR630pqmnAPckBx6oTn_XgO_Q9ABXduU3J2_etxTQFuGbX2Z1C4QiFIenU1jDYV5iTh6nLngROx_gdghr9zyTy_6odmyNguPzVY1RsB850DNWEsA2L2EhFWlyJVbmYkR6To=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/p74aDjR_CW-YEYrSQV8RsdMA8xx3HkuEATerM6SjWI3TjgfbT0X6YuH_jf9Bp4N4-kOipWhkViuYGvfUnW74Y5_SdiAgIFjXQbBEP01pr6sapRAyNGqUa3RuYX2rR-ARCmcI-gACFLI=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/zdUs_QMVxfH9MibouNupKK1UwKFT_S614HdxdIhFIEGanQRNPAkD3cfdqEZG7UihR_6Qi5W6SfX9wZFaFUOusY8mh1opONHeuLO27Mb-_0ImjuWKZG5t1FTqm6Msxb0sZcU03Xji0KY=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/h5ChSCaF4eqTgzw_-8Jy1WennfPIS7osGz5Bu-ed2ylTueSDZgmx624PRz1DAhL1jLbz9oEF3TC3It49BI1WgjDK_0i78NoL2kaONKzlo9WdB29KbbuRtYzPHUe8K7sWbB66_SgqJ7I=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/meKo9l1fyC-P7tGJd-SPr8WXQ0JAOPdDAvVE0mraIrH8JqdDhe0NQ070QCge9HfsgQlPyZH1iaAyc8E4p-r0KfYQA-faVdETGhj2_-hGQ0C6FnZU5v5-XBqBM69XFdlmzA3cz7OJB4E=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/YpRI0tfvEILsw_XDY41zld-7ETtK9Ipa4Jx8lpB2IRozAtEkokDlB9GQQYFGSa1l884WeT7CYs920rxPBZyYI-VSA_htecJZIHCBaWMV4-8fkTpsOkhUA-qqPybKwkOIcrHV3qBWOl8=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/9hnUADhXTMSkxQB2Z9y4IRirQBIEKPqkKdeNW2LxH-woYYTMpYo9Be24s72I3O3c7yKv4U6KXGGpp-JksRcS5tkGNY_MD5u-yaw5q20TuPsBHLZSumdRitehhVufNMZpYdDBphg6R8k=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/WhHBwJ3qsE6E1GBpxsAi_zbXzHxRWXTvGsp4x7liVm3dPrkBWobi8ye_aq8QlPxmEkjmXneLPc241YJMJZQnRlRob2eVCE2RaIyCdmluQ9NDDz_vQhPbger-PqfRz2n_VYKDp9JN_x8=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/vfiup8lzVBjilZXNyy2q3Y3n5C-ih-QMQaGw-dPtHuS-IYiJI89-eMQXUOkvTMVFNu4ybsUkFxgfkzGukCbaf6DnCKjkkGHbqSE_bUjTaKqDnuWvWy7dD7cK407ZwhOQ583NTNWs8-Y=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/iFbCMRIcnRGwSL2thHqvEf8diN2QNdhqhPeMQ4Ohrgz1tP2mnohXH29Mn7z9BTWrOIXjPkuPI_p_lwG2t2tGDzIg0iVFhv73ODIVndsCVTeXqoAVsXjBQNsgR5bNOI-GLwwkkWSj9MM=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/WwI2eHG9kxMJzCiXg_mxklfwKfLewnIV7Mm4MsOS7cOgohR_67Ewp3ot81-YkL58Ylx2h5tmmJQwN160uRVcTXEzanDo9G7zIU2RCg0NtzfwEe5YOxLgD_vG3XKLYLtkG0DswU_gYoM=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/vNc-WnNdnjocUKh0NqZOcQ-eWRkycr1vZ8QCpJ50qyO-kKiUl0hiDxhGLqvVbj7p-nSbeuMwFRbISGPC5q10H85bxIIZFkNW8xsOIgLI6_oC-KTP8LBoiwLAHDdOEnUBxHkbfzD0ea8=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/0RSTR4VwZOGhp3_-o9-w_hrJUlKonasjvwtvKrIMiVsVdrMNu4ukFreEUhsxa-IFTuvr1I5SqUqpre4QKHc7mLw2tN9hFS5RQegDzgqnpaodD4Q22S3BACK2dT9eAoNBAAbYVvj16Vo=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/FPuFkx5fZEYe6ALojjRfZDd6UpSBm9V0pWzMh_Mw4A26mkHUcI3Uiol2KDI-AJZzRUH-I4RQpNdPHEhEKbYo5_iD2pEiZ07QYAspSaZZdc0hIy2AXj6P75lWvvGgMMeKtgR1M_DHaK4=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/pOS00thNgHScQm4wbcqjQMW2YkK0AaCQAZro8tWy0AftNWqVkLoMDbc13gSYY7LAl74fLBBnY89-7y_xvHzO75cPQ7OYKMYo0ZO8903-6nqOJrQjyXl8-n7Zp3P_elpGbREzzvUJgFk=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/DJ-DzmIhNCH9LVPnLSoZ8xQgA_0AdZC_YU8ILmP9n6qjxq9DsFFbBJgPayesbdTPNe1HCDfmsQMXETIbuPNNocdL-0KjYyRVyPMp0KZJbad6PJDSr2l9rSI5hR508o8f2AZiMD8xXtc=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/DHVSHUbKtqY00BKDNFbDsEeo384BkIQIuTkE-vZoK7zPbmVMqYNEPJfusUF3I8fLC0XKS4MNXF4E4uozPrA_Ec4LpP1Y99Q9nUkRm_BvfSBcLMu2IM85hbBA1c4azDmCiMyVIGr1Gkc=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/zpl8ELj_Lq5pT4LqXasJFHQgPKHexmVhdLuFYmihwPAfxyeQK-VvHi9LLFHOA3qke-xgHQ0GsRRkU-Rcyka7e1TDjgLA3f5rCz6wWQ3Kv9MDJhnNLBriCiFJnecwxsRaEPOo0Zafjas=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/Drui3bFy1Pdnm5mpdxZedZTspS_eWGukvgJnx7pSsMYUTdc2hVLcFlgwRdHrehyRLZM_N134qYb9pTgIIT5j3U8HiXslGlNLPATRTM6pWx9yBHc6mOMVoV5KnCUAcp15R55gC4C2YxE=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/UO-DLDsou7lh_oQSRgQKzc5ppliUIM06mo5DUMT8Q9aUo8HaHWJfcc2Efxi2Yl9lGQDj8tvVaoMqIK8ZFkWxI6z16BLpxROppNJn3yFPPpV_j1d5SRWegQ64m_HotXOCRv1ZFArRQrM=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/HWczZQ636drveYjCPdliokWZqjx-4cZgWlc11u9K5XHx1RQem5j7VNoDbqMQR03woiyf3A8gt6BNBiCwXaJjx7MJubyf03DK3fzE2TrGDHx-0NnuirrGHrUUudPbG2Vt8eZvATb-JYY=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/kypR7Un_qNls5Et6pAb18RE_0Oo-J9L4GX9FPMPlY4jeKFV18Drq7o6rgsFrr3q1WE4zYeggHESiD9CKRU8wNyIK3DXqiQvbUyNtdgFhgYqqPw3wMnn4CuW2aR5lEMH7vqdMyCc_VTo=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/L591Km8fN3S_zse1vnhdpvUgpOpU0kmhZcjTeFk0PS3NWMNMHLvZhSXENWMSv1q3yvMO_omVZv_grvFnHk3hg5sSfU_bb7bBYuO-s0PXMV_ezb7fdVyXfs9kTpXjG16pT-73rGKI21g=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/Xsx1o1umsfwpBa_whFKH8HH5t4GUnlY1dCzRwNVfI9aGwO4oOaCDjjqhXz42eYuTFCZPVymRekDyYQbWLhb79ZLVThvZJs_Nx65W9cKdN0aEBbL0w-an51tRStETRBWXRq9sjCUM6fU=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/mglhcPklw4scnqeNeYUGZT2pgumpLa86nKR5GL8wavMMQztzhNXGaiomFHTBspL-iWzwOnABuZllFOBJTQ_9jdfA5nNBvAobRUdTTJ3uH2x6A4wE4mn3hQelEzARcLPdCiT8QM3CX6Q=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/vT1yAGrcybHIFFlY_AArmTrP5J8fRKeZfRSBn8cVxaE_AwYOgcegOXZwRelNRikX0asemj_Sv83j2YxAqrRLGtYjp5z4B4EcW8QsWS5wsjFvYylLv4FZgzC_9tqN4MEpUsoC1QBNfAw=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/Q3BTpJEwOT-Vcn1Su5HVsxt_eNC-eAP8UTzQf2tBwfjUKACAGswFDS1uhu0Vcu3P5HK8kTnL6QCKvECbk-FOoLLVApQ6-3KiPs2cwzGP1BVXOA9tN216meBlZW5QdPNBFeAxLGX2hyU=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/YposIffB--C6rTxdbbJK4i6mCndDRYscOxfn6EoK-u5hby9S_oom7TbCK_o8H-KLANVBCOIU1BL83Lf20JepCxiWH52nUxRpx-uAyCSi9EdoywfHcyKRYkEoVLlp24c19Iznx8u8SN4=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/boeJ7EKVMg2TGCiAqplEOClsm-RsS-rpJH7ZJ7uuqoUqkx6MZaUFg89T5caIWAytu5CO84q0iicm1eyLHHyq7abf2XZOGdRkQyXDGbW1scQ-89n8Ip35qeJQfWDCCY-C14aBtChLfZ4=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/uaLkxLZcDxNGMardHS19T7JdVVr32h7W8KKDedaZ2qStBmAHctgx9BUjjzCVFfa9pI417tKi0Ed-rDhsYKkWotXXLYC2-PPE0N_AAICZ0gs17F3ZvUhp2QapdAMOSmzCAVtrG8MjxCM=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/0mJsGv-oi_ty8-42KTAvHoP8T6VyCOnAxfWLz0DTZf6K5cyCfPzQnX4IQR8pd8pXJQrWit4VEqefcfUo7wemOlxruWTY2CpU-vbmb5SnKAfr3PnBsd23pH6z8-_XWw2Mjp_-KHpbc9s=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/1f4EplJg053U-SdADugZhDu2X_hjWKK2cvPoCRMXQVI28pSjvbSy4QYqvg9p3aS6iNiDTZtAq8xWLz0s4lJrL-z35TGV5rgkKr6WzhmDwzBSyiys7p4gJ9VdSYobGgIepKV4PGgwVxw=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/7Hg1OfyWn3BtIOXQ79t-gV7LZuC2uSJp93C1c3OuqFD-JZilW5LsF2xXthjWN-YEAVun9L6gljntgQ8HleVqSS8o26ZvNnomMlcE8o0ULKesW4Nur5L9aPLoDDkZRZj1odD3c90u5nA=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/CVlEIUke5Df2VEVjjgcdaQ_YkdBy7ZfgGOkIUd9F-vbAUWK3dtyvI8MT9ZKLspIwggROxIdlec1SWHo7MqKWneweRvjEENd3k1dmWFAZudChWW72HQX4QL8H4XBYQAFL3DgYkx9vX_w=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/OnryQGRx7Ykhc9tZNuHojws1e0r9hmaSntKL_SCp0bmdARcgt7w6J_1zd87fhM4Lm1VyWO_3_kCpGmGcRGxqKJMupJjxkFZhVlJKgYk8wt9Ak6ZzzSI2CMs8MlmXlGZPj8jPF3gS9DY=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/-FdaOJJGy5BI929ZuL3zSJQDvBiCPNmM9e8LyG2l1PpVJdWnQFBuJdsmoSCtKZmgQeZHe030jAGCw5QoiS2oJBXn4zvqIclXUViweYzZQHrzRDHQ3mKj7GN7twyeIHFlj9fmDDSNXwo=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/TcaPbrCSNa3W5DxgGTgd1R2w415Ot-shzom7TNwtwGeR8Yv8zjwJJwcuIOTDYtL-f9yNcOEJfkxvJ8jl1wx8CDbWLz0zQhpXTnv7P1M0m-zTp8iCY1iB_aLCDAq4ooJ2cAMjMzUCO44=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/qQuWZEKpTkbbHuUD-WPMl2nLOjnJI3D1q0Ab6HDyO5mcddAQbtvIvBEW7VcKLSryDCbDhwEpGjyDDXSeRn2FdnbuUeGgohDj8VBgdy6o3fxZxbY1jRMmuSfUZrhunQl23iGamLEE5A0=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/vMJ0sVIMMJKo4ErH7blzOV4AqAyQ2p2ZsG9tx_o8gq2Wo5W3X0VOE_agWsnj_1I69SsgoDNjZcNL8yS15r1LI0JnWTLgxBLvV8m4wVBnpqrBDS_kFMKZd20Wzzh_t4jJus6FVkZqAc4=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/dNfeuSBTvyEFBzCM-5YFl8a4Oo4u8X3oMRopFpwjyycvCwjkw131rstytC0DydjvQaOZ5iqbcY4Xx2pZWw79So7xPbfoyc_ArYn5os7nNquKGA_SZatP_PxrPQszNIRhPnSedS4-qP0=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/z-OApIdmYkwPs1VmZf-a6eWdc9xN3Jfcb82X1ymy_vtXiycnOOrnyQOzsOWYqIvN41RgaNEzPleReEgBuYiT7-7jxauAhK1b6CdP2heOlXRRMfr8dRZhtQPIZURDGRXwnTj4mw_3iGE=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/AqubimC5TIH_7ko18oUt5omfDneizRi5GziNbOxj3yqd8Ggoa4T09ZwiNdJuH60rzJEmZTE26bvX3V7bc9TVWa32gir54pXUcblKdaEDHnJwWzuthQD7VItdEYFRXR9YLJRGxibZASc=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/ETVzWTmh1Dd27sa5oaoSkDK57-NrqdKsStFRUbTPJrjJPDgmIQT2WNg3pIfDOx9J62koAE85yJbQL5T9-2Gq3jOMsoKwLqeeksoL0OBNc-XA6MJMDlcifqPPNtnv7uiQ1N5YJqA2zss=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/FHCVQ_5FIpu5LSyLBMk-SqJ5W6LLR2TVGwDf9AV05RUzmoMXm0Zg_2EUbpTC-ZesheHr0VUUl1vl9BbGn4-62rRXpkgubOzY6KCxUQYTJ1mjF82Vl6cYu0weRUxf8IG4rn9aZ3mMd6E=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/2aHZisuDpHgV1NkBPZd09GLY3w4a12nfSjnAwQ2zipEdFbtbp1jl5oxUxkZgGwiAG7KBYKJWLcIpKbBtWukl_SczhBHdkDAw_v4ZifUG4UireHPyb_3uG4ApVRSRrgzMwA3SxUVLcLA=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/rt8jX3BxTrcvPX_cQQ0vW9uxMzCrCZutWxd431jdpBJA7jHhoy8uKUHXihJJsKUwNve542zYdUi-252Kyyqy1YsSizqqAwIjJuu02xzNMzDvCWUw5C19A4UwE7tqVuks5M7FbxsILng=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;
+&lt;img data-src=&#34;https://lh3.googleusercontent.com/IyCpmG-1FrERvPKn0YdqrX-CnYIqSyB6eiiHfjysdkKOcsPZeR_VQqF5LOyAln0TI5eLtF1e4_7vC4bD7RRo9i2ZUsjJUh6wbSWr_f7wxNsTJRRNUp259T9-yGCMjXO-IgnWQ2li_dM=w1920-h1080&#34; src=&#34;&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;special-pour&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Special Pour&lt;/h3&gt;
+&lt;p&gt;Oh, and if you’re wandering through the French Quarter, make sure to stop into Galatoires and ask for the Sazerac with a history lesson and the “special pour.”&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;special-pour.jpg&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OLC Innovate 2017</title>
+      <link>https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/</guid>
+      <description>
+
+
+&lt;p&gt;OLC Innovate! First time. &lt;del&gt;Probably&lt;/del&gt; (2018 update: &lt;strong&gt;definitely&lt;/strong&gt;) not last. I had a great time that was compounded by being able to bring Adri long with me (not to the conference itself but she’d never been to New Orleans before and, boy, did she enjoy it).&lt;/p&gt;
+&lt;p&gt;The trip started out kinda strange, though… the plane’s lights were entirely &lt;em&gt;blue&lt;/em&gt;. Not just blue-ish but &lt;strong&gt;blue&lt;/strong&gt;. Felt like a scene from &lt;em&gt;In the Mouth of Madness&lt;/em&gt;.&lt;/p&gt;
+&lt;!-- ![I think the person that designed the lighting in this model must&#39;ve been a fan of In the Mouth of Madness.](olc-innovate-2017/2017-07-26-08-07-29-IMG_20170404_202153.jpg) --&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/upNphtZCvjs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;hr /&gt;
+&lt;p&gt;The &lt;a href=&#34;https://onlinelearningconsortium.org/attend-2018/innovate&#34;&gt;OLC Innovate&lt;/a&gt; conference (happening in Nashville, TN next April) seeks to “conduct a series of engaging hands-on workshops aimed at fostering organic interactions and collaborative cross-disciplinary problem solving.”&lt;/p&gt;
+&lt;p&gt;I spent my time in the &lt;a href=&#34;https://onlinelearningconsortium.org/innovate/program/innovation-lab/&#34;&gt;Innovation Lab&lt;/a&gt;, a “dedicated space at the conference for you to explore the pervasive challenges we face in the classroom and to craft innovative approaches for better reaching our unique populations of learners.” Had a great time with the other lab techs–folks like &lt;a href=&#34;http://daveg.msu.domains/about/&#34;&gt;Dave&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/drsrcrawford&#34;&gt;Steven&lt;/a&gt; and &lt;a href=&#34;http://keeganslw.com/&#34;&gt;Keegan&lt;/a&gt; and &lt;a href=&#34;http://www.johnastewart.org/&#34;&gt;John&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/bscragg&#34;&gt;Ben&lt;/a&gt; and &lt;a href=&#34;http://annmusgrove.com/&#34;&gt;Ann&lt;/a&gt; and &lt;a href=&#34;http://www.phylisebanner.com/&#34;&gt;Phylise&lt;/a&gt;–and am looking forward to working with them again in the future.&lt;/p&gt;
+&lt;p&gt;Anyway, here are some pictures from the conference.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-03-IMG_20170407_110146-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-03-IMG_20170407_110146-x1200_hu76461ef2c5eb621c939a0b309599067f_416610_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-51-IMG_20170405_085636-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-51-IMG_20170405_085636-x1200_huea1b329c11ec9dd34ceac5a1d94e0bba_311403_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_-v6voxk-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_-v6voxk-x1200_hu506c4468d0cfd521aacdf9d65b4b6d4d_211535_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_20170407_110630-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_20170407_110630-x1200_hu1f1b55c155200321dfa380b070f9deb4_381215_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_20170407_112214-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_20170407_112214-x1200_hu7ddfae5066325eed0cf49e33758b18e7_242826_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_e802pb-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/2018-08-10-11-08-57-IMG_e802pb-x1200_hu1c8586564ced30ff63b0e1d85e611e25_190789_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/IMG_20170407_094154-x1200.jpg&#34; &gt;
+  &lt;img src=&#34;https://ryanstraight.com/post/2017-07-26-olc-innovate-2017/gallery/IMG_20170407_094154-x1200_hu783e31e7bc056efd531320a05b5b1400_255291_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;I won a social media award, too!&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Another &lt;a href=&#34;https://twitter.com/hashtag/OLCInnovate?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OLCInnovate&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/SocialNinja?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SocialNinja&lt;/a&gt; is Dr. Ryan Straight who won for &amp;quot;Most Joyful Pic!&amp;quot; Congrats &lt;a href=&#34;https://twitter.com/RyanStraight?ref_src=twsrc%5Etfw&#34;&gt;@RyanStraight&lt;/a&gt;!&lt;/p&gt;&amp;mdash; OLC (@OLCToday) &lt;a href=&#34;https://twitter.com/OLCToday/status/853315746457419777?ref_src=twsrc%5Etfw&#34;&gt;April 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It&amp;#39;s &lt;a href=&#34;https://twitter.com/kirstintalkstek?ref_src=twsrc%5Etfw&#34;&gt;@kirstintalkstek&lt;/a&gt; getting a year&amp;#39;s &lt;a href=&#34;https://twitter.com/OLCToday?ref_src=twsrc%5Etfw&#34;&gt;@OLCToday&lt;/a&gt; membership for winning Whose Design is it Anyway at the &lt;a href=&#34;https://twitter.com/hashtag/OLCInnovate?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OLCInnovate&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OLCInnovationLab?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OLCInnovationLab&lt;/a&gt;! &lt;a href=&#34;https://t.co/TCZGwHOlgL&#34;&gt;pic.twitter.com/TCZGwHOlgL&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/850381119975563264?ref_src=twsrc%5Etfw&#34;&gt;April 7, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Of course, there’s more to New Orleans than just being a great conference town. If you want to see a &lt;em&gt;lot&lt;/em&gt; of photos, they’re over here…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electronic Academic Workflow: Paperless Researching</title>
+      <link>https://ryanstraight.com/post/2013-12-01-electronic-academic-workflow-paperless-researching/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/2013-12-01-electronic-academic-workflow-paperless-researching/</guid>
+      <description>
+
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Note: this is old. Very old. I’m no longer a graduate student though I do still teach my graduate students to use these tools or a variation thereof. -RS, Feb 2017&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;Below I’ve highlighted some of the tools that I use to keep myself from going insane while finishing my degree. I call it the Electronic Academic Workflow.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;div id=&#34;mendeley&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://mendeley.com/&#34;&gt;Mendeley&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;mendeley.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Mendeley is free software used to collect, organize , and annotate research articles, books, and other references. The Microsoft Word plug-in allows you to include citations in the text of your writing and automatically create bibliographies based on only what is cited in the paper using the citation style of your choice. If a PDF is attached to a bibliographic entry in Mendeley, you can highlight, type on, and add notes to the file just as you would if it were printed out (but this way everything is searchable). Auto-import will bring in PDFs you save to your computer and fill in the appropriate database fields (authors, title, journal, etc.) automatically. The website has a collection of user groups that share papers and notes. It also backs up your collection to the cloud and has mobile apps for both Android (unofficially) and iPhone/iPad. Make sure to check with your school to see if you’re eligible to get the premium &lt;a href=&#34;http://www.mendeley.com/mendeley-institutional-edition/&#34;&gt;Mendeley Institutional Edition&lt;/a&gt; for free!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;citavi&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://citavi.com/&#34;&gt;Citavi&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;citavi.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Paid software to collect, organize, remark on, annotate, and cite research articles, books, etc. Does much of what Mendeley does but I prefer it more for the actual quotations and citations that I’m using in my papers. That is, Mendeley is where I do my active reading and note-taking, then I collect the quotes (both direct quotes and paraphrases) in Citavi to use in my papers. This just keeps things separate, which can be a good thing. If you have a text that isn’t scanned or available online (like a textbook), I suggest putting the bibliographic record in Mendeley just to keep it in your “library,” but breaking up the Citavi entries into chapters. Your organizational structure may vary, clearly. It also has a task system built in, but it isn’t quite as robust as LiquidPlanner or Asana. (Adding Citavi into the mix between Mendeley and Scrivener was an idea first, to my knowledge, posited by &lt;em&gt;&lt;a href=&#34;http://static1.squarespace.com/static/562a77a2e4b0ebb30f3df59c/562a821be4b0a3172623d1a9/562a823ae4b0a3172623d79d/1445626426776/?format=original&#34;&gt;Mickey the BLOSSOMING-Fledgling Researcher&lt;/a&gt;&lt;/em&gt;.)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;scrivener&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;https://www.literatureandlatte.com/scrivener.php&#34;&gt;Scrivener&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;scrivener.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Paid software for organizing your writing. Built for fiction or non-fiction. Mainly for Mac but a Windows version was recently released. Extremely feature-filled and is great for organizing the myriad and disparate ideas that go into a large academic project. The only downside to Scrivener is that it is visually very busy. While it will help you organize all your writing, it can take quite some time to get used to working in the environment. Sticking with it is well worth the time and effort, however. (&lt;a href=&#34;http://www2.palomar.edu/pages/kfalcone/2013/06/28/scrivenerapp-how-i-love-thee-my-dissertation-savior/&#34;&gt;Screenshot via Kelly Falcone&lt;/a&gt;. Her write-up is worth reading.)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;liquidplanner&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;https://app.liquidplanner.com/signup_a/583/3b67a0fdecda3a0bee120c81c8dc149efcbd1162&#34;&gt;LiquidPlanner&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;liquidplanner.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Free (for teachers and students) project tracking. Fantastic for visualizing and keeping track of how much effort and time is required for projects, from individual class projects or your entire degree. Has mobile applications and social/team capabilities. Really helps you peg down your timeline. Open an account with the free trial first, then visit here to upgrade to the free education-based license. (Title is an affiliate link.)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;asana&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://asana.com/&#34;&gt;Asana&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;asana.jpeg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Free web service for tracking tasks. Has mobile applications and social/team capabilities. The interface is intuitive and attractive. It’s preferable, for me, for just those one-off to-dos. “Return library book” or “Water the garden,” that sort of thing. I leave this and LiquidPlanner as pinned tabs in Chrome. There is a social aspect to it if you’re working in teams that needs a to-do manager, but I can’t speak to how well it works as everything I do is solo. It’s more for just keeping the list of things rather than trying to organize and visualize.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;evernote&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://evernote.com/&#34;&gt;Evernote&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;[]evernote.jpeg)&lt;/p&gt;
+&lt;p&gt;Free software and web service for collecting … anything, really. Think of it as an “everything bucket.” Evernote is my repository for everything that’s not a research paper. Whether it’s just an article that I want to keep track of, notes from a meeting at work, or copies of important emails to and from my committee, it all goes here. The web clipper will snag anything from any page and import it. Plays very nicely with IFTTT and can automate a great deal of your online presence. There’s no shortage of write-ups on Evernote. For just about anything you’d need, check out &lt;a href=&#34;http://lifehacker.com/tag/evernote&#34;&gt;Lifehacker’s Evernote tag&lt;/a&gt;. (Image displayed is the web service.)&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;redlaser-now-defunct&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;RedLaser (Now defunct)&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;redlaser.jpeg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;App for scanning barcodes. Can create lists of them, which makes it easy to import a large collection of books into services like GoodReads or Citavi. Not really part of my workflow, but nice to have around when I need it, especially when you’re in a bookstore or someone’s office and they have a book you want to remember to get. Alternatively, in that case, you could just take a picture of the cover as an Evernote note. Available for Android, iOS, and Windows phones.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;/div&gt;
+&lt;div id=&#34;phraseexpresstextexpanderetc&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;&lt;a href=&#34;http://www.phraseexpress.com/&#34;&gt;PhraseExpress&lt;/a&gt;/&lt;a href=&#34;http://smilesoftware.com/TextExpander/index.html&#34;&gt;TextExpander&lt;/a&gt;/Etc&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;phraseexpress.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Text replacement software. For example, typing “mmr” could be set to replace an entire multivariate multiple regression SPSS syntax. I have a rather lengthy one set to “sig;” that inserts my full email signature, plus a random quote from a list of 200 or so. (Keeps the sig fresh, I feel.) Quicker than copying and pasting, and prevents user error. If you type something over and over and over then software like this becomes a huge boon and saves ridiculous amounts of time (not to mention the relief of knowing that if it’s right once, it’s right every time).&lt;/p&gt;
+&lt;p&gt;So, those are the main players that keep me going in a (relatively) smooth fashion. Need an APA citation real quick? Right-click the entry in Mendeley and copy as a citation. Need to find a quote but only remember a couple words? Citavi to the rescue. Unexpectedly got an extra couple hours free? LiquidPlanner shows me what I really need to be working on next. (This was originally posted on Medium.)&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Commercial Off-The-Shelf Video Games as Computer-Assisted Language Learning Environments</title>
+      <link>https://ryanstraight.com/publication/2011-03-07-commercial-off-the-shelf-video-games/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/publication/2011-03-07-commercial-off-the-shelf-video-games/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Development and Delivery of Custom Mobile Apps for K-12 Learning: Viable  Options for Educators</title>
+      <link>https://ryanstraight.com/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

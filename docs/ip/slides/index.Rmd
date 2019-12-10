@@ -1,0 +1,177 @@
+---
+title: "**Owning Your Success**"
+subtitle: "<br />Battling the Impostor Phenomenon in Higher Education"
+author:
+  - "Tina Rettler-Pagel"
+  - "Madison College"
+  - ".small[rettler@madisoncollege.edu ]"
+  - "she/her/hers"
+  - "<br />"
+  - "Ryan Straight"
+  - "University of Arizona"
+  - ".small[ryanstraight@email.arizona.edu ]"
+  - "he/him/his"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css:
+    - default
+    - metropolis
+    - metropolis-fonts
+    - header-footer.css
+    - custom.css
+    lib_dir: libs
+    nature:
+      countIncrementalSlides: no
+      highlightLines: yes
+      highlightStyle: github
+      scroll: yes
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          </div>
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+    seal: yes
+    yolo: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+layout: true
+
+<div class="my-footer"><span>
+Tina Rettler-Pagel - @TinaRPagel&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ryanstraight.com/ip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Dr. Ryan Straight - @ryanstraight</span></div> 
+
+
+---
+
+# Welcome, all!
+
+<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/BpS6k9mXoDiZa" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hi-BpS6k9mXoDiZa">via GIPHY</a></p>
+
+???
+
+Introduce selves
+
+
+
+---
+
+# Plan for Today
+
+--
+
+## MATAC
+
+--
+
+## What is IP?
+
+--
+
+## Discussion
+
+--
+
+## Bringing it home
+
+---
+
+# What is impost**o**r phenomenon?
+
+## How does it work?
+
+---
+
+# Do you have it?
+
+## Group-share, brainstorm, **get it out**.
+
+--
+
+## How do we explain away your successes?
+
+--
+
+## When do **you** most feel like an impostor?
+
++ Why do you feel this way?
++ How do you frequently respond to these feelings?
++ How does this behavioral response impact your work?
+
+--
+
+## How do "impostors" cope?
+
+--
+
+## How does this impact your work?
+
+---
+
+# Disrupting the IP mindset
+
+.pull-left[
+## 1. Acknowledge it.
+
+You feel it. Others feel it. Be open and honest.
+
+## 2. Focus on (and trust) your wins.
+
+Big successes are made from many small ones.
+
+## 3. Care a little less.
+
+Don't take criticism from someone you wouldn't go to for advice.
+
+]
+
+.pull-right[
+<br /><br /><br /><br /><br /><br /><br /><br />
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/u7gAmp9lCZWPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/david-bowie-i-dont-care-apathy-u7gAmp9lCZWPC">via GIPHY</a></p>
+
+]
+
+---
+
+# Self-Assessments
+
+## Values Assessment
+
+>When you think of the times in your life where you have been the happiest, the proudest, or the most satisfied, which of the following values come to mind? When we focus on acting in concert with our values and judge ourselves on whether we acted in line with our values, it counters the negative messages we may get from the rest of the world or those around us.  
+
+https://drive.google.com/file/d/1B10HrCUC8yB4lZDiHA2aLkf-LIUeQxv7/view?usp=sharing
+
+## Thought Record
+
+A worksheet to monitor (and battle!) impostor phenomenon.
+
+https://drive.google.com/file/d/1mHvKgDnQQEhPb21UxWnvDKKfwDsjkzXD/view?usp=sharing
+
+---
+
+# Self-Assessments
+
+## Clance Scale
+
+The Impostor Test was developed to help individuals determine whether or not they have IP characteristics and, if so, to what extent they are suffering. After taking the Impostor Test, add together the numbers of the responses to each statement. If the total score is 40 or less, the respondent has few Impostor characteristics; if the score is between 41 and 60, the respondent has moderate IP experiences; a score between 61 and 80 means the respondent frequently has Impostor feelings; and a score higher than 80 means the respondent often has intense IP experiences. The higher the score, the more frequently and seriously the Impostor Phenomenon interferes in a person’s life. 
+
+https://drive.google.com/file/d/1LnIQF3nq2BYVvyXFd8qtv5f5sClhV5oy/view?usp=sharing
+
+
+---
+
+# Just because it's fake
+
+## doesn't mean it doesn't feel real.
+
+<div style="width:70%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/vckrZcxyyUZry" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/stop-ca-vckrZcxyyUZry">via GIPHY</a></p>
+
+---
+
+```{r eval=TRUE, echo=FALSE,fig.align='center', out.width='100%', include=identical(knitr:::pandoc_to(), 'html')}
+knitr::include_graphics('images/review-slide.png', dpi = NA)
+```
