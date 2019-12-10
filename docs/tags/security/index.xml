@@ -5,7 +5,7 @@
     <link>https://ryanstraight.com/tags/security/</link>
       <atom:link href="https://ryanstraight.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <description>security</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/img/icon-192.png</url>
       <title>security</title>
@@ -14,154 +14,86 @@
     
     <item>
       <title>Picking the Low-Hanging Fruit of Privacy and Security</title>
-      <link>https://ryanstraight.com/2019/12/08/privacy/</link>
+      <link>https://ryanstraight.com/post/privacy/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2019/12/08/privacy/</guid>
-      <description>
-
-&lt;p&gt;A little while back I was involved in a Twitter thread in which I suggested the &lt;a href=&#34;https://brave.com&#34; target=&#34;_blank&#34;&gt;Brave browser&lt;/a&gt; for its integrated privacy and security settings.&lt;/p&gt;
-
+      <guid>https://ryanstraight.com/post/privacy/</guid>
+      <description>&lt;p&gt;A little while back I was involved in a Twitter thread in which I suggested the &lt;a href=&#34;https://brave.com&#34;&gt;Brave browser&lt;/a&gt; for its integrated privacy and security settings.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Both! I sync my Brave wallet across all my browsers, though. This is just one of the browsers and, wow, it&amp;#39;s disturbing. &lt;a href=&#34;https://t.co/aziApUdiQA&#34;&gt;pic.twitter.com/aziApUdiQA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/1201891797011763200?ref_src=twsrc%5Etfw&#34;&gt;December 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
-&lt;p&gt;That&amp;rsquo;s fairly striking, I know.&lt;/p&gt;
-
+&lt;p&gt;That&#39;s fairly striking, I know.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Maybe I should do a blog post on this kinda thing. A &amp;quot;so you want to be safer in 2020&amp;quot; kinda thing with some low-hanging fruit (like switching from Chrome to Brave).&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/1201892630109528064?ref_src=twsrc%5Etfw&#34;&gt;December 3, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
+&lt;p&gt;So, here it is: my &amp;ldquo;So You Want To Be Safer In 2020&amp;rdquo; post! I&#39;ll preface it with this: this is &lt;em&gt;my&lt;/em&gt; opinion based on the products and services I know. Does it mean this is 100% the best way to go about it or there aren&#39;t potentially better options out there? Not at all. But if you want to hear firsthand experience, you&#39;ve come to the right spot.&lt;/p&gt;
+&lt;h2&gt;Table of Contents&lt;/h2&gt;
 
-&lt;p&gt;So, here it is: my &amp;ldquo;So You Want To Be Safer In 2020&amp;rdquo; post! I&amp;rsquo;ll preface it with this: this is &lt;em&gt;my&lt;/em&gt; opinion based on the products and services I know. Does it mean this is 100% the best way to go about it or there aren&amp;rsquo;t potentially better options out there? Not at all. But if you want to hear firsthand experience, you&amp;rsquo;ve come to the right spot.&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;what-do-you-mean-low-hanging-fruit&#34;&gt;What do you mean, &amp;ldquo;low-hanging fruit?&amp;rdquo;&lt;/h2&gt;
-
-&lt;p&gt;One of the topics I address pretty heavily in my classes is the importance of finding a balance between usability and security. As the old joke goes, &amp;ldquo;The most secure system is one you can&amp;rsquo;t access.&amp;rdquo; This isn&amp;rsquo;t what I&amp;rsquo;m addressing here today but it does lead us down this road: what are the simple solutions you can choose that will have the least impact on your day-to-day user experience? Some of these are simpler than others but I think everything below is definitely worth looking into. Note that I&amp;rsquo;m not affiliated with any of these products or services, though you may find the occasional affiliate link.&lt;/p&gt;
-
+&lt;h2 id=&#34;what-do-you-mean-lowhanging-fruit&#34;&gt;What do you mean, &amp;ldquo;low-hanging fruit?&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;One of the topics I address pretty heavily in my classes is the importance of finding a balance between usability and security. As the old joke goes, &amp;ldquo;The most secure system is one you can&#39;t access.&amp;rdquo; This isn&#39;t what I&#39;m addressing here today but it does lead us down this road: what are the simple solutions you can choose that will have the least impact on your day-to-day user experience? Some of these are simpler than others but I think everything below is definitely worth looking into. Note that I&#39;m not affiliated with any of these products or services, though you may find the occasional affiliate link.&lt;/p&gt;
 &lt;p&gt;Now. First things first:&lt;/p&gt;
-
 &lt;h2 id=&#34;internet-traffic-generally-get-yourself-a-vpn&#34;&gt;Internet traffic, generally: get yourself a VPN&lt;/h2&gt;
-
-&lt;p&gt;You&amp;rsquo;ve probably heard the term before. VPN stands for &lt;strong&gt;V&lt;/strong&gt;irtual &lt;strong&gt;P&lt;/strong&gt;rivate &lt;strong&gt;N&lt;/strong&gt;etwork. The way it works is basically like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;VPN_explained_transparent_grey.png&#34; alt=&#34;VPN Monitor EU&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;You&#39;ve probably heard the term before. VPN stands for &lt;strong&gt;V&lt;/strong&gt;irtual &lt;strong&gt;P&lt;/strong&gt;rivate &lt;strong&gt;N&lt;/strong&gt;etwork. The way it works is basically like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;VPN_explained_transparent_grey.png&#34; alt=&#34;VPN Monitor EU&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A VPN creates an encrypted (read: secure) line between you and the internet. Traffic from your computer goes through the VPN before it gets anywhere else and vice versa. This protects you from, among other things, snooping by your internet service provider (ISP), tracking/identification by the websites you visit, and unwanted incoming connections. It also anonymizes you to the rest of the world (within reason; if you sign into a website that will give the game away, of course) and allows you to get around government or other blocks.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-is-this-low-hanging-fruit&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
-
-&lt;p&gt;Because of its relative simplicity to use. It looks and sounds complicated but these days it&amp;rsquo;s as simple as signing up for the service, installing the app, and &amp;hellip; well, that&amp;rsquo;s about it. Most commercial VPNs will run perfectly fine just out of the box, though you can tweak some settings (like where you &lt;em&gt;look&lt;/em&gt; like you&amp;rsquo;re geographically located and whether or not you want X app or Y app to bypass the VPN connection &amp;ndash; handy for Netflix since they block most proxies/VPNs).&lt;/p&gt;
-
-&lt;h3 id=&#34;my-pick-private-internet-access-https-amzn-to-2yvkbtb&#34;&gt;My pick: &lt;a href=&#34;https://amzn.to/2YvkbtB&#34; target=&#34;_blank&#34;&gt;Private Internet Access&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;They&amp;rsquo;re cheap, fast, and work on virtually any device. You can purchase any number of service lengths (monthly, annually, etc.) on their website or just get a &lt;a href=&#34;https://amzn.to/2YvkbtB&#34; target=&#34;_blank&#34;&gt;one-year subscription here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;web-tracking-and-ads-change-your-browser-search-engine&#34;&gt;Web tracking and ads: change your browser &amp;amp; search engine&lt;/h2&gt;
-
-&lt;p&gt;Most of our online lives are lived in web browsers and social media apps, it seems (and we&amp;rsquo;ll come back to the latter in a bit). That said, it only stands to reason that your online experience is only as good as your browser. Chrome currently stands as the browser king with &lt;a href=&#34;https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables&#34; target=&#34;_blank&#34;&gt;roughly 65% of the browser market share&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-is-this-low-hanging-fruit-1&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
-
-&lt;p&gt;Mostly because of my pick for an alternate browser. It&amp;rsquo;s the same experience but with increased security and privacy. And that is&amp;hellip;&lt;/p&gt;
-
-&lt;h3 id=&#34;my-picks-brave-https-www-brave-com-and-duckduckgo-http-duckduckgo-com&#34;&gt;My picks: &lt;a href=&#34;https://www.brave.com&#34; target=&#34;_blank&#34;&gt;Brave&lt;/a&gt; and &lt;a href=&#34;http://duckduckgo.com/&#34; target=&#34;_blank&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;See, Brave is actually a version of Chrome. Anything you can do in Chrome, you can do in Brave. It&amp;rsquo;s actually built on &lt;a href=&#34;https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/&#34; target=&#34;_blank&#34;&gt;Chromium, the open-source platform that makes Chrome possible&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Brave has built-in ad blocking and privacy controls. When these features are enabled, Brave refers to it as being &lt;em&gt;shields up&lt;/em&gt; (though it does break some websites, so switching to &lt;em&gt;shields down&lt;/em&gt; is occasionally necessary but it&amp;rsquo;ll be obvious when that&amp;rsquo;s the case). Here&amp;rsquo;s what happens if you visit, say, Buzzfeed:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;brave-shields.png&#34; alt=&#34;Brave shields on Buzzfeed&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And that&amp;rsquo;s not even nearly the worst perpetrator I can think of, it was just a random popular website that came to mind.&lt;/p&gt;
-
-&lt;p&gt;There&amp;rsquo;s also the whole Brave Rewards program and a built-in version of cryptocurrency called the Basic Attention Token (BAT) that can be used to tip websites that have enabled it but that&amp;rsquo;s another post. Feel free to &lt;a href=&#34;https://brave.com/tips/&#34; target=&#34;_blank&#34;&gt;throw a tip my way&lt;/a&gt; if you&amp;rsquo;re using it, though!&lt;/p&gt;
-
-&lt;p&gt;As for the search engine, just moving away from Google is a huge step (because nobody actually uses Bing, let&amp;rsquo;s be honest). My typical go-to for search engines is &lt;a href=&#34;http://duckduckgo.com/&#34; target=&#34;_blank&#34;&gt;DuckDuckGo&lt;/a&gt; (which, ironically, &lt;em&gt;does&lt;/em&gt; use Bing&amp;rsquo;s results along with many, many others). It&amp;rsquo;s easy to &lt;a href=&#34;https://support.brave.com/hc/en-us/articles/360017479752-How-do-I-set-my-default-search-engine-&#34; target=&#34;_blank&#34;&gt;switch your default browser search engine in Brave&lt;/a&gt; and their private windows (like Incognito in Chrome) uses it automatically. If you&amp;rsquo;re interested in using Google&amp;rsquo;s results, &lt;a href=&#34;https://www.startpage.com/&#34; target=&#34;_blank&#34;&gt;you can try StartPage&lt;/a&gt;, instead, which is also a great choice.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Because of its relative simplicity to use. It looks and sounds complicated but these days it&#39;s as simple as signing up for the service, installing the app, and &amp;hellip; well, that&#39;s about it. Most commercial VPNs will run perfectly fine just out of the box, though you can tweak some settings (like where you &lt;em&gt;look&lt;/em&gt; like you&#39;re geographically located and whether or not you want X app or Y app to bypass the VPN connection &amp;ndash; handy for Netflix since they block most proxies/VPNs).&lt;/p&gt;
+&lt;h3 id=&#34;my-pick-private-internet-accesshttpsamznto2yvkbtb&#34;&gt;My pick: &lt;a href=&#34;https://amzn.to/2YvkbtB&#34;&gt;Private Internet Access&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;They&#39;re cheap, fast, and work on virtually any device. You can purchase any number of service lengths (monthly, annually, etc.) on their website or just get a &lt;a href=&#34;https://amzn.to/2YvkbtB&#34;&gt;one-year subscription here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;web-tracking-and-ads-change-your-browser--search-engine&#34;&gt;Web tracking and ads: change your browser &amp;amp; search engine&lt;/h2&gt;
+&lt;p&gt;Most of our online lives are lived in web browsers and social media apps, it seems (and we&#39;ll come back to the latter in a bit). That said, it only stands to reason that your online experience is only as good as your browser. Chrome currently stands as the browser king with &lt;a href=&#34;https://en.wikipedia.org/wiki/Usage_share_of_web_browsers#Summary_tables&#34;&gt;roughly 65% of the browser market share&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit1&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Mostly because of my pick for an alternate browser. It&#39;s the same experience but with increased security and privacy. And that is&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;my-picks-bravehttpswwwbravecom-and-duckduckgohttpduckduckgocom&#34;&gt;My picks: &lt;a href=&#34;https://www.brave.com&#34;&gt;Brave&lt;/a&gt; and &lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;See, Brave is actually a version of Chrome. Anything you can do in Chrome, you can do in Brave. It&#39;s actually built on &lt;a href=&#34;https://www.howtogeek.com/202825/what%E2%80%99s-the-difference-between-chromium-and-chrome/&#34;&gt;Chromium, the open-source platform that makes Chrome possible&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Brave has built-in ad blocking and privacy controls. When these features are enabled, Brave refers to it as being &lt;em&gt;shields up&lt;/em&gt; (though it does break some websites, so switching to &lt;em&gt;shields down&lt;/em&gt; is occasionally necessary but it&#39;ll be obvious when that&#39;s the case). Here&#39;s what happens if you visit, say, Buzzfeed:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;brave-shields.png&#34; alt=&#34;Brave shields on Buzzfeed&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And that&#39;s not even nearly the worst perpetrator I can think of, it was just a random popular website that came to mind.&lt;/p&gt;
+&lt;p&gt;There&#39;s also the whole Brave Rewards program and a built-in version of cryptocurrency called the Basic Attention Token (BAT) that can be used to tip websites that have enabled it but that&#39;s another post. Feel free to &lt;a href=&#34;https://brave.com/tips/&#34;&gt;throw a tip my way&lt;/a&gt; if you&#39;re using it, though!&lt;/p&gt;
+&lt;p&gt;As for the search engine, just moving away from Google is a huge step (because nobody actually uses Bing, let&#39;s be honest). My typical go-to for search engines is &lt;a href=&#34;http://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; (which, ironically, &lt;em&gt;does&lt;/em&gt; use Bing&#39;s results along with many, many others). It&#39;s easy to &lt;a href=&#34;https://support.brave.com/hc/en-us/articles/360017479752-How-do-I-set-my-default-search-engine-&#34;&gt;switch your default browser search engine in Brave&lt;/a&gt; and their private windows (like Incognito in Chrome) uses it automatically. If you&#39;re interested in using Google&#39;s results, &lt;a href=&#34;https://www.startpage.com/&#34;&gt;you can try StartPage&lt;/a&gt;, instead, which is also a great choice.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;credentials-use-a-password-vault-and-2fa&#34;&gt;Credentials: use a password vault and 2FA&lt;/h2&gt;
-
-&lt;p&gt;I cannot emphasize this enough: use long, unique passwords for everything and enable two-factor authentication everywhere you can. Let&amp;rsquo;s have a little thought experiment, shall we?&lt;/p&gt;
-
-&lt;p&gt;You&amp;rsquo;ve been using the same email and password for everything for years. Let&amp;rsquo;s say it&amp;rsquo;s &lt;code&gt;password1&lt;/code&gt;. (Think that&amp;rsquo;s too obvious? It doesn&amp;rsquo;t even &lt;a href=&#34;https://www.welivesecurity.com/2018/12/17/most-popular-passwords-2018-revealed/&#34; target=&#34;_blank&#34;&gt;crack the top 20&lt;/a&gt; of the most popular passwords.) So you&amp;rsquo;ve been using that password everywhere from your university email to Netflix to the bank to a silly little website you don&amp;rsquo;t even remember signing into a couple years ago.&lt;/p&gt;
-
-&lt;p&gt;Is it likely your university or your bank or Netflix is going to find their entire user database of credentials obtained and leaked? Nah, probably not. That&amp;rsquo;s not how these things typically go. What will usually happen is that little website you signed up for (and probably even forgot about) gets hacked and, because they didn&amp;rsquo;t know what they were doing, kept all their users&amp;rsquo; emails and passwords in plain text right there on the server. (Sound unlikely? &lt;a href=&#34;https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/&#34; target=&#34;_blank&#34;&gt;It&amp;rsquo;s what Facebook did for years&lt;/a&gt;.) So while your email and bank and Netflix weren&amp;rsquo;t hacked, someone&amp;ndash;and, likely, anyone who wants to search the &lt;a href=&#34;https://haveibeenpwned.com/Passwords&#34; target=&#34;_blank&#34;&gt;half-billion passwords&lt;/a&gt; that&amp;rsquo;ve been exposed online&amp;ndash;now has those credentials because they&amp;rsquo;re the same everywhere. So, all that person has to do in theory is take that email and password combination, start visiting popular websites, and eventually they&amp;rsquo;re going to get lucky.&lt;/p&gt;
-
-&lt;p&gt;That is a true nightmare just waiting to happen. That particular nightmare could&amp;rsquo;ve been avoided by just using different passwords for everything. But who wants to keep track of all those, right? Well.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-is-this-low-hanging-fruit-2&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
-
-&lt;p&gt;Because services like the ones I&amp;rsquo;ve chosen for my picks are so dead simple to use that the tiny learning curve is absolutely justified by the benefits of using the services.&lt;/p&gt;
-
-&lt;h3 id=&#34;my-picks-lastpass-https-lastpass-com-and-authy-https-authy-com&#34;&gt;My picks: &lt;a href=&#34;https://lastpass.com&#34; target=&#34;_blank&#34;&gt;LastPass&lt;/a&gt; and &lt;a href=&#34;https://authy.com&#34; target=&#34;_blank&#34;&gt;Authy&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;Both are both browser extensions and stand-alone phone apps. LastPass keeps track of all those passwords for you, even updates automatically when you need or decide to change your password. It can generate passwords as long and as complex as you need. It even provides what they call the &lt;a href=&#34;https://helpdesk.lastpass.com/lastpass-security-challenge/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Security Challenge&lt;/em&gt;&lt;/a&gt; that audits your entire collection of usernames and passwords and tells you if:&lt;/p&gt;
-
-&lt;p&gt;a) any are duplicates and used on more than one site,&lt;br /&gt;
-b) if any of your passwords are just generally weak,&lt;br /&gt;
-c) if any of your email addresses are included in lists of exposed credentials online,&lt;br /&gt;
-d) if any of your passwords are old, and&lt;br /&gt;
+&lt;p&gt;I cannot emphasize this enough: use long, unique passwords for everything and enable two-factor authentication everywhere you can. Let&#39;s have a little thought experiment, shall we?&lt;/p&gt;
+&lt;p&gt;You&#39;ve been using the same email and password for everything for years. Let&#39;s say it&#39;s &lt;code&gt;password1&lt;/code&gt;. (Think that&#39;s too obvious? It doesn&#39;t even &lt;a href=&#34;https://www.welivesecurity.com/2018/12/17/most-popular-passwords-2018-revealed/&#34;&gt;crack the top 20&lt;/a&gt; of the most popular passwords.) So you&#39;ve been using that password everywhere from your university email to Netflix to the bank to a silly little website you don&#39;t even remember signing into a couple years ago.&lt;/p&gt;
+&lt;p&gt;Is it likely your university or your bank or Netflix is going to find their entire user database of credentials obtained and leaked? Nah, probably not. That&#39;s not how these things typically go. What will usually happen is that little website you signed up for (and probably even forgot about) gets hacked and, because they didn&#39;t know what they were doing, kept all their users&amp;rsquo; emails and passwords in plain text right there on the server. (Sound unlikely? &lt;a href=&#34;https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/&#34;&gt;It&#39;s what Facebook did for years&lt;/a&gt;.) So while your email and bank and Netflix weren&#39;t hacked, someone&amp;ndash;and, likely, anyone who wants to search the &lt;a href=&#34;https://haveibeenpwned.com/Passwords&#34;&gt;half-billion passwords&lt;/a&gt; that&#39;ve been exposed online&amp;ndash;now has those credentials because they&#39;re the same everywhere. So, all that person has to do in theory is take that email and password combination, start visiting popular websites, and eventually they&#39;re going to get lucky.&lt;/p&gt;
+&lt;p&gt;That is a true nightmare just waiting to happen. That particular nightmare could&#39;ve been avoided by just using different passwords for everything. But who wants to keep track of all those, right? Well.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit2&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Because services like the ones I&#39;ve chosen for my picks are so dead simple to use that the tiny learning curve is absolutely justified by the benefits of using the services.&lt;/p&gt;
+&lt;h3 id=&#34;my-picks-lastpasshttpslastpasscom-and-authyhttpsauthycom&#34;&gt;My picks: &lt;a href=&#34;https://lastpass.com&#34;&gt;LastPass&lt;/a&gt; and &lt;a href=&#34;https://authy.com&#34;&gt;Authy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Both are both browser extensions and stand-alone phone apps. LastPass keeps track of all those passwords for you, even updates automatically when you need or decide to change your password. It can generate passwords as long and as complex as you need. It even provides what they call the &lt;a href=&#34;https://helpdesk.lastpass.com/lastpass-security-challenge/&#34;&gt;&lt;em&gt;Security Challenge&lt;/em&gt;&lt;/a&gt; that audits your entire collection of usernames and passwords and tells you if:&lt;/p&gt;
+&lt;p&gt;a) any are duplicates and used on more than one site,&lt;br&gt;
+b) if any of your passwords are just generally weak,&lt;br&gt;
+c) if any of your email addresses are included in lists of exposed credentials online,&lt;br&gt;
+d) if any of your passwords are old, and&lt;br&gt;
 e) how you compare to the rest of the LastPass community.&lt;/p&gt;
-
 &lt;p&gt;Take an afternoon and get it set up. Seriously.&lt;/p&gt;
-
-&lt;p&gt;Then there&amp;rsquo;s the two-factor authentication (2FA). Know when you&amp;rsquo;re prompted to put in a 6-digit code after signing into a website? That&amp;rsquo;s that. While many just use the &amp;ldquo;send me an SMS&amp;rdquo; option (terrible, by the way), you can improve upon that with an app that has multi-device support. My favorite is &lt;a href=&#34;https://authy.com/&#34; target=&#34;_blank&#34;&gt;Authy&lt;/a&gt;, which is hands-down better &lt;a href=&#34;https://authy.com/blog/authy-vs-google-authenticator/&#34; target=&#34;_blank&#34;&gt;than the other most popular one, Google Authenticator&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;Then there&#39;s the two-factor authentication (2FA). Know when you&#39;re prompted to put in a 6-digit code after signing into a website? That&#39;s that. While many just use the &amp;ldquo;send me an SMS&amp;rdquo; option (terrible, by the way), you can improve upon that with an app that has multi-device support. My favorite is &lt;a href=&#34;https://authy.com/&#34;&gt;Authy&lt;/a&gt;, which is hands-down better &lt;a href=&#34;https://authy.com/blog/authy-vs-google-authenticator/&#34;&gt;than the other most popular one, Google Authenticator&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;chatting-switch-your-chat-app&#34;&gt;Chatting: switch your chat app&lt;/h2&gt;
-
-&lt;p&gt;Text messages are inherently insecure. WhatsApp is owned by Facebook. Signal is secure but it still uses your phone number. Telegram isn&amp;rsquo;t open source. Allo is owned by Google. Skype is owned by Microsoft. &lt;a href=&#34;https://www.securemessagingapps.com/&#34; target=&#34;_blank&#34;&gt;The list goes on&lt;/a&gt;. If you want to be sure that your communications are secure and you&amp;rsquo;re talking to whomever they &lt;em&gt;say&lt;/em&gt; they actually are, you&amp;rsquo;ll need a different option.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-is-this-low-hanging-fruit-3&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
-
-&lt;p&gt;The implications for privacy, more or less. Right up there with your passwords and protecting your internet traffic, this is no less important so the stakes are much higher. After all: would you be okay with someone listening in on your phone calls? That feels oddly more invasive, doesn&amp;rsquo;t it? It shouldn&amp;rsquo;t. It shouldn&amp;rsquo;t feel exactly as invasive as someone potentially reading your chats. Heck, that&amp;rsquo;s even worse because you can just print out the transcript and &lt;em&gt;voila&lt;/em&gt;. In short, there&amp;rsquo;s a record. If you can convince anyone of doing anything, this&amp;ndash;changing the means of communication you use&amp;ndash;is a good place to start.&lt;/p&gt;
-
-&lt;h3 id=&#34;my-pick-keybase-https-keybase-io&#34;&gt;My pick: &lt;a href=&#34;https://keybase.io&#34; target=&#34;_blank&#34;&gt;Keybase&lt;/a&gt;&lt;/h3&gt;
-
+&lt;p&gt;Text messages are inherently insecure. WhatsApp is owned by Facebook. Signal is secure but it still uses your phone number. Telegram isn&#39;t open source. Allo is owned by Google. Skype is owned by Microsoft. &lt;a href=&#34;https://www.securemessagingapps.com/&#34;&gt;The list goes on&lt;/a&gt;. If you want to be sure that your communications are secure and you&#39;re talking to whomever they &lt;em&gt;say&lt;/em&gt; they actually are, you&#39;ll need a different option.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit3&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;The implications for privacy, more or less. Right up there with your passwords and protecting your internet traffic, this is no less important so the stakes are much higher. After all: would you be okay with someone listening in on your phone calls? That feels oddly more invasive, doesn&#39;t it? It shouldn&#39;t. It shouldn&#39;t feel exactly as invasive as someone potentially reading your chats. Heck, that&#39;s even worse because you can just print out the transcript and &lt;em&gt;voila&lt;/em&gt;. In short, there&#39;s a record. If you can convince anyone of doing anything, this&amp;ndash;changing the means of communication you use&amp;ndash;is a good place to start.&lt;/p&gt;
+&lt;h3 id=&#34;my-pick-keybasehttpskeybaseio&#34;&gt;My pick: &lt;a href=&#34;https://keybase.io&#34;&gt;Keybase&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Why? Well, in one word:&lt;/p&gt;
-
-&lt;p&gt;&lt;div style=&#34;width:100%;height:0;padding-bottom:56%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/13UJifd97hqdji&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/television-john-oliver-last-week-tonight-13UJifd97hqdji&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;Keybase was originally just a new place to generate and keep PGP keys (tl;dr: a way to securely message people that nobody ever really, actually uses in the real world). They&amp;rsquo;ve been expanding and expanding since those days and now they provide chat, teams (like Slack or group messaging), secure file storage, cryptocurrency wallets, and even encrypted Git repositories (a way of storing and change-tracking code, more or less). Since their platform is open source, it&amp;rsquo;s inherently more secure since anyone can look at and improve the code. Combine that with the fact content from Keybase users is end-to-end encrypted (like what happens in the VPN, more or less), the Keybase folks can&amp;rsquo;t even actually see what you&amp;rsquo;re saying or what your files are or &amp;hellip; well, anything. They can see a message was sent, what time it was, that sort of thing (known as &lt;em&gt;metadata&lt;/em&gt;) but the content of that stuff? Totally secure (insofar as you don&amp;rsquo;t lose your device; they have no control over you being a doofus).&lt;/p&gt;
-
-&lt;p&gt;You can find me at &lt;a href=&#34;https://keybase.io/ryanstraight&#34; target=&#34;_blank&#34;&gt;https://keybase.io/ryanstraight&lt;/a&gt; if you want to give it a trial run and say hi. 😁&lt;/p&gt;
-
-&lt;p&gt;We switched from WhatsApp to Keybase a while ago for our daily communication and I can say it&amp;rsquo;s been pretty painless. In Keybase you can still share a live location, you can share gifs, leave voice messages instead of typing, everything you can do with other chat platforms, you can do in there. There are some really nice other features, too, like easy access to all the files and links you&amp;rsquo;ve shared back and forth. One killer feature I&amp;rsquo;d love to see, though, is like how Signal can be used as both a secure messaging app (if both people use Signal) or a default SMS app (if you get a text from someone &lt;em&gt;not&lt;/em&gt; on Signal, it still shows up &lt;em&gt;in&lt;/em&gt; Signal). I&amp;rsquo;d love if Keybase could do the same thing. Likewise, a direct &amp;ldquo;Send to Keybase user&amp;rdquo; in the system share dialog would be great and save a few steps (compared to copying and pasting URLs).&lt;/p&gt;
-
-&lt;p&gt;Oh, and if you want to leave a message that&amp;rsquo;ll disappear after a set length of time, you can &lt;a href=&#34;https://keybase.io/blog/keybase-exploding-messages&#34; target=&#34;_blank&#34;&gt;do that, too&lt;/a&gt;. 💣&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://keybase.io/download&#34; target=&#34;_blank&#34;&gt;Getting set up on Keybase&lt;/a&gt; can be a &lt;em&gt;tad&lt;/em&gt; confusing if you&amp;rsquo;re thinking it&amp;rsquo;s just a chat app because, as I said, it&amp;rsquo;s much more than that. The benefits are so great, though, that I&amp;rsquo;d encourage you to just get whomever you also want to switch set up (if necessary, just do it for them) as once you&amp;rsquo;re up and running the experience is incredibly familiar. Especially if you&amp;rsquo;re coming from WhatsApp for Facebook Messenger&amp;hellip; because my next thing is:&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;div style=&#34;width:100%;height:0;padding-bottom:56%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/13UJifd97hqdji&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/television-john-oliver-last-week-tonight-13UJifd97hqdji&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keybase was originally just a new place to generate and keep PGP keys (tl;dr: a way to securely message people that nobody ever really, actually uses in the real world). They&#39;ve been expanding and expanding since those days and now they provide chat, teams (like Slack or group messaging), secure file storage, cryptocurrency wallets, and even encrypted Git repositories (a way of storing and change-tracking code, more or less). Since their platform is open source, it&#39;s inherently more secure since anyone can look at and improve the code. Combine that with the fact content from Keybase users is end-to-end encrypted (like what happens in the VPN, more or less), the Keybase folks can&#39;t even actually see what you&#39;re saying or what your files are or &amp;hellip; well, anything. They can see a message was sent, what time it was, that sort of thing (known as &lt;em&gt;metadata&lt;/em&gt;) but the content of that stuff? Totally secure (insofar as you don&#39;t lose your device; they have no control over you being a doofus).&lt;/p&gt;
+&lt;p&gt;You can find me at &lt;a href=&#34;https://keybase.io/ryanstraight&#34;&gt;https://keybase.io/ryanstraight&lt;/a&gt; if you want to give it a trial run and say hi. 😄&lt;/p&gt;
+&lt;p&gt;We switched from WhatsApp to Keybase a while ago for our daily communication and I can say it&#39;s been pretty painless. In Keybase you can still share a live location, you can share gifs, leave voice messages instead of typing, everything you can do with other chat platforms, you can do in there. There are some really nice other features, too, like easy access to all the files and links you&#39;ve shared back and forth. One killer feature I&#39;d love to see, though, is like how Signal can be used as both a secure messaging app (if both people use Signal) or a default SMS app (if you get a text from someone &lt;em&gt;not&lt;/em&gt; on Signal, it still shows up &lt;em&gt;in&lt;/em&gt; Signal). I&#39;d love if Keybase could do the same thing. Likewise, a direct &amp;ldquo;Send to Keybase user&amp;rdquo; in the system share dialog would be great and save a few steps (compared to copying and pasting URLs).&lt;/p&gt;
+&lt;p&gt;Oh, and if you want to leave a message that&#39;ll disappear after a set length of time, you can &lt;a href=&#34;https://keybase.io/blog/keybase-exploding-messages&#34;&gt;do that, too&lt;/a&gt;. 💣&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://keybase.io/download&#34;&gt;Getting set up on Keybase&lt;/a&gt; can be a &lt;em&gt;tad&lt;/em&gt; confusing if you&#39;re thinking it&#39;s just a chat app because, as I said, it&#39;s much more than that. The benefits are so great, though, that I&#39;d encourage you to just get whomever you also want to switch set up (if necessary, just do it for them) as once you&#39;re up and running the experience is incredibly familiar. Especially if you&#39;re coming from WhatsApp for Facebook Messenger&amp;hellip; because my next thing is:&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;social-media-deletefacebook&#34;&gt;Social media: #DeleteFacebook&lt;/h2&gt;
-
-&lt;p&gt;Couldn&amp;rsquo;t make an entire post about security and privacy online without mentioning #DeleteFacebook, right? This one really is a bit of a no-brainer, although I&amp;rsquo;m on the fence about whether it&amp;rsquo;s actually low-hanging fruit. For a lot of people, Facebook is how they stay in contact with family, friends, communities, and perhaps even conduct business. For some, it&amp;rsquo;s their living.&lt;/p&gt;
-
-&lt;h3 id=&#34;why-is-this-low-hanging-fruit-4&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
-
-&lt;p&gt;Again, I&amp;rsquo;m not entirely sure it is for a large portion of the population. I just think it&amp;rsquo;s important enough to include, regardless. Also, I&amp;rsquo;ll say this: after leaving Facebook, I&amp;rsquo;ve found myself considerably more positive and compassionate.&lt;/p&gt;
-
+&lt;p&gt;Couldn&#39;t make an entire post about security and privacy online without mentioning #DeleteFacebook, right? This one really is a bit of a no-brainer, although I&#39;m on the fence about whether it&#39;s actually low-hanging fruit. For a lot of people, Facebook is how they stay in contact with family, friends, communities, and perhaps even conduct business. For some, it&#39;s their living.&lt;/p&gt;
+&lt;h3 id=&#34;why-is-this-lowhanging-fruit4&#34;&gt;Why is this low-hanging fruit?&lt;/h3&gt;
+&lt;p&gt;Again, I&#39;m not entirely sure it is for a large portion of the population. I just think it&#39;s important enough to include, regardless. Also, I&#39;ll say this: after leaving Facebook, I&#39;ve found myself considerably more positive and compassionate.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It occurs to me that my tweets over the past few weeks have become markedly more positive and supportive, rather than critical and complaintive. I wonder if it has to do with me leaving Facebook. &lt;a href=&#34;https://twitter.com/hashtag/DeleteFACEBOOK?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DeleteFACEBOOK&lt;/a&gt; &lt;a href=&#34;https://t.co/PTyAO8V6pS&#34;&gt;pic.twitter.com/PTyAO8V6pS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dr. Ryan &amp;quot;Rebel Without a Clause&amp;quot; Straight (@RyanStraight) &lt;a href=&#34;https://twitter.com/RyanStraight/status/1199331737567973379?ref_src=twsrc%5Etfw&#34;&gt;November 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
-
-&lt;h3 id=&#34;my-pick-that-s-complicated&#34;&gt;My pick: that&amp;rsquo;s complicated&lt;/h3&gt;
-
+&lt;h3 id=&#34;my-pick-thats-complicated&#34;&gt;My pick: that&#39;s complicated&lt;/h3&gt;
 &lt;p&gt;See, there really is no viable alternative to Facebook. Not really. There are networks out there that are &lt;em&gt;trying&lt;/em&gt; (Peepeth comes to mind but the blockchain integration, while good in theory, is just too overly complicated for widespread adoption, at least right now) and some that are so focused on anti-censorship that they turn into magnets for alt-right hate, but none that even come close to being as ubiquitous and entangled with our daily lives (for better or worse).&lt;/p&gt;
-
-&lt;p&gt;On the other hand, you have something really promising like &lt;a href=&#34;https://www.okuna.io/en/home&#34; target=&#34;_blank&#34;&gt;Okuna&lt;/a&gt;, which is still in private beta but is open source and focused on respecting user privacy. Looking forward to getting in there. Christmas present, perhaps?&lt;/p&gt;
-
-&lt;p&gt;That said, I&amp;rsquo;m still &lt;a href=&#34;https://twitter.com/ryanstraight&#34; target=&#34;_blank&#34;&gt;on Twitter&lt;/a&gt; but have moved mostly away from using Instagram. Nobody&amp;rsquo;s perfect.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;On the other hand, you have something really promising like &lt;a href=&#34;https://www.okuna.io/en/home&#34;&gt;Okuna&lt;/a&gt;, which is still in private beta but is open source and focused on respecting user privacy. Looking forward to getting in there. Christmas present, perhaps?&lt;/p&gt;
+&lt;p&gt;That said, I&#39;m still &lt;a href=&#34;https://twitter.com/ryanstraight&#34;&gt;on Twitter&lt;/a&gt; but have moved mostly away from using Instagram. Nobody&#39;s perfect.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;So, there you have it: five relatively simple, small changes you can make in your daily online lifestyle that will reap &lt;em&gt;huge&lt;/em&gt; benefits. Even doing just one of these things will be an improvement. I hope this has been useful!&lt;/p&gt;
 </description>
     </item>

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -37,8 +37,6 @@
 
 
   
-
-  
   
   
   <meta name="theme-color" content="#650b14">
@@ -50,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -61,13 +59,15 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atom-one-light.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atom-one-light.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -76,35 +76,64 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.7fa754c4d5c572261f4276b1706eaf63.css">
-
   
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academic.dd2749afe2dcfb873616b2a1de5c963c.css">
-  
-
-  
-  
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123447651-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-123447651-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
-  <link rel="icon" type="image/png" href="/img/icon.png">
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/">
@@ -132,6 +161,62 @@
     
     <meta property="article:modified_time" content="2017-03-01T09:06:53-07:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/"
+  },
+  "headline": "On Expertise and Being 'Out There'",
+  
+  "image": [
+    "https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/featured.jpg"
+  ],
+  
+  "datePublished": "2017-03-01T00:00:00Z",
+  "dateModified": "2017-03-01T09:06:53-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ryan Straight"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "ryan straight, ph.d",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ryanstraight.com/img/icon-512.png"
+    }
+  },
+  "description": "I was reading Katie Linder’s Medium essay When Do You Call Yourself an Expert on the same day that listened to her Imposter Syndrome episode on the You’ve Got This podcast while getting ready for Faculty Forum. I don’t think that’s a coincidence, honestly. I mean, the timing might be but I’m clearly drawn to this topic. So, I thought I’d write up my own thoughts about it and publish them on the internet because, hey, bravery comes before confidence."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -181,24 +266,35 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">ryan straight, ph.d</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">ryan straight, ph.d</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -395,29 +491,31 @@
       
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
-  <article class="article" itemscope itemtype="http://schema.org/Article">
+  <article class="article">
 
   
 
@@ -447,16 +545,12 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">On Expertise and Being &#39;Out There&#39;</h1>
+  <h1>On Expertise and Being &#39;Out There&#39;</h1>
 
   
 
   
 
-
-
-<meta content="2017-03-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2017-03-01 09:06:53 -0700 MST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -471,7 +565,7 @@
           Last updated on
       
     
-    <time>Mar 1, 2017</time>
+    Mar 1, 2017
   </span>
   
 
@@ -495,8 +589,77 @@
     <i class="fas fa-folder mr-1"></i><a href="/categories/personal/">Personal</a></span>
   
 
+</div>
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 225px;">
+  <div style="position: relative">
+    <img src="/2017/03/01/on-expertise-and-being-out-there/featured_hucb1befcfb07f1a0c17b31d975bb33071_113692_720x0_resize_q70_lanczos.jpg" alt="" class="featured-image">
     
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+<p>I was reading Katie Linder’s Medium essay <a href="https://medium.com/@katie__linder/when-do-you-call-yourself-an-expert-f273b17a02e9#.jpz9ksg5k">When Do You Call Yourself an Expert</a> on the same day that listened to her <a href="http://ygtpodcast.com/ep23/">Imposter Syndrome</a> episode on the You’ve Got This podcast while getting ready for Faculty Forum. I don’t think that’s a coincidence, honestly. I mean, the timing might be but I’m clearly drawn to this topic. So, I thought I’d write up my own thoughts about it and publish them on the internet because, hey, bravery comes before confidence.</p>
+<p>The essay reminded me of what I feel like was my first out there moment in which I was also interviewed for a podcast. Hers was for the <a href="http://teachinginhighered.com/episodes/">Teaching in Higher Ed podcast</a> hosted by the wonderful <a href="https://twitter.com/bonni208">Bonnie Stachowiak</a>, while mine was the <a href="https://immersivelrn.org/resources/the-versatilist-podcast/">Versatilist podcast</a>, hosted by the wonderfully welcoming Patrick O’Shea. Like Katie, I can safely say the experience was enjoyable, there’s nothing wrong with it, and I’m not unhappy with the result. To be fair, I’ve never actually even listened to <a href="https://www.podomatic.com/podcasts/versatilist/episodes/2015-10-26T10_27_09-07_00">my Versatilist podcast episode</a> as I a) can’t abide the sound of my own voice (an unfortunate state of affairs considering I teach fully online and record myself teaching upwards of 4 times a week), and b) well, precisely what I’m getting into with this piece.</p>
+<p>When I did the Versatilist I had just begun my teaching and had only just recently graduated with my Ph.D, though I was already full-time faculty and was taking over as Program Director while the former PD was on sabbatical. Needless to say, I was a bit out of my depth and unprepared, considering I got so few chances to teach while in graduate school as I was working full time as a trainer for the University’s IT department. Regardless, when I was asked to be on the podcast I thought, ‘Sure, why not?’ Again, bravery before confidence, right?</p>
+<p>So I did the podcast and I think it went fine. I enjoyed the 45-ish minutes and never really felt like I didn’t know what I was talking about, but I didn’t (and to a certain extent still don’t) feel like an <em>expert</em> in any particular field. That’s not to say I’m not working on it but I don’t feel comfortable wearing the badge just quite yet. Maybe that’s why I was a good fit for the Versatilist: Jack of all trades and master of none? Who knows?</p>
+<p><a href="https://pixabay.com/en/mike-sound-system-podcast-1737612/"><img src="mic.png" align="right" alt="By Mindthaw via Pixabay."></a>
+One scary thing for me was the idea that there would now be a record of me rambling on about this and that, from my doctoral research to my experience teaching as new faculty, but that anyone could access it at any time and <em>I couldn’t be there to respond</em>. If I tweet something or say something in class there’s an avenue for discussion, for dialog, be it synchronous or asynchronous. Being a guest on a podcast is, obviously, being interviewed and having that interview published: it’s out there and that sole fact invites scrutiny. (Going on another this week, coincidentally.) So maybe it’s more a fear of making a mistake and being caught out.</p>
+<p>Anyway, one point I wanted to make in the podcast (and why we’ve taken this winding path) was that I think I’ve always been hungry for something different. I’m a neophile, a fan of novelty with a great love of the new-and-improved. That is to say, I’m always looking for more… more information, more methods, more theories, more examples, more tools. More, more, more. I’m afraid that if I ever find myself settling comfortably into the <em>expert</em> chair then that part of me could disappear, as if expertise were a destination and not a journey (to get all cat-hanging-from-a-ledge-motivational-poster for a minute). I don’t want that to happen. Satisfaction is having one foot in the grave or some such.</p>
+<p>Maybe it would help new graduates or junior faculty to see that others at the same career point are also in the same boat, confidence- or bravery-wise. It’s a long road and not one that has any particular sign posts or even a decent map. We have to make our own ways, sometimes even cut our own paths<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Maybe we get lucky enough to find a mentor that has an idea about the ditches and bumps, but that’s no guarantee. Navigating all this is part of the process and, frankly, I think it’s good for us. Maybe not <em>good</em>; maybe <strong>necessary</strong>.</p>
+<p>Regardless, for now I think I’m most comfortable claiming that I’m on a constant path toward expertise. Maybe when I feel like I’ve finally claimed the prize I’ll let you know. Maybe, when I’m like Katie and have two-almost-three books under my belt, I’ll claim it. Until then, hi-ho, hi-ho.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Did you know you can buy machetes at Home Depot? They’re with the gardening tools. That blew my mind. Not sure where I thought they were sold before I discovered this. Not sure I’d ever thought about where they’re sold before then. It just struck me as odd.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/expertise/">expertise</a>
+  
+  <a class="badge badge-light" href="/tags/reflection/">reflection</a>
+  
+  <a class="badge badge-light" href="/tags/faculty/">faculty</a>
+  
+  <a class="badge badge-light" href="/tags/growth/">growth</a>
+  
+</div>
+
+
+
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
@@ -522,7 +685,7 @@
       
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/&amp;t=On%20Expertise%20and%20Being%20&amp;#39;Out%20There&amp;#39;" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
     
@@ -582,193 +745,123 @@
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
   
 
-</div>
+
+
+
+
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 225px;">
-  <div style="position: relative">
-    <img src="/2017/03/01/on-expertise-and-being-out-there/featured_hucb1befcfb07f1a0c17b31d975bb33071_113692_720x0_resize_q70_lanczos.jpg" alt="" class="featured-image">
+  
+  
     
-  </div>
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style" itemprop="articleBody">
-      
-
-
-<p>I was reading Katie Linder’s Medium essay <a href="https://medium.com/@katie__linder/when-do-you-call-yourself-an-expert-f273b17a02e9#.jpz9ksg5k">When Do You Call Yourself an Expert</a> on the same day that listened to her <a href="http://ygtpodcast.com/ep23/">Imposter Syndrome</a> episode on the You’ve Got This podcast while getting ready for Faculty Forum. I don’t think that’s a coincidence, honestly. I mean, the timing might be but I’m clearly drawn to this topic. So, I thought I’d write up my own thoughts about it and publish them on the internet because, hey, bravery comes before confidence.</p>
-<p>The essay reminded me of what I feel like was my first out there moment in which I was also interviewed for a podcast. Hers was for the <a href="http://teachinginhighered.com/episodes/">Teaching in Higher Ed podcast</a> hosted by the wonderful <a href="https://twitter.com/bonni208">Bonnie Stachowiak</a>, while mine was the <a href="https://immersivelrn.org/resources/the-versatilist-podcast/">Versatilist podcast</a>, hosted by the wonderfully welcoming Patrick O’Shea. Like Katie, I can safely say the experience was enjoyable, there’s nothing wrong with it, and I’m not unhappy with the result. To be fair, I’ve never actually even listened to <a href="https://www.podomatic.com/podcasts/versatilist/episodes/2015-10-26T10_27_09-07_00">my Versatilist podcast episode</a> as I a) can’t abide the sound of my own voice (an unfortunate state of affairs considering I teach fully online and record myself teaching upwards of 4 times a week), and b) well, precisely what I’m getting into with this piece.</p>
-<p>When I did the Versatilist I had just begun my teaching and had only just recently graduated with my Ph.D, though I was already full-time faculty and was taking over as Program Director while the former PD was on sabbatical. Needless to say, I was a bit out of my depth and unprepared, considering I got so few chances to teach while in graduate school as I was working full time as a trainer for the University’s IT department. Regardless, when I was asked to be on the podcast I thought, ‘Sure, why not?’ Again, bravery before confidence, right?</p>
-<p>So I did the podcast and I think it went fine. I enjoyed the 45-ish minutes and never really felt like I didn’t know what I was talking about, but I didn’t (and to a certain extent still don’t) feel like an <em>expert</em> in any particular field. That’s not to say I’m not working on it but I don’t feel comfortable wearing the badge just quite yet. Maybe that’s why I was a good fit for the Versatilist: Jack of all trades and master of none? Who knows?</p>
-<p><a href="https://pixabay.com/en/mike-sound-system-podcast-1737612/"><img src="mic.png" align="right" alt="By Mindthaw via Pixabay."></a>
-One scary thing for me was the idea that there would now be a record of me rambling on about this and that, from my doctoral research to my experience teaching as new faculty, but that anyone could access it at any time and <em>I couldn’t be there to respond</em>. If I tweet something or say something in class there’s an avenue for discussion, for dialog, be it synchronous or asynchronous. Being a guest on a podcast is, obviously, being interviewed and having that interview published: it’s out there and that sole fact invites scrutiny. (Going on another this week, coincidentally.) So maybe it’s more a fear of making a mistake and being caught out.</p>
-<p>Anyway, one point I wanted to make in the podcast (and why we’ve taken this winding path) was that I think I’ve always been hungry for something different. I’m a neophile, a fan of novelty with a great love of the new-and-improved. That is to say, I’m always looking for more… more information, more methods, more theories, more examples, more tools. More, more, more. I’m afraid that if I ever find myself settling comfortably into the <em>expert</em> chair then that part of me could disappear, as if expertise were a destination and not a journey (to get all cat-hanging-from-a-ledge-motivational-poster for a minute). I don’t want that to happen. Satisfaction is having one foot in the grave or some such.</p>
-<p>Maybe it would help new graduates or junior faculty to see that others at the same career point are also in the same boat, confidence- or bravery-wise. It’s a long road and not one that has any particular sign posts or even a decent map. We have to make our own ways, sometimes even cut our own paths<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Maybe we get lucky enough to find a mentor that has an idea about the ditches and bumps, but that’s no guarantee. Navigating all this is part of the process and, frankly, I think it’s good for us. Maybe not <em>good</em>; maybe <strong>necessary</strong>.</p>
-<p>Regardless, for now I think I’m most comfortable claiming that I’m on a constant path toward expertise. Maybe when I feel like I’ve finally claimed the prize I’ll let you know. Maybe, when I’m like Katie and have two-almost-three books under my belt, I’ll claim it. Until then, hi-ho, hi-ho.</p>
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p>Did you know you can buy machetes at Home Depot? They’re with the gardening tools. That blew my mind. Not sure where I thought they were sold before I discovered this. Not sure I’d ever thought about where they’re sold before then. It just struck me as odd.<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
-</ol>
-</div>
-
-    </div>
-
-    
-
-
-    
-
-<div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/expertise/">expertise</a>
   
-  <a class="badge badge-light" href="/tags/reflection/">reflection</a>
-  
-  <a class="badge badge-light" href="/tags/faculty/">faculty</a>
-  
-  <a class="badge badge-light" href="/tags/growth/">growth</a>
-  
-</div>
-
-
-
+  <div class="media author-card content-widget-hr">
     
       
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-    
-      
-      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q70_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q70_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
+      <h5 class="card-title"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
       <h6 class="card-subtitle">Assistant Professor of Educational Technology</h6>
-      <p class="card-text" itemprop="description">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan&rsquo;s academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
+      <p class="card-text">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
       <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="/#contact" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://twitter.com/ryanstraight" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?hl=en&amp;user=7y4X8jgAAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://github.com/ryanstraight" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-      </ul>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/ryanstraight" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=7y4X8jgAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ryanstraight" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
     </div>
   </div>
 
 
 
-      
-      
-    
 
-    
 
-    
+
+
+
+
+  
+  
+
 
 
   </div>
@@ -788,45 +881,45 @@ One scary thing for me was the idea that there would now be a record of me rambl
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js" integrity="sha256-0w92bcB21IY5+rGI84MGj52jNfHNbXVeQLrZ0CGdjNY=" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
     
 
+    
+    
+    
+    
     
     
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -880,7 +973,7 @@ One scary thing for me was the idea that there would now be a record of me rambl
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
 
     
 
@@ -890,13 +983,14 @@ One scary thing for me was the idea that there would now be a record of me rambl
 
 
   
+  
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
 
-    &copy;2019 Ryan Straight&nbsp;&nbsp;&middot;&nbsp;
+    ©2019 Ryan Straight&nbsp;&nbsp;&middot;&nbsp;
     <a href="https://ryanstraight.com/license/" rel="noopener">License</a>
     &nbsp;&middot;&nbsp;
     Powered by the

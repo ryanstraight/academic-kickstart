@@ -5,7 +5,7 @@
     <link>https://ryanstraight.com/tags/</link>
       <atom:link href="https://ryanstraight.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/img/icon-192.png</url>
       <title>Tags</title>
@@ -205,18 +205,18 @@
     </item>
     
     <item>
-      <title>Professional</title>
-      <link>https://ryanstraight.com/tags/professional/</link>
-      <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
-      <guid>https://ryanstraight.com/tags/professional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>podcast</title>
       <link>https://ryanstraight.com/tags/podcast/</link>
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
       <guid>https://ryanstraight.com/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>professional</title>
+      <link>https://ryanstraight.com/tags/professional/</link>
+      <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
+      <guid>https://ryanstraight.com/tags/professional/</guid>
       <description></description>
     </item>
     
@@ -245,14 +245,6 @@
     </item>
     
     <item>
-      <title>The Diamond Age</title>
-      <link>https://ryanstraight.com/tags/the-diamond-age/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/tags/the-diamond-age/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>education</title>
       <link>https://ryanstraight.com/tags/education/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
@@ -273,6 +265,14 @@
       <link>https://ryanstraight.com/tags/quote/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://ryanstraight.com/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Diamond Age</title>
+      <link>https://ryanstraight.com/tags/the-diamond-age/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/tags/the-diamond-age/</guid>
       <description></description>
     </item>
     
@@ -589,14 +589,6 @@
     </item>
     
     <item>
-      <title>SITE</title>
-      <link>https://ryanstraight.com/tags/site/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/tags/site/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>computer assisted language learning</title>
       <link>https://ryanstraight.com/tags/computer-assisted-language-learning/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -609,6 +601,14 @@
       <link>https://ryanstraight.com/tags/gaming/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       <guid>https://ryanstraight.com/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SITE</title>
+      <link>https://ryanstraight.com/tags/site/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/tags/site/</guid>
       <description></description>
     </item>
     

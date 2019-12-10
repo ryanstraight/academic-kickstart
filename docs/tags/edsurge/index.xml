@@ -5,7 +5,7 @@
     <link>https://ryanstraight.com/tags/edsurge/</link>
       <atom:link href="https://ryanstraight.com/tags/edsurge/index.xml" rel="self" type="application/rss+xml" />
     <description>edsurge</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/img/icon-192.png</url>
       <title>edsurge</title>
@@ -14,13 +14,12 @@
     
     <item>
       <title>Hi, EdSurge!</title>
-      <link>https://ryanstraight.com/2018/07/05/hi-edsurge/</link>
+      <link>https://ryanstraight.com/post/2018-07-05-hi-edsurge/</link>
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2018/07/05/hi-edsurge/</guid>
+      <guid>https://ryanstraight.com/post/2018-07-05-hi-edsurge/</guid>
       <description>
 
 
-&lt;p&gt;&lt;img src=&#34;featured.webp&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;I’m featured as the July &lt;a href=&#34;https://twitter.com/hashtag/dlnchat&#34;&gt;EdSurge #DLNchat&lt;/a&gt; Member of the Month!&lt;/p&gt;
 </description>
     </item>

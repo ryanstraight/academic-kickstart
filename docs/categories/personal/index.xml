@@ -5,7 +5,7 @@
     <link>https://ryanstraight.com/categories/personal/</link>
       <atom:link href="https://ryanstraight.com/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/img/icon-192.png</url>
       <title>Personal</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Evidence</title>
-      <link>https://ryanstraight.com/2018/08/24/evidence/</link>
+      <link>https://ryanstraight.com/post/2018-08-24-evidence/</link>
       <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2018/08/24/evidence/</guid>
+      <guid>https://ryanstraight.com/post/2018-08-24-evidence/</guid>
       <description>
 
 
@@ -43,9 +43,9 @@
     
     <item>
       <title>Not that Kind of Hot Dog</title>
-      <link>https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/</link>
+      <link>https://ryanstraight.com/post/2018-07-24-not-that-kind-of-hot-dog/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/</guid>
+      <guid>https://ryanstraight.com/post/2018-07-24-not-that-kind-of-hot-dog/</guid>
       <description>
 &lt;script src=&#34;https://ryanstraight.com/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://ryanstraight.com/rmarkdown-libs/jquery/dist/jquery.min.js&#34;&gt;&lt;/script&gt;
@@ -62,9 +62,9 @@
 &lt;p&gt;I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.&lt;/p&gt;
 &lt;p&gt;Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.&lt;/p&gt;
 &lt;p&gt;While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”&lt;a href=&#34;#fn3&#34; class=&#34;footnote-ref&#34; id=&#34;fnref3&#34;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;div id=&#34;mjs-ef8edfd7d92418603b0c12047ce26a&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
-&lt;div id=&#34;mjs-ef8edfd7d92418603b0c12047ce26a-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-ef8edfd7d92418603b0c12047ce26a&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-ef8edfd7d92418603b0c12047ce26a&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
+&lt;div id=&#34;mjs-fac30ffb9a05d65057d50fe6fbfe28&#34; class=&#34;metricsgraphics html-widget&#34; style=&#34;width:672px;height:480px;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;mjs-fac30ffb9a05d65057d50fe6fbfe28-legend&#34; class=&#34;metricsgraphics html-widget-legend&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;mjs-fac30ffb9a05d65057d50fe6fbfe28&#34;&gt;{&#34;x&#34;:{&#34;forCSS&#34;:null,&#34;regions&#34;:null,&#34;orig_posix&#34;:false,&#34;data&#34;:{&#34;temp&#34;:[127,133,140,148,155],&#34;sec&#34;:[60,15,5,2,1],&#34;stringssAsFactors&#34;:[false,false,false,false,false]},&#34;x_axis&#34;:true,&#34;y_axis&#34;:true,&#34;baseline_accessor&#34;:null,&#34;predictor_accessor&#34;:null,&#34;show_confidence_band&#34;:null,&#34;show_secondary_x_label&#34;:null,&#34;chart_type&#34;:&#34;line&#34;,&#34;xax_format&#34;:&#34;plain&#34;,&#34;x_label&#34;:&#34;Degrees Farenheit&#34;,&#34;y_label&#34;:&#34;Seconds of contact&#34;,&#34;markers&#34;:[{&#34;temp&#34;:133,&#34;label&#34;:&#34;Medium rare steak&#34;},{&#34;temp&#34;:153,&#34;label&#34;:&#34;Medium well steak&#34;}],&#34;baselines&#34;:null,&#34;linked&#34;:false,&#34;title&#34;:null,&#34;description&#34;:null,&#34;left&#34;:80,&#34;right&#34;:10,&#34;bottom&#34;:60,&#34;buffer&#34;:8,&#34;format&#34;:&#34;count&#34;,&#34;y_scale_type&#34;:&#34;linear&#34;,&#34;yax_count&#34;:5,&#34;xax_count&#34;:6,&#34;x_rug&#34;:false,&#34;y_rug&#34;:false,&#34;area&#34;:false,&#34;missing_is_hidden&#34;:false,&#34;size_accessor&#34;:null,&#34;color_accessor&#34;:null,&#34;color_type&#34;:&#34;number&#34;,&#34;color_range&#34;:[&#34;blue&#34;,&#34;red&#34;],&#34;size_range&#34;:[1,5],&#34;bar_height&#34;:20,&#34;min_x&#34;:null,&#34;max_x&#34;:null,&#34;min_y&#34;:null,&#34;max_y&#34;:null,&#34;bar_margin&#34;:1,&#34;binned&#34;:false,&#34;bins&#34;:null,&#34;least_squares&#34;:false,&#34;interpolate&#34;:&#34;cardinal&#34;,&#34;decimals&#34;:2,&#34;show_rollover_text&#34;:true,&#34;x_accessor&#34;:&#34;temp&#34;,&#34;y_accessor&#34;:&#34;sec&#34;,&#34;multi_line&#34;:null,&#34;geom&#34;:&#34;line&#34;,&#34;yax_units&#34;:&#34;&#34;,&#34;legend&#34;:null,&#34;legend_target&#34;:null,&#34;y_extended_ticks&#34;:false,&#34;x_extended_ticks&#34;:false,&#34;target&#34;:&#34;#mjs-fac30ffb9a05d65057d50fe6fbfe28&#34;,&#34;full_width&#34;:true,&#34;full_height&#34;:true,&#34;animate_on_load&#34;:true,&#34;color&#34;:&#34;Red&#34;,&#34;colors&#34;:&#34;Red&#34;},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
 &lt;p&gt;Below each picture and accompanying temperature is a description of a relative internal cooking temperature&lt;a href=&#34;#fn4&#34; class=&#34;footnote-ref&#34; id=&#34;fnref4&#34;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; for comparison.&lt;/p&gt;
 &lt;div id=&#34;am&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;11am&lt;/h2&gt;
@@ -74,12 +74,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1100-gravel.jpg&#34; &gt;
 
-&lt;img src=&#34;1100-gravel.jpg&#34; alt=&#34;Gravel at 11am&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1100-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1100-gravel.jpg&#34; alt=&#34;Gravel at 11am&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -89,12 +97,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1100-patio.jpg&#34; &gt;
 
-&lt;img src=&#34;1100-patio.jpg&#34; alt=&#34;Patio at 11am&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1100-patio.jpg&#34; &gt;
+&lt;img src=&#34;1100-patio.jpg&#34; alt=&#34;Patio at 11am&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -107,12 +123,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1200-gravel.jpg&#34; &gt;
 
-&lt;img src=&#34;1200-gravel.jpg&#34; alt=&#34;Gravel at 12pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1200-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1200-gravel.jpg&#34; alt=&#34;Gravel at 12pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -122,12 +146,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1200-patio.jpg&#34; &gt;
 
-&lt;img src=&#34;1200-patio.jpg&#34; alt=&#34;Patio at 12pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1200-patio.jpg&#34; &gt;
+&lt;img src=&#34;1200-patio.jpg&#34; alt=&#34;Patio at 12pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -140,12 +172,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1300-gravel.jpg&#34; &gt;
 
-&lt;img src=&#34;1300-gravel.jpg&#34; alt=&#34;Gravel at 1pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1300-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1300-gravel.jpg&#34; alt=&#34;Gravel at 1pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -155,12 +195,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1300-patio.jpg&#34; &gt;
 
-&lt;img src=&#34;1300-patio.jpg&#34; alt=&#34;Patio at 1pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1300-patio.jpg&#34; &gt;
+&lt;img src=&#34;1300-patio.jpg&#34; alt=&#34;Patio at 1pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -173,12 +221,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1430-gravel.jpg&#34; &gt;
 
-&lt;img src=&#34;1430-gravel.jpg&#34; alt=&#34;Gravel at 2:30pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1430-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1430-gravel.jpg&#34; alt=&#34;Gravel at 2:30pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -188,12 +244,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1430-patio.jpg&#34; &gt;
 
-&lt;img src=&#34;1430-patio.jpg&#34; alt=&#34;Patio at 2:30pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1430-patio.jpg&#34; &gt;
+&lt;img src=&#34;1430-patio.jpg&#34; alt=&#34;Patio at 2:30pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -206,12 +270,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1530-gravel.jpg&#34; &gt;
 
-&lt;img src=&#34;1530-gravel.jpg&#34; alt=&#34;Gravel at 3:30pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1530-gravel.jpg&#34; &gt;
+&lt;img src=&#34;1530-gravel.jpg&#34; alt=&#34;Gravel at 3:30pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -221,12 +293,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1530-patio.jpg&#34; &gt;
 
-&lt;img src=&#34;1530-patio.jpg&#34; alt=&#34;Patio at 3:30pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1530-patio.jpg&#34; &gt;
+&lt;img src=&#34;1530-patio.jpg&#34; alt=&#34;Patio at 3:30pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -240,12 +320,20 @@
 
 
 
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;1930-patio.jpg&#34; &gt;
 
-&lt;img src=&#34;1930-patio.jpg&#34; alt=&#34;Patio at 7:30pm&#34; &gt;
-&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;1930-patio.jpg&#34; &gt;
+&lt;img src=&#34;1930-patio.jpg&#34; alt=&#34;Patio at 7:30pm&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 &lt;/p&gt;
@@ -264,9 +352,9 @@
     
     <item>
       <title>Educated vs Intelligent</title>
-      <link>https://ryanstraight.com/2018/07/06/educated-vs-intelligent/</link>
+      <link>https://ryanstraight.com/post/2018-07-06-educated-vs-intelligent/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2018/07/06/educated-vs-intelligent/</guid>
+      <guid>https://ryanstraight.com/post/2018-07-06-educated-vs-intelligent/</guid>
       <description>
 
 
@@ -282,9 +370,9 @@
     
     <item>
       <title>On Expertise and Being &#39;Out There&#39;</title>
-      <link>https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/</link>
+      <link>https://ryanstraight.com/post/on-expertise-and-being-out-there/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2017/03/01/on-expertise-and-being-out-there/</guid>
+      <guid>https://ryanstraight.com/post/on-expertise-and-being-out-there/</guid>
       <description>
 
 
@@ -308,9 +396,9 @@ One scary thing for me was the idea that there would now be a record of me rambl
     
     <item>
       <title>On the Loss of a Loved One</title>
-      <link>https://ryanstraight.com/2015/04/15/on-the-loss-of-a-loved-one/</link>
+      <link>https://ryanstraight.com/post/2015-04-15-on-the-loss-of-a-loved-one/</link>
       <pubDate>Wed, 15 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2015/04/15/on-the-loss-of-a-loved-one/</guid>
+      <guid>https://ryanstraight.com/post/2015-04-15-on-the-loss-of-a-loved-one/</guid>
       <description>
 
 

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -37,8 +37,6 @@
 
 
   
-
-  
   
   
   <meta name="theme-color" content="#650b14">
@@ -50,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -61,13 +59,15 @@
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atom-one-light.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atom-one-light.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -76,35 +76,64 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.7fa754c4d5c572261f4276b1706eaf63.css">
-
   
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academic.dd2749afe2dcfb873616b2a1de5c963c.css">
-  
-
-  
-  
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123447651-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-123447651-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
-  <link rel="icon" type="image/png" href="/img/icon.png">
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/">
@@ -132,6 +161,62 @@
     
     <meta property="article:modified_time" content="2018-07-24T09:18:07-07:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/"
+  },
+  "headline": "Not that Kind of Hot Dog",
+  
+  "image": [
+    "https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/featured.png"
+  ],
+  
+  "datePublished": "2018-07-24T00:00:00Z",
+  "dateModified": "2018-07-24T09:18:07-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ryan Straight"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "ryan straight, ph.d",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ryanstraight.com/img/icon-512.png"
+    }
+  },
+  "description": "It is hot outside in Arizona. I mean, it is hot virtually everywhere, to be fair. We are at the very beginning of an extreme heat advisory that lasts from yesterday (Monday) morning all the way through Wednesday night. Dangerous heat. Keep in mind it is actually hotter _today_ than it was yesterday."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -181,24 +266,35 @@
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">ryan straight, ph.d</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">ryan straight, ph.d</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -395,29 +491,31 @@
       
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
-  <article class="article" itemscope itemtype="http://schema.org/Article">
+  <article class="article">
 
   
 
@@ -447,16 +545,12 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">Not that Kind of Hot Dog</h1>
+  <h1>Not that Kind of Hot Dog</h1>
 
   
 
   
 
-
-
-<meta content="2018-07-24 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-07-24 09:18:07 -0700 MST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -471,7 +565,7 @@
           Last updated on
       
     
-    <time>Jul 24, 2018</time>
+    Jul 24, 2018
   </span>
   
 
@@ -495,8 +589,358 @@
     <i class="fas fa-folder mr-1"></i><a href="/categories/personal/">Personal</a></span>
   
 
+</div>
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 225px;">
+  <div style="position: relative">
+    <img src="/2018/07/24/not-that-kind-of-hot-dog/featured_hu59f27554f877323b401832b83798879f_321122_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/jquery/dist/jquery.min.js"></script>
+<script src="/rmarkdown-libs/d3/d3.min.js"></script>
+<link href="/rmarkdown-libs/metrics-graphics/dist/metricsgraphics.css" rel="stylesheet" />
+<link href="/rmarkdown-libs/metrics-graphics/dist/mg_regions.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/metrics-graphics/dist/metricsgraphics.min.js"></script>
+<script src="/rmarkdown-libs/metrics-graphics/dist/mg_regions.js"></script>
+<script src="/rmarkdown-libs/metricsgraphics-binding/metricsgraphics.js"></script>
+
+
+<p>It’s hot outside in Arizona. I mean, it’s hot virtually everywhere, to be fair. We’re at the very beginning of an extreme heat advisory that lasts from yesterday (July 23, 2018) morning all the way through Wednesday night. It’s dangerously hot.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> Keep in mind it’s actually hotter <em>today</em> than it was yesterday. Today it’s a high of 112F (44.4C). The images you’ll find below were taken on a day with a high of 109F (42.7C).</p>
+<p>Now, you know about our dogs and how much we love them. (Read: spoil.) Considering the excessive heat warning, I began wondering just how hot the back yard gets during the day. I know the general numbers but what about in our actual back yard where our actual dogs actually walk around, actually?</p>
+<p>I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.</p>
+<p>Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.</p>
+<p>While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p>
+<div id="mjs-c25892186b8db629fff4ca86313b5e" class="metricsgraphics html-widget" style="width:672px;height:480px;"></div>
+<div id="mjs-c25892186b8db629fff4ca86313b5e-legend" class="metricsgraphics html-widget-legend"></div>
+<script type="application/json" data-for="mjs-c25892186b8db629fff4ca86313b5e">{"x":{"forCSS":null,"regions":null,"orig_posix":false,"data":{"temp":[127,133,140,148,155],"sec":[60,15,5,2,1],"stringssAsFactors":[false,false,false,false,false]},"x_axis":true,"y_axis":true,"baseline_accessor":null,"predictor_accessor":null,"show_confidence_band":null,"show_secondary_x_label":null,"chart_type":"line","xax_format":"plain","x_label":"Degrees Farenheit","y_label":"Seconds of contact","markers":[{"temp":133,"label":"Medium rare steak"},{"temp":153,"label":"Medium well steak"}],"baselines":null,"linked":false,"title":null,"description":null,"left":80,"right":10,"bottom":60,"buffer":8,"format":"count","y_scale_type":"linear","yax_count":5,"xax_count":6,"x_rug":false,"y_rug":false,"area":false,"missing_is_hidden":false,"size_accessor":null,"color_accessor":null,"color_type":"number","color_range":["blue","red"],"size_range":[1,5],"bar_height":20,"min_x":null,"max_x":null,"min_y":null,"max_y":null,"bar_margin":1,"binned":false,"bins":null,"least_squares":false,"interpolate":"cardinal","decimals":2,"show_rollover_text":true,"x_accessor":"temp","y_accessor":"sec","multi_line":null,"geom":"line","yax_units":"","legend":null,"legend_target":null,"y_extended_ticks":false,"x_extended_ticks":false,"target":"#mjs-c25892186b8db629fff4ca86313b5e","full_width":true,"full_height":true,"animate_on_load":true,"color":"Red","colors":"Red"},"evals":[],"jsHooks":[]}</script>
+<p>Below each picture and accompanying temperature is a description of a relative internal cooking temperature<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> for comparison.</p>
+<div id="am" class="section level2">
+<h2>11am</h2>
+<p>Gravel at 11am: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1100-gravel.jpg" >
+<img src="1100-gravel.jpg" alt="Gravel at 11am" ></a>
+
+
+
+</figure>
+</p>
+<p>Patio at 11am: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1100-patio.jpg" >
+<img src="1100-patio.jpg" alt="Patio at 11am" ></a>
+
+
+
+</figure>
+</p>
+</div>
+<div id="pm" class="section level2">
+<h2>12pm</h2>
+<p>Gravel at 12pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1200-gravel.jpg" >
+<img src="1200-gravel.jpg" alt="Gravel at 12pm" ></a>
+
+
+
+</figure>
+</p>
+<p>Patio at 12pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1200-patio.jpg" >
+<img src="1200-patio.jpg" alt="Patio at 12pm" ></a>
+
+
+
+</figure>
+</p>
+</div>
+<div id="pm-1" class="section level2">
+<h2>1pm</h2>
+<p>Gravel at 1pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1300-gravel.jpg" >
+<img src="1300-gravel.jpg" alt="Gravel at 1pm" ></a>
+
+
+
+</figure>
+</p>
+<p>Patio at 1pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1300-patio.jpg" >
+<img src="1300-patio.jpg" alt="Patio at 1pm" ></a>
+
+
+
+</figure>
+</p>
+</div>
+<div id="pm-2" class="section level2">
+<h2>2:30pm</h2>
+<p>Gravel at 2:30pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1430-gravel.jpg" >
+<img src="1430-gravel.jpg" alt="Gravel at 2:30pm" ></a>
+
+
+
+</figure>
+</p>
+<p>Patio at 2:30pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1430-patio.jpg" >
+<img src="1430-patio.jpg" alt="Patio at 2:30pm" ></a>
+
+
+
+</figure>
+</p>
+</div>
+<div id="pm-3" class="section level2">
+<h2>3:30pm</h2>
+<p>Gravel at 3:30pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1530-gravel.jpg" >
+<img src="1530-gravel.jpg" alt="Gravel at 3:30pm" ></a>
+
+
+
+</figure>
+</p>
+<p>Patio at 3:30pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1530-patio.jpg" >
+<img src="1530-patio.jpg" alt="Patio at 3:30pm" ></a>
+
+
+
+</figure>
+</p>
+</div>
+<div id="pm-4" class="section level2">
+<h2>7:30pm</h2>
+<p>Just so you can see how quickly it cools down after the sun stops beating down on it.</p>
+<p>Patio at 7:30pm: 
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="1930-patio.jpg" >
+<img src="1930-patio.jpg" alt="Patio at 7:30pm" ></a>
+
+
+
+</figure>
+</p>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p><a href="https://www.wunderground.com/history/daily/KTUS/date/2018-7-23" class="uri">https://www.wunderground.com/history/daily/KTUS/date/2018-7-23</a><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+<li id="fn2"><p><a href="https://thenewprofessor.com/005" class="uri">https://thenewprofessor.com/005</a><a href="#fnref2" class="footnote-back">↩︎</a></p></li>
+<li id="fn3"><p><a href="http://burncentrecare.co.uk/what_can_cause_a_burn.htm" class="uri">http://burncentrecare.co.uk/what_can_cause_a_burn.htm</a><a href="#fnref3" class="footnote-back">↩︎</a></p></li>
+<li id="fn4"><p><a href="https://whatscookingamerica.net/Information/MeatTemperatureChart.htm" class="uri">https://whatscookingamerica.net/Information/MeatTemperatureChart.htm</a><a href="#fnref4" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/dogs/">dogs</a>
+  
+  <a class="badge badge-light" href="/tags/the-new-professor/">the new professor</a>
+  
+  <a class="badge badge-light" href="/tags/summer/">summer</a>
+  
+</div>
+
+
+
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
@@ -522,7 +966,7 @@
       
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://ryanstraight.com/2018/07/24/not-that-kind-of-hot-dog/&amp;t=Not%20that%20Kind%20of%20Hot%20Dog" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
     
@@ -582,396 +1026,132 @@
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
   
 
-</div>
+
+
+
+
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 225px;">
-  <div style="position: relative">
-    <img src="/2018/07/24/not-that-kind-of-hot-dog/featured_hu59f27554f877323b401832b83798879f_321122_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+  
+  
     
-  </div>
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style" itemprop="articleBody">
-      
-<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
-<script src="/rmarkdown-libs/jquery/dist/jquery.min.js"></script>
-<script src="/rmarkdown-libs/d3/d3.min.js"></script>
-<link href="/rmarkdown-libs/metrics-graphics/dist/metricsgraphics.css" rel="stylesheet" />
-<link href="/rmarkdown-libs/metrics-graphics/dist/mg_regions.css" rel="stylesheet" />
-<script src="/rmarkdown-libs/metrics-graphics/dist/metricsgraphics.min.js"></script>
-<script src="/rmarkdown-libs/metrics-graphics/dist/mg_regions.js"></script>
-<script src="/rmarkdown-libs/metricsgraphics-binding/metricsgraphics.js"></script>
-
-
-<p>It’s hot outside in Arizona. I mean, it’s hot virtually everywhere, to be fair. We’re at the very beginning of an extreme heat advisory that lasts from yesterday (July 23, 2018) morning all the way through Wednesday night. It’s dangerously hot.<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a> Keep in mind it’s actually hotter <em>today</em> than it was yesterday. Today it’s a high of 112F (44.4C). The images you’ll find below were taken on a day with a high of 109F (42.7C).</p>
-<p>Now, you know about our dogs and how much we love them. (Read: spoil.) Considering the excessive heat warning, I began wondering just how hot the back yard gets during the day. I know the general numbers but what about in our actual back yard where our actual dogs actually walk around, actually?</p>
-<p>I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.</p>
-<p>Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.</p>
-<p>While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p>
-<div id="mjs-ef8edfd7d92418603b0c12047ce26a" class="metricsgraphics html-widget" style="width:672px;height:480px;"></div>
-<div id="mjs-ef8edfd7d92418603b0c12047ce26a-legend" class="metricsgraphics html-widget-legend"></div>
-<script type="application/json" data-for="mjs-ef8edfd7d92418603b0c12047ce26a">{"x":{"forCSS":null,"regions":null,"orig_posix":false,"data":{"temp":[127,133,140,148,155],"sec":[60,15,5,2,1],"stringssAsFactors":[false,false,false,false,false]},"x_axis":true,"y_axis":true,"baseline_accessor":null,"predictor_accessor":null,"show_confidence_band":null,"show_secondary_x_label":null,"chart_type":"line","xax_format":"plain","x_label":"Degrees Farenheit","y_label":"Seconds of contact","markers":[{"temp":133,"label":"Medium rare steak"},{"temp":153,"label":"Medium well steak"}],"baselines":null,"linked":false,"title":null,"description":null,"left":80,"right":10,"bottom":60,"buffer":8,"format":"count","y_scale_type":"linear","yax_count":5,"xax_count":6,"x_rug":false,"y_rug":false,"area":false,"missing_is_hidden":false,"size_accessor":null,"color_accessor":null,"color_type":"number","color_range":["blue","red"],"size_range":[1,5],"bar_height":20,"min_x":null,"max_x":null,"min_y":null,"max_y":null,"bar_margin":1,"binned":false,"bins":null,"least_squares":false,"interpolate":"cardinal","decimals":2,"show_rollover_text":true,"x_accessor":"temp","y_accessor":"sec","multi_line":null,"geom":"line","yax_units":"","legend":null,"legend_target":null,"y_extended_ticks":false,"x_extended_ticks":false,"target":"#mjs-ef8edfd7d92418603b0c12047ce26a","full_width":true,"full_height":true,"animate_on_load":true,"color":"Red","colors":"Red"},"evals":[],"jsHooks":[]}</script>
-<p>Below each picture and accompanying temperature is a description of a relative internal cooking temperature<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> for comparison.</p>
-<div id="am" class="section level2">
-<h2>11am</h2>
-<p>Gravel at 11am: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1100-gravel.jpg" >
-
-<img src="1100-gravel.jpg" alt="Gravel at 11am" >
-</a>
-
-</figure>
-</p>
-<p>Patio at 11am: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1100-patio.jpg" >
-
-<img src="1100-patio.jpg" alt="Patio at 11am" >
-</a>
-
-</figure>
-</p>
-</div>
-<div id="pm" class="section level2">
-<h2>12pm</h2>
-<p>Gravel at 12pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1200-gravel.jpg" >
-
-<img src="1200-gravel.jpg" alt="Gravel at 12pm" >
-</a>
-
-</figure>
-</p>
-<p>Patio at 12pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1200-patio.jpg" >
-
-<img src="1200-patio.jpg" alt="Patio at 12pm" >
-</a>
-
-</figure>
-</p>
-</div>
-<div id="pm-1" class="section level2">
-<h2>1pm</h2>
-<p>Gravel at 1pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1300-gravel.jpg" >
-
-<img src="1300-gravel.jpg" alt="Gravel at 1pm" >
-</a>
-
-</figure>
-</p>
-<p>Patio at 1pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1300-patio.jpg" >
-
-<img src="1300-patio.jpg" alt="Patio at 1pm" >
-</a>
-
-</figure>
-</p>
-</div>
-<div id="pm-2" class="section level2">
-<h2>2:30pm</h2>
-<p>Gravel at 2:30pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1430-gravel.jpg" >
-
-<img src="1430-gravel.jpg" alt="Gravel at 2:30pm" >
-</a>
-
-</figure>
-</p>
-<p>Patio at 2:30pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1430-patio.jpg" >
-
-<img src="1430-patio.jpg" alt="Patio at 2:30pm" >
-</a>
-
-</figure>
-</p>
-</div>
-<div id="pm-3" class="section level2">
-<h2>3:30pm</h2>
-<p>Gravel at 3:30pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1530-gravel.jpg" >
-
-<img src="1530-gravel.jpg" alt="Gravel at 3:30pm" >
-</a>
-
-</figure>
-</p>
-<p>Patio at 3:30pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1530-patio.jpg" >
-
-<img src="1530-patio.jpg" alt="Patio at 3:30pm" >
-</a>
-
-</figure>
-</p>
-</div>
-<div id="pm-4" class="section level2">
-<h2>7:30pm</h2>
-<p>Just so you can see how quickly it cools down after the sun stops beating down on it.</p>
-<p>Patio at 7:30pm: 
-
-
-
-
-
-<figure>
-
-  <a data-fancybox="" href="1930-patio.jpg" >
-
-<img src="1930-patio.jpg" alt="Patio at 7:30pm" >
-</a>
-
-</figure>
-</p>
-</div>
-<div class="footnotes">
-<hr />
-<ol>
-<li id="fn1"><p><a href="https://www.wunderground.com/history/daily/KTUS/date/2018-7-23" class="uri">https://www.wunderground.com/history/daily/KTUS/date/2018-7-23</a><a href="#fnref1" class="footnote-back">↩︎</a></p></li>
-<li id="fn2"><p><a href="https://thenewprofessor.com/005" class="uri">https://thenewprofessor.com/005</a><a href="#fnref2" class="footnote-back">↩︎</a></p></li>
-<li id="fn3"><p><a href="http://burncentrecare.co.uk/what_can_cause_a_burn.htm" class="uri">http://burncentrecare.co.uk/what_can_cause_a_burn.htm</a><a href="#fnref3" class="footnote-back">↩︎</a></p></li>
-<li id="fn4"><p><a href="https://whatscookingamerica.net/Information/MeatTemperatureChart.htm" class="uri">https://whatscookingamerica.net/Information/MeatTemperatureChart.htm</a><a href="#fnref4" class="footnote-back">↩︎</a></p></li>
-</ol>
-</div>
-
-    </div>
-
-    
-
-
-    
-
-<div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/dogs/">dogs</a>
   
-  <a class="badge badge-light" href="/tags/the-new-professor/">the new professor</a>
-  
-  <a class="badge badge-light" href="/tags/summer/">summer</a>
-  
-</div>
-
-
-
+  <div class="media author-card content-widget-hr">
     
       
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-    
-      
-      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q70_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q70_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
+      <h5 class="card-title"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
       <h6 class="card-subtitle">Assistant Professor of Educational Technology</h6>
-      <p class="card-text" itemprop="description">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan&rsquo;s academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
+      <p class="card-text">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
       <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="/#contact" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://twitter.com/ryanstraight" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?hl=en&amp;user=7y4X8jgAAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://github.com/ryanstraight" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-      </ul>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/ryanstraight" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=7y4X8jgAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ryanstraight" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
     </div>
   </div>
 
 
 
-      
-      
-      <div class="article-widget">
-        <div class="hr-light"></div>
-        <h3>Related</h3>
-        <ul>
-          
-          <li><a href="/2017/05/21/the-new-professor-an-experiment-in-podcasting/">The New Professor: An Experiment in Podcasting</a></li>
-          
-        </ul>
-      </div>
-      
-    
 
-    
 
-    
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/2017/05/21/the-new-professor-an-experiment-in-podcasting/">The New Professor: An Experiment in Podcasting</a></li>
+      
+    </ul>
+  </div>
+  
+
 
 
   </div>
@@ -991,45 +1171,45 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js" integrity="sha256-0w92bcB21IY5+rGI84MGj52jNfHNbXVeQLrZ0CGdjNY=" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
     
 
+    
+    
+    
+    
     
     
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -1083,7 +1263,7 @@
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
 
     
 
@@ -1093,13 +1273,14 @@
 
 
   
+  
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
 
-    &copy;2019 Ryan Straight&nbsp;&nbsp;&middot;&nbsp;
+    ©2019 Ryan Straight&nbsp;&nbsp;&middot;&nbsp;
     <a href="https://ryanstraight.com/license/" rel="noopener">License</a>
     &nbsp;&middot;&nbsp;
     Powered by the

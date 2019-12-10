@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -38,8 +38,6 @@ To put it simply, we have a lot of stuff in our heads.">
 
 
   
-
-  
   
   
   <meta name="theme-color" content="#650b14">
@@ -51,8 +49,8 @@ To put it simply, we have a lot of stuff in our heads.">
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -62,13 +60,15 @@ To put it simply, we have a lot of stuff in our heads.">
     
       
       
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atom-one-light.min.css" crossorigin="anonymous" title="hl-light">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/atom-one-light.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -77,35 +77,64 @@ To put it simply, we have a lot of stuff in our heads.">
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.7fa754c4d5c572261f4276b1706eaf63.css">
-
   
-    
-    
-    
-    
-      
-    
-    
-    
-    <link rel="stylesheet" href="/css/academic.dd2749afe2dcfb873616b2a1de5c963c.css">
-  
-
-  
-  
-  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123447651-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-123447651-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
-  <link rel="icon" type="image/png" href="/img/icon.png">
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://ryanstraight.com/2018/11/02/finding-order-in-chaos/">
@@ -134,6 +163,62 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
     
     <meta property="article:modified_time" content="2018-11-02T16:44:29-07:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ryanstraight.com/2018/11/02/finding-order-in-chaos/"
+  },
+  "headline": "Finding Order in Chaos",
+  
+  "image": [
+    "https://ryanstraight.com/2018/11/02/finding-order-in-chaos/featured.png"
+  ],
+  
+  "datePublished": "2018-11-02T00:00:00Z",
+  "dateModified": "2018-11-02T16:44:29-07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Ryan Straight"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "ryan straight, ph.d",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ryanstraight.com/img/icon-512.png"
+    }
+  },
+  "description": "I don’t want to say I’m the typical professor (heck, I have an entire podcast devoted to exploring just what the heck that means) but I certainly do occasionally resemble the clichéd absent-minded professor. Remember: good thoughts are clear thoughts and that’s much harder than it sounds when your job is to think about so much, so often, for so long.\nTo put it simply, we have a lot of stuff in our heads."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -183,24 +268,35 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
 
 
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
+    <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">ryan straight, ph.d</a>
-      
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span><i class="fas fa-bars"></i></span>
-      </button>
-      
+    </div>
+    
 
     
-    <div class="collapse navbar-collapse" id="navbar">
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">ryan straight, ph.d</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
-      
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav d-md-inline-flex">
         
 
         
@@ -397,29 +493,31 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
       
 
         
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-
-        
-
-        
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
-
       </ul>
-
     </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item">
+        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+    </ul>
+
   </div>
 </nav>
 
 
-  <article class="article" itemscope itemtype="http://schema.org/Article">
+  <article class="article">
 
   
 
@@ -449,16 +547,12 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">Finding Order in Chaos</h1>
+  <h1>Finding Order in Chaos</h1>
 
   
 
   
 
-
-
-<meta content="2018-11-02 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-11-02 16:44:29 -0700 MST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -473,7 +567,7 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
           Last updated on
       
     
-    <time>Nov 2, 2018</time>
+    Nov 2, 2018
   </span>
   
 
@@ -497,8 +591,72 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
     <i class="fas fa-folder mr-1"></i><a href="/categories/professional/">Professional</a></span>
   
 
+</div>
+
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 225px;">
+  <div style="position: relative">
+    <img src="/2018/11/02/finding-order-in-chaos/featured_huc7ee6e56a9ab90cee5ca5ac5643ca78a_547902_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <span class="article-header-caption"><a href="https://unsplash.com/photos/BW0vK-FA3eg">Photo by Clint Adair on Unsplash</a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+
+<p>I don’t want to say I’m the <em>typical</em> professor (heck, I have <a href="https://thenewprofessor.com">an entire podcast devoted to exploring just what the heck that means</a>) but I certainly do occasionally resemble the clichéd <em>absent-minded professor</em>. Remember: good thoughts are clear thoughts and that’s much harder than it sounds when your job is to think about so much, so often, for so long.</p>
+<p>To put it simply, we have a lot of stuff in our heads. In my experience, one of the most difficult and daunting aspects of working in a primarily intellectual field is nothing more than the organization of thoughts and ideas. We’re confronted with new ideas, questions, corrections, updates, improvements, alterations, and retractions nearly every day as we learn more and more about virtually everything. So the question becomes: if we’re not superhuman, how do we keep track?</p>
+<p>I suppose you could make it your priority to spend the entirety of your time and energy on memorizing the minutiae of everything but, let’s face it, we’re not all cut out for that kind of perfect recall. I, for one, need to keep notes or I just <em>forget</em>. Maybe you’re the same. But then the question becomes: where do you keep them? How do you organize them? How much do you automate and how much do you update? Whether it’s your reading notes on one particular scholar’s <em>ouvre</em> or a little reminder to add a particular resource to an assignment for a class, we (normally) can’t just keep all that in our heads. I know some people, like the prolific Raul Pacheco-Vega, that use physical bucket-style collections (in his case, the “Everything Notebook”). Others create hundreds or thousands of Google Documents or giant Scrivener projects. The important part is that it works <em>for them</em>.</p>
+<p>It took me a very, very long time to figure out a system that a) is sustainable, b) I’ll actually use, and c) is designed in a way that mirrors (or at least generally reflects) the way my thought processes work. I tried virtually every organizational paradigm out there, from the Evernote-style bucket to physical notebooks (and, I have to say, I’m devastated that physical notebooks don’t do it for me because I <em>love</em> them and own many, many blank ones). What I discovered is, beyond all that, that I love creating systems. What I love less than that is <em>maintaining</em> them. So, my job became to find a system that I felt like I was creating <em>all the time</em>, something malleable, something always growing and improving, and something within which I could automate the more mundane tasks.</p>
+<p>If you’ve listened to <a href="https://thenewprofessor.com/019/">episode 19 of The New Professor</a>, you already know what I’m going to say next: for me, even though it may sound like a lot of work, the best environment to off-load information and ideas is a <strong><a href="https://www.semantic-mediawiki.org/">Semantic MediaWiki</a></strong>. If you want to know exactly how I do that or what it looks like… you’ll have to wait on another post. (I’ve been keeping the wiki for nearly a decade and created a three-part series on how to set one up back in, probably, 2009 but that’s <em>long</em> gone.)</p>
+<p>So watch for those posts. Hopefully they can be of help to you. (Whenever they get here.)</p>
+
+    </div>
+
     
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/reflection/">reflection</a>
+  
+  <a class="badge badge-light" href="/tags/teaching/">teaching</a>
+  
+  <a class="badge badge-light" href="/tags/chaos/">chaos</a>
+  
+  <a class="badge badge-light" href="/tags/organization/">organization</a>
+  
+  <a class="badge badge-light" href="/tags/semantic-annotation/">semantic annotation</a>
+  
+  <a class="badge badge-light" href="/tags/mediawiki/">mediawiki</a>
+  
+</div>
+
+
+
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
@@ -524,7 +682,7 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
       
       <li>
         <a href="https://www.facebook.com/sharer.php?u=https://ryanstraight.com/2018/11/02/finding-order-in-chaos/&amp;t=Finding%20Order%20in%20Chaos" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
+          <i class="fab fa-facebook"></i>
         </a>
       </li>
     
@@ -584,202 +742,136 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
 </div>
 
 
+
+
+
+
+
+
+
+
+
+
   
 
-</div>
+
+
+
+
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 225px;">
-  <div style="position: relative">
-    <img src="/2018/11/02/finding-order-in-chaos/featured_huc7ee6e56a9ab90cee5ca5ac5643ca78a_547902_720x0_resize_lanczos_2.png" alt="" class="featured-image">
-    <span class="article-header-caption"><a href="https://unsplash.com/photos/BW0vK-FA3eg" target="_blank">Photo by Clint Adair on Unsplash</a></span>
-  </div>
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style" itemprop="articleBody">
-      
-
-
-<p>I don’t want to say I’m the <em>typical</em> professor (heck, I have <a href="https://thenewprofessor.com">an entire podcast devoted to exploring just what the heck that means</a>) but I certainly do occasionally resemble the clichéd <em>absent-minded professor</em>. Remember: good thoughts are clear thoughts and that’s much harder than it sounds when your job is to think about so much, so often, for so long.</p>
-<p>To put it simply, we have a lot of stuff in our heads. In my experience, one of the most difficult and daunting aspects of working in a primarily intellectual field is nothing more than the organization of thoughts and ideas. We’re confronted with new ideas, questions, corrections, updates, improvements, alterations, and retractions nearly every day as we learn more and more about virtually everything. So the question becomes: if we’re not superhuman, how do we keep track?</p>
-<p>I suppose you could make it your priority to spend the entirety of your time and energy on memorizing the minutiae of everything but, let’s face it, we’re not all cut out for that kind of perfect recall. I, for one, need to keep notes or I just <em>forget</em>. Maybe you’re the same. But then the question becomes: where do you keep them? How do you organize them? How much do you automate and how much do you update? Whether it’s your reading notes on one particular scholar’s <em>ouvre</em> or a little reminder to add a particular resource to an assignment for a class, we (normally) can’t just keep all that in our heads. I know some people, like the prolific Raul Pacheco-Vega, that use physical bucket-style collections (in his case, the “Everything Notebook”). Others create hundreds or thousands of Google Documents or giant Scrivener projects. The important part is that it works <em>for them</em>.</p>
-<p>It took me a very, very long time to figure out a system that a) is sustainable, b) I’ll actually use, and c) is designed in a way that mirrors (or at least generally reflects) the way my thought processes work. I tried virtually every organizational paradigm out there, from the Evernote-style bucket to physical notebooks (and, I have to say, I’m devastated that physical notebooks don’t do it for me because I <em>love</em> them and own many, many blank ones). What I discovered is, beyond all that, that I love creating systems. What I love less than that is <em>maintaining</em> them. So, my job became to find a system that I felt like I was creating <em>all the time</em>, something malleable, something always growing and improving, and something within which I could automate the more mundane tasks.</p>
-<p>If you’ve listened to <a href="https://thenewprofessor.com/019/">episode 19 of The New Professor</a>, you already know what I’m going to say next: for me, even though it may sound like a lot of work, the best environment to off-load information and ideas is a <strong><a href="https://www.semantic-mediawiki.org/">Semantic MediaWiki</a></strong>. If you want to know exactly how I do that or what it looks like… you’ll have to wait on another post. (I’ve been keeping the wiki for nearly a decade and created a three-part series on how to set one up back in, probably, 2009 but that’s <em>long</em> gone.)</p>
-<p>So watch for those posts. Hopefully they can be of help to you. (Whenever they get here.)</p>
-
-    </div>
-
+  
+  
     
-
-
-    
-
-<div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/reflection/">reflection</a>
   
-  <a class="badge badge-light" href="/tags/teaching/">teaching</a>
-  
-  <a class="badge badge-light" href="/tags/chaos/">chaos</a>
-  
-  <a class="badge badge-light" href="/tags/organization/">organization</a>
-  
-  <a class="badge badge-light" href="/tags/semantic-annotation/">semantic annotation</a>
-  
-  <a class="badge badge-light" href="/tags/mediawiki/">mediawiki</a>
-  
-</div>
-
-
-
+  <div class="media author-card content-widget-hr">
     
       
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
-    
-      
-      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q70_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q70_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
+      <h5 class="card-title"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
       <h6 class="card-subtitle">Assistant Professor of Educational Technology</h6>
-      <p class="card-text" itemprop="description">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan&rsquo;s academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
+      <p class="card-text">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
       <ul class="network-icon" aria-hidden="true">
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="/#contact" >
-              <i class="fas fa-envelope"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://twitter.com/ryanstraight" target="_blank" rel="noopener">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://scholar.google.com/citations?hl=en&amp;user=7y4X8jgAAAAJ" target="_blank" rel="noopener">
-              <i class="ai ai-google-scholar"></i>
-            </a>
-          </li>
-        
-          
-          
-          
-            
-          
-          
-          
-          
-          
-            
-          
-          <li>
-            <a itemprop="sameAs" href="https://github.com/ryanstraight" target="_blank" rel="noopener">
-              <i class="fab fa-github"></i>
-            </a>
-          </li>
-        
-      </ul>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/ryanstraight" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=7y4X8jgAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/ryanstraight" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
     </div>
   </div>
 
 
 
-      
-      
-      <div class="article-widget">
-        <div class="hr-light"></div>
-        <h3>Related</h3>
-        <ul>
-          
-          <li><a href="/2018/10/16/9x9x25-challenge-the-harshest-mirror/">9x9x25 Challenge: The Harshest Mirror</a></li>
-          
-          <li><a href="/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/">9x9x25 Challenge: An Introduction and a Plan</a></li>
-          
-          <li><a href="/2017/03/01/on-expertise-and-being-out-there/">On Expertise and Being &#39;Out There&#39;</a></li>
-          
-        </ul>
-      </div>
-      
-    
 
-    
 
-    
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/2018/10/16/9x9x25-challenge-the-harshest-mirror/">9x9x25 Challenge: The Harshest Mirror</a></li>
+      
+      <li><a href="/2018/10/02/9x9x25-challenge-an-introduction-and-a-plan/">9x9x25 Challenge: An Introduction and a Plan</a></li>
+      
+      <li><a href="/2017/03/01/on-expertise-and-being-out-there/">On Expertise and Being &#39;Out There&#39;</a></li>
+      
+    </ul>
+  </div>
+  
+
 
 
   </div>
@@ -799,45 +891,45 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js" integrity="sha256-0w92bcB21IY5+rGI84MGj52jNfHNbXVeQLrZ0CGdjNY=" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
     
-    <script>hljs.initHighlightingOnLoad();</script>
+    <script>const code_highlighting = true;</script>
     
 
+    
+    
+    
+    
     
     
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -891,7 +983,7 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
     
     
     
-    <script src="/js/academic.min.4e51017b38c7ebaadd7e25fc9503f88c.js"></script>
+    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
 
     
 
@@ -901,13 +993,14 @@ To put it simply, we have a lot of stuff in our heads."><meta property="og:image
 
 
   
+  
   <div class="container">
     <footer class="site-footer">
   
 
   <p class="powered-by">
 
-    &copy;2019 Ryan Straight&nbsp;&nbsp;&middot;&nbsp;
+    ©2019 Ryan Straight&nbsp;&nbsp;&middot;&nbsp;
     <a href="https://ryanstraight.com/license/" rel="noopener">License</a>
     &nbsp;&middot;&nbsp;
     Powered by the

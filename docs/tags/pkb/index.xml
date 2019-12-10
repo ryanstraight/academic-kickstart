@@ -5,7 +5,7 @@
     <link>https://ryanstraight.com/tags/pkb/</link>
       <atom:link href="https://ryanstraight.com/tags/pkb/index.xml" rel="self" type="application/rss+xml" />
     <description>pkb</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/img/icon-192.png</url>
       <title>pkb</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Building a MediaWiki Personal Knowledge Base, 2019 Style</title>
-      <link>https://ryanstraight.com/2019/08/08/pkb/</link>
+      <link>https://ryanstraight.com/post/pkb/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://ryanstraight.com/2019/08/08/pkb/</guid>
+      <guid>https://ryanstraight.com/post/pkb/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;

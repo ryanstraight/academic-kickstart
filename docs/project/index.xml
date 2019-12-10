@@ -5,7 +5,7 @@
     <link>https://ryanstraight.com/project/</link>
       <atom:link href="https://ryanstraight.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Ryan Straight</copyright><lastBuildDate>Fri, 24 Aug 2018 09:47:44 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Aug 2018 09:47:44 -0700</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/img/icon-192.png</url>
       <title>Projects</title>
@@ -17,13 +17,11 @@
       <link>https://ryanstraight.com/project/read-watch-woof/</link>
       <pubDate>Fri, 24 Aug 2018 09:47:44 -0700</pubDate>
       <guid>https://ryanstraight.com/project/read-watch-woof/</guid>
-      <description>&lt;p&gt;I have a newsletter: &lt;strong&gt;Read, Watch, Woof&lt;/strong&gt;! RWW goes out Fridays on TNP off-weeks. It consists, as you may have gathered from the title, a little bit of personal-ish writing by me (also featured here), an interesting and entertaining video to watch, and a picture of one (or more) of our dogs. Enjoy! (And don&amp;rsquo;t worry, I won&amp;rsquo;t give away your email address or spam you. Promise.)
+      <description>&lt;p&gt;I have a newsletter: &lt;strong&gt;Read, Watch, Woof&lt;/strong&gt;! RWW goes out Fridays on TNP off-weeks. It consists, as you may have gathered from the title, a little bit of personal-ish writing by me (also featured here), an interesting and entertaining video to watch, and a picture of one (or more) of our dogs. Enjoy! (And don&#39;t worry, I won&#39;t give away your email address or spam you. Promise.)
 &lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;form style=&#34;border:1px solid #ccc;padding:3px;text-align:center;&#34; action=&#34;https://tinyletter.com/ryanstraight&#34; method=&#34;post&#34; target=&#34;popupwindow&#34; onsubmit=&#34;window.open(&#39;https://tinyletter.com/ryanstraight&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=800,height=600&#39;);return true&#34;&gt;&lt;p&gt;&lt;label for=&#34;tlemail&#34;&gt;Enter your email address&lt;/label&gt;&lt;/p&gt;&lt;p&gt;&lt;input type=&#34;text&#34; style=&#34;width:140px&#34; name=&#34;email&#34; id=&#34;tlemail&#34; /&gt;&lt;/p&gt;&lt;input type=&#34;hidden&#34; value=&#34;1&#34; name=&#34;embed&#34;/&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; /&gt;&lt;p&gt;&lt;a href=&#34;https://tinyletter.com&#34; target=&#34;_blank&#34;&gt;powered by TinyLetter&lt;/a&gt;&lt;/p&gt;&lt;/form&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;form style=&#34;border:1px solid #ccc;padding:3px;text-align:center;&#34; action=&#34;https://tinyletter.com/ryanstraight&#34; method=&#34;post&#34; target=&#34;popupwindow&#34; onsubmit=&#34;window.open(&#39;https://tinyletter.com/ryanstraight&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=800,height=600&#39;);return true&#34;&gt;&lt;p&gt;&lt;label for=&#34;tlemail&#34;&gt;Enter your email address&lt;/label&gt;&lt;/p&gt;&lt;p&gt;&lt;input type=&#34;text&#34; style=&#34;width:140px&#34; name=&#34;email&#34; id=&#34;tlemail&#34; /&gt;&lt;/p&gt;&lt;input type=&#34;hidden&#34; value=&#34;1&#34; name=&#34;embed&#34;/&gt;&lt;input type=&#34;submit&#34; value=&#34;Subscribe&#34; /&gt;&lt;p&gt;&lt;a href=&#34;https://tinyletter.com&#34; target=&#34;_blank&#34;&gt;powered by TinyLetter&lt;/a&gt;&lt;/p&gt;&lt;/form&gt;
 </description>
     </item>
     
@@ -33,8 +31,7 @@
       <pubDate>Sun, 05 Aug 2018 09:47:44 -0700</pubDate>
       <guid>https://ryanstraight.com/project/squad-goals-network-project/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Squad Goals Network&lt;/strong&gt; is a collection of like-minded teachers, designers, and researchers that get together to gab, think of innovative ways to bring technology and collaboration into higher education and K-12, and just generally have a good time. We try to uphold and demonstrate our principles through support and collaborative work.&lt;/p&gt;
-
-&lt;p&gt;Visit the &lt;a href=&#34;https://squadgoalsnetwork.com&#34; target=&#34;_blank&#34;&gt;Squad Goals Network&lt;/a&gt; to learn more.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://squadgoalsnetwork.com&#34;&gt;Squad Goals Network&lt;/a&gt; to learn more.&lt;/p&gt;
 </description>
     </item>
     
