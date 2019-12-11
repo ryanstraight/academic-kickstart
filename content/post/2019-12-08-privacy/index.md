@@ -36,7 +36,6 @@ That's fairly striking, I know.
 
 So, here it is: my "So You Want To Be Safer In 2020" post! I'll preface it with this: this is _my_ opinion based on the products and services I know. Does it mean this is 100% the best way to go about it or there aren't potentially better options out there? Not at all. But if you want to hear firsthand experience, you've come to the right spot.
 
-{{% toc %}}
 
 ## What do you mean, "low-hanging fruit?"
 
