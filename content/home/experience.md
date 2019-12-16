@@ -20,11 +20,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = "University of Arizona"
-  company_url = "https://arizona.edu"
+  company_url = "https://azcast.arizona.edu"
   location = "Arizona"
-  date_start = "2017-05-12"
+  date_start = "2017-06-01"
   date_end = ""
-  description = """Educational Technology, University of Arizona, South. May 2017 - present\\
+  description = """Educational Technology, University of Arizona's College of Applied Science and Technology (CAST). May 2017 - present\\
+Faculty Forum President, CAST, 2019-2020 and 2020-2021 academic years\\
 Co-Program Director, Educational Technology. August 2018 - present\\
 Program Director, Informatics - Digital Design. August 2018 - present
 
@@ -36,7 +37,7 @@ Program Director, Informatics - Digital Design. August 2018 - present
   company_url = "https://arizona.edu"
   location = "Arizona"
   date_start = "2015-01-01"
-  date_end = "2017-05-11"
+  date_end = "2017-05-31"
   description = """Educational Technology, University of Arizona, South - January 2015 - May 2017\\
 Co-Program Director, Educational Technology. January 2015 - August 2015
 
