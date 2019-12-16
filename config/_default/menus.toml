@@ -8,67 +8,40 @@
   url = "#about"
   weight = 10
 
-#[[main]]
-#  name = "Courses"
-#  identifier = "courses"
-#  url = "/courses"
-#  weight = 20
-#
-#[[main]]
-#  parent = "courses"
-#  name = "All"
-#  url = "/courses"
-#  weight = 10
-#
-#[[main]]
-#  parent = "courses"
-#  name = "302 - Statistics in the Information Age"
-#  url = "/courses/302"
-#  weight = 20
-#
-#[[main]]
-#  parent = "courses"
-#  name = "401 - Intro to Human-Computer Interaction (7.5 weeks)"
-#  url = "/courses/401"
-#  weight = 30
-#
-#[[main]]
-#  parent = "courses"
-#  name = "401 - Intro to Human-Computer Interaction (full semester)"
-#  url = "/courses/401-full"
-#  weight = 40
-#
-#[[main]]
-#  parent = "courses"
-#  name = "405 - Intro to Game Design"
-#  url = "/courses/405"
-#  weight = 40
-
-#[[main]]
-#  parent = "courses"
-#  name = "406 - Intro to Game Development"
-#  url = "/courses/406"
-#  weight = 50
-
 [[main]]
   name = "Posts"
   url = "#posts"
   weight = 30
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
-
-[[main]]
   name = "Publications"
   url = "#publications"
+  weight = 40
+
+  [[main]]
+  name = "Awards"
+  url = "#accomplishments"
+  weight = 45
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
   weight = 50
+
+  [[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 55
 
 [[main]]
   name = "Newsletter"
   url = "/newsletter"
-  weight = 50
+  weight = 60
+
+[[main]]
+  name = "Podcast"
+  url = "https://thenewprofessor.com/"
+  weight = 65
 
 [[main]]
   name = "Contact"
