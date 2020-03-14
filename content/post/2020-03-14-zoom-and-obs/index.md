@@ -8,17 +8,17 @@ tags:
   - zoom
   - 'remote work'
   - covid-19
-subtitle: 'A Brief Guide'
+subtitle: "A Beginner's Guide"
 summary: "So you're suddenly working from home and Zooming into all your meetings. Here's how to spice up your presence a bit without virtual backgrounds."
 authors:
   - ryan
 lastmod: '2020-03-14T08:00:00-07:00'
 featured: no
 image:
-  caption: 'Via [Unsplash](https://unsplash.com/photos/UK1N66KUkMk)'
-  focal_point: bottom
+  caption: ''
+  focal_point: center
   preview_only: no
-  placement: 0
+  placement: 2
 projects: []
 output:
   blogdown::html_page:
@@ -26,7 +26,9 @@ output:
     toc_depth: 2
 ---
 
-Seems like everybody I know is now working remotely due to the virtual worldwide lockdown in the face of the COVID-19 pandemic. Lots of folks that have little to no experience with it. And that's okay! We're all in this together. At this point, simple ettiquite and knowing how to mute your microphone should be considered passable skills. That said, if you _are_ comfortable with working remotely and want to do something a bit more interesting than just, "Hey, look! I'm in a desert now!" well, this is for you.
+Seems like everybody I know is now working remotely due to the virtual worldwide lockdown in the face of the COVID-19 pandemic. Lots of folks that have little to no experience with it. And that's okay! We're all in this together. At this point, simple ettiquite and knowing how to mute your microphone should be considered passable skills. I shared a couple Twitter threads about teaching online but wanted to do something more tutorial-ish.
+
+So, if you _are_ comfortable with working remotely and want to do something a bit more interesting than just, "Hey, look! I'm in a desert now!" well, this is for you.
 
 ![Travolta in front of a green screen](https://media.giphy.com/media/20k1punZ5bpmM/source.gif)
 

@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "8181 E. Irvington Rd., O1-151", city = "Tucson", region = "AZ", postcode = "85730", country = "United States", country_code = "US"}
+address = {street = "8181 E. Irvington Rd., O1-151", city = "Tucson", region = "AZ", postcode = "85709", country = "United States", country_code = "US"}
 
 
 # Geographic coordinates
