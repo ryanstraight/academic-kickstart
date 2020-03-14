@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -45,10 +45,16 @@
   
   
   
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -60,8 +66,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -70,6 +76,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -100,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -135,11 +255,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://ryanstraight.com/">
 
+  
   
   
   
@@ -156,10 +277,10 @@
   <meta property="og:site_name" content="ryan straight, ph.d">
   <meta property="og:url" content="https://ryanstraight.com/">
   <meta property="og:title" content="ryan straight, ph.d">
-  <meta property="og:description" content="Homepage of Dr. Ryan Straight, Assistant Professor at the University of Arizona"><meta property="og:image" content="https://ryanstraight.com/img/icon-192.png">
-  <meta property="twitter:image" content="https://ryanstraight.com/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Homepage of Dr. Ryan Straight, Assistant Professor at the University of Arizona"><meta property="og:image" content="https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-12-08T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2018-06-28T00:00:00&#43;00:00">
   
 
   
@@ -229,6 +350,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -717,13 +844,14 @@
 
 
 
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar avatar-circle" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
@@ -817,7 +945,7 @@
     <h1>Biography</h1>
 
     <p>Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.</p>
-<p>Here you will find a variety: travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.</p>
+<p>Here you will find a variety: travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan&rsquo;s academic research.</p>
 <p>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
 
 
@@ -960,7 +1088,7 @@
                 <span>Arizona</span>
               
             </div>
-            <div class="card-text">Educational Technology, University of Arizona's College of Applied Science and Technology (CAST). May 2017 - present<br>
+            <div class="card-text">Educational Technology, University of Arizona&rsquo;s College of Applied Science and Technology (CAST). May 2017 - present<br>
 Faculty Forum President, CAST, 2019-2020 and 2020-2021 academic years<br>
 Co-Program Director, Educational Technology. August 2018 - present<br>
 Program Director, Informatics - Digital Design. August 2018 - present</div>
@@ -1116,6 +1244,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
 
 
+
   
 
 
@@ -1156,12 +1285,12 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/privacy/" >Picking the Low-Hanging Fruit of Privacy and Security</a>
+      <a href="/post/zoom-and-obs/" >Spicing Up Your Remote Work with Zoom and OBS</a>
     </h3>
 
     
     <div class="article-style">
-      Here are my five changes you can make in your online existence that are both relatively easy to make and provide tremendous bang for …
+      So you&rsquo;re suddenly working from home and Zooming into all your meetings. Here&rsquo;s how to spice up your presence a bit without virtual backgrounds.
     </div>
     
 
@@ -1182,11 +1311,114 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   <div>
     
 
+  
+  <span>Ryan Straight</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Mar 14, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/professional/">Professional</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/post/zoom-and-obs/" >
+      <img src="/post/zoom-and-obs/featured_huc3651af754f27ae48951b15895d1cd4a_8885450_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
 
 
   
-  <span>Ryan Straight</span>
 
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/privacy/" >Picking the Low-Hanging Fruit of Privacy and Security</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Here are my five changes you can make in your online existence that are both relatively easy to make and provide tremendous bang for your buck.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span>Ryan Straight</span>
   </div>
   
   
@@ -1270,7 +1502,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
     
     <div class="article-style">
-      It'd be impossible to keep everything we need to know in one brain and stay sane. Here's how I maintain my own personal knowledge base.
+      It&rsquo;d be impossible to keep everything we need to know in one brain and stay sane. Here&rsquo;s how I maintain my own personal knowledge base.
     </div>
     
 
@@ -1291,11 +1523,8 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   <div>
     
 
-
-
   
   <span>Ryan Straight</span>
-
   </div>
   
   
@@ -1379,7 +1608,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
     
     <div class="article-style">
-      OLC has been around for 25 years. Here's what I was doing back then.
+      OLC has been around for 25 years. Here&rsquo;s what I was doing back then.
     </div>
     
 
@@ -1400,11 +1629,8 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   <div>
     
 
-
-
   
   <span>Ryan Straight</span>
-
   </div>
   
   
@@ -1488,7 +1714,8 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
     
     <div class="article-style">
-      I don’t want to say I’m the typical professor (heck, I have an entire podcast devoted to exploring just what the heck that means) but I …
+      I don’t want to say I’m the typical professor (heck, I have an entire podcast devoted to exploring just what the heck that means) but I certainly do occasionally resemble the clichéd absent-minded professor. Remember: good thoughts are clear thoughts and that’s much harder than it sounds when your job is to think about so much, so often, for so long.
+To put it simply, we have a lot of stuff in our heads.
     </div>
     
 
@@ -1551,102 +1778,6 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
     
     <a href="/post/2018-11-02-finding-order-in-chaos/" >
       <img src="/post/2018-11-02-finding-order-in-chaos/featured_huc7ee6e56a9ab90cee5ca5ac5643ca78a_547902_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2018-11-01-october-squad-ghouls-network-take-over-postmortem/" >October Squad Ghouls Network Take-Over: Postmortem</a>
-    </h3>
-
-    
-    <div class="article-style">
-      I was #SquadGoalsNetwork for a month. Let's look at how it went.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-          Last updated on
-      
-    
-    Nov 1, 2018
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/professional/">Professional</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/post/2018-11-01-october-squad-ghouls-network-take-over-postmortem/" >
-      <img src="/post/2018-11-01-october-squad-ghouls-network-take-over-postmortem/featured_hu3e00a7fed51ea5331572889e97cd132c_92998_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -1735,6 +1866,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
 
 
+
   
 
 
@@ -1766,10 +1898,6 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
 
 
-
-
-
-  
   
 
 
@@ -1779,39 +1907,81 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   
 
 
-<div class="media stream-item">
-  <div class="media-body">
+<div class="card-simple">
 
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/2011-03-07-commercial-off-the-shelf-video-games/" >Commercial Off-The-Shelf Video Games as Computer-Assisted Language Learning Environments</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Computer-Assisted Language Learning can be facilitated to a great degree using commercial off-the-shelf video games. This paper …
-    </div>
+  
     
 
-    <div class="stream-meta article-metadata">
 
-      
+<div class="article-metadata">
 
-      
-      <div>
-        
-
-
+  
+  
+  
+  
+  <div>
+    
 
   
   <span>Ryan Straight</span>
+  </div>
+  
+  
 
-      </div>
-      
-    </div>
-
+  
+  <span class="article-date">
     
-    <div class="btn-links">
+    
       
+    
+    July 2013
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>AACE: SITE</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/2011-03-07-commercial-off-the-shelf-video-games/">
+      <img src="/publication/2011-03-07-commercial-off-the-shelf-video-games/featured_hua026b548c77d412422a763d426f72e3b_60938_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/2011-03-07-commercial-off-the-shelf-video-games/">Commercial Off-The-Shelf Video Games as Computer-Assisted Language Learning Environments</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>Computer-Assisted Language Learning can be facilitated to a great degree using commercial off-the-shelf video games. This paper attempts to explore the nature of CALL, the pedagogic qualities of video games and how the two intersect to produce useful CALL environments. Also considered are aspects of fun, what causes second language acquisition students to respond to one form of CALL over another, and concepts of ludus, paidea and narratology. An example, Heavy Rain, is offered as a potential commercial off-the-shelf game to use in second language acquisition at the university or adult-learning level.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
@@ -1862,19 +2032,9 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   </a>
 
 
-    </div>
-    
+  </div>
+  
 
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/2011-03-07-commercial-off-the-shelf-video-games/" >
-      <img src="/publication/2011-03-07-commercial-off-the-shelf-video-games/featured_hua026b548c77d412422a763d426f72e3b_60938_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
 </div>
 
       
@@ -1886,10 +2046,6 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
 
 
-
-
-
-  
   
 
 
@@ -1899,39 +2055,81 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   
 
 
-<div class="media stream-item">
-  <div class="media-body">
+<div class="card-simple">
 
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/" >The Development and Delivery of Custom Mobile Apps for K-12 Learning: Viable  Options for Educators</a>
-    </h3>
-
-    
-    <div class="article-style">
-      The advancements in mobile devices have great affordances for the field of education. Modern smartphones are powerful, portable, and …
-    </div>
+  
     
 
-    <div class="stream-meta article-metadata">
 
-      
+<div class="article-metadata">
 
-      
-      <div>
-        
-
-
+  
+  
+  
+  
+  <div>
+    
 
   
   <span>Ryan Straight</span>, <span>Jamie Smith</span>
+  </div>
+  
+  
 
-      </div>
-      
-    </div>
-
+  
+  <span class="article-date">
     
-    <div class="btn-links">
+    
       
+    
+    March 2011
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      In <em>AACE: SITE</em>
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/">
+      <img src="/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/featured_hu71b9f507162c7868f0787e561c51e3cf_96040_918x517_fill_q90_lanczos_smart1.jpg" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/">The Development and Delivery of Custom Mobile Apps for K-12 Learning: Viable  Options for Educators</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>The advancements in mobile devices have great affordances for the field of education. Modern smartphones are powerful, portable, and prevalent and can yield informative, engaging and empowering user experiences for students in classroom settings and beyond. This paper explores current trends and issues in the use of mobile devices for learning (mLearning) and presents a variety of viable options for developing and delivering custom content in the form of mobile applications. Relevant applications, services, and skill sets are discussed with a focus on specific capabilities. Resources are presented along a continuum of prerequisite technical skill with the intent to demonstrate to K-12 teachers the approachability of creating custom mobile applications for learning at any level of experience.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
 
 
 
@@ -1982,19 +2180,9 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   </a>
 
 
-    </div>
-    
+  </div>
+  
 
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/" >
-      <img src="/publication/2011-03-07-the-development-and-delivery-of-custom-mobile/featured_hu71b9f507162c7868f0787e561c51e3cf_96040_150x0_resize_q90_lanczos.jpg" alt="">
-    </a>
-    
-  </div>
 </div>
 
       
@@ -2195,7 +2383,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
       <h4><a href="/project/read-watch-woof/" >Read, Watch, Woof</a></h4>
       
       <div class="article-style">
-        <p>Ryan's bi-weekly newsletter (currently on hiatus).</p>
+        <p>Ryan&rsquo;s bi-weekly newsletter (currently on hiatus).</p>
       </div>
       
     </div>
@@ -2284,7 +2472,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
       <h4><a href="https://thenewprofessor.com" target="_blank" rel="noopener">The New Professor</a></h4>
       
       <div class="article-style">
-        <p>Ryan's bi-weekly newsletter (currently on hiatus).</p>
+        <p>Ryan&rsquo;s bi-weekly newsletter (currently on hiatus).</p>
       </div>
       
     </div>
@@ -2344,6 +2532,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
 
 
   
+
 
 
 
@@ -2574,28 +2763,19 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
       
       
       
+      
 
       <div class="tag-cloud">
         
           
           
           
-          <a href="/tags/365papers/" style="font-size:0.7rem">365papers</a>
+          <a href="/tags/9x9x25/" style="font-size:1.259879525495411rem">9x9x25</a>
         
           
           
           
-          <a href="/tags/9x9x25/" style="font-size:2rem">9x9x25</a>
-        
-          
-          
-          
-          <a href="/tags/aace/" style="font-size:2rem">AACE</a>
-        
-          
-          
-          
-          <a href="/tags/accountability/" style="font-size:0.7rem">accountability</a>
+          <a href="/tags/aace/" style="font-size:1.259879525495411rem">AACE</a>
         
           
           
@@ -2605,7 +2785,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
           
           
           
-          <a href="/tags/challenge/" style="font-size:2rem">challenge</a>
+          <a href="/tags/challenge/" style="font-size:1.259879525495411rem">challenge</a>
         
           
           
@@ -2625,57 +2805,67 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
           
           
           
-          <a href="/tags/conference/" style="font-size:2.7604512509375025rem">conference</a>
+          <a href="/tags/collaboration/" style="font-size:0.7rem">collaboration</a>
         
           
           
           
-          <a href="/tags/mediawiki/" style="font-size:2rem">mediawiki</a>
+          <a href="/tags/computer-assisted-language-learning/" style="font-size:0.7rem">computer assisted language learning</a>
         
           
           
           
-          <a href="/tags/new-orleans/" style="font-size:2rem">new orleans</a>
+          <a href="/tags/conference/" style="font-size:1.259879525495411rem">conference</a>
         
           
           
           
-          <a href="/tags/organization/" style="font-size:2rem">organization</a>
+          <a href="/tags/covid-19/" style="font-size:0.7rem">covid-19</a>
         
           
           
           
-          <a href="/tags/podcast/" style="font-size:2rem">podcast</a>
+          <a href="/tags/mediawiki/" style="font-size:1.259879525495411rem">mediawiki</a>
         
           
           
           
-          <a href="/tags/professional/" style="font-size:2rem">professional</a>
+          <a href="/tags/organization/" style="font-size:1.259879525495411rem">organization</a>
         
           
           
           
-          <a href="/tags/reflection/" style="font-size:3.3rem">reflection</a>
+          <a href="/tags/podcast/" style="font-size:1.259879525495411rem">podcast</a>
         
           
           
           
-          <a href="/tags/site/" style="font-size:2rem">SITE</a>
+          <a href="/tags/professional/" style="font-size:1.259879525495411rem">professional</a>
         
           
           
           
-          <a href="/tags/squad-goals-network/" style="font-size:3.3rem">squad goals network</a>
+          <a href="/tags/reflection/" style="font-size:1.819759050990822rem">reflection</a>
         
           
           
           
-          <a href="/tags/teaching/" style="font-size:3.3rem">teaching</a>
+          <a href="/tags/site/" style="font-size:1.259879525495411rem">SITE</a>
         
           
           
           
-          <a href="/tags/the-new-professor/" style="font-size:2.7604512509375025rem">the new professor</a>
+          <a href="/tags/squad-goals-network/" style="font-size:1.819759050990822rem">squad goals network</a>
+        
+          
+          
+          
+          <a href="/tags/teaching/" style="font-size:1.819759050990822rem">teaching</a>
+        
+          
+          
+          
+          <a href="/tags/the-new-professor/" style="font-size:1.587388052831781rem">the new professor</a>
         
       </div>
     
@@ -2852,33 +3042,23 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
     
     
     
-    <script src="/js/mathjax-config.js"></script>
-    
-
-    
-    
-    
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
-      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
     
 
     
@@ -2889,6 +3069,11 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
     
     
     <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -2953,7 +3138,7 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.c816d323c3a55093dae0829b44ea1ca8.js"></script>
 
     
 
@@ -2966,6 +3151,10 @@ Co-Program Director, Educational Technology. January 2015 - August 2015</div>
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    <a href="/tags/privacy/">privacy</a>
+  </p>
   
 
   <p class="powered-by">

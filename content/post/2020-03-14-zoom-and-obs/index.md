@@ -28,6 +28,8 @@ output:
 
 Seems like everybody I know is now working remotely due to the virtual worldwide lockdown in the face of the COVID-19 pandemic. Lots of folks that have little to no experience with it. And that's okay! We're all in this together. At this point, simple ettiquite and knowing how to mute your microphone should be considered passable skills. That said, if you _are_ comfortable with working remotely and want to do something a bit more interesting than just, "Hey, look! I'm in a desert now!" well, this is for you.
 
+![Travolta in front of a green screen](https://media.giphy.com/media/20k1punZ5bpmM/source.gif)
+
 ## What you'll need
 
 Presuming you already have a webcam and a microphone, this is all free. (Yay, right?) Here's the list of extra software you'll need to make this work.
@@ -64,13 +66,15 @@ Great, now at this point if we went into Zoom and switched the video source to _
 
 Down in your sources, where you added your webcam and your microphone, add an _Image_ source. Find the transparent logo you downloaded and select that. Next, resize and move that puppy around on the screen to wherever you want it. Voila, you now have a logo on your webcam in Zoom!
 
+![Webcam feed with Arizona block **A** on left, "stand by" scene on right.](block-a.png)
+
 Pretty easy, right?
 
 ## Intermediate: Add a BRB screen
 
 Let's say you need to go away from the keyboard for a bit. Bathroom, feed the dogs, get coffee, whatever. Normally, in Zoom, you'd just turn off your video and audio. But why do that when we can have a bit more fun with it?
 
-Here's what I put on the screen when I leave for a minute: ![](https://media.giphy.com/media/3o7TKDsHWoAbGkcTEk/source.gif)
+Here's what I put on the screen when I leave for a minute: ![Coffee BRB gif](https://media.giphy.com/media/3o7TKDsHWoAbGkcTEk/source.gif)
 
 And here's how to do it:
 
@@ -85,7 +89,9 @@ And here's how to do it:
 
 And that's it! You're done! Just remember you also need to still mute yourself in your meeting software as this is _just_ a video source.
 
-Switching to and from your scenes is easy and the Studio Mode in OBS Studio makes it pretty visually pleasing, as well.
+Switching to and from your scenes is easy and the Studio Mode in OBS Studio makes it pretty visually pleasing, as well. Simply hit the _Transition_ button in the middle of Studio Mode interface and it'll switch what's in the _Preview_ scene (left) to be what's sent to the _Program_ you're using (right). (That's what shows up in Zoom.) Like this:
+
+![OBS Studio screenshot](obs-screenshot.png)
 
 ## Advanced: Multiple screen elements
 
@@ -97,10 +103,4 @@ If you end up doing something you think is really neat, [tweet at me](https://tw
 
 
 
-
-
-
-
 [^1]: If you're having difficulties with the sources, check out [the GitHub documentation](https://github.com/obsproject/obs-studio/wiki/Sources-Guide#vlc-video-source) for explanations.
-
-

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zoom | ryan straight, ph.d</title>
+    <link>https://ryanstraight.com/tags/zoom/</link>
+      <atom:link href="https://ryanstraight.com/tags/zoom/index.xml" rel="self" type="application/rss+xml" />
+    <description>zoom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>zoom</title>
+      <link>https://ryanstraight.com/tags/zoom/</link>
+    </image>
+    
+    <item>
+      <title>Spicing Up Your Remote Work with Zoom and OBS</title>
+      <link>https://ryanstraight.com/post/zoom-and-obs/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/zoom-and-obs/</guid>
+      <description>&lt;p&gt;Seems like everybody I know is now working remotely due to the virtual worldwide lockdown in the face of the COVID-19 pandemic. Lots of folks that have little to no experience with it. And that&amp;rsquo;s okay! We&amp;rsquo;re all in this together. At this point, simple ettiquite and knowing how to mute your microphone should be considered passable skills. That said, if you &lt;em&gt;are&lt;/em&gt; comfortable with working remotely and want to do something a bit more interesting than just, &amp;ldquo;Hey, look! I&amp;rsquo;m in a desert now!&amp;rdquo; well, this is for you.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/20k1punZ5bpmM/source.gif&#34; alt=&#34;Travolta in front of a green screen&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-need&#34;&gt;What you&amp;rsquo;ll need&lt;/h2&gt;
+&lt;p&gt;Presuming you already have a webcam and a microphone, this is all free. (Yay, right?) Here&amp;rsquo;s the list of extra software you&amp;rsquo;ll need to make this work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://obsproject.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OBS Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That&amp;rsquo;s it. That&amp;rsquo;s the list. Okay, you need the &lt;em&gt;VirtualCam&lt;/em&gt; plugin, but whatever.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-obs-studio&#34;&gt;What is OBS Studio?&lt;/h3&gt;
+&lt;p&gt;OBS stands for &lt;em&gt;Open Broadcaster Software&lt;/em&gt;. It&amp;rsquo;s one of the ways in which streamers do what they do. It&amp;rsquo;s free, open source, and not the most user friendly thing, so&amp;hellip; you take the good with the bad. Luckily, for our purposes, we don&amp;rsquo;t need to do anything all that crazy. (That&amp;rsquo;s another post in the future.) We&amp;rsquo;re using OBS &lt;em&gt;Studio&lt;/em&gt; because it&amp;rsquo;s the best for this situation for a few different reasons that I needn&amp;rsquo;t go into here, really. Just trust me on this.&lt;/p&gt;
+&lt;p&gt;So, install OBS Studio and head into its Preferences to make sure you&amp;rsquo;ve got your settings configured properly. I&amp;rsquo;d suggest choosing either 1080 or 720 for your resolution. If you&amp;rsquo;re using Zoom, while your live stream in the meeting may be in HD, any recording of it is likely set to be SD, so keep that in mind for later.&lt;/p&gt;
+&lt;h2 id=&#34;install-the-virtualcam-plugin&#34;&gt;Install the VirtualCam plugin&lt;/h2&gt;
+&lt;p&gt;This is what makes the magic work. Head over to 
+&lt;a href=&#34;https://obsproject.com/forum/resources/obs-virtualcam.539/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the OBS forum for instructions on how to download and install the VirtualCam plugin&lt;/a&gt; for OBS. Use the &lt;em&gt;Go to download&lt;/em&gt; button on the top right.&lt;/p&gt;
+&lt;p&gt;Really, go do it. I&amp;rsquo;ll wait. (You can choose just the single camera install option. I chose the 4 cameras but have never used more than one, so&amp;hellip;.)&lt;/p&gt;
+&lt;h3 id=&#34;what-does-virtualcam-do&#34;&gt;What does VirtualCam do?&lt;/h3&gt;
+&lt;p&gt;Essentially, &lt;em&gt;VirtualCam&lt;/em&gt; takes your OBS output and turns it into a virtual camera that your meeting software can choose as a video input. Basically, instead of Zoom (for example) using your webcam, you can now use OBS. What does that mean? Well this is where it gets fun. Follow the instructions on the plugin page to get it going in OBS.&lt;/p&gt;
+&lt;h2 id=&#34;beginner-add-a-logo&#34;&gt;Beginner: Add a logo&lt;/h2&gt;
+&lt;p&gt;A simple way to see what OBS can do for you here is just to add a logo to your webcam.&lt;/p&gt;
+&lt;p&gt;Just find the image you want (when using Google Image Search or whatever your preferred engine is, make sure to search for &lt;em&gt;Transparent&lt;/em&gt; images so your logo doesn&amp;rsquo;t have a big solid background).&lt;/p&gt;
+&lt;p&gt;Now, let&amp;rsquo;s get our first scene set up. Add your audio and video sources (microphone and webcam, respectively). Stretch the webcam source out to match the OBS canvas. Check your microphone to make sure the levels are active in the source monitor.&lt;/p&gt;
+&lt;p&gt;Great, now at this point if we went into Zoom and switched the video source to &lt;em&gt;VirtualCam&lt;/em&gt;, it would just be identical to what you&amp;rsquo;d normally see. You only have your webcam and microphone running. But that&amp;rsquo;s not why we&amp;rsquo;re here, is it?&lt;/p&gt;
+&lt;p&gt;Down in your sources, where you added your webcam and your microphone, add an &lt;em&gt;Image&lt;/em&gt; source. Find the transparent logo you downloaded and select that. Next, resize and move that puppy around on the screen to wherever you want it. Voila, you now have a logo on your webcam in Zoom!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;block-a.png&#34; alt=&#34;Webcam feed with Arizona block A on left, &amp;ldquo;stand by&amp;rdquo; scene on right.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Pretty easy, right?&lt;/p&gt;
+&lt;h2 id=&#34;intermediate-add-a-brb-screen&#34;&gt;Intermediate: Add a BRB screen&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s say you need to go away from the keyboard for a bit. Bathroom, feed the dogs, get coffee, whatever. Normally, in Zoom, you&amp;rsquo;d just turn off your video and audio. But why do that when we can have a bit more fun with it?&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what I put on the screen when I leave for a minute: &lt;img src=&#34;https://media.giphy.com/media/3o7TKDsHWoAbGkcTEk/source.gif&#34; alt=&#34;Coffee BRB gif&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And here&amp;rsquo;s how to do it:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Head on over to 
+&lt;a href=&#34;https://giphy.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Giphy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Find the thing you want to use for your BRB screen&lt;/li&gt;
+&lt;li&gt;Click on &lt;em&gt;Media&lt;/em&gt; and copy the MP4 link&lt;/li&gt;
+&lt;li&gt;Head on over to that URL, right click on the video, and &lt;em&gt;Save video as&lt;/em&gt; to whatever folder you want to keep this stuff in.&lt;/li&gt;
+&lt;li&gt;Open up OBS and create a new scene&lt;/li&gt;
+&lt;li&gt;For your source, add a Media Source or VLC Video Source (either works)&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Choose that video file you downloaded&lt;/li&gt;
+&lt;li&gt;Stretch it out to fill or fit the canvas, whichever you want&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And that&amp;rsquo;s it! You&amp;rsquo;re done! Just remember you also need to still mute yourself in your meeting software as this is &lt;em&gt;just&lt;/em&gt; a video source.&lt;/p&gt;
+&lt;p&gt;Switching to and from your scenes is easy and the Studio Mode in OBS Studio makes it pretty visually pleasing, as well. Simply hit the &lt;em&gt;Transition&lt;/em&gt; button in the middle of Studio Mode interface and it&amp;rsquo;ll switch what&amp;rsquo;s in the &lt;em&gt;Preview&lt;/em&gt; scene (left) to be what&amp;rsquo;s sent to the &lt;em&gt;Program&lt;/em&gt; you&amp;rsquo;re using (right). (That&amp;rsquo;s what shows up in Zoom.) Like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;obs-screenshot.png&#34; alt=&#34;OBS Studio screenshot&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;advanced-multiple-screen-elements&#34;&gt;Advanced: Multiple screen elements&lt;/h2&gt;
+&lt;p&gt;Check back in the future for a rundown on how I use OBS Studio in my online classes to include on-screen elements like scrolling due dates, realtime key-presses to support coding demonstrations, adding a cropped version of my camera feed over a slide deck, and more.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m just scratching the surface in terms of how this method of virtual presence can ramp up engagement in online classes but hopefully this post gives you everything you need to start playing with OBS Studio and (for example) Zoom to spice up what&amp;rsquo;s likely to be a &lt;em&gt;lot&lt;/em&gt; of online meetings!&lt;/p&gt;
+&lt;p&gt;If you end up doing something you think is really neat, 
+&lt;a href=&#34;https://twitter.com/ryanstraight&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweet at me&lt;/a&gt; and let me know!&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;If you&amp;rsquo;re having difficulties with the sources, check out 
+&lt;a href=&#34;https://github.com/obsproject/obs-studio/wiki/Sources-Guide#vlc-video-source&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the GitHub documentation&lt;/a&gt; for explanations. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

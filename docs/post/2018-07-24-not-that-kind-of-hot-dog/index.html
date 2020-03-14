@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -45,10 +45,16 @@
   
   
   
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -60,8 +66,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -70,6 +76,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -100,13 +218,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +236,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -133,11 +253,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://ryanstraight.com/post/2018-07-24-not-that-kind-of-hot-dog/">
 
+  
   
   
   
@@ -177,8 +298,6 @@
 
 
 
-
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -206,7 +325,7 @@
     "name": "ryan straight, ph.d",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://ryanstraight.com/img/icon-512.png"
+      "url": "https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "It is hot outside in Arizona. I mean, it is hot virtually everywhere, to be fair. We are at the very beginning of an extreme heat advisory that lasts from yesterday (Monday) morning all the way through Wednesday night. Dangerous heat. Keep in mind it is actually hotter _today_ than it was yesterday."
@@ -266,6 +385,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -700,6 +825,7 @@
 
     <div class="article-style">
       
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
 <script src="/rmarkdown-libs/jquery/dist/jquery.min.js"></script>
 <script src="/rmarkdown-libs/d3/d3.min.js"></script>
@@ -715,9 +841,10 @@
 <p>I wanted to demonstrate what I talked about back in my Thermoception episode of The New Professor<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>: the difference between ambient air temperature and the temperature of the pavement. This is especially important for animals.</p>
 <p>Recently having procured an infrared thermometer to use when cooking, it occurred to me I could use it to really illustrate these dangers. These are taken in the same spots throughout the day. You’ll see when and how the shade from the house alters the temperature. Please, think about this when you want to take your dogs out.</p>
 <p>While it’s not a perfect analog, consider these water temperatures and time required for “deep burn.”<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p>
-<div id="mjs-875d16ec7768129ddd4738ecad41dd" class="metricsgraphics html-widget" style="width:672px;height:480px;"></div>
-<div id="mjs-875d16ec7768129ddd4738ecad41dd-legend" class="metricsgraphics html-widget-legend"></div>
-<script type="application/json" data-for="mjs-875d16ec7768129ddd4738ecad41dd">{"x":{"forCSS":null,"regions":null,"orig_posix":false,"data":{"temp":[127,133,140,148,155],"sec":[60,15,5,2,1],"stringssAsFactors":[false,false,false,false,false]},"x_axis":true,"y_axis":true,"baseline_accessor":null,"predictor_accessor":null,"show_confidence_band":null,"show_secondary_x_label":null,"chart_type":"line","xax_format":"plain","x_label":"Degrees Farenheit","y_label":"Seconds of contact","markers":[{"temp":133,"label":"Medium rare steak"},{"temp":153,"label":"Medium well steak"}],"baselines":null,"linked":false,"title":null,"description":null,"left":80,"right":10,"bottom":60,"buffer":8,"format":"count","y_scale_type":"linear","yax_count":5,"xax_count":6,"x_rug":false,"y_rug":false,"area":false,"missing_is_hidden":false,"size_accessor":null,"color_accessor":null,"color_type":"number","color_range":["blue","red"],"size_range":[1,5],"bar_height":20,"min_x":null,"max_x":null,"min_y":null,"max_y":null,"bar_margin":1,"binned":false,"bins":null,"least_squares":false,"interpolate":"cardinal","decimals":2,"show_rollover_text":true,"x_accessor":"temp","y_accessor":"sec","multi_line":null,"geom":"line","yax_units":"","legend":null,"legend_target":null,"y_extended_ticks":false,"x_extended_ticks":false,"target":"#mjs-875d16ec7768129ddd4738ecad41dd","full_width":true,"full_height":true,"animate_on_load":true,"color":"Red","colors":"Red"},"evals":[],"jsHooks":[]}</script>
+<pre><code>## Warning: package &#39;metricsgraphics&#39; was built under R version 3.6.3</code></pre>
+<div id="mjs-4d933f23bb9602439748640e46da1e" class="metricsgraphics html-widget" style="width:672px;height:480px;"></div>
+<div id="mjs-4d933f23bb9602439748640e46da1e-legend" class="metricsgraphics html-widget-legend"></div>
+<script type="application/json" data-for="mjs-4d933f23bb9602439748640e46da1e">{"x":{"forCSS":null,"regions":null,"orig_posix":false,"data":{"temp":[127,133,140,148,155],"sec":[60,15,5,2,1],"stringssAsFactors":[false,false,false,false,false]},"x_axis":true,"y_axis":true,"baseline_accessor":null,"predictor_accessor":null,"show_confidence_band":null,"show_secondary_x_label":null,"chart_type":"line","xax_format":"plain","x_label":"Degrees Farenheit","y_label":"Seconds of contact","markers":[{"temp":133,"label":"Medium rare steak"},{"temp":153,"label":"Medium well steak"}],"baselines":null,"linked":false,"title":null,"description":null,"left":80,"right":10,"bottom":60,"buffer":8,"format":"count","y_scale_type":"linear","yax_count":5,"xax_count":6,"x_rug":false,"y_rug":false,"area":false,"missing_is_hidden":false,"size_accessor":null,"color_accessor":null,"color_type":"number","color_range":["blue","red"],"size_range":[1,5],"bar_height":20,"min_x":null,"max_x":null,"min_y":null,"max_y":null,"bar_margin":1,"binned":false,"bins":null,"least_squares":false,"interpolate":"cardinal","decimals":2,"show_rollover_text":true,"x_accessor":"temp","y_accessor":"sec","multi_line":null,"geom":"line","yax_units":"","legend":null,"legend_target":null,"y_extended_ticks":false,"x_extended_ticks":false,"target":"#mjs-4d933f23bb9602439748640e46da1e","full_width":true,"full_height":true,"animate_on_load":true,"color":"Red","colors":"Red"},"evals":[],"jsHooks":[]}</script>
 <p>Below each picture and accompanying temperature is a description of a relative internal cooking temperature<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> for comparison.</p>
 <div id="am" class="section level2">
 <h2>11am</h2>
@@ -726,6 +853,8 @@
 
 
 
+  
+  
 
 
 
@@ -734,11 +863,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1100-gravel.jpg" >
-<img src="1100-gravel.jpg" alt="Gravel at 11am" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1100-gravel_hu293abf1b04cdc7ea7f0da8a4604e9801_2808441_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1100-gravel_hu293abf1b04cdc7ea7f0da8a4604e9801_2808441_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Gravel at 11am" width="3036" height="4048">
+</a>
 
 
 
@@ -749,6 +884,8 @@
 
 
 
+  
+  
 
 
 
@@ -757,11 +894,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1100-patio.jpg" >
-<img src="1100-patio.jpg" alt="Patio at 11am" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1100-patio_hu0d2ae68f5ea3fc327de2f56f501092aa_2037714_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1100-patio_hu0d2ae68f5ea3fc327de2f56f501092aa_2037714_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Patio at 11am" width="3036" height="4048">
+</a>
 
 
 
@@ -775,6 +918,8 @@
 
 
 
+  
+  
 
 
 
@@ -783,11 +928,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1200-gravel.jpg" >
-<img src="1200-gravel.jpg" alt="Gravel at 12pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1200-gravel_hu1d663747591c22e403fa4c3ec5cc2110_2465696_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1200-gravel_hu1d663747591c22e403fa4c3ec5cc2110_2465696_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Gravel at 12pm" width="3036" height="4048">
+</a>
 
 
 
@@ -798,6 +949,8 @@
 
 
 
+  
+  
 
 
 
@@ -806,11 +959,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1200-patio.jpg" >
-<img src="1200-patio.jpg" alt="Patio at 12pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1200-patio_hu177f69a9a48a7abbdf673707c1cf703d_2127307_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1200-patio_hu177f69a9a48a7abbdf673707c1cf703d_2127307_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Patio at 12pm" width="3036" height="4048">
+</a>
 
 
 
@@ -824,6 +983,8 @@
 
 
 
+  
+  
 
 
 
@@ -832,11 +993,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1300-gravel.jpg" >
-<img src="1300-gravel.jpg" alt="Gravel at 1pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1300-gravel_hua2c64bbafb87d58efcfe675000c41893_2601611_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1300-gravel_hua2c64bbafb87d58efcfe675000c41893_2601611_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Gravel at 1pm" width="3036" height="4048">
+</a>
 
 
 
@@ -847,6 +1014,8 @@
 
 
 
+  
+  
 
 
 
@@ -855,11 +1024,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1300-patio.jpg" >
-<img src="1300-patio.jpg" alt="Patio at 1pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1300-patio_hu7e0588163c5fb60ee416ba845b4ddd90_2327711_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1300-patio_hu7e0588163c5fb60ee416ba845b4ddd90_2327711_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Patio at 1pm" width="3036" height="4048">
+</a>
 
 
 
@@ -873,6 +1048,8 @@
 
 
 
+  
+  
 
 
 
@@ -881,11 +1058,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1430-gravel.jpg" >
-<img src="1430-gravel.jpg" alt="Gravel at 2:30pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1430-gravel_huac5e985d6f4b0ee401dff5f2f9d774c9_2497278_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1430-gravel_huac5e985d6f4b0ee401dff5f2f9d774c9_2497278_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Gravel at 2:30pm" width="3036" height="4048">
+</a>
 
 
 
@@ -896,6 +1079,8 @@
 
 
 
+  
+  
 
 
 
@@ -904,11 +1089,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1430-patio.jpg" >
-<img src="1430-patio.jpg" alt="Patio at 2:30pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1430-patio_hudef4e5924ca1f6e85285b3d3d9177d83_2183894_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1430-patio_hudef4e5924ca1f6e85285b3d3d9177d83_2183894_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Patio at 2:30pm" width="3036" height="4048">
+</a>
 
 
 
@@ -922,6 +1113,8 @@
 
 
 
+  
+  
 
 
 
@@ -930,11 +1123,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1530-gravel.jpg" >
-<img src="1530-gravel.jpg" alt="Gravel at 3:30pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1530-gravel_hud66b453029e467abbfd4d47bf32e6b61_2354364_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1530-gravel_hud66b453029e467abbfd4d47bf32e6b61_2354364_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Gravel at 3:30pm" width="3036" height="4048">
+</a>
 
 
 
@@ -945,6 +1144,8 @@
 
 
 
+  
+  
 
 
 
@@ -953,11 +1154,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1530-patio.jpg" >
-<img src="1530-patio.jpg" alt="Patio at 3:30pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1530-patio_hue4885642f214dd27b03f55cfbe80d07a_2067778_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1530-patio_hue4885642f214dd27b03f55cfbe80d07a_2067778_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Patio at 3:30pm" width="3036" height="4048">
+</a>
 
 
 
@@ -972,6 +1179,8 @@
 
 
 
+  
+  
 
 
 
@@ -980,11 +1189,17 @@
 
 
 
-<figure>
 
 
-  <a data-fancybox="" href="1930-patio.jpg" >
-<img src="1930-patio.jpg" alt="Patio at 7:30pm" ></a>
+
+<figure >
+
+
+  <a data-fancybox="" href="/post/2018-07-24-not-that-kind-of-hot-dog/1930-patio_hu1a74263b0883f0d8e59854a359a3b8ae_2669931_2000x2000_fit_q90_lanczos.jpg" >
+
+
+  <img data-src="/post/2018-07-24-not-that-kind-of-hot-dog/1930-patio_hu1a74263b0883f0d8e59854a359a3b8ae_2669931_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="Patio at 7:30pm" width="3036" height="4048">
+</a>
 
 
 
@@ -1115,7 +1330,7 @@
 
 
   
-
+  
 
 
 
@@ -1125,18 +1340,19 @@
   
   
     
+  
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/ryan/avatar_hu1391b7b60d37d3770aa9cbe976f23932_26316_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
       <h5 class="card-title"><a href="https://ryanstraight.com/">Ryan Straight</a></h5>
       <h6 class="card-subtitle">Assistant Professor of Educational Technology</h6>
-      <p class="card-text">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
+      <p class="card-text">Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, <em>Cyborgs and Transhumanism</em>, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan&rsquo;s academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.</p>
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1218,6 +1434,9 @@
 
 
 
+
+
+
   
   
   <div class="article-widget content-widget-hr">
@@ -1240,33 +1459,23 @@
     
     
     
-    <script src="/js/mathjax-config.js"></script>
-    
-
-    
-    
-    
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
 
       
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.3.1/mermaid.min.js" integrity="sha256-vOIuDSYDirTfyr+S2MjFnhOz6Rgiz4ODFAHATG0rFxw=" crossorigin="anonymous" title="mermaid"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
       
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
-      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
-      
     
 
     
@@ -1277,6 +1486,11 @@
     
     
     <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -1341,7 +1555,7 @@
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.c816d323c3a55093dae0829b44ea1ca8.js"></script>
 
     
 
@@ -1354,6 +1568,10 @@
   
   <div class="container">
     <footer class="site-footer">
+  
+  <p class="powered-by">
+    <a href="/tags/privacy/">privacy</a>
+  </p>
   
 
   <p class="powered-by">
