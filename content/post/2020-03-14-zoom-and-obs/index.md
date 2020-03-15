@@ -9,7 +9,7 @@ tags:
   - 'remote work'
   - covid-19
 subtitle: "A Beginner's Guide"
-summary: "So you're suddenly working from home and Zooming into all your meetings. Here's how to spice up your presence a bit without virtual backgrounds."
+summary: "So you're suddenly working from home and Zooming into all your meetings. Here's how to spice up your presence a bit beyond just virtual backgrounds."
 authors:
   - ryan
 lastmod: '2020-03-14T08:00:00-07:00'
