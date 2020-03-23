@@ -269,6 +269,12 @@ human --> (technology --> world)
 
 Examples?
 
+--
+
+```{r, out.width='75%', fig.align='center', echo=FALSE}
+knitr::include_graphics('graveyard.jpg')
+```
+
 ---
 
 # Alteration relation
