@@ -1,0 +1,280 @@
+---
+title: "HNRS 195"
+subtitle: "Cyborgs"
+author: "Dr. Ryan Straight"
+output:
+  xaringan::moon_reader:
+    css:
+    - default
+    - ../my-theme.css
+    - ../custom.css
+    lib_dir: libs
+    nature:
+      countIncrementalSlides: no
+      highlightLines: yes
+      highlightStyle: github
+      scroll: no
+    seal: no
+    yolo: no
+  pdf_document:
+    toc: no
+  word_document:
+    toc: no
+---
+
+```{r presentationsetup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(emo)
+```
+
+class: right, bottom, inverse
+
+background-image: url(../standby.png)
+background-position: center
+background-color: #000
+background-size: contain
+
+<img src="../album-covers/postiljonen-skyer-2013.png"><br /><h3 style="album">Postiljonen - Skyer  (2013)</h3>
+
+---
+layout: true
+
+<div class="my-header"></div>
+<div class="my-footer"><span>HNRS 195: Cyborgs</span></div> 
+
+
+---
+class: left, middle, inverse
+
+# HNRS 195: Cyborgs
+
+## Dr. Ryan Straight
+
+---
+
+## Topics
+
++ What is a cyborg?
++ Sorite's paradox
++ Replacement
++ Neurorehabilitation
++ Cybernetic vision
++ When? What's worse?
+
+---
+
+# What is a cyborg?
+
+"Cybernetic organism"
+
+--
+
+Cybernetic(s): The theoretical study of communication and control processes in biological, mechanical, and electronic systems, especially the comparison of these processes in biological and artificial systems.
+
+--
+
+Cyborg: A person whose physiological functioning is aided by or dependent upon a mechanical or electronic device
+
+--
+
+Haraway: Non-naturalist human
+
+Verbeek: Border-blurring entity, uniting both human and nonhuman elements
+
+
+---
+
+# When did we become cyborgs?
+
+- We always have been? 
+- Stiegler: humanity is an invention of technology, not other way around
+
+---
+
+# Sorite's paradox
+
+Where is the line?
+
+--
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/96/Sorites_paradox_heap_down.png)
+
+--
+
+![](https://anthropology365.files.wordpress.com/2018/06/color_gradient_illustrating_a_sorites_paradox_with_labels.png)
+
+
+---
+
+# Replacement?
+
+- Think about your computer.
+- You've replaced every part.
+- Is it the same computer?
+- The issue becomes **metaphysical**
+
+---
+
+# Example: The Doctor
+
+But _**is**_ it?
+
+---
+
+# Neurorehabilitation
+
+- Child suffers injury and is essentially brain-dead.
+- New procedure: "neuroreconstruction"
+- ~6 months to grow "new" brain
+
+--
+
+- Child loses all memories, possibly will have different attitude/temperament
+- Needs re-educated like a newborn, will catch up with peers in ~4 years
+- Is it the same child?
+
+---
+
+# Cybernetic vision
+
+- Stem-cell repairs macular degeneration
+- What if cells were synthetic?
+- What if repaired via electrodes?
+- What if vision were _replaced_ with artificial stimulation?
+
+---
+
+# When do we care?
+
+EBEs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hCQ3FsyG88o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# When do we care?
+
+- Non-human mode of relationship and reaction or response may affect a person at a deep and pervasive level
+- "That's unnatural!"
+
+---
+
+# What's "worse?"
+
+- Biological human augmented beyond recognition
+- AI with no corporeal form
+
+---
+
+# A Return to Postphenomenology
+
+There is a relation between the subject and the object that comes about mediated by technology. Technology is a medium which mutually constitutes the subject and the object.
+
+--
+
+- Intentionality: makes visible the inextricable connections between humans and the world
+
+---
+
+# Cyborg intentionality?
+
+- **Mediated** intentionality
+- Remember the relations?
+
+```{r, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics('https://img.swipeusercontent.com/1920/o/5xhpjkcfM0nBzHK3KwbVhfDrGSNPmP6DVTLdlJhXzrlNKw.png')
+```
+
+
+---
+
+# Mediated intentionality
+
+- Except *alterity*, human intentionality is **mediated** by technology
+- Binoculars, thermometers, A/C, etc.
+
+---
+
+# *Hybrid* intentionality
+
+- When intentionality goes **both** ways or...
+- when they **merge**
+
+---
+
+# Fusion/cyborg relation
+
+(human/technology) --> world
+
+---
+
+# Posthuman
+
+## vs
+
+# Transhuman
+
+---
+
+# Posthuman
+
+- Consider human-technology relations when thinking about what it means to be human
+- Moves beyond "humanism"
+
+---
+
+# Transhuman
+
+- Deals more with the physical fusion of human and technology
+- Moves beyond "human"
+
+---
+
+# Composite relation
+
+- Related to hermenutic
+- Double intentionality:
+     - technology toward **its** world
+     - humans toward result
+     
+---
+# Hermeneutic
+
+human --> (technology -- world)
+
+# Composite
+
+human --> (technology --> world)
+
+---
+
+# Composite relation
+
+Examples?
+
+---
+
+# Alteration relation
+
+- Self-reflexive
+- I --> Technology --> I
+
+---
+
+# Augmentation relation
+
+- Adds extra layer of being directed at the world. 
+- See the world *and* information *about* the world
+- (I--Technology) --> World --> (Technology--World)
+
+---
+
+# Resources
+
+Gillett, G. (2006). Cyborgs and moral identity. *Journal of Medical Ethics, 32*(2), 79–83. https://doi.org/10.1136/jme.2005.012583
+
+Haraway, D. (2006). A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late 20th Century. In J. Weiss, J. Nolan, J. Hunsinger, & P. Trifonas (Eds.), *The International Handbook of Virtual Learning Environments* (pp. 117–158).
+
+Verbeek, P. P. (2008). Cyborg intentionality: Rethinking the phenomenology of human-technology relations. *Phenomenology and the Cognitive Sciences, 7*(3), 387–395. https://doi.org/10.1007/s11097-008-9099-x
+
+
