@@ -26,6 +26,8 @@ output:
     toc_depth: 2
 ---
 
+**UPDATE**: Using virtual cams broke in Zoom past version 4.6.7. Bummer.
+
 Seems like everybody I know is now working remotely due to the virtual worldwide lockdown in the face of the COVID-19 pandemic. Lots of folks that have little to no experience with it. And that's okay! We're all in this together. At this point, simple ettiquite and knowing how to mute your microphone should be considered passable skills. I shared a couple Twitter threads about teaching online but wanted to do something more tutorial-ish.
 
 So, if you _are_ comfortable with working remotely and want to do something a bit more interesting than just, "Hey, look! I'm in a desert now!" well, this is for you.
