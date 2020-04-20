@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Owning Your Success: Battling the Impostor Phenomenon in Higher Education"
 event: OLC Accelerate 2019
 event_url: https://onlinelearningconsortium.org/attend-2019/accelerate/
