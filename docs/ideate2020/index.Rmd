@@ -1,0 +1,61 @@
+---
+title: "Community Continuity in the Time of Coronavirus"
+subtitle: "🦠"
+author: "Dr. Ryan Straight"
+output:
+  xaringan::moon_reader:
+    css:
+    - default
+    - my-theme.css
+    - custom.css
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      countIncrementalSlides: no
+      highlightLines: yes
+      highlightStyle: github
+      scroll: yes
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+    seal: no
+    yolo: no
+  pdf_document:
+    toc: no
+  word_document:
+    toc: no
+---
+
+```{r presentationsetup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(linguisticsdown)
+```
+
+class: right, bottom, inverse
+
+background-image: url(https://media.giphy.com/media/CdhxVrdRN4YFi/source.gif)
+background-position: center
+background-color: #000
+background-size: contain
+
+---
+layout: true
+
+<div class="my-header"></div>
+<div class="my-footer"><span>Ideate 2020 - Dr Ryan Straight - @ryanstraight</span></div> 
+
+
+---
+class: left, middle, inverse
+
+# Community Continuity in the Time of Coronavirus 🦠
+
+**OLC Ideate 2020**
+
+**Dr. Ryan Straight**
+
+---
+
+Text here.

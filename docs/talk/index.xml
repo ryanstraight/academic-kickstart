@@ -5,12 +5,21 @@
     <link>https://ryanstraight.com/talk/</link>
       <atom:link href="https://ryanstraight.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2019 14:00:00 -1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 11:15:00 -0700</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://ryanstraight.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Community Continuity in the Time of Coronavirus</title>
+      <link>https://ryanstraight.com/talk/olc-ideate-2020/</link>
+      <pubDate>Thu, 23 Apr 2020 11:15:00 -0700</pubDate>
+      <guid>https://ryanstraight.com/talk/olc-ideate-2020/</guid>
+      <description>&lt;p&gt;Slides coming soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Games Peoples Play</title>
