@@ -125,13 +125,13 @@ The implications for privacy, more or less. Right up there with your passwords a
 
 ### My pick: [Keybase](https://keybase.io)
 
-Why? Well, in one word:
+Why? Well, in short:
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13UJifd97hqdji" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/television-john-oliver-last-week-tonight-13UJifd97hqdji">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/e7yNPQmGUozyU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/facebook-posts-privacy-e7yNPQmGUozyU">via GIPHY</a></p>
 
 Keybase was originally just a new place to generate and keep PGP keys (tl;dr: a way to securely message people that nobody ever really, actually uses in the real world). They've been expanding and expanding since those days and now they provide chat, teams (like Slack or group messaging), secure file storage, cryptocurrency wallets, and even encrypted Git repositories (a way of storing and change-tracking code, more or less). Since their platform is open source, it's inherently more secure since anyone can look at and improve the code. Combine that with the fact content from Keybase users is end-to-end encrypted (like what happens in the VPN, more or less), the Keybase folks can't even actually see what you're saying or what your files are or ... well, anything. They can see a message was sent, what time it was, that sort of thing (known as _metadata_) but the content of that stuff? Totally secure (insofar as you don't lose your device; they have no control over you being a doofus).
 
-You can find me at https://keybase.io/ryanstraight if you want to give it a trial run and say hi. :grin:
+You can find me at https://keybase.io/ryanstraight if you want to give it a trial run and say hi. :grin: I'll also say I'm not affiliated with Keybase in any way or do they sponsor or give me anything. I just really like their product.
 
 We switched from WhatsApp to Keybase a while ago for our daily communication and I can say it's been pretty painless. In Keybase you can still share a live location, you can share gifs, leave voice messages instead of typing, everything you can do with other chat platforms, you can do in there. There are some really nice other features, too, like easy access to all the files and links you've shared back and forth. One killer feature I'd love to see, though, is like how Signal can be used as both a secure messaging app (if both people use Signal) or a default SMS app (if you get a text from someone _not_ on Signal, it still shows up _in_ Signal). I'd love if Keybase could do the same thing. Likewise, a direct "Send to Keybase user" in the system share dialog would be great and save a few steps (compared to copying and pasting URLs).
 
@@ -156,6 +156,8 @@ Again, I'm not entirely sure it is for a large portion of the population. I just
 See, there really is no viable alternative to Facebook. Not really. There are networks out there that are _trying_ (Peepeth comes to mind but the blockchain integration, while good in theory, is just too overly complicated for widespread adoption, at least right now) and some that are so focused on anti-censorship that they turn into magnets for alt-right hate, but none that even come close to being as ubiquitous and entangled with our daily lives (for better or worse).
 
 On the other hand, you have something really promising like [Okuna](https://www.okuna.io/en/home), which is still in private beta but is open source and focused on respecting user privacy. Looking forward to getting in there. Christmas present, perhaps?
+
+**Update**: Okuna's not gotten the funding it had hoped to get recently so it's unclear if it will ever actually come to fruition. Worse comes to worse, you can always stand up your own Mastodon or just invite your friends to Keybase and start a Team!
 
 That said, I'm still [on Twitter](https://twitter.com/ryanstraight) but have moved mostly away from using Instagram. Nobody's perfect.
 
