@@ -146,6 +146,8 @@ include_graphics2("chewie.jpg")
 
 I'm Ryan Straight.......
 
+So again, I want to share my experience having taught virtually entirely online for the past half decade, being someone that's not afraid to try things just because they feel like they might be better than saying, "But that's what we've always used..."
+
 But you don't really care about that, do you? You're too busy looking at Chewie.
 
 When I teach in person, know what my students DON'T get to see? Chewie.
