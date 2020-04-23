@@ -66,6 +66,14 @@ include_graphics2("https://i.giphy.com/media/Q9Ab4v0cy0phXwbkuK/giphy.gif")
 
 ## **Dr. Ryan Straight**<br />University of Arizona
 
+???
+
+So thank you, everybody, for coming in. A big shoutout to all the OLC folks for making this happen and to the presenters that came before and will come after me that are SLAYING it with fantastic, innovative ideas, not to mention a rocking soundtrack.
+
+And I'm told that this is the #1 concern that students are reporting, at least in one survey I saw: missing those connections, their friends, the study rooms, and so on. Hopefully some of what we talk about today will help you to mitigate that in your own online classes or help you help others do the same. But first...
+
+I want to start off with a poll just to get a feeling for how YOU are right now. For where you're landing on this.
+
 ---
 
 # So tell me...
@@ -116,9 +124,9 @@ First, who am I and why am I talking about this?
 
 Second, I'll run down a few of my favorite tips to use tech/apps/whatever to foster and maintain community
 
-Third, we'll do some breakout rooms and hopefully you'll create a bit of community amongst yourselves!
+Third, we'll do some breakout rooms if folks are feeling that, but regardless hopefully you'll create a bit of community amongst yourselves!
 
-Fourth, we'll come back and I'll ask folks to share a bit.
+Fourth, we'll come back and I'll ask folks to share a bit. But again, we'll play that by ear.
 
 Finally, let's connect and really solidify that sense of community with each other!
 
@@ -146,9 +154,9 @@ include_graphics2("chewie.jpg")
 
 I'm Ryan Straight.......
 
-So again, I want to share my experience having taught virtually entirely online for the past half decade, being someone that's not afraid to try things just because they feel like they might be better than saying, "But that's what we've always used..."
+So again, I want to share my experience having taught virtually entirely online for the past half decade, being someone that's not afraid to try things just because they feel like they might be better than saying, "But that's what we've always used...". I have been deemed as being "Extremely Online."
 
-But you don't really care about that, do you? You're too busy looking at Chewie.
+But you don't really care about that, do you? You're too busy looking at Chewie. He's the star, here.
 
 When I teach in person, know what my students DON'T get to see? Chewie.
 
@@ -156,16 +164,20 @@ This weird, happy, wall-licking chain-chomper of a dog.
 
 But know what I can do in my Slack team or on a Zoom chat? Introduce you to Chewie, who may or may not stroll in here at some point, we'll see.
 
-When people say you shouldn't let your children or pets (co-workers, as we've begun calling them) in your video conferences... do not listen to those people. 
+When people say you shouldn't let your children or pets (co-workers, as we've begun calling them) in your video conferences... do not listen to those people. Remember the British politican whose kid burst into the room when he was doing an interview? That was amazing and literally everybody loved it (except him).
 
-See, now that you've seen Chewie, we have a connection. That's why (and this is the first bit of tech/software I'll mention) I always have my students in every class create a short Adobe Spark video introducing themselves. (Presuming the students feel safe doing so.)
+Has that happened to you yet? Something embarrassing on the Zoom call?
+
+See, now that you've seen Chewie, we have a connection. That's why (and this is the first bit of tech/software I'll mention) I always have my students in every class create a short Adobe Spark video introducing themselves. (Presuming the students feel safe doing so. And, of course, student safety should come before everything.)
 
 
 ---
 
 # Why did the chicken cross the road?
 
-<div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/5FW7IQuf2eBl6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+### Someone wasn't social distancing.
+
+<div style="width:100%;height:0;padding-bottom:40%;position:relative;"><iframe src="https://giphy.com/embed/5FW7IQuf2eBl6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ???
 
@@ -175,7 +187,7 @@ Humor. We build community laughing at something together. The most effective thi
 
 Why do you think I use gifs so much? How well does this communicate what we're talking about? Does it provide FLAVOR to an interaction? (No pun intended. No, pun absolutely intended.) Again, memorability? Use that.
 
-And that brings me to the next bit of tech that I use, which I've already mentioned, and that's Slack. And this really goes regardless of what specific app you're using, whether it's Slack or Microsoft Teams or you're focusing on security and privacy and you want to use something like Keybase: communicating in those online spaces, I've found, is most effective when it's not treated like email, which is a system that really caught on in the 1980s, after all. Is there ANYTHING from the 1980s that we still want around (early millenials here excluded, of course)?
+And that brings me to the next bit of tech that I use, which I've already mentioned, and that's Slack. And this really goes regardless of what specific app you're using, whether it's Slack or Microsoft Teams or you're focusing on security and privacy and you want to use something like Keybase: communicating in those online spaces, I've found, is most effective when it's not treated like email, which is a system that really caught on in the 1980s, after all. Is there ANY other tech from the 1980s that we still want around? I mean, sure, you can rock the Walkman but eventually that tape will break and then what will you do?
 
 And make no mistake, communicating clearly and effectively online is a SKILL that needs to be HONED. Using gifs, using emojis, using way more exclamation points than you think you need, whatever it may be. This needs to be reminded to some students: that THEY might know their tone in that message but not everybody else necessarily does. Punctuation, too, is important to convey the correct meaning, by the way. Consider the following in the chat:
 
@@ -216,9 +228,15 @@ Which, sure, sounds a bit counter-intuitive given what we're doing, but that's b
 
 What if you have students that just... aren't into it for whatever reason? Maybe they have anxiety? Maybe they don't feel comfortable showing their face? Maybe they don't have a home to connect from? Whatever the reason, we should respect that and not just assume that everybody can do what we are all doing, generally, right now: feeling confident and comfortable in this space.
 
-And in those cases, we got back to Slack, where a student can get involved as much as they want from a safe, secure distance in ways they deem proper. Ever had a student that would never talk in a synchronous meeting but once they can use text to chat... whoa, watch out? Think that student would flourish in a community where you required folks get on Zoom, turn on their cameras and mics, and the in-person classroom experience is just shoehorned into... this?
+And in those cases, we go back to Slack, where a student can get involved as much as they want from a safe, secure distance in ways they deem proper. Ever had a student that would never talk in a synchronous meeting but once they can use text to chat... whoa, watch out? Think that student would flourish in a community where you required folks get on Zoom, turn on their cameras and mics, and the in-person classroom experience is just shoehorned into... this?
 
-No way.
+No way. So, in the chat, what tech has gotten in your way?
+
+There's a concept in postphenomenology (which is the longest word I'm using today, I promise) called "transparency." Not like a green screen or a gif, but how much the tech gets in the way of the experience people either want or should be having.
+
+Video game controller, for example. Zoom, Facetime, "just works."
+
+But it's not JUST the tool that makes that happen. There's onboarding to go with that, basically. You didn't START being able to play video games without thinking about what buttons to push, after all.
 
 ---
 
@@ -228,13 +246,15 @@ No way.
 
 ???
 
-But really what we're talking about here is Presence. Online communities live or die through buy-in and persistence of presence. Out of sight, out of mind is never more accurate than here.
+But really what we're talking about here is Presence, which has been a big theme so far that I've seen. Online communities live or die through buy-in and persistence of presence. Out of sight, out of mind is never more accurate than here.
+
+In the chat, share: be honest, has that happened to you? Even when we WEREN'T in a global lockdown?
 
 So you need to BE THERE. And while just knowing you're there isn't REALLY enough (I'll come back to that in a minute) I'll tell you what students always tell me:
 
 Whenever they see my status in Slack as "active," they say it's like looking down the hallway where their professors have their offices and... they see my door is cracked open. They can poke their heads in and, yeah, I'm probably there and present for them. Not always, but usually.
 
-Is that enough? Just telling people you're there? No. Not at all. I try to make an effort, in Slack for example, to use reactions to reinforce that presence when I can. If a student shares a comment or some are engaged in discussion that doesn't really need my input (they're doing just fine on their own and I would only derail the conversation, for example), I'll throw a reaction out there just to act as something akin to, in a physical class, a smile and nod. Affirmation, confiratmion, encouragement. It's those little things like that that can make a huge difference.
+Is that enough? Just telling people you're there? No. Not at all. I try to make an effort (and shoutout here to Angela Gibson for a great session on humanizing tech this morning, which this very much dovetails off of nicely, I think), in Slack for example, to use reactions to reinforce that presence when I can. If a student shares a comment or some are engaged in discussion that doesn't really need my input (they're doing just fine on their own and I would only derail the conversation, for example), I'll throw a reaction out there just to act as something akin to, in a physical class, a smile and nod. Affirmation, confiratmion, encouragement. It's those little things like that that can make a huge difference.
 
 ---
 
@@ -302,3 +322,18 @@ And that's it!
 # Chewie says *Bye!*
 
 <div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/U4RYXAfadIoBMIuLWx" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/world-pandawhale-welcome-hhqP18gMiwkY8">All gifs via GIPHY</a></p>
+
+---
+class: middle, inverse, center
+
+# **Tech and Community Continuity**<br /> **in the Time of Coronavirus**<br /><br />
+
+```{r, out.width = "10%"}
+include_graphics2("https://i.giphy.com/media/Q9Ab4v0cy0phXwbkuK/giphy.gif")
+```
+
+<br />
+
+### **OLC Ideate 2020** 
+
+## **Dr. Ryan Straight**<br />University of Arizona
