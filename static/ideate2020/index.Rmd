@@ -76,6 +76,16 @@ include_graphics2("https://i.giphy.com/media/Q9Ab4v0cy0phXwbkuK/giphy.gif")
 
 In combination with the poll, let's get a feeling for how people are feeling right now. So meta.
 
+The poll contents:
+
+**What's your current feeling on your communities that've suddenly been thrust into being remote?**
+
+* No big difference, honestly.
+* I miss my friends!
+* I love it, it's even better.
+* What day is it?
+* If you gaze long into the Zoom, the Zoom will gaze back into you.
+
 ---
 
 # The Plan
