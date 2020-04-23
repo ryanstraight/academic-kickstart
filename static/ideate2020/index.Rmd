@@ -138,19 +138,23 @@ Finally, let's connect and really solidify that sense of community with each oth
 include_graphics2("chewie.jpg")
 ```
 
-*(Know what you'll remember from this? Chewie.)*
+<span style="font-size: 75%;">_(Know what you'll remember from this? **Chewie**.)_</span>
 
 ]
 
 ???
 
-(My intro) 
+I'm Ryan Straight.......
+
+So again, I want to share my experience having taught virtually entirely online for the past half decade, being someone that's not afraid to try things just because they feel like they might be better than saying, "But that's what we've always used..."
+
+But you don't really care about that, do you? You're too busy looking at Chewie.
 
 When I teach in person, know what my students DON'T get to see? Chewie.
 
 This weird, happy, wall-licking chain-chomper of a dog.
 
-But know what I can do in my Slack team or on a Zoom chat? Introduce you to Chewie!
+But know what I can do in my Slack team or on a Zoom chat? Introduce you to Chewie, who may or may not stroll in here at some point, we'll see.
 
 When people say you shouldn't let your children or pets (co-workers, as we've begun calling them) in your video conferences... do not listen to those people. 
 
@@ -203,6 +207,8 @@ Yeah. Important.
 ]
 
 ???
+
+You hopefully got to catch Clea Mahoney's salon yesterday on Zoom burnout. I, unfortunately, missed it because I was... no joke... stuck in Zoom meetings during literally the entirety of Ideate yesterday. Which I'm not bitter about at all, clearly. Anyway, hopefully you can go back and watch the recording at some point because I heard it was very good. That said...
 
 Generally speaking, Zoom and its ilk are places to connect with community but NOT neccesarily the best place to build and maintain community in the long run.
 

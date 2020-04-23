@@ -67,4 +67,6 @@ slides: ""
 projects: []
 ---
 
-Slides coming soon!
+Enjoy [the slides](https://ryanstraight.com/ideate2020/) used during the talk. They're really just for references because... well, you'll see.
+
+Thanks to everybody that came out!
