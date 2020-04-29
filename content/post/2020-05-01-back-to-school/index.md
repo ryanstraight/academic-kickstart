@@ -10,8 +10,8 @@ tags:
   - school
   - career
   - student
-subtitle: ""
-summary: ""
+subtitle: "It's happening. Again."
+summary: "In the spirit of life-long learning and professional development, I'm heading back to school to get another Master's degree."
 authors:
   - ryan
 lastmod: '2020-05-01T08:00:00-07:00'
@@ -21,7 +21,7 @@ image:
   focal_point: center
   preview_only: no
   placement: 2
-projects: []
+projects: ["back-to-school"]
 output:
   blogdown::html_page:
     toc: true
