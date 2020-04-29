@@ -14,7 +14,7 @@ header:
   caption: "[Photo by Thomas Millot on Unsplash](https://unsplash.com/photos/Eoy7sAM4s2Q)"
 ---
 
-As I have gotten such an education from her site and her Twitter feed, I was inspired to copy her (get it?), so I'm using a variation on [Alison Presmanes Hill's license](https://alison.rbind.io/license/):
+As I have gotten such an education from her site and her Twitter feed, I was inspired to use a variation on [Alison Presmanes Hill's license](https://alison.rbind.io/license/):
 
 >The content on the site is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 <center>
