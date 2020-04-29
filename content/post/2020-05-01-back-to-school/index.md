@@ -20,7 +20,7 @@ image:
   caption: '[Via Element5 Digital on Unsplash](https://unsplash.com/photos/7K_agbqPqYo)'
   focal_point: center
   preview_only: no
-  placement: 2
+  placement: 1
 projects: ["back-to-school"]
 output:
   blogdown::html_page:
@@ -49,9 +49,9 @@ I'm going to try to document the process here as, like with open source software
 
 A few thoughts:
 
-# I'm not a coder in any real appreciable way. I know R and I can build these kinds of websites but if you asked me to code a program, I'd be at a loss. This means I'll be learning Python from scratch as I go forward. I've already started down that road to an extent but I doubt I'll be sharing any of that kind of content/work.
-# I'm still teaching a 4/4 load, still our college's Faculty Forum president, still doing all the things I have to do as a full-time faculty member at a college that values teaching excellence and student experience. Obviously, the priority in terms of work is my job, my classes, then updating this. So, things may come in fits.
-# I firmly believe in being a life-long learner ("official" or otherwise) and highly encourage those working in places that pay for continuing education to absolutely take advantage of that at every turn. If you can take a college class for $25 because your employer covers the tuition and fees, you should be doing it if at all feasible. 
-# If you want to see proof that a professor can still struggle, well, buckle in. I imagine I'll trip and fall a few times over the next year-and-a-bit while I finish this degree.
+1. I'm not a coder in any real appreciable way. I know R and I can build these kinds of websites but if you asked me to code a program, I'd be at a loss. This means I'll be learning Python from scratch as I go forward. I've already started down that road to an extent but I doubt I'll be sharing any of that kind of content/work.
+1. I'm still teaching a 4/4 load, still our college's Faculty Forum president, still doing all the things I have to do as a full-time faculty member at a college that values teaching excellence and student experience. Obviously, the priority in terms of work is my job, my classes, then updating this. So, things may come in fits.
+1. I firmly believe in being a life-long learner ("official" or otherwise) and highly encourage those working in places that pay for continuing education to absolutely take advantage of that at every turn. If you can take a college class for $25 because your employer covers the tuition and fees, you should be doing it if at all feasible. 
+1. If you want to see proof that a professor can still struggle, well, buckle in. I imagine I'll trip and fall a few times over the next year-and-a-bit while I finish this degree.
 
-You're welcome to join me on this little journey if you like. I'm not saying what comes of it will be as useful or impactful as, say, the [academic strategies of Dr. Raul Pacheco-Vega]() but I'll hope for some good to come of it, at least. If me sharing my experience helps anybody, I'll consider it a double-win.
+You're welcome to join me on this little journey if you like. I'm not saying what comes of it will be as useful or impactful as, say, the [academic strategies of Dr. Raul Pacheco-Vega](http://www.raulpacheco.org/) but I'll hope for some good to come of it, at least. If me sharing my experience helps anybody, I'll consider it a double-win.

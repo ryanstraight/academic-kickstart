@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Educational Technology
+role: Assistant Professor, Applied Computing & Educational Technology
 
 # Organizations/Affiliations
 organizations:
