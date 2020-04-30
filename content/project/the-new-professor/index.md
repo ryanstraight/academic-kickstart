@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The New Professor"
-summary: "Ryan's bi-weekly newsletter (currently on hiatus)."
+summary: "Ryan's bi-weekly podcast (currently on hiatus)."
 authors: []
 tags: ["the new professor", "podcast"]
 categories: ["The New Professor"]
