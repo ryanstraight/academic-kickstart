@@ -6,7 +6,7 @@ summary: "I'm getting another degree. This is my experience."
 authors: ["ryan"]
 tags: []
 categories: ["professional", "personal"]
-date: 2020-05-01T06:27:35-07:00
+date: 2020-04-30T06:27:35-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

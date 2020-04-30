@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>school | ryan straight, ph.d</title>
+    <link>https://ryanstraight.com/tag/school/</link>
+      <atom:link href="https://ryanstraight.com/tag/school/index.xml" rel="self" type="application/rss+xml" />
+    <description>school</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>school</title>
+      <link>https://ryanstraight.com/tag/school/</link>
+    </image>
+    
+    <item>
+      <title>Back to School</title>
+      <link>https://ryanstraight.com/post/back-to-school/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ryanstraight.com/post/back-to-school/</guid>
+      <description>&lt;!--
+To do:
+
+Edit text
+Add some flourish
+
+--&gt;
+&lt;p&gt;In 2015, when I walked across the stage in the Convocation center on the main Ohio University campus in Athens, OH, and was hooded by my inimitable advisor, it occurred to me that I&amp;rsquo;d never be a student again. I&amp;rsquo;d be teaching, sure&amp;ndash;heck, I was already a program director at that point&amp;ndash;but I&amp;rsquo;d likely never get that feeling again of being on &lt;em&gt;that side&lt;/em&gt; of the lectern, as it were. Excited for new ideas and topics and discussions and, let&amp;rsquo;s face it, deadlines. You never quite realize how much you miss having a clear roadmap of what to do provided to you.&lt;/p&gt;
+&lt;p&gt;Fast forward five years. I&amp;rsquo;m still a program director, still teaching in that same college, but things have changed a bit. Namely, the SARS-CoV2 pandemic. From a logistical standpoint, at least in our house, not much has changed aside from my wife now working from home for the foreseeable future. The dogs are loving that and it means I get to spend more time with her, even if that&amp;rsquo;s mostly peeking around corners to make sure she&amp;rsquo;s not on a Zoom call when I walk past. I&amp;rsquo;m still teaching from my home office/studio, still tweaking my presentation format and style, still dialing in the audio settings and lighting. Still teaching HCI and game design and statistics.&lt;/p&gt;
+&lt;p&gt;&lt;img style=&#34;float: right;&#34; src=&#34;https://media.giphy.com/media/RHKIKFgCC9WKqh4b0J/giphy.gif&#34;&gt;But the way COVID-19 has washed over the country and ravaged the higher education system has brought a few things into a stark light. Namely, that for contingent faculty (not just adjunct but those of us that are on yearly contracts and are not tenured or tenure-track) there is potentially great peril ahead through no fault of your own. If the tides turn and your area becomes less viable and appealing to incoming students, you may just find yourself out of a job, even if you&amp;rsquo;re tenured. Higher education isn&amp;rsquo;t alone in this, of course, and I do commend my home department and college for doing what they can to make sure we&amp;rsquo;re not as impacted on the personnel side as other units may be, but the constant threat, however real or not, is worrying.&lt;/p&gt;
+&lt;p&gt;So, I&amp;rsquo;ve decided to go back to school and get another Master&amp;rsquo;s degree in Cybersecurity. I&amp;rsquo;ve always been interested in a variety of sub-topics therein, from forensics to the philosophical side of how we live online, globally speaking. I&amp;rsquo;m looking forward to it and I&amp;rsquo;m assured I will have fun. (Truth be told, I&amp;rsquo;ve no doubt about that; I&amp;rsquo;ve always thoroughly enjoyed being a student and it will be nice to remind myself just what it&amp;rsquo;s like and thereby even improve my own teaching as a result.)&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;If you hate change, you’re really going to hate being irrelevant” &lt;a href=&#34;https://twitter.com/cyborgoddess?ref_src=twsrc%5Etfw&#34;&gt;@cyborgoddess&lt;/a&gt; from &lt;a href=&#34;https://twitter.com/SNHU?ref_src=twsrc%5Etfw&#34;&gt;@snhu&lt;/a&gt; in &lt;a href=&#34;https://twitter.com/EntangledSOL?ref_src=twsrc%5Etfw&#34;&gt;@EntangledSOL&lt;/a&gt; &amp;#39;s Town Hall today. Bam. &lt;a href=&#34;https://t.co/PpZgc4O8zH&#34;&gt;pic.twitter.com/PpZgc4O8zH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jennifer Herrera (@mrsjennyherrera) &lt;a href=&#34;https://twitter.com/mrsjennyherrera/status/1255917194912960514?ref_src=twsrc%5Etfw&#34;&gt;April 30, 2020&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to try to document the process here as, like with open source software, I believe in transparency of experience to bring us all together.&lt;/p&gt;
+&lt;p&gt;A few thoughts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I&amp;rsquo;ll be learning 
+  &lt;i class=&#34;fab fa-python  pr-1 fa-fw&#34;&gt;&lt;/i&gt;Python from scratch as I go forward. I&amp;rsquo;ve already started down that road to an extent but I doubt I&amp;rsquo;ll be sharing any of that kind of content/work.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m still teaching a 4/4 load, still our college&amp;rsquo;s Faculty Forum president, still doing all the things I have to do as a full-time faculty member at a college that values teaching excellence and student experience. Obviously, the priority in terms of work is my job, my classes, then updating this. So, things may come in fits.&lt;/li&gt;
+&lt;li&gt;I firmly believe in being a life-long learner (&amp;ldquo;official&amp;rdquo; or otherwise) and highly encourage those working in places that pay for continuing education to absolutely take advantage of that at every turn. If you can take a college class for $25 because your employer covers the tuition and fees, you should be doing it if at all feasible.&lt;/li&gt;
+&lt;li&gt;If you want to see proof that a professor can still struggle, well, buckle in. I imagine I&amp;rsquo;ll trip and fall a few times over the next year-and-a-bit while I finish this degree.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You&amp;rsquo;re welcome to join me on this little journey if you like. I&amp;rsquo;m not saying what comes of it will be as useful or impactful as, say, the 
+&lt;a href=&#34;https://www.raulpacheco.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;academic strategies of Dr. Raul Pacheco-Vega&lt;/a&gt; but I&amp;rsquo;ll hope for some good to come of it, at least. If me sharing my experience helps anybody, I&amp;rsquo;ll consider it a double-win.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

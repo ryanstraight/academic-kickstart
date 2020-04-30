@@ -5,12 +5,21 @@
     <link>https://ryanstraight.com/project/</link>
       <atom:link href="https://ryanstraight.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Aug 2018 09:47:44 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 06:27:35 -0700</lastBuildDate>
     <image>
       <url>https://ryanstraight.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://ryanstraight.com/project/</link>
     </image>
+    
+    <item>
+      <title>Back to School</title>
+      <link>https://ryanstraight.com/project/back-to-school/</link>
+      <pubDate>Thu, 30 Apr 2020 06:27:35 -0700</pubDate>
+      <guid>https://ryanstraight.com/project/back-to-school/</guid>
+      <description>&lt;p&gt;Yup, I&amp;rsquo;m heading back to school in the spirit of lifelong learning and professional development. This is all my website content that revolves around that.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Read, Watch, Woof</title>

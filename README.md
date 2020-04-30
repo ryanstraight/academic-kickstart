@@ -8,6 +8,7 @@ Updated using version 4.4 in 2019 July
 Updated to 4.5 on 2019 July 29
 Updating to 4.6.0 Dec 9
 Updating to 4.8.0 on Mar 14 2020
+Updating to 4.9.0 (WIP) on April 30 2020 and using Hugo 0.69.2 Extended
 
 # Notes to self:
 
