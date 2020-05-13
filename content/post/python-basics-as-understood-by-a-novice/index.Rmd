@@ -1,0 +1,102 @@
+---
+draft: true
+title: Python Basics as Understood by a Novice
+author: ryan
+profile: false  # Show author profile?
+date: '2020-05-01'
+slug: python-basics-as-understood-by-a-novice
+categories:
+  - Technical
+tags:
+  - python
+subtitle: ''
+summary: "Just a running collection of Python notes. It is entirely possible they're anything other than elegant."
+authors: []
+lastmod: '2020-05-01T08:00:00-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: ["cybersecurity"]
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 3
+---
+
+```{r, setup, include=FALSE, echo=TRUE}
+library(reticulate)
+library(emo)
+knitr::opts_chunk$set(fig.width = 8, collapse = FALSE)
+```
+
+And I mean some _serious_ basics. Having narrative included with the examples really helps me learn so I'll present some of that here. I'll add a list of various learning materials at the very end. The content here is a mish-mash of pretty much all of them.
+
+## Absolute basics
+
+
+### Math
+
+Python can be used as a calculator. For example:
+
+```python
+2 + 4
+```
+
+will display `6`. As you would imagine. Some other examples:
+
+```python
+4 / 2 # will display 2
+4 * 3 # will display 12
+5 ** 2 # is how Python addresses exponents, so this will display 25
+```
+
+Fortunately, when you've got a long number in your code that you need to keep readable, you can insert underscores and Python will ignore them. So instead of `8675309` you can write `867_5309` and Python will understand them both the same way. I prefer to keep my scripts and code as human-readable as possible. This is one way of doing that.
+
+### Print
+
+The classic:
+
+`print("Hello, world!")`
+
+This simply prints the text in the quotation marks. Simple as that. But more on this in a bit.
+
+
+### Variables
+
+```python
+var = 10 # While you can use = in R to set this, you can't use <- in Python
+print(var) # This prints the content of the variable that we created (var).
+```
+So if you run the code, as below, you'll see it displays the value of the variable `var`, which is 10.
+
+```{python}
+var = 10
+print(var)
+```
+
+I'm coming from R, so I tend to use that as a reference point. You'll see that a lot. `r emo::ji("sweat_smile")`
+
+Before we get into lists, you can create arrays of assignments like so:
+
+```python
+a, b, c = 1, 2, 3
+```
+
+Which assigns the variables and values `a = 1`, `b = 2`, and `c = 3`.
+
+### Lists
+The first thing to remember about Pythons and lists (or counting, in general) is that it starts with **0**. So if you create a list like this of a generic collection of everyday carry items:
+
+```python
+edc = ['notebook', 'sunglasses', 'wallet', 'keys']
+```
+
+then, if you want to reference `book` in that list, it is actually position **0**. So,
+
+```python
+print(edc[1])
+```
+
+will return `sunglasses`, not `notebook`. Likewise, if you use `[-1]` as the index number, it will _always_ give you the very last item in the list. In this case, `keys`.

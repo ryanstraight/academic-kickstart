@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Back to School"
-summary: "I'm getting another degree. This is my experience."
+title: "Cybersecurity"
+summary: "Cybersecurity-related content for my Master's program."
 authors: ["ryan"]
+profile: false  # Show author profile?
 tags: []
 categories: ["professional", "personal"]
 date: 2020-04-30T06:27:35-07:00
@@ -15,8 +16,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "[Via Kiyun Lee on Unsplash](https://unsplash.com/photos/3PILPw4O80w)"
-  focal_point: "bottom"
+  caption: "[Via Yomex Owo on Unsplash](https://unsplash.com/photos/PpGb5DzSKbQ)"
+  focal_point: "center"
   preview_only: false
 
 # Custom links (optional).
@@ -40,4 +41,4 @@ url_video: ""
 slides: ""
 ---
 
-Yup, I'm heading back to school in the spirit of lifelong learning and professional development. This is all my website content that revolves around that.
+Yup, I'm heading back to school in the spirit of lifelong learning and professional development. This is all my website content that revolves around that: cybersecurity.

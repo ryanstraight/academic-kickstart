@@ -14,7 +14,7 @@ header:
   caption: ''
 ---
 
-Every other week I put out the [The New Professor](https://thenewprofessor.com) podcast. On every *other* other week, I send out a newsletter! Well, something adjacent to a newsletter, anyway.^[You'll get *at most* one every other week and you'll *never* get spammed. Doesn't that sound nice?]
+Every other week I put out the [The New Professor](https://thenewprofessor.com) podcast. On every *other* other week, I send out a newsletter! Well, something adjacent to a newsletter, anyway.^[You'll get *at most* one every other week and you'll *never* get spammed. Doesn't that sound nice? And honestly, you're lucky if you get one a month. I'm really bad at keeping this up.]
 
 Each email consists of:  
 1) a little bit of writing by me, whether that's something about the news or some personal updates or whatever is on my mind that doesn't constitute a full publication (that's the **read** part),  

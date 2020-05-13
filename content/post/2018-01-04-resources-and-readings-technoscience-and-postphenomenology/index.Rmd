@@ -1,10 +1,12 @@
 ---
-title: 365papers
+title: "Resources and readings: Technoscience and postphenomenology"
 author: ryan
+profile: false  # Show author profile?
 date: '2018-01-04'
-#slug: 365papers
+slug: resources-and-readings-technoscience-and-postphenomenology
 categories:
   - Academic
+  - "Reading lists"
 tags:
   - 365papers
   - accountability
@@ -14,7 +16,7 @@ tags:
 subtitle: ''
 summary: 'Well, a paper-a-day in 2018 was a bust, but we will try to keep this page going, shall we?'
 authors: []
-lastmod: '2018-01-04T09:02:06-07:00'
+lastmod: '2020-05-12T09:02:06-07:00'
 featured: no
 image:
   caption: ''

@@ -1,0 +1,82 @@
+---
+draft: true
+title: Python Basics as Understood by a Novice
+author: ryan
+profile: false  # Show author profile?
+date: '2020-05-01'
+slug: python-basics-as-understood-by-a-novice
+categories:
+  - Technical
+tags:
+  - python
+subtitle: ''
+summary: "Just a running collection of Python notes. It is entirely possible they're anything other than elegant."
+authors: []
+lastmod: '2020-05-01T08:00:00-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: ["cybersecurity"]
+output:
+  blogdown::html_page:
+    toc: true
+    toc_depth: 3
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#absolute-basics">Absolute basics</a>
+<ul>
+<li><a href="#math">Math</a></li>
+<li><a href="#print">Print</a></li>
+<li><a href="#variables">Variables</a></li>
+<li><a href="#lists">Lists</a></li>
+</ul></li>
+</ul>
+</div>
+
+<p>And I mean some <em>serious</em> basics. Having narrative included with the examples really helps me learn so I’ll present some of that here. I’ll add a list of various learning materials at the very end. The content here is a mish-mash of pretty much all of them.</p>
+<div id="absolute-basics" class="section level2">
+<h2>Absolute basics</h2>
+<div id="math" class="section level3">
+<h3>Math</h3>
+<p>Python can be used as a calculator. For example:</p>
+<pre class="python"><code>2 + 4</code></pre>
+<p>will display <code>6</code>. As you would imagine. Some other examples:</p>
+<pre class="python"><code>4 / 2 # will display 2
+4 * 3 # will display 12
+5 ** 2 # is how Python addresses exponents, so this will display 25</code></pre>
+<p>Fortunately, when you’ve got a long number in your code that you need to keep readable, you can insert underscores and Python will ignore them. So instead of <code>8675309</code> you can write <code>867_5309</code> and Python will understand them both the same way. I prefer to keep my scripts and code as human-readable as possible. This is one way of doing that.</p>
+</div>
+<div id="print" class="section level3">
+<h3>Print</h3>
+<p>The classic:</p>
+<p><code>print("Hello, world!")</code></p>
+<p>This simply prints the text in the quotation marks. Simple as that. But more on this in a bit.</p>
+</div>
+<div id="variables" class="section level3">
+<h3>Variables</h3>
+<pre class="python"><code>var = 10 # While you can use = in R to set this, you can&#39;t use &lt;- in Python
+print(var) # This prints the content of the variable that we created (var).</code></pre>
+<p>So if you run the code, as below, you’ll see it displays the value of the variable <code>var</code>, which is 10.</p>
+<pre class="python"><code>var = 10
+print(var)</code></pre>
+<pre><code>## 10</code></pre>
+<p>I’m coming from R, so I tend to use that as a reference point. You’ll see that a lot. 😅</p>
+<p>Before we get into lists, you can create arrays of assignments like so:</p>
+<pre class="python"><code>a, b, c = 1, 2, 3</code></pre>
+<p>Which assigns the variables and values <code>a = 1</code>, <code>b = 2</code>, and <code>c = 3</code>.</p>
+</div>
+<div id="lists" class="section level3">
+<h3>Lists</h3>
+<p>The first thing to remember about Pythons and lists (or counting, in general) is that it starts with <strong>0</strong>. So if you create a list like this of a generic collection of everyday carry items:</p>
+<pre class="python"><code>edc = [&#39;notebook&#39;, &#39;sunglasses&#39;, &#39;wallet&#39;, &#39;keys&#39;]</code></pre>
+<p>then, if you want to reference <code>book</code> in that list, it is actually position <strong>0</strong>. So,</p>
+<pre class="python"><code>print(edc[1])</code></pre>
+<p>will return <code>sunglasses</code>, not <code>notebook</code>. Likewise, if you use <code>[-1]</code> as the index number, it will <em>always</em> give you the very last item in the list. In this case, <code>keys</code>.</p>
+</div>
+</div>

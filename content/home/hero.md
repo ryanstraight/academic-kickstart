@@ -34,7 +34,7 @@ title = "STUDY WITH ME"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://uas.arizona.edu/"
+  url = "https://azcast.arizona.edu/"
   label = "Apply now"
   icon_pack = "fas"
   icon = "download"

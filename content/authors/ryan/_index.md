@@ -18,7 +18,7 @@ organizations:
   url: "arizona.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona. He is co-program director of the Master of Science and undergraduate minor programs in Educational Technology and teaches in the Informatics and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, *Cyborgs and Transhumanism*, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.
+bio: Dr. Ryan Straight is an award-winning educator, writer, and researcher. He currently serves as an Assistant Professor at the University of Arizona in the College of Applied Science & Technology teaching in the Applied Computing and Cyber Operations undergraduate programs. He also teaches an annual freshman seminar, *Cyborgs and Transhumanism*, in the Honors College.<br>Here you will find a variety, such as travel exploits, reflections, expressions of stylistic pedagogy, reactions to technological and educational current events, and general musings on topics approaching Ryan's academic research.<br>He lives in Tucson, AZ with his wife Adriana and their three dogs, Sofie, Menchi, and Chewie.
 
 # Interests list
 interests:
@@ -57,6 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ryanstraight
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-6251-5662
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

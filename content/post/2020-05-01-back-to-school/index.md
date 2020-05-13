@@ -14,6 +14,7 @@ subtitle: "It's happening. Again."
 summary: "In the spirit of life-long learning and professional development, I'm heading back to school to get another degree."
 authors:
   - ryan
+profile: false  # Show author profile?
 lastmod: '2020-04-30T08:00:00-07:00'
 featured: no
 image:
@@ -21,20 +22,9 @@ image:
   focal_point: center
   preview_only: no
   placement: 0
-projects: ["back-to-school"]
-output:
-  blogdown::html_page:
-    toc: true
-    toc_depth: 2
+projects: ["cybersecurity"]
 ---
 
-<!--
-To do:
-
-Edit text
-Add some flourish
-
--->
 
 In 2015, when I walked across the stage in the Convocation center on the main Ohio University campus in Athens, OH, and was hooded by my inimitable advisor, it occurred to me that I'd never be a student again. I'd be teaching, sure--heck, I was already a program director at that point--but I'd likely never get that feeling again of being on _that side_ of the lectern, as it were. Excited for new ideas and topics and discussions and, let's face it, deadlines. You never quite realize how much you miss having a clear roadmap of what to do provided to you. 
 
